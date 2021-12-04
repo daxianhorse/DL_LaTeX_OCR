@@ -54,7 +54,7 @@ def make_dataset(pairs):
     return dataset.prefetch(16)
 
 
-train_ds, val_ds = load_data('data/biology/images', 'data/biology/formulas')
+train_ds, val_ds = load_data('data/maths/images', 'data/maths/formulas')
 
 train_ds = make_dataset(train_ds)
 val_ds = make_dataset(val_ds)
@@ -127,7 +127,7 @@ class LRSchedule(keras.optimizers.schedules.LearningRateSchedule):
         return config
 
 
-epochs = 15
+epochs = 20
 
 num_train_steps = len(train_ds) * epochs
 num_warmup_steps = num_train_steps // 15
