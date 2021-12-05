@@ -54,7 +54,7 @@ def make_dataset(pairs):
     return dataset.prefetch(16)
 
 
-train_ds, val_ds = load_data('data/maths/images', 'data/maths/formulas')
+train_ds, val_ds = load_data('data/biology/images', 'data/biology/formulas')
 
 train_ds = make_dataset(train_ds)
 val_ds = make_dataset(val_ds)
@@ -82,6 +82,7 @@ class CNNBlock(layers.Layer):
     def call(self, inputs):
         x = efficientnet.preprocess_input(inputs)
         x = self.base_model(inputs)
+        x = add_timing_signal_nd(x)
         x = self.reshape(x)
         return x
 
@@ -230,6 +231,7 @@ num_heads = 8
 encoder_inputs = keras.Input(shape=(224, 224, 3), name="img")
 x = image_augmentation(encoder_inputs)
 x = CNNBlock()(x)
+x = layers.Dropout(0.5)(x)
 encoder_outputs = TransformerEncoder(embed_dim, dense_dim, num_heads)(x)
 
 decoder_inputs = keras.Input(shape=(None, ), dtype="int32", name="formula")
@@ -266,7 +268,7 @@ class LRSchedule(keras.optimizers.schedules.LearningRateSchedule):
         return config
 
 
-epochs = 15
+epochs = 20
 
 num_train_steps = len(train_ds) * epochs
 num_warmup_steps = num_train_steps // 15
@@ -288,7 +290,7 @@ import numpy as np
 
 spa_vocab = vectorization.get_vocabulary()
 spa_index_lookup = dict(zip(range(len(spa_vocab)), spa_vocab))
-max_decoded_sentence_length = sequence_length
+max_decoded_sentence_length = sequence_length - 1
 
 from PIL import Image
 
@@ -300,7 +302,7 @@ def decode_sequence(img_path):
     img = Image.open(img_path).convert('L')
     img = keras.preprocessing.image.img_to_array(img)
     img = 255 - img
-    img = tf.image.resize_with_pad(img, 224, 224)
+    img = tf.image.resize_with_crop_or_pad(img, 224, 224)
     img = tf.image.grayscale_to_rgb(img)
 
     plt.imshow(img)
@@ -319,7 +321,9 @@ def decode_sequence(img_path):
     return decoded_sentence
 
 
-print(decode_sequence('test_1.png'))
+# print(decode_sequence('test_1.png'))
+# # %%
+# print(decode_sequence('test_2.png'))
 # %%
-print(decode_sequence('test_2.png'))
+print(decode_sequence('data/biology/images/2_0.png'))
 # %%
