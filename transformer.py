@@ -14,7 +14,7 @@ physical_devices = tf.config.experimental.list_physical_devices('GPU')
 tf.config.experimental.set_memory_growth(physical_devices[0], True)
 
 sequence_length = 50
-batch_size = 32
+batch_size = 16
 AUTOTUNE = tf.data.AUTOTUNE
 
 
@@ -59,20 +59,20 @@ train_ds, val_ds = load_data('data/biology/images', 'data/biology/formulas')
 train_ds = make_dataset(train_ds)
 val_ds = make_dataset(val_ds)
 
-from keras.applications import efficientnet
-
 image_augmentation = keras.Sequential([
     layers.RandomFlip("horizontal"),
     layers.RandomRotation(0.2),
     layers.RandomContrast(0.3),
 ])
 
+from keras.applications import efficientnet
+
 
 class CNNBlock(layers.Layer):
     def __init__(self, **kwargs):
         super().__init__(**kwargs)
         self.base_model = efficientnet.EfficientNetB0(
-            input_shape=(224, 224, 3),
+            # input_shape=(150, 500, 3),
             include_top=False,
             weights='imagenet',
         )
@@ -108,8 +108,7 @@ class TransformerEncoder(layers.Layer):
 
         attention_output = self.attention(inputs, inputs, attention_mask=mask)
 
-        proj_input = self.layernorm_2(inputs + attention_output)
-        return proj_input
+        return self.layernorm_2(inputs + attention_output)
 
     def get_config(self):
         config = super().get_config()
@@ -128,26 +127,51 @@ class TransformerDecoder(layers.Layer):
         self.dense_dim = dense_dim
         self.num_heads = num_heads
         self.attention_1 = layers.MultiHeadAttention(num_heads=num_heads,
-                                                     key_dim=embed_dim)
+                                                     key_dim=embed_dim,
+                                                     dropout=0.1)
         self.attention_2 = layers.MultiHeadAttention(num_heads=num_heads,
-                                                     key_dim=embed_dim)
-        self.dense_proj = keras.Sequential([
-            layers.Dense(dense_dim, activation="relu"),
-            layers.Dense(embed_dim),
-        ])
+                                                     key_dim=embed_dim,
+                                                     dropout=0.1)
+        self.ffn_layer_1 = layers.Dense(dense_dim, activation="relu")
+        self.ffn_layer_2 = layers.Dense(embed_dim)
+
+        self.dropout = layers.Dropout(0.3)
+
         self.layernorm_1 = layers.LayerNormalization()
         self.layernorm_2 = layers.LayerNormalization()
         self.layernorm_3 = layers.LayerNormalization()
-        self.supports_masking = True
 
-    def get_config(self):
-        config = super().get_config()
-        config.update({
-            "embed_dim": self.embed_dim,
-            "num_heads": self.num_heads,
-            "dense_dim": self.dense_dim,
-        })
-        return config
+    def call(self, inputs, encoder_outputs, mask=None):
+        causal_mask = self.get_causal_attention_mask(inputs)
+
+        if mask is not None:
+            padding_mask = tf.cast(mask[:, :, tf.newaxis], dtype=tf.int32)
+            combined_mask = tf.cast(mask[:, tf.newaxis, :], dtype=tf.int32)
+            combined_mask = tf.minimum(combined_mask, causal_mask)
+
+        attention_output_1 = self.attention_1(
+            query=inputs,
+            value=inputs,
+            key=inputs,
+            attention_mask=combined_mask,
+        )
+        out_1 = self.layernorm_1(inputs + attention_output_1)
+
+        attention_output_2 = self.attention_2(
+            query=out_1,
+            value=encoder_outputs,
+            key=encoder_outputs,
+            attention_mask=padding_mask,
+        )
+        out_2 = self.layernorm_2(out_1 + attention_output_2)
+
+        ffn_out = self.ffn_layer_1(out_2)
+        ffn_out = self.dropout(ffn_out)
+        ffn_out = self.ffn_layer_2(ffn_out)
+
+        ffn_out = self.layernorm_3(ffn_out + out_2)
+
+        return ffn_out
 
     def get_causal_attention_mask(self, inputs):
         input_shape = tf.shape(inputs)
@@ -156,33 +180,14 @@ class TransformerDecoder(layers.Layer):
         j = tf.range(sequence_length)
         mask = tf.cast(i >= j, dtype="int32")
         mask = tf.reshape(mask, (1, input_shape[1], input_shape[1]))
-        mult = tf.concat([
-            tf.expand_dims(batch_size, -1),
-            tf.constant([1, 1], dtype=tf.int32)
-        ],
-                         axis=0)
-        return tf.tile(mask, mult)
-
-    def call(self, inputs, encoder_outputs, mask=None):
-        causal_mask = self.get_causal_attention_mask(inputs)
-        if mask is not None:
-            padding_mask = tf.cast(mask[:, tf.newaxis, :], dtype="int32")
-            padding_mask = tf.minimum(padding_mask, causal_mask)
-        attention_output_1 = self.attention_1(query=inputs,
-                                              value=inputs,
-                                              key=inputs,
-                                              attention_mask=causal_mask)
-        attention_output_1 = self.layernorm_1(inputs + attention_output_1)
-        attention_output_2 = self.attention_2(
-            query=attention_output_1,
-            value=encoder_outputs,
-            key=encoder_outputs,
-            attention_mask=padding_mask,
+        mult = tf.concat(
+            [
+                tf.expand_dims(batch_size, -1),
+                tf.constant([1, 1], dtype=tf.int32)
+            ],
+            axis=0,
         )
-        attention_output_2 = self.layernorm_2(attention_output_1 +
-                                              attention_output_2)
-        proj_output = self.dense_proj(attention_output_2)
-        return self.layernorm_3(attention_output_2 + proj_output)
+        return tf.tile(mask, mult)
 
 
 """#### Putting it all together: A Transformer for machine translation
@@ -228,10 +233,9 @@ embed_dim = 256
 dense_dim = 2048
 num_heads = 8
 
-encoder_inputs = keras.Input(shape=(224, 224, 3), name="img")
+encoder_inputs = keras.Input(shape=(None, None, 3), name="img")
 x = image_augmentation(encoder_inputs)
 x = CNNBlock()(x)
-x = layers.Dropout(0.5)(x)
 encoder_outputs = TransformerEncoder(embed_dim, dense_dim, num_heads)(x)
 
 decoder_inputs = keras.Input(shape=(None, ), dtype="int32", name="formula")
@@ -281,8 +285,8 @@ transformer.compile(optimizer=keras.optimizers.Adam(lr_schedule),
 
 transformer.summary()
 
-transformer.fit(train_ds, epochs=epochs, validation_data=val_ds)
-transformer.save_weights('tran_test.h5')
+# transformer.fit(train_ds, epochs=epochs, validation_data=val_ds)
+# transformer.save_weights('tran_test.h5')
 
 transformer.load_weights('tran_test.h5')
 
@@ -296,14 +300,7 @@ from PIL import Image
 
 
 def decode_sequence(img_path):
-    # img = tf.io.read_file(img_path)
-    # img = tf.io.decode_png(img, channels=3)
-
-    img = Image.open(img_path).convert('L')
-    img = keras.preprocessing.image.img_to_array(img)
-    img = 255 - img
-    img = tf.image.resize_with_crop_or_pad(img, 224, 224)
-    img = tf.image.grayscale_to_rgb(img)
+    img = image_process(img_path)
 
     plt.imshow(img)
 

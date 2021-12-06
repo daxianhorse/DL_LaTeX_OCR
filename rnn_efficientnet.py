@@ -54,7 +54,7 @@ def make_dataset(pairs):
     return dataset.prefetch(16)
 
 
-train_ds, val_ds = load_data('data/biology/images', 'data/biology/formulas')
+train_ds, val_ds = load_data('data/maths/images', 'data/maths/formulas')
 
 train_ds = make_dataset(train_ds)
 val_ds = make_dataset(val_ds)
@@ -66,7 +66,7 @@ class CNNBlock(layers.Layer):
     def __init__(self, **kwargs):
         super().__init__(**kwargs)
         self.base_model = efficientnet.EfficientNetB0(
-            input_shape=(150, 350, 3),
+            # input_shape=(150, 500, 3),
             include_top=False,
             weights='imagenet',
         )
@@ -128,7 +128,7 @@ class LRSchedule(keras.optimizers.schedules.LearningRateSchedule):
         return config
 
 
-epochs = 20
+epochs = 15
 
 num_train_steps = len(train_ds) * epochs
 num_warmup_steps = num_train_steps // 15
@@ -141,8 +141,8 @@ seq2seq_rnn.compile(optimizer=keras.optimizers.Adam(lr_schedule),
 
 seq2seq_rnn.summary()
 
-seq2seq_rnn.fit(train_ds, epochs=epochs, validation_data=val_ds)
-seq2seq_rnn.save_weights('rnn_test.h5')
+# seq2seq_rnn.fit(train_ds, epochs=epochs, validation_data=val_ds)
+# seq2seq_rnn.save_weights('rnn_test.h5')
 
 seq2seq_rnn.load_weights('rnn_test.h5')
 
@@ -159,7 +159,7 @@ def decode_sequence(img_path):
     img = Image.open(img_path).convert('L')
     img = keras.preprocessing.image.img_to_array(img)
     img = 255 - img
-    img = tf.image.resize_with_crop_or_pad(img, 224, 224)
+    img = tf.image.resize_with_crop_or_pad(img, 150, 500)
     img = tf.image.grayscale_to_rgb(img)
 
     plt.imshow(img)

@@ -24,7 +24,7 @@ def load_data(images_folder, formulas_folder):
 
         width, height = img.size
 
-        if width <= 350 and height <= 150:
+        if width <= 330 and height <= 130:
             img_list.append(x)
 
     img_to_formula = {

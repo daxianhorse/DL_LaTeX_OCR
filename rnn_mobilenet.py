@@ -14,7 +14,7 @@ physical_devices = tf.config.experimental.list_physical_devices('GPU')
 tf.config.experimental.set_memory_growth(physical_devices[0], True)
 
 sequence_length = 50
-batch_size = 32
+batch_size = 16
 AUTOTUNE = tf.data.AUTOTUNE
 
 
@@ -59,23 +59,24 @@ train_ds, val_ds = load_data('data/biology/images', 'data/biology/formulas')
 train_ds = make_dataset(train_ds)
 val_ds = make_dataset(val_ds)
 
-from keras.applications import efficientnet
+from keras.applications import mobilenet_v2
 
 
 class CNNBlock(layers.Layer):
     def __init__(self, **kwargs):
         super().__init__(**kwargs)
-        self.base_model = efficientnet.EfficientNetB0(
-            input_shape=(224, 224, 3),
+        self.base_model = mobilenet_v2.MobileNetV2(
+            # input_shape=(150, 500, 3),
             include_top=False,
             weights='imagenet',
         )
-        self.base_model.trainable = True
+
         self.reshape = layers.Reshape((-1, self.base_model.output.shape[-1]))
 
     def call(self, inputs):
-        x = efficientnet.preprocess_input(inputs)
+        x = mobilenet_v2.preprocess_input(inputs)
         x = self.base_model(inputs)
+        x = add_timing_signal_nd(x)
         x = self.reshape(x)
         return x
 
@@ -93,13 +94,9 @@ encoded_source = layers.Bidirectional(layers.GRU(latent_dim),
 
 past_target = keras.Input(shape=(None, ), dtype="int32", name="formula")
 x = layers.Embedding(vocab_size, embed_dim, mask_zero=True)(past_target)
-
 decoder_gru = layers.GRU(latent_dim, return_sequences=True)
 x = decoder_gru(x, initial_state=encoded_source)
 x = layers.Dropout(0.5)(x)
-
-context_vector = layers.Attention()([x, encoded_source])
-
 target_next_step = layers.Dense(vocab_size, activation="softmax")(x)
 seq2seq_rnn = keras.Model([encoder_inputs, past_target], target_next_step)
 
@@ -145,9 +142,9 @@ seq2seq_rnn.compile(optimizer=keras.optimizers.Adam(lr_schedule),
 seq2seq_rnn.summary()
 
 seq2seq_rnn.fit(train_ds, epochs=epochs, validation_data=val_ds)
-seq2seq_rnn.save_weights('rnn_test_with_atten.h5')
+seq2seq_rnn.save_weights('rnn_test.h5')
 
-seq2seq_rnn.load_weights('rnn_test_with_atten.h5')
+# seq2seq_rnn.load_weights('rnn_test.h5')
 
 import numpy as np
 
@@ -162,7 +159,7 @@ def decode_sequence(img_path):
     img = Image.open(img_path).convert('L')
     img = keras.preprocessing.image.img_to_array(img)
     img = 255 - img
-    img = tf.image.resize_with_crop_or_pad(img, 224, 224)
+    img = tf.image.resize_with_crop_or_pad(img, 150, 500)
     img = tf.image.grayscale_to_rgb(img)
 
     plt.imshow(img)
@@ -181,5 +178,5 @@ def decode_sequence(img_path):
     return decoded_sentence
 
 
-print(decode_sequence('data/biology/images/0_0.png'))
+print(decode_sequence('data/biology/images/2_0.png'))
 # %%
