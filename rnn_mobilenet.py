@@ -128,7 +128,7 @@ class LRSchedule(keras.optimizers.schedules.LearningRateSchedule):
         return config
 
 
-epochs = 15
+epochs = 10
 
 num_train_steps = len(train_ds) * epochs
 num_warmup_steps = num_train_steps // 15
