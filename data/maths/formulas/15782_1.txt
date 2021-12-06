@@ -1,0 +1,1 @@
+\sin ( A - B ) + \sin C = \frac { 3 } { 2 } , B C = \sqrt { 3 } A C

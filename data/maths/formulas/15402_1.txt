@@ -1,0 +1,1 @@
+A = \left\{ x \mid x ^ { 2 } - x - 6 \leq s l a n t 0 ; , B = \left\{ x \mid \frac { x + 1 } { x - 4 } > 0 \right\} \right.

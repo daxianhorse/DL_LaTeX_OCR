@@ -1,0 +1,1 @@
+\Delta = 2 5 t ^ { 2 } - 2 8 \left( t ^ { 2 } - 3 \right) \geqslant 0

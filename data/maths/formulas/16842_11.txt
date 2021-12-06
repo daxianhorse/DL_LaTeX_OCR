@@ -1,0 +1,1 @@
+\left| \frac { 2 ^ { x } - 2 ^ { - x } } { 2 } \right| \cdot \left( \frac { 2 ^ { 2 x } + 2 ^ { - 2 x } } { 2 } + \lambda \right) = 3

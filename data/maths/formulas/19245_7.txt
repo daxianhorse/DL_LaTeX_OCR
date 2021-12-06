@@ -1,0 +1,1 @@
+p : \ e x i s t s n \in \mathbf { N } , 2 ^ { n } > 1 0 0 0

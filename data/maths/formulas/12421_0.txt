@@ -1,0 +1,1 @@
+p : \forall x _ { 1 } \cdot x _ { 2 } \in \mathbf { R } , \left( f \left( x _ { 2 } \right) - \right.

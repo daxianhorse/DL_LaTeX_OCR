@@ -1,0 +1,1 @@
+1 \leq s l a n t \l g ( x y ) \leq s l a n t 2 , 3 \leq s l a n t \l g \frac { x } { y } \leq s l a n t 4

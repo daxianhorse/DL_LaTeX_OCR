@@ -1,0 +1,1 @@
+a ^ { x } - x ^ { \prime \prime } ( a > 1 )

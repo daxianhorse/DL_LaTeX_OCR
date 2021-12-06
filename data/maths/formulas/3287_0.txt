@@ -1,0 +1,1 @@
+x _ { 1 } x _ { 2 } \cdots x _ { n } \left( n \in \ m a t h b b { N } ^ { * } \right)

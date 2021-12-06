@@ -1,0 +1,1 @@
+k _ { \mathrm { A A } } \cdot k _ { ( B ) } = - \frac { b ^ { 2 } } { a ^ { 2 } }

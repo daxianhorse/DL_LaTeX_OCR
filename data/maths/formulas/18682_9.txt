@@ -1,0 +1,1 @@
+\bar { x } _ { \widehat { x } } = \frac { ( 7 + 1 0 ) \times 4 + ( 8 + 9 ) \times 6 } { 2 0 } = 8 . 5

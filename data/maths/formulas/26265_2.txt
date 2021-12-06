@@ -1,0 +1,1 @@
+k \in \mathbf { N } ^ { * } ( 2 \leq k \leq 8 )

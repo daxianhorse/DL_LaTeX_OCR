@@ -1,0 +1,1 @@
+\int _ { - 2 } ^ { 2 } \left[ x ^ { 2 } + f ( x ) \right] \mathrm { d } x =

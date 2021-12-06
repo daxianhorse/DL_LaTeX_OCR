@@ -1,0 +1,1 @@
+\overrightarrow { \Lambda M } = 2 \overrightarrow { \Lambda P } , \overrightarrow { N P } \cdot \overrightarrow { \Lambda M } = 0

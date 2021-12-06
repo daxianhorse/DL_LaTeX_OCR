@@ -1,0 +1,1 @@
+a _ { n + 1 } = a _ { n } + \frac { 8 ( n + 1 ) } { ( 2 n + 1 ) ^ { 2 } ( 2 n + 3 ) ^ { 2 } } \left( n \in \mathbf { N } ^ { * } \right) ,

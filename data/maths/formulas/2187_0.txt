@@ -1,0 +1,1 @@
+f ( x ) = \sqrt { a - x } + \sqrt { a + x } - a ( a \neq 0 )

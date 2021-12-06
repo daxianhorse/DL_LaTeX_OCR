@@ -1,0 +1,1 @@
+4 \rho \cos \left( \alpha + \frac { \pi } { 6 } \right) = \sqrt { 3 }

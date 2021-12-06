@@ -1,0 +1,1 @@
+f ( 4 - m ) - f ( m ) \geqslant 8 - 4 m

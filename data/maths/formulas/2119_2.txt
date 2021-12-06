@@ -1,0 +1,1 @@
+m \in ( - 1 , 0 ) \bigcup ( 0 , + \infty )

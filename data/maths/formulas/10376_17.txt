@@ -1,0 +1,1 @@
+\frac { \left( y _ { 1 } y _ { 2 } \right) ^ { 2 } } { 1 6 } + \frac { \left( y _ { 1 } + y _ { 2 } \right) ^ { 2 } + 2 y _ { 1 } y _ { 2 } } { 4 } + 1 = \frac { 4 } { k ^ { 2 } } = \frac { ( \lambda - 1 ) ^ { 2 } } { \lambda } = \lambda + \frac { 1 } { \lambda } - 2 ,

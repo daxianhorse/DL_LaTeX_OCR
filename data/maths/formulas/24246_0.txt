@@ -1,0 +1,1 @@
+f ( x ) = e ^ { x } - \o p e r a t o r n a m e { a c o s } x - x ( a \geq 0 )

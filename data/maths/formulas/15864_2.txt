@@ -1,0 +1,1 @@
+\overrightarrow { A B } = a , \overrightarrow { A C } = b , \overrightarrow { A F } = x a + y b

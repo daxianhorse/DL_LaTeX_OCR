@@ -1,0 +1,1 @@
+X \sim \mathrm { N } \left( \mu , \sigma ^ { 2 } \right)

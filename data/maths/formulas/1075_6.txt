@@ -1,0 +1,1 @@
+\frac { x ^ { 2 } + a } { b x - c } ( b \in \mathbf { N } )

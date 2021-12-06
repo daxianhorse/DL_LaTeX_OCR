@@ -1,0 +1,1 @@
+P \rightarrow Q

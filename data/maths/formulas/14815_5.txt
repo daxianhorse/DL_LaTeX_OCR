@@ -1,0 +1,1 @@
+\left( x _ { n } \cdot f \left( x _ { n } \right) \right)

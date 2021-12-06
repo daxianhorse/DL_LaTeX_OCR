@@ -1,0 +1,1 @@
+\frac { 1 } { 2 ^ { n + 1 } } \left( 1 + \sum _ { k = 1 } ^ { n } \mathrm { C } _ { n } ^ { k } a _ { k } \right)

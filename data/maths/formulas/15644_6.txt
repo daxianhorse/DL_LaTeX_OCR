@@ -1,0 +1,1 @@
+\cos 1 \cdot f ( 1 ) > \frac { \sqrt { 3 } } { 2 } f \left( \frac { \pi } { 6 } \right)

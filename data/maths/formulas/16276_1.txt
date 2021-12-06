@@ -1,0 +1,1 @@
+\frac { x } { m } + \frac { y } { n } = 1

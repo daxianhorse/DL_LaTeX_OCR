@@ -1,0 +1,1 @@
+a = 3 , \cos A = \frac { \sqrt { 6 } } { 3 } , B = A + \frac { \pi } { 2 }

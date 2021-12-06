@@ -1,0 +1,1 @@
+\left( \dot { x } _ { 1 } \cdot \left( \dot { x } _ { 2 } , C _ { i } \right. \right.

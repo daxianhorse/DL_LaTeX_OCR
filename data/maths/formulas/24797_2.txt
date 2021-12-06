@@ -1,0 +1,1 @@
+\hat { v } = \hat { \beta } u + \hat { \alpha }

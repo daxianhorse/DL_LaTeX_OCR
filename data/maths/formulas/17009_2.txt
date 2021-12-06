@@ -1,0 +1,1 @@
+f ( x ) = \left| \log _ { 2 } x \right|

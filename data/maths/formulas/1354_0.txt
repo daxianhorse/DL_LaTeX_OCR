@@ -1,0 +1,1 @@
+\tan ( \alpha + \beta ) = \frac { 2 } { 5 } , \tan \left( \beta - \frac { \pi } { 4 } \right) = \frac { 1 } { 4 }

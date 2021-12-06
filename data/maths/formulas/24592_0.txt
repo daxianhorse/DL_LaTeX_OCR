@@ -1,0 +1,1 @@
+\left( \sqrt { x } + \frac { 1 } { a x ^ { 2 } } \right) ^ { 5 } ( a > 0 )

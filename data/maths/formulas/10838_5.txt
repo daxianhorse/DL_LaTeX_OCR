@@ -1,0 +1,1 @@
+= \lambda _ { 2 } \overrightarrow { A C } , \overrightarrow { Q B } = \mu _ { 2 } \overrightarrow { B D }

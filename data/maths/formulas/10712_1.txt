@@ -1,0 +1,1 @@
+a _ { n + 1 } \leq s l a n t a _ { n } \left( 1 - a _ { n } \right)

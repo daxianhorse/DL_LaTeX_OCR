@@ -1,0 +1,1 @@
+= \frac { 1 } { 2 } ( | 2 - a - b | + | 1 - 2 a - b | ) \geqslant \frac { 1 } { 2 } ( 1 + a )

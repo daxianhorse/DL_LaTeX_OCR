@@ -1,0 +1,1 @@
+2 \cos ^ { 2 } \frac { \omega \cdot x } { 2 } , x \in \mathbf { R } , \omega > 0

@@ -1,0 +1,1 @@
+x ^ { \frac { \lambda } { x } } \geqslant 2 7

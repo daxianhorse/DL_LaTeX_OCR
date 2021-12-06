@@ -1,0 +1,1 @@
+a _ { n + 1 } - a _ { n } = 2 n \left( n \in \mathbf { N } ^ { * } \right) , a _ { 1 } = 3

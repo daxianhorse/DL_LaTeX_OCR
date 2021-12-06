@@ -1,0 +1,1 @@
+\rho _ { Q } \frac { 2 4 } { 2 \cos \theta + 3 \sin \theta } = \frac { 4 8 } { 2 \cos ^ { 2 } \theta + 3 \sin ^ { 2 } \theta }

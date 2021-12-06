@@ -1,0 +1,1 @@
+\boldsymbol { a } \cdot \boldsymbol { b } \geqslant - \frac { 1 } { 2 }

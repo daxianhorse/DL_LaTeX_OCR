@@ -1,0 +1,1 @@
+p : a > 2 , q : \forall x \in \mathbf { R } , x ^ { 2 } + a x + 1 \geqslant 0

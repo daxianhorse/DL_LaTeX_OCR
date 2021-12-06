@@ -1,0 +1,1 @@
+A = \{ ( x , y ) \mid x + y = 2 \} , B = \left\{ ( x , y ) \mid y = x ^ { 2 } \right\}

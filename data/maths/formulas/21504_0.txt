@@ -1,0 +1,1 @@
+A B = 2 , A D = 4 , \overrightarrow { A B } \cdot \overrightarrow { A D } = 4

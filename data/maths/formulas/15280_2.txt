@@ -1,0 +1,1 @@
+f ( x ) > 2 g \left( \frac { x - 1 } { x + 1 } \right)

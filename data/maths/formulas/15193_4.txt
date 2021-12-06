@@ -1,0 +1,1 @@
+\lim _ { n \rightarrow + } \frac { y _ { n } - 1 } { x _ { n } - 1 }

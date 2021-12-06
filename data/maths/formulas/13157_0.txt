@@ -1,0 +1,1 @@
+y = \sin ^ { \prime } x + 2 \sqrt { 3 } \sin x \cos x - \cos ^ { 1 } x

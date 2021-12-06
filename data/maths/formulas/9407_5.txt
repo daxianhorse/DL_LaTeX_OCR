@@ -1,0 +1,1 @@
+\left\{ b _ { n } b _ { n + 2 } \right\}

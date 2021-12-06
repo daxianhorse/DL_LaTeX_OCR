@@ -1,0 +1,1 @@
+f ( x ) = \sqrt { 2 } \sin ( 3 x + \varphi ) \left( | \varphi | < \frac { \pi } { 2 } \right)

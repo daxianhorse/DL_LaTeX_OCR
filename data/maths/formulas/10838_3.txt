@@ -1,0 +1,1 @@
+\overrightarrow { P A } = \lambda _ { 1 } \overrightarrow { A D } , \overrightarrow { P C } = \mu _ { 1 } \overrightarrow { C B }

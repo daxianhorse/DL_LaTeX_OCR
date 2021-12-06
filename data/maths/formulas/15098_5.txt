@@ -1,0 +1,1 @@
+( \cdot 4 a + b ) \perp \overrightarrow { B C }

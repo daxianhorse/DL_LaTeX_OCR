@@ -1,0 +1,1 @@
+A = \left\{ x \mid x ^ { 2 } + 4 x - 2 1 > 0 ; B = \left\{ x \in \mathbf { N } \mid 2 ^ { \prime } < 6 5 \right. \right.

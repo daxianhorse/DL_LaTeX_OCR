@@ -1,0 +1,1 @@
+f ( x ) = 2 \cos \left( 3 x - \frac { 5 \pi } { 6 } \right)

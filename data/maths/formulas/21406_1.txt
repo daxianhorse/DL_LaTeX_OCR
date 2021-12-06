@@ -1,0 +1,1 @@
+\sin \alpha = \frac { 4 } { 5 } , \cos ( \alpha + \beta ) = \frac { 5 } { 1 3 }

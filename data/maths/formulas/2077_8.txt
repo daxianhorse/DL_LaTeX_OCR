@@ -1,0 +1,1 @@
+f ( 4 ) = 8 \Rightarrow ( 4 - a ) ^ { 3 } = 8 \Rightarrow a = 2

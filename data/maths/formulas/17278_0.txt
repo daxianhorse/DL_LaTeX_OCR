@@ -1,0 +1,1 @@
+f ( x ) = \frac { \sqrt { \pi - 3 x } \cdot \ln ( \sin x - \cos x ) } { \sqrt { \pi + 3 x } }

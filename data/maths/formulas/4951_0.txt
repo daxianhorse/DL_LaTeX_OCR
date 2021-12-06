@@ -1,0 +1,1 @@
+f ( x ) = 2 \mathrm { e } f ^ { \prime } ( \mathrm { e } ) \ln x - \frac { x } { \mathrm { e } }

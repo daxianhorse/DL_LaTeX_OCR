@@ -1,0 +1,1 @@
+f ^ { \prime } ( x ) = 2 x - \frac { 2 a } { x ^ { 2 } } = \frac { 2 \left( x ^ { 3 } - a \right) } { x ^ { 2 } }

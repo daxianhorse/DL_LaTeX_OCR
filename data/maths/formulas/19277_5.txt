@@ -1,0 +1,1 @@
+f ( x ) = ( 1 \oplus x ) x - ( 2 \oplus x )

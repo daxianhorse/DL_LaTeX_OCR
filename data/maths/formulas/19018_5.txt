@@ -1,0 +1,1 @@
+\mathrm { C } _ { n } ^ { r } = \frac { n ( n - 1 ) \cdots ( n - r + 1 ) } { r ! } = \frac { n [ ( n - 1 ) \cdots ( n - r + 1 ) ] } { r ( r - 1 ) ! } = \frac { n } { r } \mathrm { C } _ { n - 1 } ^ { r - 1 }

@@ -1,0 +1,1 @@
+\text { ( 4 ) } x \rightarrow y = \pm \sqrt { x } , x \in \{ x \mid x > 0 \} , y \in \{ y \mid y \neq 0 \}

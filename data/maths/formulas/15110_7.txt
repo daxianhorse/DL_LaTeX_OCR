@@ -1,0 +1,1 @@
+f ^ { \prime } ( x ) = \frac { 1 - x } { 1 + x } \cdot \frac { ( 1 - x ) + ( 1 + x ) } { ( 1 - x ) ^ { 2 } } = \frac { 2 } { 1 - x ^ { 2 } }

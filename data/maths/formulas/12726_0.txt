@@ -1,0 +1,1 @@
+f ( x ) = x \left( \mathrm { e } ^ { t } + a e ^ { \prime } \right) \cdot x \in \mathbf { R }

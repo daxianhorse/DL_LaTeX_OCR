@@ -1,0 +1,1 @@
+e _ { 1 } , e _ { 2 } , \left\langle e _ { 1 } , e _ { 2 } \right\rangle = \frac { \pi } { 6 } , m = \frac { \sqrt { 3 } } { 2 } e _ { 1 } - \frac { 2 } { 3 } e _ { 2 } , n = \frac { \sqrt { 3 } } { 2 } e _ { 1 } + \frac { 1 } { 2 } e _ { 2 }

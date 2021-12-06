@@ -1,0 +1,1 @@
+g ( x ) \geqslant g ( 1 ) = 0

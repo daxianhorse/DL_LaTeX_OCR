@@ -1,0 +1,1 @@
+y = a x + \frac { b } { x } ( a , b \in \mathbf { R } )

@@ -1,0 +1,1 @@
+\rho ^ { 2 } = \frac { 4 8 } { 2 \cos ^ { 2 } \theta + 3 \sin ^ { 2 } \theta }

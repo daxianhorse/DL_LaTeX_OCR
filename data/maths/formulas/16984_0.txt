@@ -1,0 +1,1 @@
+\left( \pi ^ { 0 . 8 } \right) ^ { a } < \left( 0 . 8 ^ { \pi } \right) ^ { a }

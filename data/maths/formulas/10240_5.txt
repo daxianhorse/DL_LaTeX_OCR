@@ -1,0 +1,1 @@
+\sum _ { i = 1 } ^ { 1 2 } \left( y _ { i } - \bar { y } \right) ^ { 2 }

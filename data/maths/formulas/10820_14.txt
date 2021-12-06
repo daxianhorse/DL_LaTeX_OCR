@@ -1,0 +1,1 @@
+\Rightarrow \frac { b ^ { 2 } } { a ^ { 2 } } - \frac { 2 c } { a } + 1 = 0 \Rightarrow b ^ { 2 } - 2 c a + a ^ { 2 } = 0 \Rightarrow c ^ { 2 } - 2 c a = 0 \Rightarrow e = \frac { c } { a } = 2

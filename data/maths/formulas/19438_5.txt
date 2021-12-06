@@ -1,0 +1,1 @@
+S = \int _ { 0 } ^ { 1 } ( y - \sqrt { y } ) \mathrm { d } y

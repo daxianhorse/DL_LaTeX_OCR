@@ -1,0 +1,1 @@
+f ^ { \prime } ( \theta ) = \cos \theta + 2 \sin \theta = 0

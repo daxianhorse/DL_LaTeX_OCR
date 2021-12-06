@@ -1,0 +1,1 @@
+a \overrightarrow { O A } + b \overrightarrow { O B } ( a , b \in \mathbf { R } )

@@ -1,0 +1,1 @@
+A ( 2 , 1 ) , B \left( 1 , - m ^ { 2 } \right) ( m \in \mathbf { R } )

@@ -1,0 +1,1 @@
+f ( x ) = \sqrt { 2 } \sin \omega x , g ( x ) = \sqrt { 2 } \cos \omega x

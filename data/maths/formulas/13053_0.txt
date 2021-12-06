@@ -1,0 +1,1 @@
+f ( x ) = \sin ( \pi - \omega \cdot x ) \cos \omega \cdot x +

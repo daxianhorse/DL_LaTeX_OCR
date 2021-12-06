@@ -1,0 +1,1 @@
+| P F | = 2 a + \left| P F _ { 1 } \right|

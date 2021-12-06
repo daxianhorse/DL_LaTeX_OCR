@@ -1,0 +1,1 @@
+\left\{ b \mid M _ { t } ( a , b ) \right.

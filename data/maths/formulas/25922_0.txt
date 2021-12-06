@@ -1,0 +1,1 @@
+\sin \left( \alpha - \frac { \pi } { 7 } \right) = \frac { 3 } { 4 }

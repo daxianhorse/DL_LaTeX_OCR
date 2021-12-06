@@ -1,0 +1,1 @@
+x _ { 0 } f \left( \mathrm { e } ^ { 1 \mathrm { x } } \right) \geqslant ( \mathrm { e } - 1 ) ( a - 1 ) a .

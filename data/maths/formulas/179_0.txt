@@ -1,0 +1,1 @@
+f ( x ) = a \left( \ln x + \frac { 2 } { x } \right) - \frac { e ^ { x } } { x ^ { 2 } }

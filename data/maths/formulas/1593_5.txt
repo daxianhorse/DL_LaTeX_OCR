@@ -1,0 +1,1 @@
+\left( \overrightarrow { A B } - 1 \overrightarrow { \left( X ^ { 2 } \right) } \cdot \vec { C } \vec { C } = 0 \right.

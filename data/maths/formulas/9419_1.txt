@@ -1,0 +1,1 @@
+a _ { n } = f \left( \frac { n \pi } { 6 } \right)

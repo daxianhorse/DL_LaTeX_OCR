@@ -1,0 +1,1 @@
+\frac { \sqrt { 1 - \cos ^ { 2 } \alpha } } { \cos \alpha } =

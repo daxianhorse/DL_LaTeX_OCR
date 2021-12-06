@@ -1,0 +1,1 @@
+a b \cos ( \pi - C ) : b c \cos ( \pi - A ) : a c \cos ( \pi - B ) =

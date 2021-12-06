@@ -1,0 +1,1 @@
+\left[ \frac { \pi } { 4 } , \frac { \pi } { 2 } \right) \cup \left[ \frac { 3 \pi } { 4 } , \pi \right)

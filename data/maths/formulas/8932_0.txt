@@ -1,0 +1,1 @@
+\alpha \in ( 0 , \pi ) , \sin \left( \alpha + \frac { \pi } { 3 } \right) = \frac { 3 } { 5 }

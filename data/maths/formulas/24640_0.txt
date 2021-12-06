@@ -1,0 +1,1 @@
+\text { ( 1 ) } 2 \cos A ( b \cos C + c \cos B ) = a , \text { ( 2 ) } c \sin \frac { B + C } { 2 } =

@@ -1,0 +1,1 @@
+l : \frac { x } { m } + \frac { y } { n } = 1 ( m > 0 , n >

@@ -1,0 +1,1 @@
+\sum _ { k = 1 } ^ { n } \frac { \left( T _ { k } + b _ { k + 2 } \right) b _ { k } } { ( k + 1 ) ( k + 2 ) } = \frac { 2 ^ { n + 2 } } { n + 2 } - 2 \left( n \in \mathbf { N } ^ { * } \right)

@@ -1,0 +1,1 @@
+\ a n g l e M O N = 1 2 0 ^ { \circ } , \overrightarrow { B M } = 2 \overrightarrow { M A } , \overrightarrow { C N } = 2 \overrightarrow { N A }

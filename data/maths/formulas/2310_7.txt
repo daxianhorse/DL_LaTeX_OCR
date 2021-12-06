@@ -1,0 +1,1 @@
+\cos \varphi = \frac { a } { \sqrt { a ^ { 2 } + b ^ { 2 } } } , \sin \varphi = \frac { b } { \sqrt { a ^ { 2 } + b ^ { 2 } } }

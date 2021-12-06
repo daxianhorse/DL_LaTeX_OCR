@@ -1,0 +1,1 @@
+\left\{ 2 ^ { n } a _ { n } \right\}

@@ -1,0 +1,1 @@
+\sum _ { i = 1 } ^ { 6 } \left( y _ { i } - \bar { y } \right) ^ { 2 } \approx 4 7 1 . 6 5

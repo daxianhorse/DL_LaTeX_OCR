@@ -1,0 +1,1 @@
+\alpha = \frac { p - \sqrt { p ^ { 2 } - 4 q } } { 2 }

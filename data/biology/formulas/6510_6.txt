@@ -1,0 +1,1 @@
+( 2 N \rightarrow 4 N )

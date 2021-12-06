@@ -1,0 +1,1 @@
+b _ { n } < \frac { 1 } { 3 } b _ { n - 1 } < \left( \frac { 1 } { 3 } \right) ^ { 2 } b _ { n - 2 } < \cdots < \left( \frac { 1 } { 3 } \right) ^ { n - 1 } b _ { 1 }

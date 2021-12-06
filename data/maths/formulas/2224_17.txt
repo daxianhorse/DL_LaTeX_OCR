@@ -1,0 +1,1 @@
+Q \left( x _ { 1 1 } , \ln x _ { 1 1 } \right) , g ^ { \prime } \left( x _ { 1 0 } \right) = \frac { 1 } { x _ { 0 } } ,

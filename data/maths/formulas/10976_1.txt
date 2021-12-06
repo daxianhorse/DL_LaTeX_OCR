@@ -1,0 +1,1 @@
+\forall x \not i n \mathbf { R } , x ^ { 2 } \neq x

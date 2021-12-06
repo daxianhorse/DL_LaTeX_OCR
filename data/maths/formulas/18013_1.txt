@@ -1,0 +1,1 @@
+2 \left( \cos \frac { 2 \pi } { 3 } + i \sin \frac { 2 \pi } { 3 } \right)

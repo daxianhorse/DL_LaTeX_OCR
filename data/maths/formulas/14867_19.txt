@@ -1,0 +1,1 @@
+A ( a \cos 2 \alpha , b \sin \alpha ) , B ( a \cos 2 \beta , b \sin 2 \beta )

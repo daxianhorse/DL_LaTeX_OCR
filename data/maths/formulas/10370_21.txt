@@ -1,0 +1,1 @@
+\left| A F _ { 1 } \right| = \frac { b ^ { 2 } } { a - c \cos \theta }

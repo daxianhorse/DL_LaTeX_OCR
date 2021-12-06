@@ -1,0 +1,1 @@
+\left\{ x \mid x \neq \frac { \pi } { 6 } \right\}

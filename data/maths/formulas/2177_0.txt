@@ -1,0 +1,1 @@
+I _ { m } = \{ 1 , 2 , 3 , \cdots , n \} \cdot P _ { m } = \left\{ \frac { m } { \sqrt { k } } \mid m \right.

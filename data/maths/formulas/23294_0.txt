@@ -1,0 +1,1 @@
+( 2 x + y ) + ( 2 y - x ) \mathrm { i } = \left( x + \frac { 1 } { 2 } \right) + \left( y - \frac { 1 } { 2 } \right) \mathrm { i }

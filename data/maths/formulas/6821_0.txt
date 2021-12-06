@@ -1,0 +1,1 @@
+\left( 2 ^ { x } \right) ^ { \prime } = x \cdot 2 ^ { x - 1 }

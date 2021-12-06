@@ -1,0 +1,1 @@
+| P A | + | P F | + | A F | = | P A | + 2 a + \left| P F _ { 1 } \right| + | A F | = | P A | + \left| P F _ { 1 } \right| +

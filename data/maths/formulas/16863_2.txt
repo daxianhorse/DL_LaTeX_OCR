@@ -1,0 +1,1 @@
+\sqrt { a b } \geqslant \frac { 2 } { \frac { 1 } { a } + \frac { 1 } { b } } ( a > 0 , b > 0 )

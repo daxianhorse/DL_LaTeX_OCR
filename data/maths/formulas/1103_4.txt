@@ -1,0 +1,1 @@
+f ( - 6 . \bar { \jmath } ) \cdot f ( - 1 ) \cdot f ( 0 )

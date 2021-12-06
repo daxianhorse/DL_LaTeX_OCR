@@ -1,0 +1,1 @@
+X \sim N \left( 3 , 1 . 5 ^ { 2 } \right)

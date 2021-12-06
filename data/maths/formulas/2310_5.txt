@@ -1,0 +1,1 @@
+a \sin x + b \cos x = \sqrt { a ^ { 2 } + b ^ { 2 } } \sin ( x + \varphi )

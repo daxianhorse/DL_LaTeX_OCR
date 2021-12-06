@@ -1,0 +1,1 @@
+b - \o p e r a t o r n a m e { c c o s } A = \frac { \sqrt { 3 } } { 3 } \o p e r a t o r n a m e { a s i n } C

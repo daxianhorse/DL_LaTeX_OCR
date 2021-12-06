@@ -1,0 +1,1 @@
+x _ { 1 } \geqslant 2 , x , \in \mathbf { N } ^ { * } ( i = 1 , 2 , \cdots , 6 )

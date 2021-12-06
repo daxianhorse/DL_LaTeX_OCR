@@ -1,0 +1,1 @@
+c \sin A \cos C = ( 2 b - c ) \cos A \sin C

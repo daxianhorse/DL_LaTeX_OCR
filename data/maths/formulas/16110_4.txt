@@ -1,0 +1,1 @@
+x \geqslant \frac { a + b } { 2 }

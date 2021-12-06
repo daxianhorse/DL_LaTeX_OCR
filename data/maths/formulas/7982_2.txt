@@ -1,0 +1,1 @@
+p = \frac { 7 \sin \frac { \pi } { k } } { 4 k } - \frac { \pi } { k ^ { 2 } } , q =

@@ -1,0 +1,1 @@
+\frac { \left( 1 6 \lambda ^ { 2 } - 9 \right) x ^ { 2 } } { 1 1 2 } + \frac { \lambda ^ { 2 } y ^ { 2 } } { 7 } = 1

@@ -1,0 +1,1 @@
+\frac { 1 } { 2 } \l g 2 5 + \l g 2 + \ln \sqrt { \mathrm { e } } - \log _ { 2 } 9 \times \log _ { 3 } 2 - 5 ^ { \log _ { 5 } 3 }

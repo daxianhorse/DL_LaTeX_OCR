@@ -1,0 +1,1 @@
+\cos ^ { 2 } \beta f ( \cos \alpha ) > \cos ^ { 2 } \alpha f ( \cos \beta )

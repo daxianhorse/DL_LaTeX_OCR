@@ -1,0 +1,1 @@
+\frac { \cos ( \alpha - \pi ) } { \tan \left( \frac { \pi } { 2 } - \alpha \right) } =

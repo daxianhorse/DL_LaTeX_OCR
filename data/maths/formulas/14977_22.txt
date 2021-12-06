@@ -1,0 +1,1 @@
+| M A | ^ { 2 } = | M B | ^ { 2 } + | A B | ^ { 2 } - 2 \cdot | M B | \cdot | A B | \cdot \cos \theta

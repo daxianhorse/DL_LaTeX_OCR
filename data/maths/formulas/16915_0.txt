@@ -1,0 +1,1 @@
+f ( x ) = \left( m ^ { 2 } - 5 m + 7 \right) x ^ { m + 1 }

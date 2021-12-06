@@ -1,0 +1,1 @@
+\cos \left( 2 x - \frac { 5 \pi } { 3 } \right) + \sin ^ { 2 } \left( \frac { \pi } { 3 } - x \right)

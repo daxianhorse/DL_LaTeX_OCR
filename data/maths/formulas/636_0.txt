@@ -1,0 +1,1 @@
+f ( x ) = ( a - x ) \mathrm { e } ^ { x } + b x - c \ln x

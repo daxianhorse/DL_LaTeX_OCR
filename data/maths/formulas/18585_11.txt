@@ -1,0 +1,1 @@
+k = \left. y ^ { \prime } \right| _ { x = 1 } = 2

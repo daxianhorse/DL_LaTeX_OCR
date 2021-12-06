@@ -1,0 +1,1 @@
+A = \left\{ x \mid 3 x ^ { 2 } - 2 x - 1 < 0 \right\}

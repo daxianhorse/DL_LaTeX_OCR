@@ -1,0 +1,1 @@
+\left. e ^ { - x + 1 } \right)

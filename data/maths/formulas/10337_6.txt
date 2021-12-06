@@ -1,0 +1,1 @@
+\frac { x ^ { 2 } } { 1 6 } + \frac { \left( \lambda ^ { 2 } - 1 \right) x ^ { 2 } + \lambda ^ { 2 } y ^ { 2 } } { 7 } = 1

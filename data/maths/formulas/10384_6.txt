@@ -1,0 +1,1 @@
+a _ { m } + a _ { n } = a _ { p } + a _ { q } \Leftrightarrow m + n = p + q

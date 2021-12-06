@@ -1,0 +1,1 @@
+| F C | = | A F | - \frac { 1 } { 2 } | A B | = \frac { 4 \cos \alpha } { 1 - \cos ^ { 2 } \alpha }

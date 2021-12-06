@@ -1,0 +1,1 @@
++ \sin 2 B \times \overrightarrow { O B } + \sin 2 C \times \overrightarrow { C C } = \mathbf { 0 }

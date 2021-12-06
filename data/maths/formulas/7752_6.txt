@@ -1,0 +1,1 @@
+f _ { 2 } : V \rightarrow \mathbf { R } , f _ { 2 } ( \boldsymbol { m } ) = x ^ { 2 } + y , \boldsymbol { m } = ( x , y ) \in V

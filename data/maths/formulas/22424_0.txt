@@ -1,0 +1,1 @@
+A = \left\{ ( x , y ) \mid y = x ^ { 2 } + m x + 2 \right\} , B = \{ ( x , y ) \mid x - y + 1 = 0 , 0 \leq s l a n t x \leq s l a n t 2 \}

@@ -1,0 +1,1 @@
+\left[ \frac { 1 } { 2 } a ^ { c - 1 } , a ^ { i - 1 } \right] \subset \left[ a , a ^ { 2 } \right]

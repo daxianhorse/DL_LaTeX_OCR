@@ -1,0 +1,1 @@
+a = \sin \frac { \pi } { 1 2 } , b = \sin \frac { \pi } { 5 } , c = \sin \frac { \pi } { 6 }

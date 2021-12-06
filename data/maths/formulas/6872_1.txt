@@ -1,0 +1,1 @@
+\ln x - \cos x ( a \in \mathbf { R } )

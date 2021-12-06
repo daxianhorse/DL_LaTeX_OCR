@@ -1,0 +1,1 @@
+\mathrm { d d } \mathrm { X } ^ { \mathrm { H } } \mathrm { X } ^ { \mathrm { h } }

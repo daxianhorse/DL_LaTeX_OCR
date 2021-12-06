@@ -1,0 +1,1 @@
+\frac { \sqrt { ( x - c ) ^ { 2 } + y ^ { 2 } } } { \left| x - \frac { a ^ { 2 } } { c } \right| } = t ( t > 1 )

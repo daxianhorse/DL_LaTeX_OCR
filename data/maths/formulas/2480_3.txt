@@ -1,0 +1,1 @@
+\sum _ { i = 1 } ^ { n } \left| x _ { i } - 2 \right| \leq s l a n t 2 - 2 ^ { 1 - n }

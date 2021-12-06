@@ -1,0 +1,1 @@
+( - 1 , 0 ) \cup \left( 0 , \log _ { 4 } 5 \right)

@@ -1,0 +1,1 @@
+\frac { x - m } { g ( x ) } > \sqrt { x }

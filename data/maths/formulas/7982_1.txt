@@ -1,0 +1,1 @@
+k \left( k \geqslant 2 , k \in \mathbf { N } ^ { * } \right)

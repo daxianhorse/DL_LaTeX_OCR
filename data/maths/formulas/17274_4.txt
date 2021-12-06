@@ -1,0 +1,1 @@
+f ( \alpha ) = \frac { \sin ( 2 \pi - \alpha ) \cos \left( \alpha - \frac { \pi } { 2 } \right) \cos \left( \frac { 1 1 \pi } { 2 } - \alpha \right) } { \sin ( \alpha - 3 \pi ) \sin ( \pi - \alpha ) \sin \left( \frac { 5 \pi } { 2 } + \alpha \right) }

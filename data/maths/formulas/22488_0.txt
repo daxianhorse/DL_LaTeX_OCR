@@ -1,0 +1,1 @@
+\log _ { a } \frac { t } { \left( x ^ { 2 } - 1 \right) ( 7 - x ) } = \log _ { a } \frac { x - 1 } { x + 1 }

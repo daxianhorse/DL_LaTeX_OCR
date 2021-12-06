@@ -1,0 +1,1 @@
+\frac { \pi } { 4 } \omega + \varphi = k _ { 1 } \pi + \frac { \pi } { 2 } \left( k _ { 2 } \in \mathbf { Z } \right)

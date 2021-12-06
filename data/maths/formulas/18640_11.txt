@@ -1,0 +1,1 @@
+\left( a _ { 1 } + a _ { 3 } \right) + \left( a _ { 5 } + a _ { 7 } \right) + \cdots + \left( a _ { 5 7 } + a _ { 5 9 } \right) = 1 5 \times 2 = 3 0

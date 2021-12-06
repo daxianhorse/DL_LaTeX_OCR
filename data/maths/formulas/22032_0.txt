@@ -1,0 +1,1 @@
+\{ ( x , y ) \mid 0 \leq s l a n t x \leq s l a n t \sqrt { 2 } , 0 \leq s l a n t y \leq s l a n t 1 \}

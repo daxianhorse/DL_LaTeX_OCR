@@ -1,0 +1,1 @@
+2 ^ { x } \cdot 4 ^ { \prime } = \left( 2 ^ { x } \right) ^ { \prime }

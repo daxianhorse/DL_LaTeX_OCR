@@ -1,0 +1,1 @@
+2 x \cos \alpha - y - 3 = 0 \left( \alpha \in \left[ \frac { \pi } { 6 } , \frac { \pi } { 3 } \right] \right)

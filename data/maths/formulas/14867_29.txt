@@ -1,0 +1,1 @@
+\sqrt { 3 } \cdot \frac { 1 + \tan \alpha \tan \gamma } { 1 - \tan \alpha \tan \gamma } = \sqrt { 3 } \cdot \frac { 1 + \tan \beta \tan \delta } { 1 - \tan \beta \tan \delta } = - 2 ,

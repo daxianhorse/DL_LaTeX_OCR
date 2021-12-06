@@ -1,0 +1,1 @@
+x _ { n } \neq 1 \Rightarrow f ( x ) > 0

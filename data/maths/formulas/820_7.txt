@@ -1,0 +1,1 @@
+f ( x ) \geqslant k g ( x ) - 2 k + 2

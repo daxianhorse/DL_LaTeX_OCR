@@ -1,0 +1,1 @@
+f ( x ) = x ^ { \alpha } \mathrm { e } ^ { | x | } ( \alpha \in \mathbf { Z } )

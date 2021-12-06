@@ -1,0 +1,1 @@
+\tan \alpha = \frac { k _ { P A } - k _ { P F _ { 2 } } } { 1 + k _ { P A } k _ { P F _ { 2 } } }

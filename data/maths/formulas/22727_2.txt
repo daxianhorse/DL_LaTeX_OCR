@@ -1,0 +1,1 @@
+F ( x ) = f ( x ) - g ( x ) = \ln ( 1 + x ) + ( a - 1 ) x - a \mathrm { e } ^ { x }

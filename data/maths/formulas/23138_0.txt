@@ -1,0 +1,1 @@
+f ( x ) = \frac { x \left( 2 ^ { x } - 1 \right) } { 2 \left( 2 ^ { x } + 1 \right) }

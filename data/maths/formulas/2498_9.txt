@@ -1,0 +1,1 @@
+( 2 n - 1 ) f ( n ) \leq s l a n t f ( 1 ) + f ( 2 ) + \cdots + f ( 2 n

@@ -1,0 +1,1 @@
+\left. a , a \in X , b \in Y _ { n } \right\}

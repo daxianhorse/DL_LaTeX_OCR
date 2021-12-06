@@ -1,0 +1,1 @@
+b _ { 1 } \cdot b _ { 2 } \cdot b _ { 3 } \cdot \cdots \cdot b _ { n } = 2 ^ { \frac { n ^ { 2 } + n } { 2 } }

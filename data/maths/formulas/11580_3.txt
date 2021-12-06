@@ -1,0 +1,1 @@
+\text { C . } \left( \frac { 1 } { 2 } \right) ^ { \prime } - \left( \frac { 1 } { 2 } \right) ^ { \prime } < 0

@@ -1,0 +1,1 @@
+f ( x ) = \left( x ^ { 2 } - 1 \right) \cdot \frac { \sin x } { x }

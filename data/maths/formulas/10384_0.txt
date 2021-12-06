@@ -1,0 +1,1 @@
+\left( x ^ { 2 } - 2 x + m \right) \left( x ^ { 2 } - 2 x + n \right) = 0

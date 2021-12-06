@@ -1,0 +1,1 @@
+\mathrm { A A b b } \rightarrow \mathrm { A A B b }

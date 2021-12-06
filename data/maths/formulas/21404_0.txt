@@ -1,0 +1,1 @@
+\sin \left( \alpha + \frac { \pi } { 4 } \right) = \frac { \sqrt { 3 } } { 3 } , \alpha \in ( 0 , \pi )

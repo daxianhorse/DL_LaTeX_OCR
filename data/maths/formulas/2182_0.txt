@@ -1,0 +1,1 @@
+f ( x ) = \ln \left( x ^ { 2 } + 1 \right) , g ( x ) = \left( \frac { 1 } { 2 } \right) ^ { x } - m

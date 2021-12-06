@@ -1,0 +1,1 @@
+\frac { 1 } { 2 } \log _ { a } 5 , z = \log _ { a } \sqrt { 2 1 } - \log _ { a } \sqrt { 3 }

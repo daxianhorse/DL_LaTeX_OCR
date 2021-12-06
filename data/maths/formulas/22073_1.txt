@@ -1,0 +1,1 @@
+S = \frac { 1 } { 2 } n \sin \frac { 3 6 0 ^ { \circ } } { n }

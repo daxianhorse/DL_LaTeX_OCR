@@ -1,0 +1,1 @@
+6 0 ^ { \circ } , \boldsymbol { a } = ( 2 , 0 ) , | \boldsymbol { b } | = 1 ,

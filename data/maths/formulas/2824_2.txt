@@ -1,0 +1,1 @@
+a , b , c , \frac { b } { a } + \frac { a } { b } = 6 \cos C

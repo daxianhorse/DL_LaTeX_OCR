@@ -1,0 +1,1 @@
+\mathrm { P } \left( \mathrm { K } ^ { 2 } \geqslant k \right)

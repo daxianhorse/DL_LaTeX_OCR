@@ -1,0 +1,1 @@
+a b \in \left( \frac { 1 } { 2 } , 2 - \frac { 2 \sqrt { 3 } } { 3 } \right]

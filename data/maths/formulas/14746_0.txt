@@ -1,0 +1,1 @@
+f ( x ) = \frac { - x ^ { 2 } - \frac { 1 } { 2 } a x ^ { 2 } + ( a - 1 ) x ( a \in \mathbf { R } ) } { 3 }

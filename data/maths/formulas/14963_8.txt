@@ -1,0 +1,1 @@
+h ( x ) = g ( x ) \left( m - x _ { 1 1 } \right) - f ( m )

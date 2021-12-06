@@ -1,0 +1,1 @@
+b _ { n } = \frac { 1 } { \log _ { \frac { 1 } { 2 } } a _ { n } } , c _ { n } = \frac { \sqrt { b _ { n } b _ { n + 1 } } } { \sqrt { n + 1 } + \sqrt { n } }

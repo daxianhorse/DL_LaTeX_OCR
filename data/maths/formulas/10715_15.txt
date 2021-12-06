@@ -1,0 +1,1 @@
+\ln a _ { n } - \ln a _ { 2 } < 1 - \frac { 1 } { n - 1 } + \frac { 1 } { 2 } - \frac { 1 } { 2 } \frac { 1 } { 3 ^ { n - 2 } } < \frac { 3 } { 2 } \Rightarrow \ln a _ { n } < \frac { 3 } { 2 } + \ln 3 < 3 \Rightarrow a _ { n } < \mathrm { e } ^ { 3 }

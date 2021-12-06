@@ -1,0 +1,1 @@
+( 1 ) f ( x ) = 1 , g ( x ) = \frac { x } { x } ; \text { ( 2 ) } f ( x ) = \sqrt { x - 1 } \cdot \sqrt { x + 1 }

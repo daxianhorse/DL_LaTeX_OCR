@@ -1,0 +1,1 @@
+\left\{ - \frac { 1 } { 8 } \right\} \cup \left( - \frac { 9 } { 8 } , - \frac { 7 } { 8 } \right)

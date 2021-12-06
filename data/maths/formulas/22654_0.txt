@@ -1,0 +1,1 @@
+a \geqslant 0 , f ( x ) = \left( x ^ { 2 } - 2 a x \right) \mathrm { e } ^ { x }

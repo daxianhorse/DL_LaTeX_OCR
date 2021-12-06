@@ -1,0 +1,1 @@
+\left\{ x \mid - 3 < x < \frac { 1 } { 2 } \right\}

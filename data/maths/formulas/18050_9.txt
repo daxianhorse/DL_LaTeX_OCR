@@ -1,0 +1,1 @@
+\{ ( x , y ) | | x | + | y \mid = 4 , x \in \mathbf { Z } , y \in \mathbf { Z } \} \subseteq S

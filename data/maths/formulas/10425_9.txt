@@ -1,0 +1,1 @@
+S _ { n } = \frac { n \left( a _ { 1 } + a _ { n } \right) } { 2 } = \frac { n ( 1 + \sqrt { 2 } + 2 n + \sqrt { 2 } - 1 ) } { 2 } = n ( \sqrt { 2 } + n ) .

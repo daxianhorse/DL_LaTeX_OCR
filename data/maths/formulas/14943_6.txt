@@ -1,0 +1,1 @@
+\frac { 2 p m ^ { 2 } - 2 p n ^ { 2 } } { 2 p m - 2 p n } \cdot \frac { p m ^ { 2 } + p n ^ { 2 } } { p m + p n } = \frac { b ^ { 2 } } { a ^ { 2 } }

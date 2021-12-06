@@ -1,0 +1,1 @@
+h _ { 1 } : h _ { 2 } : h = \left( \frac { \sqrt { 2 } } { 2 } a \right) : \left( \frac { \sqrt { 6 } } { 3 } a \right) : \left( \frac { \sqrt { 6 } } { 3 } a \right) = \sqrt { 3 } : 2 : 2

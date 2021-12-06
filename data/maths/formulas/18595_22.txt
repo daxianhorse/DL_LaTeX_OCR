@@ -1,0 +1,1 @@
+\ a n g l e A = \alpha , \ a n g l e B = \beta , \ a n g l e C = \gamma , B C = a

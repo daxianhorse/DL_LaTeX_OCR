@@ -1,0 +1,1 @@
+\bar { x } \approx 3 . 3 , \bar { y } \approx 1 0 . 3 , \bar { \lambda } \approx 1 . 7 , \sum _ { i = 1 } ^ { 6 } \left( x _ { i } - \bar { x } \right) ^ { 2 } \approx 2 3 . 3 , \sum _ { i = 1 } ^ { 6 } \left( \lambda _ { i } - \bar { \lambda } \right) ^ { 2 } \approx 2 . 5

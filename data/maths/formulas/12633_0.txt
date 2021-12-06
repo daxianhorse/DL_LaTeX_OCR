@@ -1,0 +1,1 @@
+\log _ { 3 } 4 \cdot \log _ { 1 } 8 \cdot \log _ { x } m = \log _ { 1 } 1 6

@@ -1,0 +1,1 @@
+A B = B C , B E = \frac { 1 } { 3 } A B

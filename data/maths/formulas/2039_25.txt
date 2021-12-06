@@ -1,0 +1,1 @@
+x _ { 1 } + x _ { 2 } = - \frac { 4 } { 3 } ( t - 1 ) = \frac { 5 } { 2 } \Rightarrow t = - \frac { 7 } { 8 }

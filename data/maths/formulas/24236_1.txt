@@ -1,0 +1,1 @@
+\mathrm { x } _ { 1 } , \mathrm { x } _ { 2 } \in \left[ 0 , \frac { \pi } { 3 } \right]

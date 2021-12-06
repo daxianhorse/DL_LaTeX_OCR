@@ -1,0 +1,1 @@
+T = \left| b _ { 1 } \right| + \left| b _ { 2 } \right| + \cdots + \left| b _ { 1 0 } \right|

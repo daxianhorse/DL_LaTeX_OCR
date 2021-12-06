@@ -1,0 +1,1 @@
+F ( x ) = f ( x ) + g ( x ) , G ( x ) = f ( x ) + h ( x ) , H ( x ) = g ( x ) + h ( x )

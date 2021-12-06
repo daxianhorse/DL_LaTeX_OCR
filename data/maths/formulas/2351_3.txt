@@ -1,0 +1,1 @@
+\cos A + \sin \Lambda - \frac { 2 } { \cos B + \sin B } = 0

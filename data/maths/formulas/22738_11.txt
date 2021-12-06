@@ -1,0 +1,1 @@
+x ^ { 2 } + 1 \geqslant a x + b \geqslant \frac { 3 } { 2 } x ^ { \frac { 2 } { 3 } }

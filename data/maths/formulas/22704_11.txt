@@ -1,0 +1,1 @@
+\mathrm { e } ^ { - x } \left[ a x ^ { 2 } + ( \mathrm { e } - a - 1 ) x + 1 \right] - 1 < 0

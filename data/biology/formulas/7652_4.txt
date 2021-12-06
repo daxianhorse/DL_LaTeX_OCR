@@ -1,0 +1,1 @@
+\mathrm { X } ^ { \mathrm { w } } \mathrm { Y }

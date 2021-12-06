@@ -1,0 +1,1 @@
+b _ { n } = \l g \frac { 1 } { a _ { n } } , b _ { n } = \l g \frac { 1 0 0 } { 2 ^ { n } } = 2 - n \l g 2

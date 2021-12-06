@@ -1,0 +1,1 @@
+\frac { 1 } { a } = \frac { x } { e ^ { x } } ( x \neq 0 )

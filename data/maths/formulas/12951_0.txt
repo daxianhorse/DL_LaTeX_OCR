@@ -1,0 +1,1 @@
+f ( x ) = \frac { x } { 4 } + \frac { a } { x } - \ln x - \frac { 3 } { 2 }

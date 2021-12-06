@@ -1,0 +1,1 @@
+\overrightarrow { O C } = \frac { 6 } { 7 } \overrightarrow { O E } + \frac { 4 } { 7 } \overrightarrow { O F }

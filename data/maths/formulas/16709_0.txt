@@ -1,0 +1,1 @@
+f ( x ) = \tan x + \ln \frac { 1 + a x } { 1 - x } ( a \neq - 1 )

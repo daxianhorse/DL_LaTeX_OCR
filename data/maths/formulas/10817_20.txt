@@ -1,0 +1,1 @@
+\left( t - x _ { 0 } \right) ( t - m ) + \left( y - y _ { 0 } \right) ( y - 0 ) = 0

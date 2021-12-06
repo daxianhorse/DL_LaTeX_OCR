@@ -1,0 +1,1 @@
+p \left( 0 < p < \frac { 2 } { 5 } \right)

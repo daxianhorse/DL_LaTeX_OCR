@@ -1,0 +1,1 @@
+f ( x ) = \left( \frac { 2 } { 1 - x ^ { x } } - 1 \right) \cdot \ln \left( \sqrt { x ^ { 2 } + 1 } + x \right) ,

@@ -1,0 +1,1 @@
+\log _ { 1 } \left[ \frac { 3 } { 2 } f ( x - 1 ) - \frac { 3 } { 4 } \right] = \log _ { 2 } h ( a - x ) - \log _ { 2 } h ( 4 - x )

@@ -1,0 +1,1 @@
+\mathrm { A A } \times \mathrm { a a } \rightarrow \mathrm { F } _ { 1 }

@@ -1,0 +1,1 @@
+f ( . 1 ) = \left( a . x ^ { -- } \mid \right) e ^ { \prime } , a \in \mathbf { R }

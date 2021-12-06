@@ -1,0 +1,1 @@
+k = \frac { \sqrt { 3 } \sin \theta } { 2 \cos \theta - 2 } = \frac { \sqrt { 3 } \cdot \frac { 2 \tan \alpha } { 1 + \tan ^ { 2 } \alpha } } { 2 \left( \frac { 1 - \tan ^ { 2 } \alpha } { 1 + \tan ^ { 2 } \alpha } - 1 \right) } = - \frac { \sqrt { 3 } } { 2 \tan \alpha }

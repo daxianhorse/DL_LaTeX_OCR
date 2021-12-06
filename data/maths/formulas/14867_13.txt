@@ -1,0 +1,1 @@
+\Delta = 1 2 \left( 4 - t ^ { 2 } \right) > 0

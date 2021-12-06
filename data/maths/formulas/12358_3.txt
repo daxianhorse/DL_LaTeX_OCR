@@ -1,0 +1,1 @@
+\frac { c } { a } - \frac { d } { b } > 0

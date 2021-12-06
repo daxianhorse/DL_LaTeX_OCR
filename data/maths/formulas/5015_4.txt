@@ -1,0 +1,1 @@
+k = g ^ { \prime } \left( x _ { 0 } \right)

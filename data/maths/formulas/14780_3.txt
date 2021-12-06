@@ -1,0 +1,1 @@
+\frac { ( 4 n + 6 ) a _ { n } + 4 n + 1 0 } { 2 n + 1 } \left( n \in \mathbf { N } ^ { * } \right)

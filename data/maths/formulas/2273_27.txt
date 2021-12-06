@@ -1,0 +1,1 @@
+= ( x - 1 ) \left[ 4 \left( x ^ { 2 } + x + 1 \right) - \frac { x + 3 } { 4 ( 1 + x ) ^ { 2 } } \right]

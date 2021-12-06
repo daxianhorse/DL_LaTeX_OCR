@@ -1,0 +1,1 @@
+a _ { n } = \left( \frac { 4 } { 9 } \right) ^ { n - 1 } -

@@ -1,0 +1,1 @@
+\frac { \left| D F _ { 1 } \right| } { | A B | } = \frac { e } { 2 }

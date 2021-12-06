@@ -1,0 +1,1 @@
+\text { ( 1 ) } \frac { 2 c - b } { \cos B } = \frac { a } { \cos A } , \text { ( 2 ) } \cos A = 2 b \cos A - a \cos C \text { , }

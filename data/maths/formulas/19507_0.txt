@@ -1,0 +1,1 @@
+2 \tan ( \pi - \alpha ) - 3 \cos \left( \frac { \pi } { 2 } + \beta \right) + 5 = 0

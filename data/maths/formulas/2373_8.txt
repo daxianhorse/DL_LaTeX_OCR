@@ -1,0 +1,1 @@
+2 | \boldsymbol { c } - \boldsymbol { b } | \leq s l a n t | \boldsymbol { a } + 2 \boldsymbol { b } | + | \boldsymbol { a } \cdot \boldsymbol { b } | = | \cos \theta | +

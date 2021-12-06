@@ -1,0 +1,1 @@
+b _ { n } = \left| a _ { n } - \sqrt { 3 } \right| , S _ { n } = b _ { 1 } + b _ { 2 } + \cdots + b _ { n } \left( n \in \mathbf { N } ^ { \circ } \right)

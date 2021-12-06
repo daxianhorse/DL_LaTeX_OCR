@@ -1,0 +1,1 @@
+\frac { 1 } { 2 } \left( \left| x - a ^ { 2 } \right| + \left| x - 2 a ^ { 2 } \right| - 3 a ^ { 2 } \right)

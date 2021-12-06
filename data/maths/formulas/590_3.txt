@@ -1,0 +1,1 @@
+g ( x ) = a ( \ln x + 1 ) - \frac { f ( x ) } { x ^ { 2 } } \leq s l a n t 0

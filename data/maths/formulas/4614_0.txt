@@ -1,0 +1,1 @@
+A = \left\{ x \in \ m a t h b b { Z } \mid y = \sqrt { \frac { x + 2 } { 2 - x } } \right\}

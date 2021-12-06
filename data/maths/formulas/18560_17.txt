@@ -1,0 +1,1 @@
+f ^ { \prime } ( x ) = \frac { ( x - 1 ) ( x + 2 ) \mathrm { e } ^ { x } - ( x - 2 ) \mathrm { e } ^ { \prime } } { ( x + 2 ) ^ { 2 } } = \frac { x ^ { 2 } \mathrm { e } ^ { \prime } } { ( x + 2 ) ^ { 2 } } \geqslant 0

@@ -1,0 +1,1 @@
+1 0 7 5 \mathrm { ~ k J } \cdot \mathrm { m } ^ { 2 } \cdot \mathrm { a } ^ { 1 }

@@ -1,0 +1,1 @@
+\boldsymbol { a } = x _ { 0 } \boldsymbol { e } _ { 1 } + y _ { 0 } \boldsymbol { e } _ { 2 }

@@ -1,0 +1,1 @@
+S _ { \triangle A O B } = \frac { \sqrt { 3 } } { 4 }

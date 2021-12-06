@@ -1,0 +1,1 @@
+\text { n ) } \mid n = 1 + m , m , n \in \mathbf { R } \}

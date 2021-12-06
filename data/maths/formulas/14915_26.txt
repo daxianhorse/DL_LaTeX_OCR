@@ -1,0 +1,1 @@
+\overrightarrow { A B } = ( \cos \theta , \sin \theta , - 1 )

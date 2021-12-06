@@ -1,0 +1,1 @@
+\log _ { a } x = \mathrm { e } ^ { \sin \alpha } , \log _ { a } y = \mathrm { e } ^ { \cos \alpha } , \log _ { a } z = \mathrm { e } ^ { \frac { \ln a } { a } } , a \in ( 1 , + \infty ) , \alpha \in \left( 0 , \frac { \pi } { 4 } \right)

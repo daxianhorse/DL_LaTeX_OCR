@@ -1,0 +1,1 @@
+\sqrt { x + 1 } - \left( 2 + \frac { 5 } { 4 } x + \frac { a } { 2 } x ^ { 2 } \right)

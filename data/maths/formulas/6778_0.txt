@@ -1,0 +1,1 @@
+k = A \mathrm { e } ^ { - \frac { E } { R T } }

@@ -1,0 +1,1 @@
+\theta _ { 1 } , \theta _ { 2 } , \cdots , \theta _ { n } \in \left( 0 , \frac { \pi } { 2 } \right)

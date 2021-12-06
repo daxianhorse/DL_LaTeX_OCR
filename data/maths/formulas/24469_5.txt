@@ -1,0 +1,1 @@
+2 ^ { n - 2 } \left| 2 \ln a _ { n } - \ln 7 \right| < 1

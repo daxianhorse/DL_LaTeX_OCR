@@ -1,0 +1,1 @@
+| A F | + | B F | = \frac { 2 \sqrt { 3 } } { 3 } \mid A B

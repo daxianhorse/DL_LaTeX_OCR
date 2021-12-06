@@ -1,0 +1,1 @@
+\mathrm { A } : \mathrm { T } : \mathrm { G } : \mathrm { C } = 3 : 3 : 7 : 7

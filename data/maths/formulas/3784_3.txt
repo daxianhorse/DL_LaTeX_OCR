@@ -1,0 +1,1 @@
+\text { A . } \overrightarrow { P A } + \overrightarrow { P B } = 0

@@ -1,0 +1,1 @@
+| A B | = \sqrt { \left( \frac { \pi } { \omega } \right) ^ { 2 } + ( 2 \sqrt { 2 } ) ^ { 2 } } = \sqrt { 1 1 } < 2 \sqrt { 3 }

@@ -1,0 +1,1 @@
+\frac { 1 } { k \sqrt { k } } < \frac { 1 } { \sqrt { k } ( \sqrt { k } \cdot \sqrt { k - 1 } ) } = \frac { 1 } { \sqrt { k } } \left( \frac { 1 } { \sqrt { k - 1 } } - \frac { 1 } { \sqrt { k } } \right) \frac { 1 } { \sqrt { k } - \sqrt { k - 1 } } = \frac { \sqrt { k } + \sqrt { k - 1 } } { \sqrt { k } } \left( \frac { 1 } { \sqrt { k - 1 } } - \right.

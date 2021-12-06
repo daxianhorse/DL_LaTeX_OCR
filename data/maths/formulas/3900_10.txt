@@ -1,0 +1,1 @@
+a _ { 2 } c _ { 2 } + \cdots + a _ { 2 n } c _ { 2 n } \left( n \in \ m a t h b b { N } ^ { * } \right)

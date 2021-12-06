@@ -1,0 +1,1 @@
+| \overrightarrow { A D } | ^ { 2 } + | \overrightarrow { B C } | ^ { 2 } - | \overrightarrow { A B } | ^ { 2 } - | \overrightarrow { C D } | ^ { 2 } = ( \overrightarrow { A D } + \overrightarrow { A B } ) \cdot

@@ -1,0 +1,1 @@
+a _ { n + 1 } = \left( 1 + \frac { 1 } { n ^ { 2 } } \right) a _ { n } + \frac { 1 } { 3 ^ { n - 1 } } \leq s l a n t \left( 1 + \frac { 1 } { n ^ { 2 } } + \frac { 1 } { 3 ^ { n - 1 } } \right) a _ { n } ( n \geqslant 1 )

@@ -1,0 +1,1 @@
+\hat { y } = \dot { b } \ln x + \hat { a }

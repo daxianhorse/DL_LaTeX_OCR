@@ -1,0 +1,1 @@
+x _ { 0 } \in \left( \frac { 3 } { 2 } , \frac { 7 } { 4 } \right)

@@ -1,0 +1,1 @@
+\theta = \beta + \frac { \pi } { 2 } ( \rho > 0 )

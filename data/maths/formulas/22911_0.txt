@@ -1,0 +1,1 @@
+A = \left\{ x \mid \log _ { 2 } x < 1 \right\} , B = \{ x \mid 4 - 3 x > 0 \}

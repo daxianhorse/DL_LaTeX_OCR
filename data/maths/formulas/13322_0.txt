@@ -1,0 +1,1 @@
+\boldsymbol { a } = ( 2 , 4 ) , \boldsymbol { b } = ( - 1 , 2 )

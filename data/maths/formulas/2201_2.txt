@@ -1,0 +1,1 @@
+2 \sqrt { 1 - x ^ { 2 } } + \left| f ( x ) - 2 \sqrt { 1 - x ^ { 2 } } \right| - 2 a x - 4 = 0

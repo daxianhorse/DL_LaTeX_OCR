@@ -1,0 +1,1 @@
+( x \cdot g ( x ) - f ( x ) ) ^ { \prime } = g ( x ) + x \cdot g ^ { \prime } ( x ) - f ^ { \prime } ( x ) = x \cdot f ( x ) > 0

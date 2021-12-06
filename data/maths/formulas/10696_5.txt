@@ -1,0 +1,1 @@
+x = n , x \in [ 1 , + \infty )

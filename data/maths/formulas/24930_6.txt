@@ -1,0 +1,1 @@
+\frac { | P A | \cdot | P B | } { | D E | }

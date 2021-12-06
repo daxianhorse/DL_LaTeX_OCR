@@ -1,0 +1,1 @@
+P ( \mu - \sigma < Z \leq s l a n t \mu + \sigma ) = 0 . 6 8 2 7 , P ( \mu - 2 \sigma < Z \leq s l a n t \mu + 2 \sigma ) = 0 . 9 5 4 5

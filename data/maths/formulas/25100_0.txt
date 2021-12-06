@@ -1,0 +1,1 @@
+\sin \beta = \sin \alpha \cos ( \alpha + \beta )

@@ -1,0 +1,1 @@
+k < \frac { x + 1 } { \mathrm { e } ^ { x } - 1 } + x ( x > 0 )

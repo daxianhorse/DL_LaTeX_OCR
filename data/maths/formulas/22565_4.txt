@@ -1,0 +1,1 @@
+f ^ { \prime \prime } ( x ) - 4 | f ( x ) | + k = 0

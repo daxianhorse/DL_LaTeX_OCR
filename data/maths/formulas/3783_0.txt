@@ -1,0 +1,1 @@
+\boldsymbol { m } = \lambda \boldsymbol { n }

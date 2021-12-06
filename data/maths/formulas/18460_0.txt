@@ -1,0 +1,1 @@
+z = x + y \mathrm { i } ( x , y \in \mathbf { R } )

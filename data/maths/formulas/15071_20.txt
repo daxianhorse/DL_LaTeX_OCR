@@ -1,0 +1,1 @@
+N \left( \frac { 4 t ^ { 2 } + 3 } { 4 t ^ { 2 } - 1 } , - \frac { 1 } { t } \right)

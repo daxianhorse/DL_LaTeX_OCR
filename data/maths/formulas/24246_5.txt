@@ -1,0 +1,1 @@
+\mathbf { f } ( \mathbf { x } )

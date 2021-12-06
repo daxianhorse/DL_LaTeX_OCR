@@ -1,0 +1,1 @@
+A = : 2 , 3 , 4 , 5 ; B = \{ x \mid 2 x - 3 \geqslant 0

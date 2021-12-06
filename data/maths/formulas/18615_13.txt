@@ -1,0 +1,1 @@
+x \ln x > x \mathrm { e } ^ { - x } - \frac { 2 } { \mathrm { e } }

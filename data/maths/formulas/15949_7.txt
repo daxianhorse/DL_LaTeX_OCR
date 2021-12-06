@@ -1,0 +1,1 @@
+\left\{ \ln \frac { n } { n + 1 } \right\}

@@ -1,0 +1,1 @@
+\overrightarrow { B I } = 2 \overrightarrow { D C } , \overrightarrow { A E } = \lambda \overrightarrow { A C } - \overrightarrow { \Lambda B } ( \lambda \in \mathbf { R } )

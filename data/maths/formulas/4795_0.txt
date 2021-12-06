@@ -1,0 +1,1 @@
+a = 2 ^ { - \frac { 1 } { 2 } } , b = \log _ { \d i v } \frac { 1 } { 5 } , c = \log _ { 3 } \frac { 1 } { 4 }

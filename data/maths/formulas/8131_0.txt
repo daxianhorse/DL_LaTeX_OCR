@@ -1,0 +1,1 @@
+a = ( \cos \alpha , \sin \alpha ) , b = ( \sin \beta , \cos \beta )

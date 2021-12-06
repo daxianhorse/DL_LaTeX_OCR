@@ -1,0 +1,1 @@
+b = \frac { 2 } { 9 } a ^ { 2 } + \frac { 3 } { a } , a \in ( 3 , + \infty )

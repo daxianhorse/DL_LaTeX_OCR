@@ -1,0 +1,1 @@
+\left( \frac { 1 } { 2 } \right) ^ { 2 } \cdot \left( \frac { 3 } { 4 } \right) ^ { 2 } \cdot \cdots \left( \frac { 2 n - 1 } { 2 n } \right) ^ { 2 } \geqslant \frac { 1 } { 4 n }

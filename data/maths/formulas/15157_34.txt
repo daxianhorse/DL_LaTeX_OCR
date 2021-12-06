@@ -1,0 +1,1 @@
+b g ( x ) + ( 1 - b ) = [ g ( x ) - 1 ] \cdot b + 1 \geqslant g ( x )

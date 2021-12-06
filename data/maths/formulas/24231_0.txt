@@ -1,0 +1,1 @@
+f ( x ) = \frac { x } { \cos x } - 2 \sin x \left( - \frac { \pi } { 2 } < x < \frac { \pi } { 2 } \right)

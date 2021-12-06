@@ -1,0 +1,1 @@
+\cos ^ { 2 } \left( \frac { \omega x } { 2 } - \frac { \pi } { 4 } \right) - \sin ^ { 2 } \omega x ( \omega > 0 )

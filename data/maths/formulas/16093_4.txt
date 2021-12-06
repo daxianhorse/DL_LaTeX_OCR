@@ -1,0 +1,1 @@
+\text { ( 1 ) } A B = B C = A C ; \text { ; 2 } A D \perp B C \text { ; ( 3 ) } A C > A D > A B > B C \text { ; ( 4 ) } A C > A D > A B = B C \text { . }

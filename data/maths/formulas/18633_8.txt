@@ -1,0 +1,1 @@
+F ( x ) _ { \min } \geqslant 0

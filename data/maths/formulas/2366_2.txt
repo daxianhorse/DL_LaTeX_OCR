@@ -1,0 +1,1 @@
+\overrightarrow { A I } = \frac { 1 } { a + b + c } ( b \overrightarrow { A B } + c \overrightarrow { A C } )

@@ -1,0 +1,1 @@
+f ( x ) _ { \o p e r a t o r n a m e { m i x } } = \mathrm { e } - \frac { 1 } { \mathrm { e } } - a

@@ -1,0 +1,1 @@
+\cos 2 \alpha = \sqrt { 2 } \sin \left( \alpha - \frac { \pi } { 4 } \right) \cos ( \pi + \alpha )

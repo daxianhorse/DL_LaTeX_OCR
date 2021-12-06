@@ -1,0 +1,1 @@
+y = \mathrm { e } ^ { x + \sqrt { 3 } } - 1

@@ -1,0 +1,1 @@
+z = 2 + m i ( m \in \mathbf { R } )

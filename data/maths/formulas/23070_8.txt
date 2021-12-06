@@ -1,0 +1,1 @@
+\frac { m } { c x + d } < 0 \left( a , b , c , d , m ^ { \prime } \in \mathbf { R } \right)

@@ -1,0 +1,1 @@
+\left( a x - \frac { 2 } { x ^ { 2 } } \right) ^ { 5 }

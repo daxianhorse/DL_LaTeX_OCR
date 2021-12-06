@@ -1,0 +1,1 @@
+\left( \sin \frac { 8 \pi } { 9 } \right) ^ { - 2 } = \frac { 4 } { 3 } \times 4 \times 5

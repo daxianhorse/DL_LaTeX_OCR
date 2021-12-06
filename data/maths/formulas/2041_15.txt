@@ -1,0 +1,1 @@
+p _ { 8 } - p _ { 0 } = \sum _ { i = 0 } 4 ^ { \prime } \left( p _ { 1 } - p _ { 0 } \right) \Rightarrow p _ { 1 } = \frac { 3 } { 4 ^ { 8 } - 1 }

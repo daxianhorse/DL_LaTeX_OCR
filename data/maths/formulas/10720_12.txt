@@ -1,0 +1,1 @@
+\left( \frac { 1 } { 3 } + \frac { 1 } { 3 ^ { 2 } } + \cdots + \frac { 1 } { 3 ^ { n } } \right) = \frac { 1 } { 2 } + \frac { 1 } { 2 \cdot 3 ^ { n } } > \frac { 1 } { 2 }

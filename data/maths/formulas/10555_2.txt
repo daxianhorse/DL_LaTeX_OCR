@@ -1,0 +1,1 @@
+\overrightarrow { O N } = \frac { 1 } { 2 } ( \overrightarrow { O A } + \overrightarrow { O B } )

@@ -1,0 +1,1 @@
+\frac { \sin \alpha + 2 \cos \alpha } { 3 \cos \alpha - \sin \alpha } = 4

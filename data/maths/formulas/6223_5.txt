@@ -1,0 +1,1 @@
+\theta = \frac { 5 \pi } { 6 } ( \rho > 0 )

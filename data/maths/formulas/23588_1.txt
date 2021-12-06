@@ -1,0 +1,1 @@
+\frac { \cos ( \pi - \alpha ) } { \cos \left( \frac { \pi } { 2 } + \alpha \right) }

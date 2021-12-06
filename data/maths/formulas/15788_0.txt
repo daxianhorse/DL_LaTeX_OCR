@@ -1,0 +1,1 @@
+M = \{ x \mid x \geqslant - 2 \} , N = \left\{ x \mid 2 ^ { x } - 1 > 0 \right\}

@@ -1,0 +1,1 @@
+\overrightarrow { E _ { n } A } = \frac { 1 } { 4 } a _ { n + 1 } \overrightarrow { E _ { n } B } - \left( 3 a _ { n } + 2 \right) \overrightarrow { E _ { n } D }

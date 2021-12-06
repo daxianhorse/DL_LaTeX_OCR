@@ -1,0 +1,1 @@
+\boldsymbol { b } ( k \in \mathbf { R } ) \cdot \boldsymbol { d } = \boldsymbol { a } - \boldsymbol { b }

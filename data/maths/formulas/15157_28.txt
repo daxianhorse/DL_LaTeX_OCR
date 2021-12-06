@@ -1,0 +1,1 @@
+g ( x ) = \frac { \mathrm { e } ^ { x } + \mathrm { e } ^ { - 1 } } { 2 }

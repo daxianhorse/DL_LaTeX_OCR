@@ -1,0 +1,1 @@
+\overrightarrow { A C } \cdot \overrightarrow { B C } = 0 , | \overrightarrow { B C } | = 2 | \overrightarrow { A C } |

@@ -1,0 +1,1 @@
+\sin \left( 2 \alpha + \frac { \pi } { 1 2 } \right) = \sin \left( 2 \theta - \frac { \pi } { 4 } \right) = \frac { \sqrt { 2 } } { 2 } ( \sin 2 \theta - \cos 2 \theta )

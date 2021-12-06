@@ -1,0 +1,1 @@
+\left[ - \frac { 7 } { 2 } , - 2 \right) \cup \left( \frac { 2 } { 3 } , \frac { 7 } { 4 } \right]

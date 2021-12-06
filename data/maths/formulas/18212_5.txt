@@ -1,0 +1,1 @@
+f \left( \ln a _ { 3 } \right) + \cdots + f \left( \ln a _ { 2 0 1 9 } \right)

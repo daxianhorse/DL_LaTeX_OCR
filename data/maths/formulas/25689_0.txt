@@ -1,0 +1,1 @@
+g ( x ) = k \mathrm { e } ^ { x } - 3 x ^ { 2 } - x ^ { 3 } \ln x , f ( x ) = \frac { g ( x ) } { x ^ { 3 } }

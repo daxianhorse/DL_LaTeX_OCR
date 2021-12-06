@@ -1,0 +1,1 @@
+g ( x ) = f ( x ) \cdot x \cdot x \in \mathbf { R }

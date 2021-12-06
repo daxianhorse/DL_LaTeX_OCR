@@ -1,0 +1,1 @@
+A = \{ x \in \mathbf { R } \mid x > 0 \} , B = \left\{ x \in \mathbf { R } \mid 2 x ^ { 2 } - 3 ( 1 + \right.

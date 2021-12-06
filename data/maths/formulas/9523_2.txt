@@ -1,0 +1,1 @@
+\alpha \perp \beta , \alpha \cap \beta = n , m \subset \alpha , m \perp n

@@ -1,0 +1,1 @@
+\frac { \sin \alpha } { \sqrt { 1 - \sin ^ { 2 } \alpha } } +

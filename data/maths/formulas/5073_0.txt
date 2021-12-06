@@ -1,0 +1,1 @@
+\frac { 3 \sin \alpha - \cos \alpha } { \sin \alpha + 3 \cos \alpha } = 1

@@ -1,0 +1,1 @@
+x _ { 0 } \in \left( x _ { 1 } , \right.

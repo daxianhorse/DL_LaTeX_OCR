@@ -1,0 +1,1 @@
+t = 1 + \frac { b } { a } \in \left[ \frac { 3 } { 2 } , 3 \right]

@@ -1,0 +1,1 @@
+y = f ( t ) = R \sin ( \omega t + \varphi ) ( t \geqslant

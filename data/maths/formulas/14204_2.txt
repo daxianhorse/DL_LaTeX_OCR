@@ -1,0 +1,1 @@
+f _ { 2 } ( x ) = f \left( f _ { 1 } ( x ) \right) = \frac { x } { 3 x + 4 }

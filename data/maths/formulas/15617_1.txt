@@ -1,0 +1,1 @@
+\lim _ { h \rightarrow 1 } \frac { f \left( x _ { 0 } + h \right) - f \left( x _ { 0 } - 3 h \right) } { h }

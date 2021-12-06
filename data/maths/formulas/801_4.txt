@@ -1,0 +1,1 @@
+\forall x \in ( - \infty , 0 ) , 2 ^ { x } < 3 ^ { x }

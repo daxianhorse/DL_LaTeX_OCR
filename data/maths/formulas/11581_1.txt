@@ -1,0 +1,1 @@
+\text { A . } \frac { a } { c } > \frac { b } { d }

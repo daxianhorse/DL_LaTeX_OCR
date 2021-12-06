@@ -1,0 +1,1 @@
+x _ { 1 } , x _ { 2 } \in \left( \frac { \pi } { 3 } , \frac { 5 \pi } { 6 } \right)

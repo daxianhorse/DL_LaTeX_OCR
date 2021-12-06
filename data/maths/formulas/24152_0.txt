@@ -1,0 +1,1 @@
+\frac { c } { a } \cdot \cos A + \cos C = 1 , b = \sqrt { 2 }

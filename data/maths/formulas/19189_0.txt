@@ -1,0 +1,1 @@
+P ( X \leq s l a n t n ) = 1 - a

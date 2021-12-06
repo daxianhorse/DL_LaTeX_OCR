@@ -1,0 +1,1 @@
+\sin \frac { \pi } { 6 } \approx \sin 0 . 5 2

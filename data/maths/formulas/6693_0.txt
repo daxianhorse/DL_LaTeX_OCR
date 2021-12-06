@@ -1,0 +1,1 @@
+f ( x ) = \left( 4 ^ { m x } - n \right) ^ { 2 }

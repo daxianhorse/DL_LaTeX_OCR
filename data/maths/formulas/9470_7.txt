@@ -1,0 +1,1 @@
+a _ { 1 } a _ { 2 } \cdots a _ { n } \cdots , C ( k ) = \frac { 1 } { m } \sum _ { i = 1 } ^ { m } a _ { i } a _ { i + k } ( k =

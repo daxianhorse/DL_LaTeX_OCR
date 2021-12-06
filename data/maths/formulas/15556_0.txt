@@ -1,0 +1,1 @@
+\ln ( x + y ) = \ln \frac { x } { 2 } + \ln y

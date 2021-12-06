@@ -1,0 +1,1 @@
+a _ { 3 } \cdot a _ { 4 } \cdot a _ { 6 } \cdot a _ { 7 } = 8 1

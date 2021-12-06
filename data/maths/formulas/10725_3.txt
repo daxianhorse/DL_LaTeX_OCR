@@ -1,0 +1,1 @@
+\geqslant 2 \left( C _ { n } ^ { 1 } + C _ { n } ^ { 2 } + \cdots + C _ { n } ^ { n - 1 } \right) = 2 \left( 2 ^ { n } - 2 \right) ,

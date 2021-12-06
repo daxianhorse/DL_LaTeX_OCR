@@ -1,0 +1,1 @@
+f ( x ) = x ^ { 2 } - 3 x + \ln x + a , a \in \mathbf { R }

@@ -1,0 +1,1 @@
+( - 1 , + \infty ) , f ^ { \prime } ( x ) = \mathrm { e } ^ { x } - \frac { 1 } { x + 1 }

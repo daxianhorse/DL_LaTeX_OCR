@@ -1,0 +1,1 @@
+f ( x ) = x ^ { 2 } + a , g ( x ) = \frac { \ln x } { x } + 2 \mathrm { e } x

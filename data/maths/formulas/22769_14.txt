@@ -1,0 +1,1 @@
+f _ { \min } ( x ) \geqslant g _ { \min } ( x )

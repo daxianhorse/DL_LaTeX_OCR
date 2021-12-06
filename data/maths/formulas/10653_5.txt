@@ -1,0 +1,1 @@
+\left| b _ { 2 n } - b _ { n } \right| < \frac { 1 } { 6 4 } \cdot \frac { 1 } { 1 7 ^ { n - 2 } }

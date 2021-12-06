@@ -1,0 +1,1 @@
+\sin \frac { k \pi } { 2 } > \sin \frac { ( k - 1 ) \pi } { 2 }

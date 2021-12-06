@@ -1,0 +1,1 @@
+2 0 1 9 \cdot \left| \frac { 1 } { 3 } T _ { n } - 1 \right| > 1

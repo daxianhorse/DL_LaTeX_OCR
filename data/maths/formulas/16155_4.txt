@@ -1,0 +1,1 @@
+\left\{ x \mid - \frac { 1 } { 2 } \leq s l a n t x < 0 \right\}

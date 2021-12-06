@@ -1,0 +1,1 @@
+g ( \ln x ) + g \left( \ln \frac { 1 } { x } \right) <

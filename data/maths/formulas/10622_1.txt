@@ -1,0 +1,1 @@
+S _ { n } = a _ { 1 } ^ { 2 } a _ { 2 } ^ { 2 } + a _ { 2 } ^ { 2 } a _ { 3 } ^ { 2 } + \cdots + a _ { n } ^ { 2 } a _ { n + 1 } ^ { 2 } = \frac { 1 } { 4 } \left[ \left( \frac { 1 } { 1 } - \frac { 1 } { 5 } \right) + \left( \frac { 1 } { 5 } - \frac { 1 } { 9 } \right) + \cdots + \left( \frac { 1 } { 4 n - 3 } - \frac { 1 } { 4 n + 1 } \right) \right]

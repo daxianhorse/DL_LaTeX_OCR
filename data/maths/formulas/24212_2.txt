@@ -1,0 +1,1 @@
+\text { C . } ( \sin \theta + \cos \theta ) ^ { a } < ( \sin \theta + \cos \theta ) ^ { b }

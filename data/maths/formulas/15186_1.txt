@@ -1,0 +1,1 @@
+1 \cdot \left( x \cdot x ^ { 2 } \cdot \cdot \cdot \cdot \right) ^ { n }

@@ -1,0 +1,1 @@
+y = \mathrm { e } ^ { k x + b }

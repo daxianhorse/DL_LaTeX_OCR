@@ -1,0 +1,1 @@
+g ^ { \prime } ( x ) = \frac { 2 - a \left( 1 - x ^ { 2 } \right) } { ( 1 - x ) ^ { 2 } \mathrm { e } ^ { a x } } \geqslant 0

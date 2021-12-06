@@ -1,0 +1,1 @@
+b _ { n } = a _ { n } ^ { 2 } + \log _ { 2 } a _ { n } \Rightarrow b _ { n } = 4 ^ { n - 1 } + n - 1

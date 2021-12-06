@@ -1,0 +1,1 @@
+\frac { 3 } { 2 } f ^ { \prime } \left( x _ { 0 } \right)

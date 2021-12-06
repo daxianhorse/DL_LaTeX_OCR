@@ -1,0 +1,1 @@
+| B D | | \cos \langle \overrightarrow { A C } \cdot \overrightarrow { B D } \rangle |

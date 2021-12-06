@@ -1,0 +1,1 @@
+| \boldsymbol { u } + \boldsymbol { v } | = | \boldsymbol { u } - \boldsymbol { v } |

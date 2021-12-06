@@ -1,0 +1,1 @@
+\overrightarrow { B O } = x \overrightarrow { A B } + y \overrightarrow { A C }

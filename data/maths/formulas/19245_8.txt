@@ -1,0 +1,1 @@
+\ne g p : \forall n \in \mathbf { N } , 2 ^ { n } \leq s l a n t 1 0 0 0

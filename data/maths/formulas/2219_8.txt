@@ -1,0 +1,1 @@
+y = \left( 1 + \ln x _ { 0 } \right) x - x _ { 0 }

@@ -1,0 +1,1 @@
+\text { ( 3 ) } \sqrt { 3 } ( c \cos B - a ) = b \sin C

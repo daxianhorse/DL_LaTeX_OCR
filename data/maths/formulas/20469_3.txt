@@ -1,0 +1,1 @@
+S = S + \log _ { 2 } \sqrt { \frac { i + 1 } { i } }

@@ -1,0 +1,1 @@
+\text { B . } \boldsymbol { e } _ { 1 } = ( - 1 , 3 ) , \boldsymbol { e } _ { 2 } = ( 2 , - 6 )

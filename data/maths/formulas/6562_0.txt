@@ -1,0 +1,1 @@
+\left( \l g x + \frac { 4 } { \l g x } \right) _ { \min } = 4 , x \in ( 1 , 2 0 )

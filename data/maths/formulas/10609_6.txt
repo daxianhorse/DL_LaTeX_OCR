@@ -1,0 +1,1 @@
+\lim _ { n \rightarrow \infty } a _ { n } = \lim _ { n - \cdots } \left( c - \frac { 1 } { a _ { n } } \right) \Rightarrow x _ { 0 } = c - \frac { 1 } { x _ { 0 } }

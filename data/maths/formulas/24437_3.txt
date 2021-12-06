@@ -1,0 +1,1 @@
+\text { A . } \ e x i s t s x \in \mathbf { R } , x \geqslant [ x ] + 1

@@ -1,0 +1,1 @@
+\sin 1 \leq s l a n t f ( x ) + f ( x + 1 ) \leq s l a n t 2 \cos \frac { 1 } { 2 } ;

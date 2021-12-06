@@ -1,0 +1,1 @@
+\left| b _ { n } - a _ { n } \right| \leq s l a n t \frac { 1 } { 8 ^ { n - 3 } } \left| b _ { 1 } - a _ { 1 } \right| , n = 1 , 2 , 3 , \cdots

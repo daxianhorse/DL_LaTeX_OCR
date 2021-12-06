@@ -1,0 +1,1 @@
+\ln x - a x \left( a > \frac { 1 } { 2 } \right)

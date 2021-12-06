@@ -1,0 +1,1 @@
+\mathrm { X } \rightarrow \mathrm { A } \rightarrow \mathrm { Y }

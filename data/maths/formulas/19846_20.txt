@@ -1,0 +1,1 @@
+a _ { n } \overrightarrow { C A } + b _ { n } \overrightarrow { C B }

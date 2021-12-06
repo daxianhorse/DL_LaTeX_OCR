@@ -1,0 +1,1 @@
+f ( t x ) \geqslant t f ( x ) + f ( t m )

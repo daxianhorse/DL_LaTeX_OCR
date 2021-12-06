@@ -1,0 +1,1 @@
+\left. 2 a _ { n } \right) = \left( \frac { 3 - a _ { n } } { 2 } \right) ^ { 2 } \left( 3 - 2 \cdot \frac { 3 - a _ { n } } { 2 } \right) - a _ { n } ^ { 2 } \left( 3 - 2 a _ { n } \right) = \frac { 9 a _ { n } } { 4 } \left( a _ { n } - 1 \right) ^ { 2 } > 0

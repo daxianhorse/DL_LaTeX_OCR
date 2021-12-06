@@ -1,0 +1,1 @@
+h \left( \frac { 1 } { \sqrt { 2 a } } \right) = \frac { \ln ( 2 a ) - 1 } { 2 }

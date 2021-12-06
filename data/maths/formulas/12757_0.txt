@@ -1,0 +1,1 @@
+f ( x ) = 2 ^ { \prime } - 4 ( x \geqslant 0 )

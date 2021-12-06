@@ -1,0 +1,1 @@
+\mathrm { S } \rightarrow \mathrm { E S } \rightarrow \mathrm { E } + \mathrm { M }

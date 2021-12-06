@@ -1,0 +1,1 @@
+\forall t \in [ - 1 , 1 ] , 4 t ^ { 2 } - 3 a t - 5 \leq s l a n t 0

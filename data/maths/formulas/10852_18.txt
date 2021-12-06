@@ -1,0 +1,1 @@
+\tan \beta = \frac { k _ { P F _ { 1 } } - k _ { P B } } { 1 + k _ { P F _ { 1 } } k _ { P B } }

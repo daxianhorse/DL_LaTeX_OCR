@@ -1,0 +1,1 @@
+f ( x ) \leq s l a n t \frac { x } { a x + 1 }

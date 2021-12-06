@@ -1,0 +1,1 @@
+\mathrm { X } ^ { \mathrm { A b } } \mathrm { X } ^ { \mathrm { a B } }

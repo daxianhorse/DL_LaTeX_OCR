@@ -1,0 +1,1 @@
+p \neq 0 , a \cdot p = x \cdot p \Rightarrow a = x ^ { 3 ! }

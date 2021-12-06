@@ -1,0 +1,1 @@
+c \sin A = \sqrt { 3 } a \cos C

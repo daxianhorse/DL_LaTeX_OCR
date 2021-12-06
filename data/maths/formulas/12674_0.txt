@@ -1,0 +1,1 @@
+x \in \left( \mathrm { e } ^ { - 1 } , 1 \right) , a = \ln x , b = 2 \ln x , c = \ln ^ { 3 } x

@@ -1,0 +1,1 @@
+\sqrt { 2 } a _ { 1 } - 1 , \sqrt { 2 } a _ { 2 } - 1 , \sqrt { 2 } a _ { 3 } - 1 , \cdots , \sqrt { 2 } a _ { n } - 1

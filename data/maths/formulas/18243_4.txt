@@ -1,0 +1,1 @@
+z = \left( \frac { 1 } { 4 } \right) ^ { x } \cdot \left( \frac { 1 } { 2 } \right) ^ { y }

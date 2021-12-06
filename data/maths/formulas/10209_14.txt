@@ -1,0 +1,1 @@
+\sum _ { i = 1 } ^ { 1 2 } \left( v _ { i } - \bar { v } \right) ^ { 2 }

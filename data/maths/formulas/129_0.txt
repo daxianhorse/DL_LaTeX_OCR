@@ -1,0 +1,1 @@
+c = 2 \sqrt { 3 } , 2 \sin \left( 2 C - \frac { \pi } { 3 } \right) = \sqrt { 3 }

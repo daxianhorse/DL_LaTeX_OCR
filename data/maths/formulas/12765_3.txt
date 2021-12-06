@@ -1,0 +1,1 @@
+\mathcal { v } = f ( x )

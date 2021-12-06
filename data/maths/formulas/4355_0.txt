@@ -1,0 +1,1 @@
+\left( a x ^ { 2 } + \frac { b } { x } \right) ^ { 6 }

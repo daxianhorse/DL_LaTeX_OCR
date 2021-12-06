@@ -1,0 +1,1 @@
+f ^ { \prime } ( x ) = - \frac { a ( x + r ) ( x - r ) } { ( x + r ) ^ { \prime } }

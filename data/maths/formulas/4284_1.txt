@@ -1,0 +1,1 @@
+P \left( \xi _ { 1 } = 1 \right) = p _ { i }

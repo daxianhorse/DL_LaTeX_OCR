@@ -1,0 +1,1 @@
+\overrightarrow { A P } \cdot \overrightarrow { B P } = ( \overrightarrow { A D } + \overrightarrow { D P } ) \cdot ( \overrightarrow { B C } + \overrightarrow { C P } ) = \overrightarrow { A D } ^ { 2 } -

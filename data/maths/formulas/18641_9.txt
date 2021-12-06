@@ -1,0 +1,1 @@
+( - \infty , + \infty ) , f ^ { \prime } ( x ) = \mathrm { e } ^ { x } - a

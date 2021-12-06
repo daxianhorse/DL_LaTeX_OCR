@@ -1,0 +1,1 @@
+\frac { x ^ { 2 } } { 2 + \lambda } - \frac { y ^ { 2 } } { 1 + \lambda } = 1

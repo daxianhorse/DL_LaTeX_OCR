@@ -1,0 +1,1 @@
+\{ x \mid x < 0 \mathrm { H } \cdot x \neq - 1 \}

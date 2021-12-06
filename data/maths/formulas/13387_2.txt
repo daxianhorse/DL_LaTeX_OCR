@@ -1,0 +1,1 @@
+p : | \boldsymbol { a } - \boldsymbol { b } | > 1 \Leftrightarrow 0 \in \left[ 0 , \frac { \pi } { 3 } \right)

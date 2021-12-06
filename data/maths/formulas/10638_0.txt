@@ -1,0 +1,1 @@
+x ^ { 2 } - \left( 3 k + 2 ^ { k } \right) x + 3 k \cdot 2 ^ { k } = 0

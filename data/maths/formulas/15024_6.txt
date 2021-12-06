@@ -1,0 +1,1 @@
+\left. ( | x | ) \right| _ { x = m } > \left. \left( x ^ { 2 } - 2 m x + 4 m \right) \right| _ { x = m }

@@ -1,0 +1,1 @@
+\cos \beta = \cos \ a n g l e A B N = \cos \ a n g l e C B A \cdot \cos \ a n g l e C B N = \frac { \sqrt { 2 } } { 2 } \cdot \sin \theta

@@ -1,0 +1,1 @@
+\boldsymbol { a } _ { k } = \left( \cos \frac { k \pi } { 6 } , \sin \frac { k \pi } { 6 } + \cos \frac { k \pi } { 6 } \right) ( k = 0

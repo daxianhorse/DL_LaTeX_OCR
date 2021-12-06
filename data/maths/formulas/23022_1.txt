@@ -1,0 +1,1 @@
+\forall x > 0 , x + \frac { 1 6 } { x } \geqslant 5 - m "

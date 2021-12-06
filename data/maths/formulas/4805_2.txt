@@ -1,0 +1,1 @@
+a = f \left( \frac { 1 } { 2 } \log _ { \sqrt { 2 } } 3 \right)

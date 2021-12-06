@@ -1,0 +1,1 @@
+\mathrm { F } _ { 1 } ( \hat { \delta } ) \times \mathrm { P } _ { 1 } ( \underline { q } )

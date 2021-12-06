@@ -1,0 +1,1 @@
+\lambda \prod _ { i = 1 } ^ { n } a _ { i } > 1 \Leftrightarrow \lambda \left( 1 - \frac { 1 } { 3 ^ { 1 } } \right) \left( 1 - \frac { 1 } { 3 ^ { 2 } } \right) \cdots \left( 1 - \frac { 1 } { 3 ^ { n } } \right) > 1

@@ -1,0 +1,1 @@
+g \left( x _ { 1 } \right) > \frac { 1 } { \left( x _ { 1 } - 1 \right) ^ { 2 } } \geqslant a

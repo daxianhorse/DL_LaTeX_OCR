@@ -1,0 +1,1 @@
+\overrightarrow { \Lambda B } + \overrightarrow { \Lambda C } = m \overrightarrow { A M }

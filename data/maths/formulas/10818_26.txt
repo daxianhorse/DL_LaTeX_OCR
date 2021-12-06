@@ -1,0 +1,1 @@
+\overrightarrow { M P } = \left( - \frac { 4 k } { m } - x _ { 1 } , \frac { 3 } { m } \right) , \overrightarrow { M Q } = \left( 4 - x _ { 1 } , 4 k + m \right)

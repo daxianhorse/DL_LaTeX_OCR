@@ -1,0 +1,1 @@
+\mathrm { e } ^ { \alpha } = \alpha + 2

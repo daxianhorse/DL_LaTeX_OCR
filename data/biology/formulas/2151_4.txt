@@ -1,0 +1,1 @@
+\frac { \mathrm { D } } { \mathrm { D } _ { 0 } }

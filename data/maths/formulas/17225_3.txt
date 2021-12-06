@@ -1,0 +1,1 @@
+x ^ { 3 } - 3 m ^ { 2 } x - 2 m ( m \geqslant 1 )

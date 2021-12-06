@@ -1,0 +1,1 @@
+\frac { a \left( b ^ { 2 } + c ^ { 2 } - a ^ { 2 } \right) } { c \left( b ^ { 2 } + a ^ { 2 } - c ^ { 2 } \right) }

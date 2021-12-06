@@ -1,0 +1,1 @@
+f ( x ) = \l g \frac { 8 ^ { i } + 4 ^ { x } + a \cdot 2 ^ { . } } { 2 ^ { x } } , a \in \mathbf { R }

@@ -1,0 +1,1 @@
+| \boldsymbol { a } + \boldsymbol { b } | = m | \boldsymbol { a } | = m | \boldsymbol { b } | , m \in [ 1 , \sqrt { 3 } ]

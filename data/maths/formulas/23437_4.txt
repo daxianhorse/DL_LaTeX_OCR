@@ -1,0 +1,1 @@
+b \mathrm { e } ^ { a } > a \mathrm { e } ^ { b }

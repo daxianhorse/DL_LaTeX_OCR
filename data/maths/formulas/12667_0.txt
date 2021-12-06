@@ -1,0 +1,1 @@
+a = \log _ { . 5 } 4 , b = \left( \log _ { . 3 } 3 \right) ^ { 2 } , c = \log _ { 1 } 5

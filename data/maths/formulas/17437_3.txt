@@ -1,0 +1,1 @@
+\sqrt { 2 } , b ( \sin B - \sqrt { 2 } \sin C ) = ( a + c ) ( \sin A - \sin C )

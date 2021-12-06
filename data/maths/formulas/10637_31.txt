@@ -1,0 +1,1 @@
+\left| T _ { n } \right| = \left| T _ { 4 m } + d _ { 4 m + 1 } \right| = 4 m + 4 = n + 3 < 2 n ^ { 2 }

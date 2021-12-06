@@ -1,0 +1,1 @@
+| F A | = \frac { 4 } { 1 - \cos \alpha }

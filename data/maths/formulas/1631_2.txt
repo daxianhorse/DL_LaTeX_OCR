@@ -1,0 +1,1 @@
+= ( 2 \sin \alpha , 5 \sin \alpha - 4 \cos \alpha )

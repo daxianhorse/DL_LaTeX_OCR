@@ -1,0 +1,1 @@
+f ( x ) = f ^ { \prime } \left( \frac { \pi } { 4 } \right) \cos x + \sin x

@@ -1,0 +1,1 @@
+\left( \frac { c } { 2 } \ln \frac { 2 } { e } , + ( x ) \right)

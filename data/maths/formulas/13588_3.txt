@@ -1,0 +1,1 @@
+S _ { n i 1 } = 4 a _ { n } + 2 \left( n \in \mathbf { N } ^ { \prime } \right)

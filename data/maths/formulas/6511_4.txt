@@ -1,0 +1,1 @@
+\left( \frac { a } { b } \right) ^ { r } > \left( \frac { b } { a } \right) ^ { r }

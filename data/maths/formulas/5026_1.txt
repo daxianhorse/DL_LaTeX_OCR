@@ -1,0 +1,1 @@
+\forall m \in ( 0 , \mathrm { e } )

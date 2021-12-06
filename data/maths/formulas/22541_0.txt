@@ -1,0 +1,1 @@
+\left| x - \sqrt { 4 - y ^ { 2 } } \right| + \left| y + \sqrt { 4 - x ^ { 2 } } \right| = 0

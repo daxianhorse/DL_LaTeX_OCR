@@ -1,0 +1,1 @@
+p : \forall x \in ( 0 , \pi ) , \tan x > \sin x

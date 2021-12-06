@@ -1,0 +1,1 @@
+f ( x ) = x \l g \left( m x + \sqrt { x ^ { 2 } + 1 } \right)

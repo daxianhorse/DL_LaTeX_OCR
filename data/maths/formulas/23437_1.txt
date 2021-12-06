@@ -1,0 +1,1 @@
+\mathrm { e } ^ { \prime \prime } - \mathrm { e } ^ { a } < \ln b - \ln a

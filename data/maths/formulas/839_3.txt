@@ -1,0 +1,1 @@
+2 R \left( \sin ^ { 2 } B - \sin ^ { 2 } A \right) = ( a + c ) \sin C

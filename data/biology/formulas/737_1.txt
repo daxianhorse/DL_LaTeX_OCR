@@ -1,0 +1,1 @@
+\mathrm { A } / \mathrm { a } , \mathrm { B } _ { 1 } / \mathrm { B } _ { 2 } , \mathrm { D } _ { 1 } / \mathrm { D } _ { 2 }

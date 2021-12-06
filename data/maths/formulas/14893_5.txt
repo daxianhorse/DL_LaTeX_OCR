@@ -1,0 +1,1 @@
+\ln \left( a _ { 1 } + a _ { 2 } + a _ { 3 } \right) = \ln \left( a _ { 1 } ( 1 + q ( q + 1 ) ) \right) > \ln a _ { 1 } > 0

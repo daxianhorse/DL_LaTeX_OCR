@@ -1,0 +1,1 @@
+\left( m ^ { 2 } + 4 \right) y ^ { 2 } - 2 \sqrt { 3 } m y - 1 = 0

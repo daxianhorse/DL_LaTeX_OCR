@@ -1,0 +1,1 @@
+2 \overrightarrow { O A } + \overrightarrow { A B } + \overrightarrow { A C } = 0

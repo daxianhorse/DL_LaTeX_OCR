@@ -1,0 +1,1 @@
+m = \log _ { a } \left( a ^ { 2 } + 1 \right)

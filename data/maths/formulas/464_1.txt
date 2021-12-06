@@ -1,0 +1,1 @@
+\cos 2 x , g ( x ) = \sin \left( 2 x + \frac { \pi } { 5 } \right) , h ( x ) = \cos \left( x - \frac { \pi } { 7 } \right)

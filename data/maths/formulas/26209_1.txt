@@ -1,0 +1,1 @@
+B = \left\{ x \mid x ^ { 2 } \leq 4 ( x - 1 ) \right\}

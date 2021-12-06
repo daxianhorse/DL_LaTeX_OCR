@@ -1,0 +1,1 @@
+\boldsymbol { u } = \lambda \boldsymbol { v }

@@ -1,0 +1,1 @@
+g ( x ) _ { \max } = g ( \mathrm { e } ) = \frac { 1 } { \mathrm { e } } , g ( x ) + \frac { 1 } { 2 } \leq s l a n t g ( x ) _ { \o p e r a t o r n a m e { m i x } } + \frac { 1 } { 2 } =

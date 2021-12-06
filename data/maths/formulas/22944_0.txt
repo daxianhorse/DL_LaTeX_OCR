@@ -1,0 +1,1 @@
+\overrightarrow { O T } = 2 \overrightarrow { O M } + \sqrt { 2 } \overrightarrow { O N }

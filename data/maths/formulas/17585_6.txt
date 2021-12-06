@@ -1,0 +1,1 @@
+\left| S _ { n } - 1 \right| < \frac { 1 0 0 } { 2 7 n \cdot 2 ^ { n } }

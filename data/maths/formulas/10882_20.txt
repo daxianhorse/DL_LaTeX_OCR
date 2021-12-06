@@ -1,0 +1,1 @@
+| F P | - | F P | \cos 2 \alpha = \frac { 4 } { \sin ^ { 2 } \alpha } ( 1 - \cos 2 \alpha ) = \frac { 4 \times 2 \sin ^ { 2 } \alpha } { \sin ^ { 2 } \alpha } = 8

@@ -1,0 +1,1 @@
+p ^ { \prime } = \ln ( 1 + p ) - \frac { 2 } { 3 } p

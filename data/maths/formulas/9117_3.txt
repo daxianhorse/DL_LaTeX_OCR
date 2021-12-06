@@ -1,0 +1,1 @@
+\overrightarrow { F G } = 2 \overrightarrow { G E }

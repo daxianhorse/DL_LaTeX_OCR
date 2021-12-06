@@ -1,0 +1,1 @@
+n = ( \cos \omega x , - 1 )

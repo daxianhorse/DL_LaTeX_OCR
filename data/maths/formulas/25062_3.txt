@@ -1,0 +1,1 @@
+\frac { c \cos B } { b \cos C } = \frac { \sin ^ { 2 } C } { \sin ^ { 2 } B }

@@ -1,0 +1,1 @@
+f ( x ) = \sin ^ { 2 } \frac { \omega x } { 2 } + \frac { 1 } { 2 } \sin \omega \cdot x - \frac { 1 } { 2 } ( \omega > 0 )

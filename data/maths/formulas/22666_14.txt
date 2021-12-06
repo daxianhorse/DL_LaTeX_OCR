@@ -1,0 +1,1 @@
+0 < \log _ { a } x \ll x ^ { m } \ll x ^ { n } \ll b ^ { x } , a , b \in ( 1 , + \infty ) , n > m > 0

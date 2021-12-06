@@ -1,0 +1,1 @@
+| M B | = \frac { 3 } { 2 - \cos \theta }

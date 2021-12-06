@@ -1,0 +1,1 @@
+\text { 4 . } \left( 1 - x ^ { 2 } \right) \left( x - \frac { 1 } { x } \right) ^ { 0 }

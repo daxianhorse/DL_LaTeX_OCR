@@ -1,0 +1,1 @@
+f ( x ) = 2 ^ { \prime } + \frac { a } { 2 ^ { \prime } } ( x \in \mathbf { R } )

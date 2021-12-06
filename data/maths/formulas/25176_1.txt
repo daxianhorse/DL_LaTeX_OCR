@@ -1,0 +1,1 @@
+f ( \ln a ) + 2 f \left( \ln \frac { 1 } { a } \right) \geqslant

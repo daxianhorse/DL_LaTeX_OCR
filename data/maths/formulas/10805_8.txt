@@ -1,0 +1,1 @@
+S _ { \triangle A F _ { 2 } B } = \frac { 1 } { 2 } \times 2 \sqrt { 3 } \left| y _ { 1 } - y _ { 2 } \right| = \sqrt { 3 } \times \frac { \sqrt { 1 2 m ^ { 2 } + 4 \left( m ^ { 2 } + 4 \right) } } { m ^ { 2 } + 4 }

@@ -1,0 +1,1 @@
+\overrightarrow { F _ { 1 } P } \cdot \overrightarrow { F _ { 1 } Q } = \left( x _ { 1 } + 1 \right) \left( x _ { 2 } + 1 \right) + y _ { 1 } y _ { 2 } = \left( \frac { y _ { 1 } ^ { 2 } } { 4 } + 1 \right) \left( \frac { y _ { 2 } ^ { 2 } } { 4 } + 1 \right) + y _ { 1 } y _ { 2 } =

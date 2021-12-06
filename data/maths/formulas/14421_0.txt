@@ -1,0 +1,1 @@
+\mathrm { V } \left( \mu \cdot \sigma ^ { 2 } \right)

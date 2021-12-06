@@ -1,0 +1,1 @@
+\left( \frac { 3 } { \sqrt { a } } - \sqrt [ 3 ] { a } \right) ^ { n }

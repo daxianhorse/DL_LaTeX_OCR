@@ -1,0 +1,1 @@
+f ( x ) > k \left( x + \frac { x ^ { 3 } } { 3 } \right)

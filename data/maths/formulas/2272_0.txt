@@ -1,0 +1,1 @@
+f ( x ) = \ln x + x , g ( x ) = x \mathrm { e } ^ { x } - 1

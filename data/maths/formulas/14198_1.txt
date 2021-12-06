@@ -1,0 +1,1 @@
+\left( 2 x + \frac { 1 } { 2 } \right) ^ { \prime \prime } - \left( 3 x + \frac { 1 } { 3 } \right) ^ { \prime \prime } = a _ { 1 1 } +

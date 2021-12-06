@@ -1,0 +1,1 @@
+b _ { n } = \frac { 3 n - 1 } { \left| a _ { n } \right| }

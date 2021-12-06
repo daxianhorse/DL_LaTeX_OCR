@@ -1,0 +1,1 @@
+A B = 2 A C = 6 , \overrightarrow { B A } \cdot \overrightarrow { B C } = \overrightarrow { B A } ^ { 2 }

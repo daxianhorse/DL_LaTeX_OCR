@@ -1,0 +1,1 @@
+S _ { \triangle A P F } = S _ { \triangle A F F _ { 1 } } - S _ { \triangle P F F _ { 1 } } = \frac { 1 } { 2 } \times 6 \times 6 \sqrt { 6 } - \frac { 1 } { 2 } \times 6 \times 2 \sqrt { 6 } = 1 2 \sqrt { 6 }

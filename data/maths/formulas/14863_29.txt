@@ -1,0 +1,1 @@
+\alpha _ { m } = \left( x _ { m 1 } , x _ { m 2 } , \cdots , x _ { m n } \right)

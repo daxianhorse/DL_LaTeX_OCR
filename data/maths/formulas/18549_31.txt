@@ -1,0 +1,1 @@
+\cos \alpha = \frac { | ( - \cos \theta , - \sin \theta , 1 ) \cdot ( 0 , 1 , 0 ) | } { | a | | \overrightarrow { A B } | } = \frac { \sqrt { 2 } } { 2 } | \sin \theta | \in \left[ 0 , \frac { \sqrt { 2 } } { 2 } \right]

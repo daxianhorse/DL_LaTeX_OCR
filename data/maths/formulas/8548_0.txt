@@ -1,0 +1,1 @@
+p : \forall x \in ( 0 , + \infty ) , x ^ { \frac { 1 } { 3 } } \neq x ^ { \frac { 1 } { 3 } }

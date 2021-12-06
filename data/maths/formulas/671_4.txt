@@ -1,0 +1,1 @@
+a _ { 3 } \overrightarrow { O A } + a _ { 9 8 } \overrightarrow { O C }

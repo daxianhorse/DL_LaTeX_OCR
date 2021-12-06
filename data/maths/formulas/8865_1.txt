@@ -1,0 +1,1 @@
+3 \overrightarrow { P A } + 5 \overrightarrow { P B } + 2 \overrightarrow { P C } = 0

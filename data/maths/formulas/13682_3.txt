@@ -1,0 +1,1 @@
+( a + b ) \left( a ^ { \prime } + b ^ { \prime } \right) \geqslant 4

@@ -1,0 +1,1 @@
+x _ { n } \leq s l a n t 2 x _ { n + 1 }

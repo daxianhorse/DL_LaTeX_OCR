@@ -1,0 +1,1 @@
+\lambda > 0 , f ^ { \prime } ( x ) = \frac { - \lambda x ^ { 2 } + ( 1 - 2 \lambda ) x } { ( x + 1 ) ^ { 2 } }

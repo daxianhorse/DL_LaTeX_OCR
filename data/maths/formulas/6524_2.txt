@@ -1,0 +1,1 @@
+( x - a ) \left( x ^ { 2 } + b x - a \right) \geqslant 0

@@ -1,0 +1,1 @@
+2 ^ { x y } \cdot 2 ^ { y z } \cdot 2 ^ { x z }

@@ -1,0 +1,1 @@
+f ( x ) _ { \min } = f \left( \frac { 1 } { 2 } \right) > 0

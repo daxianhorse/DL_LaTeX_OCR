@@ -1,0 +1,1 @@
+2 \overrightarrow { G A } + \overrightarrow { A B } + \overrightarrow { A C } = 0

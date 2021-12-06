@@ -1,0 +1,1 @@
+q ^ { \prime } \left( x _ { 2 } \right) = q ^ { \prime } \left( x _ { 1 } \right)

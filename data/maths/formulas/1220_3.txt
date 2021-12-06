@@ -1,0 +1,1 @@
+2 f ( x ) < x f ^ { \prime } ( x ) < 3 f ^ { \prime } ( x )

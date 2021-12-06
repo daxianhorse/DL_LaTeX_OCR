@@ -1,0 +1,1 @@
+\frac { 2 ^ { 2 n } + 2 ^ { 2 n - 1 } } { 2 ^ { 4 n - 1 } } = \frac { 1 } { 2 ^ { 2 n - 1 } } + \frac { 1 } { 2 ^ { 2 n } } , \sum _ { k = 1 } ^ { 2 n } b _ { k } = \left( b _ { 1 } + b _ { 2 } \right) + \cdots + \left( b _ { 2 n - 1 } + b _ { 2 n } \right) < \left( \frac { 1 } { 2 } + \frac { 1 } { 2 ^ { 2 } } \right) + \cdots +

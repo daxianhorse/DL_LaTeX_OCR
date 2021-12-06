@@ -1,0 +1,1 @@
+s = s \cdot \log _ { k } ( k + 1 )

@@ -1,0 +1,1 @@
+\theta = \alpha + \frac { \pi } { 6 } \in \left( \frac { \pi } { 6 } , \frac { 2 \pi } { 3 } \right)

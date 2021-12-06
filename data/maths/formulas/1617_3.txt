@@ -1,0 +1,1 @@
+| \boldsymbol { a } + \cdot x \boldsymbol { b } | \geqslant | \boldsymbol { a } + \boldsymbol { b } |

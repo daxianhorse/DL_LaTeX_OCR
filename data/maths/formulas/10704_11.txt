@@ -1,0 +1,1 @@
+a _ { k + 1 } = c a _ { k } ^ { 3 } + 1 - c \leq s l a n t c + 1 - c = 1 ,

@@ -1,0 +1,1 @@
+S _ { \triangle B M N } = \frac { 1 } { 2 } S _ { \triangle + C B }

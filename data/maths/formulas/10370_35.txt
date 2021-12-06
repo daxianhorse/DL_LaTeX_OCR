@@ -1,0 +1,1 @@
+C D \mid = \frac { b ^ { 2 } \cdot 2 a } { a ^ { 2 } - c ^ { 2 } \sin ^ { 2 } \theta } = \frac { 4 \sqrt { 2 } } { 2 - \sin ^ { 2 } \theta }

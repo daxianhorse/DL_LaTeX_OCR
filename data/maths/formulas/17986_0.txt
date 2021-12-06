@@ -1,0 +1,1 @@
+p \left( 0 < p < \frac { 1 } { 1 0 } \right)

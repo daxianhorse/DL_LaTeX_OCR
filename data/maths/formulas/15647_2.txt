@@ -1,0 +1,1 @@
+a = 2 f ( \ln 2 ) , b = \mathrm { e } f ( 1 ) , c = f ( 0 )

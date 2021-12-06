@@ -1,0 +1,1 @@
+f ( x ) = A \sin ( x + \theta ) - \cos \frac { x } { 2 } \cdot \cos \left( \frac { \pi } { 6 } - \frac { x } { 2 } \right)

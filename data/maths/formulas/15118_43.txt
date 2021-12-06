@@ -1,0 +1,1 @@
+\frac { 1 } { 2 } B C \cdot \sqrt { A C ^ { 2 } - B C ^ { 2 } } = \frac { 9 \sqrt { 3 } } { 2 }

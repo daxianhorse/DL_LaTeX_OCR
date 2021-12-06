@@ -1,0 +1,1 @@
+f ( x ) = \frac { m \mathrm { e } ^ { x } } { x } + \ln x - x ( m \in \mathbf { R } )

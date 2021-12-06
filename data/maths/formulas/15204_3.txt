@@ -1,0 +1,1 @@
+\frac { a \l g a } { ( 1 - a ) ^ { 2 } } \left[ 1 - ( 1 + n - n a ) a ^ { n } \right] \left( n \in \mathbf { N } ^ { * } \right)

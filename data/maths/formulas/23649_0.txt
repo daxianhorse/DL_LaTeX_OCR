@@ -1,0 +1,1 @@
+\dot { y } = \hat { b } t + \hat { a }

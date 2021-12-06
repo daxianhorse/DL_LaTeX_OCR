@@ -1,0 +1,1 @@
+z = r ( \cos \theta + \mathrm { i } \sin \theta )

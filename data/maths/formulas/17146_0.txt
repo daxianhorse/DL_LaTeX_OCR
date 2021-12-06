@@ -1,0 +1,1 @@
+\left( x ^ { 2 } - 2 x - 3 \right) f ^ { \prime } ( x ) \leq s l a n t 0

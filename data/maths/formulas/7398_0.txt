@@ -1,0 +1,1 @@
+\left\{ n ( n + 4 ) \left( \frac { 2 } { 3 } \right) ^ { n } \right\}

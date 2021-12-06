@@ -1,0 +1,1 @@
+f ( x ) = \cos \left( \frac { 3 } { 2 } x + \varphi \right)

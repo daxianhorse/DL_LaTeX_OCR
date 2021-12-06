@@ -1,0 +1,1 @@
+\left| f ^ { \prime } ( x ) \right| = | - 2 \alpha \sin 2 x - ( \alpha - 1 ) \sin x | \leq s l a n t 2 \alpha + | \alpha - 1 |

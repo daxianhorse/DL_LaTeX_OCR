@@ -1,0 +1,1 @@
+\ a n g l e B = \ a n g l e F = 9 0 ^ { \circ } , \ a n g l e A = 6 0 ^ { \circ } , \ a n g l e D = 4 5 ^ { \circ }

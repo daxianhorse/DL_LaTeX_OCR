@@ -1,0 +1,1 @@
+- \left( - 2 0 n + \frac { n ( n - 1 ) } { 2 } \cdot 3 \right) = \frac { 4 3 n - 3 n ^ { 2 } } { 2 }

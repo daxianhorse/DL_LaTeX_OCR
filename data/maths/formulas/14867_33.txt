@@ -1,0 +1,1 @@
+- \frac { 7 } { 4 \sqrt { 3 } } ( 1 - \tan \gamma \tan \delta ) + \frac { 1 } { 4 } ( \tan \gamma + \tan \delta ) = 1 + \tan \gamma \tan \delta

@@ -1,0 +1,1 @@
+a _ { 1 } = 1 , \frac { 2 S _ { n } } { n } = a _ { n + 1 } - \frac { 1 } { 3 } n ^ { 2 } - n - \frac { 2 } { 3 } , n \in \mathbf { N } ^ { * }

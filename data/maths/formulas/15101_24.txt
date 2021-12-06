@@ -1,0 +1,1 @@
+\leq s l a n t \left| a - a _ { 0 } \right| \cdot | t | + \left| b - b _ { 0 } \right|

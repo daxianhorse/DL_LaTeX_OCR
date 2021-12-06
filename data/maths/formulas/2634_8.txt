@@ -1,0 +1,1 @@
+\left( - \frac { b \cos \alpha } { a \sin \alpha } \right) \left( - \frac { b \cos \beta } { a \sin \beta } \right) = - 1

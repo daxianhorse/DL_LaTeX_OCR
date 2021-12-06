@@ -1,0 +1,1 @@
+\frac { a ^ { 2 } - b ^ { 2 } } { \sqrt { b ^ { 2 } + a ^ { 2 } + a ^ { 2 } k ^ { 2 } + \frac { b ^ { 2 } } { k ^ { 2 } } } } \leq s l a n t \frac { a ^ { 2 } - b ^ { 2 } } { \sqrt { b ^ { 2 } + a ^ { 2 } + 2 a b } } = a - b

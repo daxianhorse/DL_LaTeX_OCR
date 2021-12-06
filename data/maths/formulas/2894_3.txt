@@ -1,0 +1,1 @@
+S _ { n } ^ { 2 } - \left( n ^ { 2 } + n - 3 \right) S _ { n } - 3 \left( n ^ { 2 } + n \right) = 0

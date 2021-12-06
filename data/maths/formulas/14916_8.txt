@@ -1,0 +1,1 @@
+\overrightarrow { ( ) A } \cdot \overrightarrow { O B } = 2 a ^ { 2 } \cdot 2 b ^ { 2 } + 2 a \cdot 2 b = 4 a b ( a b + 1 ) = 0

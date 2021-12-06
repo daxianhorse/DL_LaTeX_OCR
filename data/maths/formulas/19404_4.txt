@@ -1,0 +1,1 @@
+\beta \in \{ x \mid g ( x ) = 0 \}

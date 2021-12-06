@@ -1,0 +1,1 @@
+a _ { 1 } \cdot b _ { 1 } \in M \cdot i = 1 \cdot 2 \cdot \cdots \cdot n

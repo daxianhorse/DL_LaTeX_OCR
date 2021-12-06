@@ -1,0 +1,1 @@
+a _ { 1 } + 3 a _ { 2 } + 5 a _ { 3 } + \cdots + ( 2 n - 1 ) a _ { n } = ( n - 1 ) \cdot 3 ^ { n + 1 } + 3 ( n \geqslant 1 )

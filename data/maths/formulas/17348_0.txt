@@ -1,0 +1,1 @@
+f ( x ) = \sin ^ { 2 } x \cdot \cos ^ { 2 } x + \sin ^ { 4 } x + \cos ^ { 4 } x

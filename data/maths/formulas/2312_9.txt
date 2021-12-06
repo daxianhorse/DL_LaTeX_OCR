@@ -1,0 +1,1 @@
+= ( 1 + \tan \alpha ) \left( 1 + \frac { 1 - \tan \alpha } { 1 + \tan \alpha } \right) = 2

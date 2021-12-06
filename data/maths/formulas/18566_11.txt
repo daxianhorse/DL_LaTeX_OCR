@@ -1,0 +1,1 @@
+a _ { 1 } a _ { 2 } \cdots a _ { n } = a _ { 1 } ^ { n } q ^ { 1 + 2 + \cdots + ( n - 1 ) } = 8 ^ { n } \times \left( \frac { 1 } { 2 } \right) ^ { \frac { m n - 1 } { 2 } } = 2 ^ { - \frac { 1 } { 2 } n ^ { 2 } + \frac { j } { 2 } n } = 2 ^ { - \frac { 1 } { 2 } \left[ \left( n - \frac { 7 } { 2 } \right) ^ { 2 } - \frac { 1 9 } { 1 } \right] }

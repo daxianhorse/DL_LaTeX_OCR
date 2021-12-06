@@ -1,0 +1,1 @@
+a \cos C , b \cos B , c \cos A

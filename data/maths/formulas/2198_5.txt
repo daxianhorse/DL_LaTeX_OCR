@@ -1,0 +1,1 @@
+f ^ { \prime } ( f ( x ) ) \leq s l a n t f ( x )

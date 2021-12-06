@@ -1,0 +1,1 @@
+\sin \frac { \alpha } { 2 } = \frac { \sqrt { 5 } } { 5 } , \sin \left( \frac { a } { 2 } - \beta \right) = - \frac { \sqrt { 1 0 } } { 1 0 }

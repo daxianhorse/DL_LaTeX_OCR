@@ -1,0 +1,1 @@
+f ( x ) = x ^ { m ^ { 2 } - 2 m - 1 } ( m \in \mathbf { Z } )

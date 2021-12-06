@@ -1,0 +1,1 @@
+f ( x ) = 4 \cos ^ { 2 } \frac { x } { 2 } \cos \left( \frac { \pi } { 2 } - x \right) -

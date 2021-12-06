@@ -1,0 +1,1 @@
+x _ { n } - \alpha x _ { n } \quad = \left( x _ { 2 } - \alpha x _ { 1 } \right) \beta ^ { n - 2 }

@@ -1,0 +1,1 @@
+A = \{ x \mid x = 6 m + 4 n , m , n \in \mathbf { Z } \} , B = \{ x \mid x =

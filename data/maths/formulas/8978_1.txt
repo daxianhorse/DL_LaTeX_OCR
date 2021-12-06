@@ -1,0 +1,1 @@
+\cos \omega x \left( \omega > \frac { 1 } { 4 } , x \in \mathbf { R } \right)

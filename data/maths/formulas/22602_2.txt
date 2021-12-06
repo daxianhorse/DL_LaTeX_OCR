@@ -1,0 +1,1 @@
+f ( x ) = \cos \frac { \pi } { 2 } x

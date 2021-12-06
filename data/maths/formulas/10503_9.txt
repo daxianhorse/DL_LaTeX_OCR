@@ -1,0 +1,1 @@
+3 2 \left( \frac { a _ { 3 } + a _ { 4 } } { a _ { 3 } a _ { 1 } } \right) \Rightarrow a _ { 3 } a _ { 1 } = 3 2

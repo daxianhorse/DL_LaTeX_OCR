@@ -1,0 +1,1 @@
+= \frac { 1 } { \sin \left( 6 0 ^ { \circ } - \theta \right) }

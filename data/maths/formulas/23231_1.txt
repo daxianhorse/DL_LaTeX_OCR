@@ -1,0 +1,1 @@
+f ( 2 t ) + f \left( t ^ { 2 } - 3 \right) < 0

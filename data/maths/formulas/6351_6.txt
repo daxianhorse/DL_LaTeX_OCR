@@ -1,0 +1,1 @@
+\left\{ x \in N ^ { * } \mid x \leq s l a n t 6 \right\}

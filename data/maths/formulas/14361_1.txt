@@ -1,0 +1,1 @@
+b _ { x } ^ { \prime } x + a ^ { \prime }

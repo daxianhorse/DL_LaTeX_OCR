@@ -1,0 +1,1 @@
+f ( x ) = 4 \sin x + a \cos x

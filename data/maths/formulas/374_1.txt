@@ -1,0 +1,1 @@
+\text { B . } \overrightarrow { A B } + \overrightarrow { A C } = 3 \overrightarrow { H M } - 3 \overrightarrow { M O }

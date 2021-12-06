@@ -1,0 +1,1 @@
+\overrightarrow { P C } \geqslant \overrightarrow { P _ { 0 } B } \cdot \overrightarrow { P _ { 0 } C }

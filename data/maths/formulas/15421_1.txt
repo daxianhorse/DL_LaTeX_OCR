@@ -1,0 +1,1 @@
+\vec { I } \vec { F } = 3 \overrightarrow { F M }

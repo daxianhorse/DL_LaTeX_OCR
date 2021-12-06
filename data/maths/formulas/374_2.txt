@@ -1,0 +1,1 @@
+\text { D . } \overrightarrow { A B } + \overrightarrow { A C } = 2 \overrightarrow { H M } - 4 \overrightarrow { M O }

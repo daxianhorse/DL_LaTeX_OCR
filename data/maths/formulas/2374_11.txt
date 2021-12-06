@@ -1,0 +1,1 @@
+\cos \theta = \frac { 2 a ^ { 2 } + m ^ { 2 } b ^ { 2 } } { 4 m | a | | b | } \geqslant \frac { \sqrt { 2 } } { 2 }

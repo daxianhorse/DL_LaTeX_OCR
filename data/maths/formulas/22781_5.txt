@@ -1,0 +1,1 @@
+\left. 1 - 1 < f \left( \xi _ { 1 } \right) - g \left( \xi _ { 2 } \right) < 1 \right)

@@ -1,0 +1,1 @@
+\boldsymbol { m } = ( c - a , \sin B ) , \boldsymbol { n } = ( b - a , \sin A + \sin C )

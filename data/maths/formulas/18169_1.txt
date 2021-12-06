@@ -1,0 +1,1 @@
+\overrightarrow { D A } + 4 \overrightarrow { D B } + 7 \overrightarrow { D C } = \mathbf { 0 }

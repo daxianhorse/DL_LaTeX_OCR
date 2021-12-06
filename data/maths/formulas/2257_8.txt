@@ -1,0 +1,1 @@
+\left( \frac { e } { 2 } \ln \frac { 2 } { e } , 0 \right)

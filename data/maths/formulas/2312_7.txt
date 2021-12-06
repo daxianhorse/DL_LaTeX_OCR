@@ -1,0 +1,1 @@
+= 1 + \tan ( \alpha + \beta ) ( 1 - \tan \alpha \tan \beta ) + \tan \alpha \tan \beta = 2

@@ -1,0 +1,1 @@
+\left| I F _ { 1 } \right| + \left| I F _ { 2 } \right| - \left| Q F _ { 1 } \right| + \left| Q F _ { 2 } \right|

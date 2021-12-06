@@ -1,0 +1,1 @@
+\left( \sin \frac { 4 \pi } { 5 } \right) ^ { - 2 } = \frac { 4 } { 3 } \times 2 \times 3

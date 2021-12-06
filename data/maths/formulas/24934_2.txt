@@ -1,0 +1,1 @@
+( a \times b ) ^ { 2 } + ( a \cdot b ) ^ { 2 } =

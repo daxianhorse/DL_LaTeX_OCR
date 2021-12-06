@@ -1,0 +1,1 @@
+\theta \neq k \pi + \frac { \pi } { 2 } , k \in \mathbf { Z }

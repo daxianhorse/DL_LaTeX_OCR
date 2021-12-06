@@ -1,0 +1,1 @@
+\frac { \left( x - \frac { 1 } { 3 m } \right) ^ { 2 } } { 2 / 9 } - \frac { y ^ { 2 } } { 2 / 9 } = 1

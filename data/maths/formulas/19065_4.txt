@@ -1,0 +1,1 @@
+y _ { i } = x _ { i } - 1 \geqslant 1 , y _ { i } \in \mathbf { N } ^ { * } ( i = 1 , 2 , \cdots , 6 )

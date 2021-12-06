@@ -1,0 +1,1 @@
+\left( \sin \frac { 6 \pi } { 7 } \right) ^ { - 2 } = \frac { 4 } { 3 } \times 3 \times 4

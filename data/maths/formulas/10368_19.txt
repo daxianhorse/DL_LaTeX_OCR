@@ -1,0 +1,1 @@
+| B D | = \frac { 2 a b ^ { 2 } } { a ^ { 2 } - c ^ { 2 } \cos ^ { 2 } \left( \theta + \frac { \pi } { 2 } \right) } = \frac { 4 \sqrt { 3 } } { 3 - \sin ^ { 2 } \theta }

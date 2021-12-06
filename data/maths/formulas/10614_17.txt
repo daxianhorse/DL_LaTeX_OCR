@@ -1,0 +1,1 @@
+f \left( c ^ { \frac { 1 } { \rho } } \right)

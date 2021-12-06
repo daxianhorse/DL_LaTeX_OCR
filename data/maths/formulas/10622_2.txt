@@ -1,0 +1,1 @@
+S _ { n } = \frac { 1 } { 4 } \left( 1 - \frac { 1 } { 4 n + 1 } \right) = \frac { 1 } { 4 } - \frac { 1 } { 4 } \frac { 1 } { 4 n + 1 } < \frac { 1 } { 4 } , S _ { n } < t ^ { 2 } - t - \frac { 1 } { 2 } \Rightarrow t ^ { 2 } - t - \frac { 1 } { 2 } \geqslant \frac { 1 } { 4 } \Rightarrow t \geqslant \frac { 3 } { 2 }

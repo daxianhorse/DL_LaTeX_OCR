@@ -1,0 +1,1 @@
+M = \left\{ x \mid x \geqslant - \frac { 1 } { 2 } \right\} , A = \left\{ x \in M \mid x ^ { 3 } - 3 x ^ { 2 } + \right.

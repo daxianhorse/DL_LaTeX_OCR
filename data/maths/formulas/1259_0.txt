@@ -1,0 +1,1 @@
+f ( x ) = \mathrm { e } ^ { \prime \prime t } + x ^ { 2 - } - m x

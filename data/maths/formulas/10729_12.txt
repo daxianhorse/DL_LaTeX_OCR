@@ -1,0 +1,1 @@
+\sum _ { k = 1 } ^ { n } \left( \frac { a _ { k } } { a _ { k + 1 } } - \frac { 1 } { 4 } \right) < \frac { 1 } { 8 } \Rightarrow \frac { a _ { 1 } } { a _ { 2 } } + \frac { a _ { 2 } } { a _ { 3 } } + \cdots + \frac { a _ { n } } { a _ { n + 1 } } < \frac { 2 n + 1 } { 8 } \left( n \in \mathbf { N } ^ { * } \right)

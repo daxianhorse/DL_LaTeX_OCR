@@ -1,0 +1,1 @@
+g ^ { \prime } \left( x _ { a } \right) = 0

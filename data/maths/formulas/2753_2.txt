@@ -1,0 +1,1 @@
+m f ( x ) \leq s l a n t \mathrm { e } ^ { - x } + m - 1

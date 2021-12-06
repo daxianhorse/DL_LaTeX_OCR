@@ -1,0 +1,1 @@
+m ( t ) = t - \frac { f ( t ) } { f ^ { \prime } ( t ) } = t + \frac { t } { t - 2 } = t - 2 + \frac { 2 } { t - 2 } + 3

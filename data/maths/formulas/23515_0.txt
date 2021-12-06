@@ -1,0 +1,1 @@
+f ( x ) = x ( \ln x - 1 ) - a \mathrm { e } ^ { x } + \mathrm { e } a x + 1 , a \in \mathbf { R }

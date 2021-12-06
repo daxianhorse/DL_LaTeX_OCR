@@ -1,0 +1,1 @@
+a \neq c , b \neq c , a \neq b

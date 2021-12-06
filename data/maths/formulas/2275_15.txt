@@ -1,0 +1,1 @@
+0 , h ( \mathrm { e } ) = \frac { 1 } { \mathrm { e } } , h ( 1 ) = 0

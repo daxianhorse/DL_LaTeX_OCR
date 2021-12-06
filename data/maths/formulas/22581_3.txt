@@ -1,0 +1,1 @@
+x = k \pi ( k \in \mathbf { Z } )

@@ -1,0 +1,1 @@
+| g ( x ) | \geqslant \frac { m - x } { 2 e x ^ { 3 } } \cdot e ^ { \frac { m } { * } }

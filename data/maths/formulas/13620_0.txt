@@ -1,0 +1,1 @@
+\Lambda = \{ x | | 4 x - 1 \mid \geqslant 9 \cdot x \in \mathbf { R } \}

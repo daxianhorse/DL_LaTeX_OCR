@@ -1,0 +1,1 @@
+( I ) a _ { n + 1 } = ( \sqrt { 2 } - 1 ) \left( a _ { n } + 2 \right) = ( \sqrt { 2 } - 1 ) \left( a _ { n } - \sqrt { 2 } \right) + \sqrt { 2 } , a _ { n + 1 } - \sqrt { 2 } = ( \sqrt { 2 } - 1 ) \left( a _ { n } - \sqrt { 2 } \right)

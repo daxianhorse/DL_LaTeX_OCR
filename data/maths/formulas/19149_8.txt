@@ -1,0 +1,1 @@
+P ( K ) \cdot P \left( A _ { 1 } \bigcup A _ { 2 } \right) = 0 . 9 \times \left( 1 - 0 . 2 ^ { 2 } \right) = 0 . 8 6 4

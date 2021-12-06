@@ -1,0 +1,1 @@
+2 a - b = 2 \cos \theta , a + b = \cos \theta + \sqrt { 3 } \sin \theta

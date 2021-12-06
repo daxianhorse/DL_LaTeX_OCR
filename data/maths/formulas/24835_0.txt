@@ -1,0 +1,1 @@
+f ( n - 2 ) + f ( n - 1 ) \left( n \geqslant 3 , n \in \mathbf { N } ^ { * } \right) , f ( 1 ) = 1 , f ( 2 ) = 1

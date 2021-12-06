@@ -1,0 +1,1 @@
+a _ { n } + 4 S _ { n - 1 } S _ { n } = 0 ( n \geqslant 2 ) , a _ { 1 } = \frac { 1 } { 4 }

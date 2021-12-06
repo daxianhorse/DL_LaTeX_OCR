@@ -1,0 +1,1 @@
+m < \sin x ( x \in \mathbf { R } )

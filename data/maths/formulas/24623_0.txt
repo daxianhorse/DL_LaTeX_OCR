@@ -1,0 +1,1 @@
+f ( x ) = \frac { \mathrm { e } ^ { x } } { x } , g ( x ) = \frac { \ln x } { x } + \frac { 1 } { x } - 1

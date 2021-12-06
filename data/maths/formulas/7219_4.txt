@@ -1,0 +1,1 @@
+f \left( \frac { \pi } { 2 } \right) = f \left( \frac { 2 \pi } { 3 } \right) = - f \left( \frac { \pi } { 6 } \right)

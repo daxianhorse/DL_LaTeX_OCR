@@ -1,0 +1,1 @@
+| \overrightarrow { O C } | , \overrightarrow { N A } + \overrightarrow { N B } + \overrightarrow { N C } = \mathbf { 0 } , \overrightarrow { P A } \cdot \overrightarrow { P B } = \overrightarrow { P B } \cdot \overrightarrow { P C } = \overrightarrow { P C } \cdot \overrightarrow { P A }

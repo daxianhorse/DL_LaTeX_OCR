@@ -1,0 +1,1 @@
+\lambda _ { 1 } = \frac { S _ { \triangle P B C } } { S _ { \triangle A B C } } , \lambda _ { 2 } = \frac { S _ { \triangle P C A } } { S _ { \triangle A B C } } , \lambda _ { 3 } = \frac { S _ { \triangle P A B } } { S _ { \triangle A B C } }

@@ -1,0 +1,1 @@
+2 m _ { n } ( x ) = \mathrm { C } _ { n } ^ { 1 } \left( x ^ { n - 2 } + x ^ { 2 - n } \right) + \mathrm { C } _ { n } ^ { 2 } \left( x ^ { n - 1 } + x ^ { 4 - n } \right) + \cdots + \mathrm { C } _ { n } ^ { n - 1 } \left( x ^ { 2 - n } + x ^ { n - 2 } \right)

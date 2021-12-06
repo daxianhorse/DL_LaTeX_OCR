@@ -1,0 +1,1 @@
+A A ^ { \prime } = B B ^ { \prime } = C C ^ { \prime } = \frac { \sqrt { 2 } } { 2 }

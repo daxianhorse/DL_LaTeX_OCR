@@ -1,0 +1,1 @@
+t = f ( x ) , t \geqslant 0

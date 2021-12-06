@@ -1,0 +1,1 @@
+\text { ( 2 ) } \lambda ( \boldsymbol { a } \otimes \boldsymbol { b } ) = ( \lambda \boldsymbol { a } ) \otimes \boldsymbol { b }

@@ -1,0 +1,1 @@
+\left( \sin \frac { 2 n \pi } { 2 n + 1 } \right) ^ { - 2 }

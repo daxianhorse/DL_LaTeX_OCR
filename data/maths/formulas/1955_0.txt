@@ -1,0 +1,1 @@
+\left( 9 x - \frac { 1 } { 3 \sqrt { x } } \right) ^ { n } \left( n \in \mathbf { N } ^ { * } \right)

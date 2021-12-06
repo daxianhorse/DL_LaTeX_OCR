@@ -1,0 +1,1 @@
+\overrightarrow { E F } = \frac { 1 } { 2 } \overrightarrow { A C } - \frac { 1 } { 2 } \overrightarrow { A B } + \frac { 2 } { 3 } \overrightarrow { A D }

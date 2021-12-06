@@ -1,0 +1,1 @@
+A = \{ ( x , y ) \mid x \big c i r c y = 1 0 \}

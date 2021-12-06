@@ -1,0 +1,1 @@
+S _ { n } = a _ { 1 } + a _ { 2 } + \cdots + a _ { n } , \frac { 1 } { 3 } S _ { n } \leq s l a n t S _ { n , 1 } \leq s l a n t 3 S _ { n } , n \in \mathbf { N } ^ { * }

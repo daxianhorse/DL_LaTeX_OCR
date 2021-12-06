@@ -1,0 +1,1 @@
+A = \left\{ x \mid y = \sqrt { 1 - x ^ { 2 } } , x \in \mathbf { Z } \right\} , B = \left\{ y \mid y = x ^ { 2 } + 1 , x \in A \right\}

@@ -1,0 +1,1 @@
+\cos \theta = \cos \left( 2 k \pi + \frac { \pi } { 2 } + \varphi \right) = \cos \left( \frac { \pi } { 2 } + \varphi \right) = - \sin \varphi = - \frac { 2 \sqrt { 5 } } { 5 }

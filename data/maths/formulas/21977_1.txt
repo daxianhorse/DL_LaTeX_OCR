@@ -1,0 +1,1 @@
+y = c \mathrm { e } ^ { k x }

@@ -1,0 +1,1 @@
+A = \left\{ y \mid y = x ^ { 2 } + 1 \right\} , B = \{ x \mid 3 - x > 0

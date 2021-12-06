@@ -1,0 +1,1 @@
+f ( x ) = x \ln x - 2 \ln x + 3 x - 5 , g ( x ) = \ln x +

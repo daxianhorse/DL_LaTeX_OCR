@@ -1,0 +1,1 @@
+\overrightarrow { F _ { 1 } A } = \frac { 1 } { 2 } \overrightarrow { A B }

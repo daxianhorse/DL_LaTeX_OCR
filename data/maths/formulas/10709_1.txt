@@ -1,0 +1,1 @@
+\left| P A _ { n } \right| = \sqrt { x ^ { 2 } + \left( y - a _ { n } \right) ^ { 2 } } = \sqrt { 2 \left( y - \frac { a _ { n } } { 2 } \right) ^ { 2 } + \frac { 2 + a _ { n } ^ { 2 } } { 2 } }

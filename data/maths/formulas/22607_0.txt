@@ -1,0 +1,1 @@
+f ( x ) = \ln \sqrt { 2 x + 1 } - m x ( m \in \mathbf { R } )

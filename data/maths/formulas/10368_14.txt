@@ -1,0 +1,1 @@
+S _ { A B C D } = \frac { 1 } { 2 } | A C | \cdot | B D | = \frac { 2 4 } { \left( 3 - \cos ^ { 2 } \theta \right) \left( 3 - \sin ^ { 2 } \theta \right) } = \frac { 2 4 } { 6 + \frac { \sin ^ { 2 } 2 \theta } { 4 } }

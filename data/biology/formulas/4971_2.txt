@@ -1,0 +1,1 @@
+v _ { \mathrm { A } } > v _ { \mathrm { B } }

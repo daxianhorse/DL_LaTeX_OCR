@@ -1,0 +1,1 @@
+\cos \varphi = \sqrt { 3 } \sin \varphi - 1

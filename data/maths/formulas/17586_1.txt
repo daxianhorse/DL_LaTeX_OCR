@@ -1,0 +1,1 @@
+\left( n \in [ 0 , 6 1 ] , n \in \mathbf { N } ^ { * } \right)

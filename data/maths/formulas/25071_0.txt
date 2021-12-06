@@ -1,0 +1,1 @@
+\overrightarrow { A B } = ( 1 , m ) , \overrightarrow { B C } = ( 2 , - 1 )

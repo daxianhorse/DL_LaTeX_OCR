@@ -1,0 +1,1 @@
+\left. 1 0 ^ { \prime } \right) , x , y \in \mathbf { R }

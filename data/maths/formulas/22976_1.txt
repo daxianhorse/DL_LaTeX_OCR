@@ -1,0 +1,1 @@
+: T = \left( T _ { 0 } - T _ { a } \right) \mathrm { e } ^ { - K t } + T _ { a }

@@ -1,0 +1,1 @@
+A \cap \left( \bigcup _ { v } B \right) =

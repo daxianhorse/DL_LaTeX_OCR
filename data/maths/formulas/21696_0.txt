@@ -1,0 +1,1 @@
+m \perp \alpha , n \subset \beta , m \perp n \Rightarrow \alpha \perp \beta

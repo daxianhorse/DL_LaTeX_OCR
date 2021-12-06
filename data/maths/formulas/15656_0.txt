@@ -1,0 +1,1 @@
+f ( x ) = \sin x - x + \mathrm { e } ^ { x } - \frac { 1 } { \mathrm { e } ^ { x } }

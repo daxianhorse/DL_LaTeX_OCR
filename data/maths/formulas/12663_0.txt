@@ -1,0 +1,1 @@
+a = \log _ { 2 } \pi , b = \log _ { \frac { 1 } { 3 } } \pi , c = \pi ^ { 2 }

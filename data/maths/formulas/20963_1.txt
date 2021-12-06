@@ -1,0 +1,1 @@
+N = \left\{ x \mid ( \ln 2 ) ^ { 1 - x } < 1 \right\}

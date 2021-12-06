@@ -1,0 +1,1 @@
+h ^ { \prime } ( x ) = \frac { \ln x - \frac { \sqrt { x } } { 2 } - 1 + a } { x ^ { 2 } }

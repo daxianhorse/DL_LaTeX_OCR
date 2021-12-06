@@ -1,0 +1,1 @@
+a \cdot b \cdot c \cdot 2 \sin A \cos A = \sqrt { 3 } \cos 2 A

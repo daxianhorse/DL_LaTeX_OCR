@@ -1,0 +1,1 @@
+f ( b ) > \frac { a } { 2 } ( b - 2 ) + a ( b - 1 ) ^ { 2 } = a \left( b ^ { 2 } - \frac { 3 } { 2 } b \right) > 0

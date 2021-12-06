@@ -1,0 +1,1 @@
+\left( - \infty , - \frac { 4 } { 3 } \right] \cup \left[ \frac { 5 } { 2 } , + \infty \right)

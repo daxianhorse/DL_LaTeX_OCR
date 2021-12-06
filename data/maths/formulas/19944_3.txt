@@ -1,0 +1,1 @@
+y = \sin x + \frac { 1 } { \sin x }

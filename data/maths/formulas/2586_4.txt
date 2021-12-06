@@ -1,0 +1,1 @@
+M \left( - \frac { x _ { 0 1 } } { 2 } , - \frac { y _ { 1 1 } } { 2 } \right)

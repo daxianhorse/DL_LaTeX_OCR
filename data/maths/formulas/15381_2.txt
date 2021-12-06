@@ -1,0 +1,1 @@
+\overrightarrow { A F } \cdot \overrightarrow { A F } = 1 \cdot \overrightarrow { C F } \cdot \overrightarrow { C F } = - \frac { 2 } { 3 }

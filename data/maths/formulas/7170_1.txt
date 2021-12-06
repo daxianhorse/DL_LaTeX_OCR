@@ -1,0 +1,1 @@
+f ( x ) = f ^ { \prime } ( 1 ) \mathrm { e } ^ { r \cdot 1 } - f ( 0 ) x +

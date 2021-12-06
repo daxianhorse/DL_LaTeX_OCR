@@ -1,0 +1,1 @@
+\left| H \left( x _ { 1 } \right) - H \left( x _ { 2 } \right) \right| < 1

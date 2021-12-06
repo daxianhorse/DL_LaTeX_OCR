@@ -1,0 +1,1 @@
+A = \cos ^ { 2 } 1 1 ^ { \circ } + \cos ^ { 2 } 1 2 ^ { \circ } + \cdots + \cos ^ { 2 } 7 9 ^ { \circ }

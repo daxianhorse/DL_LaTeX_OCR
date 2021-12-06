@@ -1,0 +1,1 @@
+\frac { \sin \alpha } { \tan \alpha }

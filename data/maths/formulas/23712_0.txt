@@ -1,0 +1,1 @@
+f ( x ) = a - 2 x + \left| 2 x ^ { 2 } - 2 x - a \right| ( a \in \mathbf { R } )

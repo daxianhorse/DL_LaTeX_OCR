@@ -1,0 +1,1 @@
+\text { B . } f ( 3 ) \cdot f ( - 4 ) \geqslant 0

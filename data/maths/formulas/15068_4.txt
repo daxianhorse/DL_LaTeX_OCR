@@ -1,0 +1,1 @@
+\triangle A _ { n } B _ { n } B _ { n \cdot 1 }

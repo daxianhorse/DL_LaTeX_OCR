@@ -1,0 +1,1 @@
+f ( x ) = \frac { \mathrm { e } ^ { x } } { x } - m x ( m \in \mathbf { R } )

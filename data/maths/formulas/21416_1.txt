@@ -1,0 +1,1 @@
+a \in \mathbf { R } , \theta \in \left( - \frac { \pi } { 2 } , \frac { \pi } { 2 } \right)

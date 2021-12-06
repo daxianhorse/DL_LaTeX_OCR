@@ -1,0 +1,1 @@
+P \left( 0 , y _ { 0 } \right) , N \left( - x _ { 0 } , y _ { 0 } \right) \left( y _ { 0 } \neq x _ { 0 } ^ { 2 } , y _ { 0 } > 0 \right)

@@ -1,0 +1,1 @@
+| A B | = \sqrt { 1 + k ^ { 2 } } \sqrt { \left( x _ { 1 } + x _ { 2 } \right) ^ { 2 } - 4 x _ { 1 } x _ { 2 } } = \sqrt { 1 + \frac { 4 } { p ^ { 2 } } } \sqrt { 1 6 + 1 6 p ^ { 2 } }

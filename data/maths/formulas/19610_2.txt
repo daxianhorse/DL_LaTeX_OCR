@@ -1,0 +1,1 @@
+f ^ { \prime } ( x ) , f \left( \frac { \pi } { 4 } \right) = \sqrt { 2 }

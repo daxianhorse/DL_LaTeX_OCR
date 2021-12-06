@@ -1,0 +1,1 @@
+\overrightarrow { E D } \cdot ( \overrightarrow { A B } + \overrightarrow { E B } )

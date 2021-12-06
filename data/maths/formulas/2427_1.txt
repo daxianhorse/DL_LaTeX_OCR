@@ -1,0 +1,1 @@
+\left| f ( x ) + \cos ^ { 2 } x \right| \leq s l a n t \frac { 2 } { 3 } , \left| f ( x ) - \sin ^ { 2 } x \right| \leq s l a n t \frac { 1 } { 3 }

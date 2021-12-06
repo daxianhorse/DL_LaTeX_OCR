@@ -1,0 +1,1 @@
+\overrightarrow { O A } = ( 1 , 1 ) , \overrightarrow { O B } = ( 2 , 3 ) , \overrightarrow { O C } = ( m + 1 , m - 1 )

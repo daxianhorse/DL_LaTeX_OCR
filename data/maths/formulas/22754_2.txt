@@ -1,0 +1,1 @@
+f \left( x _ { 0 } \right) < a \left( - x _ { 0 } ^ { 3 } + 3 x _ { 0 } \right)

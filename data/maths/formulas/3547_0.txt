@@ -1,0 +1,1 @@
+y = a \mathrm { e } ^ { \prime } + x \ln x

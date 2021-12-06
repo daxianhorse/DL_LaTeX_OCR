@@ -1,0 +1,1 @@
+\sin \left( \frac { A + B } { 2 } \right) = \cos \frac { C } { 2 }

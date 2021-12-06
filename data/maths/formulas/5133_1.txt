@@ -1,0 +1,1 @@
+b \sin B - a \sin A = 2 a \sin C

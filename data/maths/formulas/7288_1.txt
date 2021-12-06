@@ -1,0 +1,1 @@
+\frac { | \overrightarrow { P A } | ^ { 2 } + | \overrightarrow { P B } | ^ { 2 } } { | \overrightarrow { P C } | ^ { 2 } } =

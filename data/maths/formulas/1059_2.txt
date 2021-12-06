@@ -1,0 +1,1 @@
+\left\{ v \mid \frac { 1 } { v } \in \mathbf { N } \cdot v \in \mathbf { N } \right\}

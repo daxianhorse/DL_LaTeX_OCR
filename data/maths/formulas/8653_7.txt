@@ -1,0 +1,1 @@
+A _ { 1 } A = 3 , A B = 2 A D = 2 , \ a n g l e D A B = \frac { \pi } { 3 }

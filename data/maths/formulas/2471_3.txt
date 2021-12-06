@@ -1,0 +1,1 @@
+- a _ { n } \geqslant 9 1 \times 3 ^ { n }

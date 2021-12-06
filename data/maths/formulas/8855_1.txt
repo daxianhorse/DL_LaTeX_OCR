@@ -1,0 +1,1 @@
+\sqrt { 3 } \frac { \overrightarrow { B D } } { | \overrightarrow { B D } | }

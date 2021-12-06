@@ -1,0 +1,1 @@
+( - \sqrt { 2 } , 0 ) \bigcup ( 0 , \sqrt { 2 } )

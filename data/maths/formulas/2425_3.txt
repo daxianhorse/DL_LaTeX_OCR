@@ -1,0 +1,1 @@
+| a \cdot e | + | b \cdot e | \geqslant | a \cdot e + b \cdot e |

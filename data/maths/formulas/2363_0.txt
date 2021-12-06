@@ -1,0 +1,1 @@
+\frac { 3 \overrightarrow { A B } } { | \overrightarrow { A B } | } + \frac { 2 \overrightarrow { A C } } { | \overrightarrow { A C } | } = \frac { \sqrt { 1 9 } ( \overrightarrow { A B } + \overrightarrow { A C } ) } { | \overrightarrow { A B } + \overrightarrow { A C } | }

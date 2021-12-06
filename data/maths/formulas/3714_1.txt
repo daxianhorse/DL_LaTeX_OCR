@@ -1,0 +1,1 @@
+\o p e r a t o r n a m e { l n i n } A = \o p e r a t o r n a m e { a c o s } \left( B - \frac { \pi } { 6 } \right)

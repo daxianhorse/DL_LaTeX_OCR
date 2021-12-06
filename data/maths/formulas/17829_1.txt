@@ -1,0 +1,1 @@
+F , \overrightarrow { M R } = \overrightarrow { R N } , R \left( x _ { R } , y _ { R } \right)

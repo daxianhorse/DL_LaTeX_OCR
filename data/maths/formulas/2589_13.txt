@@ -1,0 +1,1 @@
+\frac { m } { 3 } \left( 4 - \frac { m } { 3 } \right) = 4 m

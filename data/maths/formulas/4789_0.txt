@@ -1,0 +1,1 @@
+\log _ { 7 } \left[ \log _ { 3 } \left( \log _ { 2 } x \right) \right] = 0

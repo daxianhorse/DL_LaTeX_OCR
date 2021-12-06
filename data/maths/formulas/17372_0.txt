@@ -1,0 +1,1 @@
+\overrightarrow { A B } = a , \overrightarrow { B C } = b , \overrightarrow { B I } = c

@@ -1,0 +1,1 @@
+\lambda \overrightarrow { A F } , \overrightarrow { P B } = \mu \overrightarrow { B F }

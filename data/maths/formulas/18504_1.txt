@@ -1,0 +1,1 @@
+f \left( y ^ { 2 } - 2 y + 3 \right) + f \left( x ^ { 2 } - 4 x + 1 \right) \leq s l a n t 0

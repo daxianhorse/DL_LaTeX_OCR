@@ -1,0 +1,1 @@
+| a \times b | = | a | | b | \sin \langle a , b \rangle

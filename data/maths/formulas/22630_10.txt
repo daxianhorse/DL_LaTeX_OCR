@@ -1,0 +1,1 @@
+g ( x ) _ { \max } = g \left( \frac { 1 } { 2 } \right) = 3 , a \geqslant g ( x ) \Leftrightarrow a \geqslant g ( x ) _ { \max }

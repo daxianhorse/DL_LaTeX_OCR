@@ -1,0 +1,1 @@
+| F C | = \frac { \frac { e p } { 1 - e \cos \theta } - \frac { e p } { 1 + e \cos \theta } } { 2 } = \frac { e ^ { 2 } p \cos \theta } { 1 - e ^ { 2 } \cos ^ { 2 } \theta }

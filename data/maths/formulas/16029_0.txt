@@ -1,0 +1,1 @@
+1 + a + a ^ { 2 } + \cdots + a ^ { n + 1 } = \frac { 1 - a ^ { n + 2 } } { 1 - a } \left( a \neq 1 , n \in \mathbf { N } ^ { * } \right) ^ { \prime }

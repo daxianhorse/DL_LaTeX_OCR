@@ -1,0 +1,1 @@
+f ( x ) = x \cdot 2 ^ { | x | } , a = f \left( \log _ { 3 } \sqrt { 5 } \right) , b =

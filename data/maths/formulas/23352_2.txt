@@ -1,0 +1,1 @@
+\overrightarrow { M A } \cdot \overrightarrow { M B } = - \frac { 3 } { 4 } p ^ { 2 }

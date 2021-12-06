@@ -1,0 +1,1 @@
+\frac { a ^ { 2 } } { m } + \frac { b ^ { 2 } } { n } \geqslant \frac { ( a + b ) ^ { 2 } } { m + n }

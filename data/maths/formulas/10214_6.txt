@@ -1,0 +1,1 @@
+( 1 + a ) ^ { n } \approx 1 + C _ { n } ^ { \prime } a + C _ { n } ^ { 2 } a ^ { 2 } + C _ { n } ^ { 3 } a ^ { 3 } ( n \geqslant 1 0 , | a | < 0 . 1 5 )

@@ -1,0 +1,1 @@
+b = c \cos \ a n g l e B A C

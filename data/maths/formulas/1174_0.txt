@@ -1,0 +1,1 @@
+f ( x ) = x ^ { 3 } + \mathrm { e } ^ { \prime } - \frac { 1 } { 2 } ( x < 0 )

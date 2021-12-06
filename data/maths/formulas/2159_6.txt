@@ -1,0 +1,1 @@
+f ^ { \prime } A ( x ) ^ { * } \cdot I ^ { * } \left( x ^ { * } \right)

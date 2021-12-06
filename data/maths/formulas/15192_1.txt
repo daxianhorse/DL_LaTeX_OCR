@@ -1,0 +1,1 @@
+2 ^ { * } 1 9 ^ { * } \cdot \geqslant 9 ^ { * } \cdot \lambda _ { m }

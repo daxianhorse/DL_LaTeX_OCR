@@ -1,0 +1,1 @@
+a = \ln \frac { 1 } { \pi } , b = \mathrm { e } ^ { \frac { 1 } { 3 } } , c = \log _ { \pi } 3

@@ -1,0 +1,1 @@
+\left( \sin x - \frac { 1 } { 2 } \right) ^ { 2 } = a - \frac { 3 } { 4 }

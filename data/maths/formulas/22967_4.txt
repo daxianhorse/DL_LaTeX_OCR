@@ -1,0 +1,1 @@
+\overrightarrow { C F _ { 1 } } = \lambda \overrightarrow { F _ { 1 } D } ( \lambda > 0 )

@@ -1,0 +1,1 @@
+\overrightarrow { A B } \cdot \boldsymbol { a } = \cos \theta = \sqrt { 2 } \cos \alpha , \overrightarrow { A B } \cdot \boldsymbol { b } = \sin \theta = \sqrt { 2 } \cos \beta

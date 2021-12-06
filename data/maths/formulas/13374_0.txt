@@ -1,0 +1,1 @@
+1 2 0 ^ { \circ } , | \boldsymbol { a } | = 1 , | \boldsymbol { b } | = 3

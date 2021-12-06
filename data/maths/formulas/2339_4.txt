@@ -1,0 +1,1 @@
+4 C = \sqrt { 4 - 2 \sqrt { 3 } \cos \alpha } , \frac { A C } { \sin \alpha } = \frac { 1 } { \sin \beta }

@@ -1,0 +1,1 @@
+\forall x < 1 , \mathrm { e } ^ { \prime } \cdot ( 2 - x ) - \mathrm { e } ^ { 2 - x } \cdot x > 0

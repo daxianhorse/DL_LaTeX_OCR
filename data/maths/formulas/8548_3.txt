@@ -1,0 +1,1 @@
+\forall x \in ( 0 , + \infty ) , x ^ { \frac { 1 } { 3 } } = x ^ { \frac { 1 } { 5 } }

@@ -1,0 +1,1 @@
+A = \left\{ x \mid 2 ^ { x - 1 } > 1 \right\} , B = \left\{ x \mid x ^ { 2 } - 2 x \leq s l a n t 0 \right\}

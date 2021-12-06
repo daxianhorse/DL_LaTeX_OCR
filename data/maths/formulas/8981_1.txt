@@ -1,0 +1,1 @@
+a \cos \omega x ( \omega > 0 , a > 0 )

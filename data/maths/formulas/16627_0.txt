@@ -1,0 +1,1 @@
+F ( x ) = \left( 1 + \frac { 2 } { 2 ^ { x } - 1 } \right) f ( x ) ( x \neq 0 )

@@ -1,0 +1,1 @@
+S _ { n } = a _ { 1 } + a _ { 2 } + \cdots + a _ { n } = \left( 1 + c _ { 1 } \right) + \left( 1 + c _ { 2 } \right) + \cdots + \left( 1 + c _ { n } \right) = n + \left( c _ { 1 } + c _ { 2 } + \cdots + c _ { n } \right) < n + \frac { 3 } { 2 }

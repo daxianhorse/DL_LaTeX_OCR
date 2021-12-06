@@ -1,0 +1,1 @@
+4 \sin \left( 6 x + \frac { \pi } { 6 } \right)

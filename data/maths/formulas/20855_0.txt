@@ -1,0 +1,1 @@
+\left( \sqrt { x } + \frac { 1 } { 2 \sqrt [ 4 ] { x } } \right) ^ { n }

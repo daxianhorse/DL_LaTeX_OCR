@@ -1,0 +1,1 @@
+g ^ { \prime \prime } ( x ) = \mathrm { e } ^ { x - 1 } - m \left( \frac { 1 } { x } + \frac { 1 } { x ^ { 2 } } \right)

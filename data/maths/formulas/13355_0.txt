@@ -1,0 +1,1 @@
+6 0 ^ { \circ } , | \boldsymbol { b } | = 1 , ( \boldsymbol { a } + 2 \boldsymbol { b } ) \cdot

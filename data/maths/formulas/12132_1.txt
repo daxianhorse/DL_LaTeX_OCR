@@ -1,0 +1,1 @@
+\left. y _ { 2 } \right) , \cdots , \left( x _ { n } , y _ { n } \right) \left( n \geqslant 2 , x _ { 1 } , x _ { 2 } , \cdots , x _ { n } \right.

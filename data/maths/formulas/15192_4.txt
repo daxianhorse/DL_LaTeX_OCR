@@ -1,0 +1,1 @@
+\left| f \left( x _ { 1 } \right) - f \left( x _ { 2 } \right) \right| + \left| f \left( x _ { 2 } \right) - f \left( x _ { 3 } \right) \right| + \cdots + \left| f \left( x _ { m - 1 } \right) - f \left( x _ { m } \right) \right| = 1 2 \left( m \geqslant 2 , m \in \mathbf { N } ^ { * } \right)

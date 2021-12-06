@@ -1,0 +1,1 @@
+\frac { \tan ( \alpha + \beta ) - \tan \alpha } { 1 + \tan \beta \tan ( \alpha + \beta ) } = \frac { \sin 2 \beta } { 2 \cos ^ { 2 } \alpha }

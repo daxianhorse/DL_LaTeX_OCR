@@ -1,0 +1,1 @@
+b _ { n } = \frac { a _ { n } } { \left( 1 + a _ { n } \right) \cdot \left( 1 + a _ { n + 1 } \right) }

@@ -1,0 +1,1 @@
+\approx = y - a . x ( a \neq 0 )

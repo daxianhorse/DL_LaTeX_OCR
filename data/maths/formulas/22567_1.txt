@@ -1,0 +1,1 @@
+2 \sin ^ { 2 } x - ( \lambda + 1 ) \sin x + 1 = 0

@@ -1,0 +1,1 @@
+x _ { 0 } x = p \left( y + y _ { 1 1 } \right)

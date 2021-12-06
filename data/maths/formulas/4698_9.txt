@@ -1,0 +1,1 @@
+\frac { g \left( x _ { 1 } \right) + g \left( x _ { 2 } \right) } { 2 } ; ( 4 ) f ( x ) < g ( 2 x )

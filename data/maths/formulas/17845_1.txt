@@ -1,0 +1,1 @@
+S \left( 0 , y _ { 0 } \right) \left( y _ { 0 } > 0 \right)

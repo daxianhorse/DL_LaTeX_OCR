@@ -1,0 +1,1 @@
+( 0 . + \infty ) \cdot f ^ { \prime } ( x ) = \frac { 1 } { x } - a

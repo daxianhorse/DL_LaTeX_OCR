@@ -1,0 +1,1 @@
+f ^ { \prime } ( x ) = \sin x - x \cos x + 2 \sin 2 x

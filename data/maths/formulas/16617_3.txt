@@ -1,0 +1,1 @@
+{ } _ { n } ^ { k } = C _ { n } ^ { n - k } ( 0 \leq s l a n t k \leq s l a n t n )

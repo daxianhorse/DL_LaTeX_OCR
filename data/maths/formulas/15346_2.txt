@@ -1,0 +1,1 @@
+g _ { 1 } ( x ) = g ( x ) , g _ { n 1 } , ( x ) = g \left( g _ { n } ( x ) \right) , n \in \mathbf { N } ^ { * }

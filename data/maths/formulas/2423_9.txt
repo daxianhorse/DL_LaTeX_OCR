@@ -1,0 +1,1 @@
+h ( x ) _ { \max } = \max \left\{ h ( - 2 ) , h \left( \frac { 1 } { 2 } \right) \right\}

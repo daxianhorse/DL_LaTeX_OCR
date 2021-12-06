@@ -1,0 +1,1 @@
+\frac { f ^ { \prime } ( x ) - f ( x ) } { x - 1 } > 0

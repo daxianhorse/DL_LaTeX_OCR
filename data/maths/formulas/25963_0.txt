@@ -1,0 +1,1 @@
+\left| a + \frac { b } { 2 } \right| + 2 | a b - 2 | \geqslant 4

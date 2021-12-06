@@ -1,0 +1,1 @@
+\rho = 8 \cos \left( \frac { \pi } { 3 } - \theta \right)

@@ -1,0 +1,1 @@
+f \left( x _ { m } \right) \mid = 1 2 \left( m \geqslant 2 , m \in \mathbf { N } ^ { * } \right)

@@ -1,0 +1,1 @@
+\overrightarrow { O E } = \lambda \overrightarrow { O A } , \overrightarrow { O F } = \mu \overrightarrow { O B }

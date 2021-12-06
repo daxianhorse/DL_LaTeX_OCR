@@ -1,0 +1,1 @@
+A = \{ x \in \mathbf { N } \mid x > 3 \}

@@ -1,0 +1,1 @@
+\lim _ { \Delta x \rightarrow 0 } \frac { f ( a + \Delta x ) - f ( a - \Delta x ) } { \Delta x }

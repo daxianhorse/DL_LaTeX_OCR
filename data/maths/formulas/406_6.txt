@@ -1,0 +1,1 @@
+\sum _ { = 1 } ^ { 6 } \left( x _ { i } - \bar { x } \right) \left( y _ { i } - \bar { y } \right) =

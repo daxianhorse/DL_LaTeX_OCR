@@ -1,0 +1,1 @@
+S _ { \triangle A B D } = 2 S _ { \triangle A C D I } = 8 \sqrt { 7 }

@@ -1,0 +1,1 @@
+\rightarrow \overrightarrow { ( \triangle A ) } = 2 \overrightarrow { A B } \cdot \overrightarrow { C P }

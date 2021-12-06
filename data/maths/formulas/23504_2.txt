@@ -1,0 +1,1 @@
+f ( x ) \leq s l a n t f \left( \frac { \pi } { 3 } \right)

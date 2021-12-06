@@ -1,0 +1,1 @@
+\text { ( 2 ) } \o p e r a t o r n a m e { c s i n } A = 3

@@ -1,0 +1,1 @@
+s = s \cdot \frac { k } { k + 1 }

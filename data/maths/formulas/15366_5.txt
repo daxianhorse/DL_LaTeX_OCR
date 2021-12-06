@@ -1,0 +1,1 @@
+\varphi _ { 1 } ( x ) \in A \cdot \varphi _ { 2 } ( x ) \in B

@@ -1,0 +1,1 @@
+f ^ { \prime } ( x ) = \cos x + x \sin x - 1

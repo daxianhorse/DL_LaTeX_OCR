@@ -1,0 +1,1 @@
+m = \left( \mathrm { e } ^ { \prime } , \ln x + k \right) , n = ( 1 , f ( x ) ) , m / / n

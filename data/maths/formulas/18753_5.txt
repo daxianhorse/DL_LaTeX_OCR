@@ -1,0 +1,1 @@
+a ^ { 2 } + \frac { 1 } { a ^ { 2 } } - \left( a + \frac { 1 } { a } \right) = \left( a + \frac { 1 } { a } \right) ^ { 2 } - \left( a + \frac { 1 } { a } \right) - 2 = \left[ \left( a + \frac { 1 } { a } \right) - 2 \right] \left[ \left( a + \frac { 1 } { a } \right) + 1 \right] \geqslant 0

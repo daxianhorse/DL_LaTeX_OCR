@@ -1,0 +1,1 @@
+\left( 2 p m ^ { 2 } + \frac { p } { 2 } \right) + \left( 2 p n ^ { 2 } + \frac { p } { 2 } \right) = 4 \cdot \frac { p } { 2 }

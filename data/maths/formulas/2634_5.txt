@@ -1,0 +1,1 @@
+d _ { 1 } = \frac { 1 } { \sqrt { \frac { \cos ^ { 2 } \alpha } { a ^ { 2 } } + \frac { \sin ^ { 2 } \alpha } { b ^ { 2 } } } } = a b \sqrt { \frac { 1 + \tan ^ { 2 } \alpha } { b ^ { 2 } + a ^ { 2 } \tan ^ { 2 } \alpha } }

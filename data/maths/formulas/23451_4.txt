@@ -1,0 +1,1 @@
+C _ { l } ( M \cap N ) = ( \mathcal { L } , M ) \cup \left( \ c o m p l e m e n t _ { l } N \right)

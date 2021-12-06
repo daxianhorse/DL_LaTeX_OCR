@@ -1,0 +1,1 @@
+\frac { \tilde { u } _ { n } } { b _ { n } }

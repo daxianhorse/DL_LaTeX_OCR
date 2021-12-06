@@ -1,0 +1,1 @@
+\frac { a _ { n } + a _ { n + 1 } } { n } = \cos \frac { n \pi } { 2 }

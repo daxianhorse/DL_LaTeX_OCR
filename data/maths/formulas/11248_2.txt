@@ -1,0 +1,1 @@
+\left( x ^ { 2 } + a x - 1 \right) \mathrm { e } ^ { \mathrm { r - 1 } }

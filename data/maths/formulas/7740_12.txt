@@ -1,0 +1,1 @@
+f ( x ) = \frac { x ^ { 2 } + 1 } { x } , g ( x ) = \frac { x \ln x + 1 } { \ln x }

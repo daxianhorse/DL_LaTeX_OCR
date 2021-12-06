@@ -1,0 +1,1 @@
+\left| b _ { 2 n } - b _ { n } \right| = \left| b _ { 2 n } - b _ { 2 n - 1 } + \cdots + b _ { n + 1 } - b _ { n } \right| \leq s l a n t \left| b _ { 2 n } - b _ { 2 n - 1 } \right| + \cdots + \left| b _ { n + 1 } - b _ { n } \right|

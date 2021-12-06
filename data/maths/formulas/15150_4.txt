@@ -1,0 +1,1 @@
+\cos ^ { 2 } \frac { \alpha - \beta } { 2 } = \frac { c ^ { 2 } } { a ^ { 2 } + b ^ { 2 } }

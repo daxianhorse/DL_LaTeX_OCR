@@ -1,0 +1,1 @@
+g ( x ) = 2 a f ( x ) + \frac { 1 } { 2 } f \left( 2 x + \frac { \pi } { 6 } \right)

@@ -1,0 +1,1 @@
+\left( \dot { } ^ { \prime } - A ^ { \prime } B I \right)

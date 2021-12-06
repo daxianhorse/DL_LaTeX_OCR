@@ -1,0 +1,1 @@
+5 . S _ { n } - 3 ( n \in \mathbf { N } )

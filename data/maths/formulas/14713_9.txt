@@ -1,0 +1,1 @@
+\left. k + \frac { 1 } { 8 } < x < k + \frac { 5 } { 8 } , k \in \mathbf { Z } \right\}

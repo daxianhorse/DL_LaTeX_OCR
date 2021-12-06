@@ -1,0 +1,1 @@
+f ( x ) = \frac { \cos ^ { 2 } ( n \pi + x ) \cdot \sin ^ { 2 } ( n \pi - x ) } { \cos ^ { 2 } [ ( 2 n + 1 ) \pi - x ] } ( n \in \mathbf { Z } )

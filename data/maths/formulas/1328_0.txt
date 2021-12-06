@@ -1,0 +1,1 @@
+\sin x - a x ^ { 3 } + b x + c \tan x = 0

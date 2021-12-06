@@ -1,0 +1,1 @@
+a \left( \ln x + \frac { 2 } { x } \right) - \frac { \mathrm { e } ^ { x } } { x ^ { 2 } }

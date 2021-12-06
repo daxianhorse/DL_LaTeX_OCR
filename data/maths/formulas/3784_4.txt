@@ -1,0 +1,1 @@
+\text { B . } \overrightarrow { P C } + \overrightarrow { P A } = \mathbf { 0 }

@@ -1,0 +1,1 @@
+\left( \lambda = N _ { t + 1 } / N _ { t } \right)

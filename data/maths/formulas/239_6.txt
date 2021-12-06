@@ -1,0 +1,1 @@
+, b _ { n } = \frac { 9 \left( a _ { n } - 3 \right) } { a _ { n } a _ { n + 1 } }

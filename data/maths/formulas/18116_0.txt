@@ -1,0 +1,1 @@
+m \in \left[ \frac { 1 } { \mathrm { e } } , \mathrm { e } ^ { 2 } \right]

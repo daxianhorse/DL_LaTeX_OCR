@@ -1,0 +1,1 @@
+\frac { \frac { 3 } { 2 } \o p e r a t o r n a m e { c s i n } \theta } { \frac { 3 } { 2 } \cos \theta - 3 c } = \frac { c } { - 2 c }

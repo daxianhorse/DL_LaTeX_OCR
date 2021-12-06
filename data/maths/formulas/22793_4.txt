@@ -1,0 +1,1 @@
+\alpha / / \beta , \alpha \bigcap \gamma = a , \beta \bigcap \gamma = b

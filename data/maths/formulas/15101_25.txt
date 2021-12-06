@@ -1,0 +1,1 @@
+\leq s l a n t \left| a - a _ { 0 } \right| + \left| b - b _ { 0 } \right|

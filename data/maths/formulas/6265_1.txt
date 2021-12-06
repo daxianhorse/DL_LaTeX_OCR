@@ -1,0 +1,1 @@
+x _ { 1 } \overrightarrow { A B } + y _ { 1 } \overrightarrow { A C }

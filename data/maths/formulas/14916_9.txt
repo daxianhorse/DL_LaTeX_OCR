@@ -1,0 +1,1 @@
+\overrightarrow { P A } \cdot \overrightarrow { P B } = \left( 2 a ^ { 2 } - 4 \right) \left( 2 b ^ { 2 } - 4 \right) + ( 2 + 2 a ) ( 2 + 2 b )

@@ -1,0 +1,1 @@
+z = \left( m ^ { 2 } - 2 \right) + ( m - 1 ) \mathrm { i }

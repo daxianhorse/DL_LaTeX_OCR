@@ -1,0 +1,1 @@
+f ( \sqrt { a b } ) , H = f \left( \frac { 2 a b } { a + b } \right)

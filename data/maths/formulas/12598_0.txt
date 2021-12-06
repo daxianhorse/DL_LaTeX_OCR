@@ -1,0 +1,1 @@
+T \leftarrow 9 , S \leftarrow 0

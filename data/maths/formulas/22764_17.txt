@@ -1,0 +1,1 @@
+h ^ { \prime } ( x ) = 1 - 2 x \ln x - x

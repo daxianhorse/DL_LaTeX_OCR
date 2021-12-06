@@ -1,0 +1,1 @@
+B = \left\{ x \mid \left( \frac { 1 } { 2 } \right) ^ { - x } \geqslant \frac { 1 } { 8 } \right\}

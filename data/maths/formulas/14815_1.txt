@@ -1,0 +1,1 @@
+\left( \frac { 1 } { 2 } \right) ^ { n } \leq s l a n t x _ { n } \leq s l a n t \left( \frac { 1 } { 2 } \right) ^ { n }

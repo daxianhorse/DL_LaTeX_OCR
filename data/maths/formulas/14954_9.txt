@@ -1,0 +1,1 @@
+P ( 6 \cos \alpha , 2 \sin \alpha )

@@ -1,0 +1,1 @@
+\left( \sin \frac { \pi } { 2 n + 1 } \right) ^ { - 2 } + \left( \sin \frac { 2 \pi } { 2 n + 1 } \right) ^ { - 2 } + \left( \sin \frac { 3 \pi } { 2 n + 1 } \right) ^ { - 2 } + \cdots +

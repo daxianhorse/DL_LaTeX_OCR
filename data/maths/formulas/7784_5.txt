@@ -1,0 +1,1 @@
+a \boldsymbol { e } _ { 1 } + b \boldsymbol { e } _ { 2 } ( a , b \in \mathbf { R } )

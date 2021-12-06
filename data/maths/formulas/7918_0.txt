@@ -1,0 +1,1 @@
+f ( x ) = \ln x + \lambda \left( \frac { 1 } { x } - x \right) ( \lambda \in \mathbf { R } ) .

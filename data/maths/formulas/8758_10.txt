@@ -1,0 +1,1 @@
+\overrightarrow { A O } = \overrightarrow { A M } + \overrightarrow { M O } = \frac { 1 } { m } \overrightarrow { A B } + \lambda \overrightarrow { M N } = \frac { 1 } { m } \overrightarrow { A B } + \lambda ( \overrightarrow { A N } - \overrightarrow { A M } ) = ( 1 - \lambda ) \frac { 1 } { m } \overrightarrow { A B } + \frac { \lambda } { n } \overrightarrow { A C }

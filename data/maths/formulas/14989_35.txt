@@ -1,0 +1,1 @@
+a = - \frac { m - 2 } { m + 2 } \mathrm { e } ^ { \prime \prime \prime }

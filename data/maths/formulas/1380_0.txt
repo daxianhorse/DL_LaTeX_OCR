@@ -1,0 +1,1 @@
+\tan \Lambda + \tan B + \tan C = \tan \Lambda \tan B \tan C

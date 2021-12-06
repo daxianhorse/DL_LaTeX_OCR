@@ -1,0 +1,1 @@
+\mathrm { P } ( \sqrt { 5 } \cos \theta , 2 \sin \theta )

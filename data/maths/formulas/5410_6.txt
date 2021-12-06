@@ -1,0 +1,1 @@
+b _ { n } = \frac { 1 } { \sqrt { a _ { n + 1 } } + \sqrt { a _ { n } } } \left( n \in \mathbf { N } ^ { * } \right)

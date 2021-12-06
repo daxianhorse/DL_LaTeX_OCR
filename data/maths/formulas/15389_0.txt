@@ -1,0 +1,1 @@
+p : \forall x \geqslant 1 , 2 ^ { \circ } - \log _ { 2 } x \geqslant 1

@@ -1,0 +1,1 @@
+a = \log _ { 2 } 3 \cdot \log _ { 3 } 4 \cdot \log _ { 4 } 5

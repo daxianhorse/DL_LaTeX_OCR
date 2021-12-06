@@ -1,0 +1,1 @@
+\frac { b \cdot c } { | b | \cdot | c | }

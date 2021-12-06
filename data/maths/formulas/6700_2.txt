@@ -1,0 +1,1 @@
+\text { C . } f ( x ) = \frac { 1 } { x + 1 } + \frac { 1 } { x - 1 }

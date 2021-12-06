@@ -1,0 +1,1 @@
+\forall x _ { 1 } \in [ 0 , + \infty ) , \ e x i s t s x _ { 2 } \in [ 0 , + \infty )

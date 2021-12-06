@@ -1,0 +1,1 @@
+a + 2 b + 3 > \left( m ^ { 2 } - m \right) ( \sqrt { a } + 2 \sqrt { b } )

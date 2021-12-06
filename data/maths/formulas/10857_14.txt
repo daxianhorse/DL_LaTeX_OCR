@@ -1,0 +1,1 @@
+= \left( m ^ { 2 } + 1 \right) y _ { 1 } y _ { 2 } + m ( c - t ) \left( y _ { 1 } + y _ { 2 } \right) + ( c - t ) ^ { 2 }

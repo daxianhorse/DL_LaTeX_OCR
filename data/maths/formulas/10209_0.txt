@@ -1,0 +1,1 @@
+y = \alpha + \beta x ^ { 2 }

@@ -1,0 +1,1 @@
++ \lambda \cdot \left( \frac { \overrightarrow { A P } } { | \overrightarrow { A P } | } + \frac { \overrightarrow { \Lambda C } } { | \overrightarrow { A C } : | } \right)

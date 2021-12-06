@@ -1,0 +1,1 @@
+\theta \in ( 0 , \pi ) , \tan \left( \theta + \frac { \pi } { 4 } \right) = \frac { 4 } { 3 }

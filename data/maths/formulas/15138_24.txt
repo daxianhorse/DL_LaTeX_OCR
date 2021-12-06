@@ -1,0 +1,1 @@
+\sum _ { k } ^ { n } b _ { k } = \sum _ { k } ^ { n } \left[ \frac { T _ { k - 1 } } { k } + \left( 1 + \frac { 1 } { 2 } + \cdots + \frac { 1 } { k } \right) a _ { k } \right]

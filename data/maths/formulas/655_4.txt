@@ -1,0 +1,1 @@
+b _ { n } = \left[ \log _ { 2 } a _ { n } \right]

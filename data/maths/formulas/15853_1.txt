@@ -1,0 +1,1 @@
+\overrightarrow { A B } \cdot \overrightarrow { A C } = 7 , | \overrightarrow { A B } - \overrightarrow { A C } | = 6

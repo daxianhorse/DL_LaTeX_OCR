@@ -1,0 +1,1 @@
+f ( x ) = \sin \left( \omega x + \frac { \pi } { 6 } \right) + 2 \sqrt { 3 } \sin ^ { 2 } \left( \frac { \omega } { 2 } x + \frac { \pi } { 1 2 } \right) - \sqrt { 3 } ( \omega > 0 )

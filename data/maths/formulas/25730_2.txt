@@ -1,0 +1,1 @@
+\sqrt { \sum _ { i = 1 } ^ { 5 } \left( y _ { i } - \bar { y } \right) ^ { 2 } } \approx 0 . 2 7 , \sqrt { 1 0 } \approx 3 . 1 6

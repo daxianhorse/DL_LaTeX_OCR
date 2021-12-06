@@ -1,0 +1,1 @@
+\boldsymbol { x } _ { 1 } , \boldsymbol { x } _ { 2 } , \boldsymbol { x } _ { 3 } , \boldsymbol { x } _ { 1 } , \boldsymbol { x }

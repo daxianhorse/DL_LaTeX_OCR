@@ -1,0 +1,1 @@
+f ( x , y ) \geqslant f \left( x _ { 1 } , y _ { 1 } \right)

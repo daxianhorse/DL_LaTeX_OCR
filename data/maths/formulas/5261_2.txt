@@ -1,0 +1,1 @@
+g ( \theta ) = a \cdot b

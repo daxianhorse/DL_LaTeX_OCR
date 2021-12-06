@@ -1,0 +1,1 @@
+5 \left( a _ { n + 1 } - 3 \right) \cdot \left( \frac { 7 } { 8 } - T _ { n } \right)

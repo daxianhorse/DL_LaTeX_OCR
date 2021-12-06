@@ -1,0 +1,1 @@
+\left\{ \frac { n } { ( n + 2 ) n _ { n } } \right\}

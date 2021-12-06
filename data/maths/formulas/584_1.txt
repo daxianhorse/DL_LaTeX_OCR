@@ -1,0 +1,1 @@
+\overrightarrow { O P } = \overrightarrow { O B } - 2 \overrightarrow { O A }

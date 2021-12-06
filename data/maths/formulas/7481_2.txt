@@ -1,0 +1,1 @@
+\dot { \kappa } = \partial ( 1 )

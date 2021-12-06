@@ -1,0 +1,1 @@
+f ( x ) = x \cdot g ( x ) , f ( x ) \geqslant 0

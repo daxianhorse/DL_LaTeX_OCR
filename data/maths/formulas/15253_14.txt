@@ -1,0 +1,1 @@
+S _ { \min } = 8 | \boldsymbol { a } | ^ { 2 }

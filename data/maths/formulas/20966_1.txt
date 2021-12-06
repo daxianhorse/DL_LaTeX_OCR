@@ -1,0 +1,1 @@
+A = \left\{ x \left| x = t ^ { 2 } - \right| + 1 , t \in U \right\}

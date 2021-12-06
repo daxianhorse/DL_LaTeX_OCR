@@ -1,0 +1,1 @@
+| E C | = \frac { 2 S _ { ( B C D ) } } { | B D | } = \frac { 2 \cdot \frac { 1 } { 2 } \cdot | B C | \cdot | C D | } { | B D | } = \frac { 2 } { \sqrt { 5 } } = \frac { 2 } { 5 } \sqrt { 5 }

@@ -1,0 +1,1 @@
+- 2 \leq s l a n t a x ^ { 2 } + | x - a | + b \leq s l a n t 2

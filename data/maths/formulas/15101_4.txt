@@ -1,0 +1,1 @@
+\left| f ( \sin x ) - f _ { 1 1 } ( \sin x ) \right|

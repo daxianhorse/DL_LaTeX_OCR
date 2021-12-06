@@ -1,0 +1,1 @@
+\sqrt { x _ { 1 } ^ { a } } \cdot \sqrt { x _ { 2 } ^ { k } } > \mathrm { e } ^ { 1 + k }

@@ -1,0 +1,1 @@
+| \overrightarrow { A F } | = \frac { b ^ { 2 } } { a - \cos \theta } , | \overrightarrow { B F } | =

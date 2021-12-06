@@ -1,0 +1,1 @@
+t \in \left[ \frac { 1 } { \mathrm { e } } , \mathrm { e } \right]

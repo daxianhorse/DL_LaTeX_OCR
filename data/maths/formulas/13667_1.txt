@@ -1,0 +1,1 @@
+( x + y ) \left( \frac { 1 } { x } + \frac { 4 } { y } \right)

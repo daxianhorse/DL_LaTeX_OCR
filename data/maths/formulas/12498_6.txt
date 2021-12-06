@@ -1,0 +1,1 @@
+z _ { 1 } \cdot \bar { z } _ { 1 } = \Sigma _ { 2 } \cdot \bar { z } _ { 2 }

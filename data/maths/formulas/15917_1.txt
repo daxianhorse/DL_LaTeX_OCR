@@ -1,0 +1,1 @@
+\{ ( x , y ) | | x | \leq s l a n t 3 , | y \mid \leq s l a n t 3 , x \in \mathbf { Z } , y \in \mathbf { Z } \}

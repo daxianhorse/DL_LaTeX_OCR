@@ -1,0 +1,1 @@
+\cos \beta = \frac { | \overrightarrow { E F } \cdot \overrightarrow { P B } | } { | \overrightarrow { E F } | | \overrightarrow { P B } | } = \frac { 7 \sqrt { 1 9 } } { 3 8 }

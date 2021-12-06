@@ -1,0 +1,1 @@
+( \beta - \alpha ) \cdot x _ { n } = \left( x _ { 2 } - \alpha \cdot x _ { 1 } \right) \beta ^ { n - 2 } - \left( x _ { 2 } - \right.

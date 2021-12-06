@@ -1,0 +1,1 @@
+k _ { \mathrm { C B } } = - \frac { \sqrt { 2 } } { t }

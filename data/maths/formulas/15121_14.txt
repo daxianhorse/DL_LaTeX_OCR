@@ -1,0 +1,1 @@
+a _ { n } = 3 \cdot 2 ^ { n } \quad ^ { \prime } , n \in \mathbf { N } ^ { \prime }

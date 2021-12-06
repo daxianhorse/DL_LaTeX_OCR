@@ -1,0 +1,1 @@
+2 + \frac { 5 } { 4 } x + \frac { a } { 2 } x ^ { 2 } \leq s l a n t \frac { \mathrm { e } ^ { x } + a \sqrt { x + 1 } } { a }

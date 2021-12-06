@@ -1,0 +1,1 @@
+\mathcal { L } _ { 1 } S _ { 1 } \cap \mathcal { L } _ { 1 } S _ { 2 } \cap \mathcal { L } _ { 1 } S _ { s } = \ v a r n o t h i n g

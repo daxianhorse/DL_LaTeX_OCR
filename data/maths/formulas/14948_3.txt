@@ -1,0 +1,1 @@
+[ ( n + 1 ) ! ] ^ { 2 } > ( n + 1 ) \cdot \mathrm { e } ^ { n } { } ^ { 2 } \left( n \in \mathbf { N } ^ { * } \right)

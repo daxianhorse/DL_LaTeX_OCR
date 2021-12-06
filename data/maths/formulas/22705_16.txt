@@ -1,0 +1,1 @@
+g ( x ) _ { \max } = \max \{ g ( 0 ) , g ( 1 ) , g ( 2 a + 1 ) \} \leq s l a n t 0

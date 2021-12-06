@@ -1,0 +1,1 @@
+\left( x ^ { 2 } + y ^ { 2 } - 2 x \right) \sqrt { x + y - 3 } = 0

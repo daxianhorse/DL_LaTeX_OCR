@@ -1,0 +1,1 @@
+\o p e r a t o r n a m e { o g } _ { 3 6 } 4 5 = \frac { \log _ { 1 8 } 4 5 } { \log _ { 1 8 } 3 6 } = \frac { \log _ { 1 8 } 5 + \log _ { 1 8 } 9 } { \log _ { 1 8 } 4 + \log _ { 1 8 } 9 } = \frac { b + a } { \log _ { 1 8 } \left( \frac { 1 8 } { 9 } \right) ^ { 2 } + a } = \frac { b + a } { 2 \log _ { 1 8 } \frac { 1 8 } { 9 } + a } = \frac { b + a } { 2 - a }

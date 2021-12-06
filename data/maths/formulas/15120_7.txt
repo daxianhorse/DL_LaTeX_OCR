@@ -1,0 +1,1 @@
+| P Q | = \lambda \left| P F _ { 1 } \right|

@@ -1,0 +1,1 @@
+\frac { 1 } { a + 1 } + \frac { 1 } { 2 b + 1 } \geqslant \frac { 4 } { 7 }

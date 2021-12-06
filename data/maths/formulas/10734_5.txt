@@ -1,0 +1,1 @@
+\frac { x _ { n + 1 } } { y _ { n + 1 } } \leq s l a n t \frac { x _ { n } } { y _ { n } }

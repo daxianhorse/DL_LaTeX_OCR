@@ -1,0 +1,1 @@
+f ( x ) \geqslant \frac { \mathbf { e } } { \boldsymbol { a } }

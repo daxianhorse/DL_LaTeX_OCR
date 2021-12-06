@@ -1,0 +1,1 @@
+y = g \left( \frac { 2 a } { x ^ { 2 } + 1 } \right) + m - 1

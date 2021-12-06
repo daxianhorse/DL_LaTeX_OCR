@@ -1,0 +1,1 @@
+x _ { 0 } > \frac { x _ { 1 } + 2 } { 3 } \Leftrightarrow \frac { 1 } { x _ { 0 } ^ { 2 } \mathrm { e } ^ { x _ { 0 } } } < \frac { 1 } { \left( \frac { x _ { 1 } + 2 } { 3 } \right) ^ { 2 } \mathrm { e } ^ { \frac { x _ { 1 } + 2 } { 3 } } }

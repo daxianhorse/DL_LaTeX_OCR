@@ -1,0 +1,1 @@
+I _ { k } = \left| f _ { k } \left( a _ { 1 } \right) - f _ { k } \left( a _ { 1 1 } \right) \right| + \left| f _ { k } \left( a _ { 2 } \right) - f _ { k } \left( a _ { 1 } \right) \right| + \cdots + \left| f _ { k } \left( a _ { y , a , } \right) - f _ { k } \left( a _ { 9 x } \right) \right|

@@ -1,0 +1,1 @@
+f ^ { \prime } ( x ) = - 2 \alpha \sin 2 x - ( \alpha - 1 ) \sin x

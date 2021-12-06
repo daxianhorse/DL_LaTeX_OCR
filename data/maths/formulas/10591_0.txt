@@ -1,0 +1,1 @@
+a _ { m \cdot n } + a _ { m - n } = \frac { 1 } { 2 } \left( a _ { 2 m } + a _ { 2 n } \right) \left( m , n \in \mathbf { N } ^ { * } \right)

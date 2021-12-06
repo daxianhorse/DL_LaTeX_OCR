@@ -1,0 +1,1 @@
+( a + b ) ( \sin \Lambda - \sin B ) = ( ( - b ) \sin C

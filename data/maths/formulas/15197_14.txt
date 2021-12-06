@@ -1,0 +1,1 @@
+\frac { a _ { m } } { a _ { n } } \in \left( \frac { 1 } { 6 } , 6 \right)

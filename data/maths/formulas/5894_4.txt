@@ -1,0 +1,1 @@
+\left| a _ { k + 1 } - a _ { k } \right| = 1 , k = 1 , 2 , 3 , \cdots , 1 1

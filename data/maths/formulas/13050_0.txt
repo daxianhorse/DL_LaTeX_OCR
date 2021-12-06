@@ -1,0 +1,1 @@
+f ( x ) = \left( 2 \cos ^ { 2 } x - 1 \right) \sin 2 x +

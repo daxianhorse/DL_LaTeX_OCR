@@ -1,0 +1,1 @@
+\sum _ { i = 1 } ^ { 1 } \frac { A \cdot x _ { i } + B \cdot y _ { i } + C } { \sqrt { A ^ { 2 } + B ^ { 2 } } } = 0

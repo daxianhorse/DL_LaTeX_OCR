@@ -1,0 +1,1 @@
+\frac { \sin \left( 1 8 0 ^ { \circ } + 2 \alpha \right) } { 1 + \cos 2 \alpha } \cdot \frac { \cos ^ { 2 } \alpha } { \cos \left( 9 0 ^ { \circ } + \alpha \right) }

@@ -1,0 +1,1 @@
+x _ { 1 } , x _ { 2 } \in \left[ 1 , \frac { m } { 2 } + 1 \right]

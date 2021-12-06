@@ -1,0 +1,1 @@
+a + b = \frac { a } { \tan A } + \frac { b } { \tan B }

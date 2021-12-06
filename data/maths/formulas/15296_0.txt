@@ -1,0 +1,1 @@
+f ( x ) = \frac { 1 } { \sqrt { \left( x ^ { 2 } + 2 x + k \right) ^ { 2 } + 2 \left( x ^ { 2 } + 2 x + k \right) - 3 } }

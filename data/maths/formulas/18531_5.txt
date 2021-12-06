@@ -1,0 +1,1 @@
+\left( \frac { y _ { . v } } { 2 } \right) ^ { 2 } = 8

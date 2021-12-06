@@ -1,0 +1,1 @@
+f ^ { \prime } \left( \ldots _ { 1 } \right) ^ { \cdots } = \cdot \left( \ldots _ { 2 } \right)

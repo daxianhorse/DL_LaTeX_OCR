@@ -1,0 +1,1 @@
+\overrightarrow { N A } + \overrightarrow { N B } + \overrightarrow { V C } = \mathbf { 0 }

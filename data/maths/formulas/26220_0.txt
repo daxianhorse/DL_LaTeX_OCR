@@ -1,0 +1,1 @@
+f ( x ) = m \mathrm { e } ^ { | x | } + x \sin x , x \in \left( - \frac { \pi } { 2 } , \frac { \pi } { 2 } \right)

@@ -1,0 +1,1 @@
+A = \{ x \in \ m a t h b b { N } | | x \mid \leq s l a n t 1 \}

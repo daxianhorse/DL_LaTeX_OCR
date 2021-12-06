@@ -1,0 +1,1 @@
+\text { B . } \frac { 3 } { 4 } \overrightarrow { A B } + \frac { 1 } { 4 } \overrightarrow { A C }

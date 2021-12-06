@@ -1,0 +1,1 @@
+p _ { 4 } - p _ { 0 } = \sum _ { i = 0 } ^ { 3 } 4 ^ { i } \left( p _ { 1 } - p _ { 0 } \right) \Rightarrow p _ { 4 } = \frac { 4 ^ { 4 } - 1 } { 4 ^ { 8 } - 1 } = \frac { 1 } { 2 5 7 }

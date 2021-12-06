@@ -1,0 +1,1 @@
+d _ { n } = \left| A _ { n } B _ { n } \right| , S _ { n }

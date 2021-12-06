@@ -1,0 +1,1 @@
+\sin \alpha - \sin \beta = \frac { \sqrt { 6 } } { 3 } , \cos \alpha - \cos \beta = \frac { \sqrt { 3 } } { 3 }

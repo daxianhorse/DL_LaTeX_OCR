@@ -1,0 +1,1 @@
+\frac { | 3 c + 4 | } { 5 } = 2 \Rightarrow c = 2

@@ -1,0 +1,1 @@
+x _ { 0 } \left( a < x _ { 0 } < b \right)

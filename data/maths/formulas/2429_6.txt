@@ -1,0 +1,1 @@
+1 0 = \left| \sum _ { i = 1 } ^ { 1 0 } \left[ \left( x _ { i } - 1 \right) - \left( x _ { i } - 2 \right) \right] \right|

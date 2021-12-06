@@ -1,0 +1,1 @@
+\frac { 2 a - \sqrt { 3 } b } { \cos B } = \frac { \sqrt { 3 } c } { \cos C }

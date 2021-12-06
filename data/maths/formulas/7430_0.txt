@@ -1,0 +1,1 @@
+A = \left\{ ( x , y ) \left| y \geqslant \frac { 1 } { 2 } \right| x - 2 \mid \right\}

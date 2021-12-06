@@ -1,0 +1,1 @@
+3 a _ { n } { } _ { 1 } \left( n \geqslant 2 , n \in \mathbf { N } ^ { * } \right)

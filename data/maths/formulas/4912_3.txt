@@ -1,0 +1,1 @@
+y ^ { \prime } = - \sin 5 x

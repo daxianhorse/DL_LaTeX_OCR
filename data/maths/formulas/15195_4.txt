@@ -1,0 +1,1 @@
+l _ { 1 } : y = k x , C \left( \frac { \sqrt { 3 } } { 3 } , \frac { \sqrt { 3 } } { 3 } \right)

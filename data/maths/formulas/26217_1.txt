@@ -1,0 +1,1 @@
+Y \sim B \left( 4 , \frac { 1 } { 2 } \right)

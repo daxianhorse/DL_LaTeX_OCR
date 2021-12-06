@@ -1,0 +1,1 @@
+\left( a - a , - \frac { b ^ { 2 } } { a } \right) \cdot \left( a - m , \frac { b ^ { 2 } } { a } \right) = 0

@@ -1,0 +1,1 @@
+= \left( x _ { 1 1 } - 1 \right) ^ { 2 } \cdot \left( - 2 x _ { 1 } - 1 \right) - b

@@ -1,0 +1,1 @@
+\frac { c ^ { 2 } } { a } + \frac { b ^ { 2 } } { c } + \frac { a ^ { 2 } } { b } \geqslant 1

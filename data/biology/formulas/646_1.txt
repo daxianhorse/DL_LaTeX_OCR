@@ -1,0 +1,1 @@
+\mathrm { P } _ { \alpha } \sim \mathrm { P } _ { \beta } \sim \mathrm { P } _ { \gamma }

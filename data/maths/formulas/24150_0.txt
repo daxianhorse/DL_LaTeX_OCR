@@ -1,0 +1,1 @@
+P A = P B = P C = 4 \sqrt { 5 } , A B = B C = \frac { \sqrt { 3 } } { 3 } A C = 4

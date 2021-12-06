@@ -1,0 +1,1 @@
+f ( x ) = x ^ { 2 } + a x + b , g ( x ) = \mathrm { e } ^ { t } ( c x + d )

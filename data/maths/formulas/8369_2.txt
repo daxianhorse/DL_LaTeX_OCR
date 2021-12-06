@@ -1,0 +1,1 @@
+h ( x ) = \mathrm { e } ^ { x } - f ( x + 1 ) - a x ( a > 0 )

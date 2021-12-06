@@ -1,0 +1,1 @@
+\varphi ( a ) \geqslant \frac { \mathrm { e } ^ { x } } { 1 } + \sqrt { x + 1 } - \left( 2 + \frac { 5 } { 4 } x + \frac { 1 } { 2 } x ^ { 2 } \right)

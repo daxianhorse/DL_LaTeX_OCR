@@ -1,0 +1,1 @@
+A \left( x - x _ { 1 1 } \right) + B \left( y - y _ { 1 0 } \right) + \left( \left( z - z _ { 1 1 } \right) = 0 \right.

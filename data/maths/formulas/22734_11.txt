@@ -1,0 +1,1 @@
+x - \frac { 2 e } { \sqrt { \ln x } } \leq s l a n t a \leq s l a n t x + \frac { 2 e } { \sqrt { \ln x } }

@@ -1,0 +1,1 @@
+g = 1 0 \mathrm { ~ m } / \mathrm { s } ^ { 2 } , \sqrt { 3 } \approx 1 . 7 3 2

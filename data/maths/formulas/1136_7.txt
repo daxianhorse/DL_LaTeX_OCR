@@ -1,0 +1,1 @@
+f \left( b ^ { \prime } \right) \geqslant f \left( c ^ { \prime } \right)

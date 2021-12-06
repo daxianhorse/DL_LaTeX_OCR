@@ -1,0 +1,1 @@
+P _ { 1 } \left( a _ { 1 } \cdot b _ { 1 } \right) , P _ { 2 } \left( a _ { 2 } \cdot b _ { 2 } \right)

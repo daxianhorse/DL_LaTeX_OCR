@@ -1,0 +1,1 @@
+\sqrt { 3 } \sin x ) \cdot \sin \left( \frac { \pi } { 2 } - x \right) + \frac { 1 } { 2 }

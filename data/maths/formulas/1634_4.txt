@@ -1,0 +1,1 @@
+\overrightarrow { O P } = x \cdot \overrightarrow { ( ) B } + y \overrightarrow { ( x ) }

@@ -1,0 +1,1 @@
+\mid 1 x + 5 < 0 , x \in \mathbf { Z } \} , C = \left\{ x | | 2 x ^ { 2 } - 1 1 x + 1 0 | < | 3 x - \right.

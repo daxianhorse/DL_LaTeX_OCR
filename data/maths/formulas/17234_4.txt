@@ -1,0 +1,1 @@
+\frac { \mathrm { e } ^ { x } } { \sin x } > 1 - \ln x

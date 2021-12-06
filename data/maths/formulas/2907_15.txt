@@ -1,0 +1,1 @@
+\left| T _ { n } \right| < 2 n ^ { 2 } , n \geqslant 3

@@ -1,0 +1,1 @@
+z = \left( a ^ { 2 } - 2 a + 3 \right) - \left( a ^ { 2 } - a + \frac { 1 } { 2 } \right) i ( a \in \mathbf { R } )

@@ -1,0 +1,1 @@
+a ^ { 2 } \cos \theta + a \sin \theta + 2 = 0

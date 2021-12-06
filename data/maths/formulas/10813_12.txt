@@ -1,0 +1,1 @@
+\left( 4 - x _ { 1 } \right) \left( 4 - x _ { 2 } \right) + \left( 4 - y _ { 1 } \right) \left( 4 - y _ { 2 } \right) = 0

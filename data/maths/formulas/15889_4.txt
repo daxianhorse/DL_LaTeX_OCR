@@ -1,0 +1,1 @@
+\left. 1 , 2 , 3 , \cdots , k , k \in \mathbf { N } ^ { * } \right)

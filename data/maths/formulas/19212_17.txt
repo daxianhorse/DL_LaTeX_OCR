@@ -1,0 +1,1 @@
+\frac { P ( 3 0 0 \leq s l a n t X < 9 0 0 ) } { P ( X \geqslant 3 0 0 ) } = \frac { 0 . 6 } { 0 . 7 } = \frac { 6 } { 7 }

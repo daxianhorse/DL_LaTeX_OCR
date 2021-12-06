@@ -1,0 +1,1 @@
+f ( x ) = x + \frac { a } { r } + b ( x \neq 0 )

@@ -1,0 +1,1 @@
+c _ { n } = \max \left\{ b _ { 1 } - a _ { 1 } n , b _ { 2 } - a _ { 2 } n , \cdots , b _ { n } - a _ { n } n \right\}

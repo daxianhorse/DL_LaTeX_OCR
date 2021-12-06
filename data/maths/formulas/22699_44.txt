@@ -1,0 +1,1 @@
+g ( x ) _ { \max } = \max \{ g ( 0 ) , g ( \pi ) \} \leq s l a n t 0

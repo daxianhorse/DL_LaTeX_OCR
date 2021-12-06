@@ -1,0 +1,1 @@
+y = \l g \left( - x ^ { 2 } + 6 x - 5 \right)

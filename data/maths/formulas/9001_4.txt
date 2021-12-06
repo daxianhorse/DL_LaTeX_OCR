@@ -1,0 +1,1 @@
+x = f ( \theta ) , y = g ( \theta )

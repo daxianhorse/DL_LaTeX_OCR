@@ -1,0 +1,1 @@
+\left( \frac { k \pi } { 2 } - \frac { \pi } { 3 } , \frac { k \pi } { 2 } + \frac { \pi } { 6 } \right)

@@ -1,0 +1,1 @@
+\frac { \cos \alpha } { \sin \alpha + \sin 3 \alpha } = \frac { 1 + \alpha ^ { 2 } } { 4 \alpha }

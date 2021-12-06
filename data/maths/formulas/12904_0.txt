@@ -1,0 +1,1 @@
+f ( x ) = x \left( \mathrm { e } ^ { 2 } - 1 \right) - \frac { 1 } { 2 } x ^ { 2 }

@@ -1,0 +1,1 @@
+\mathrm { i } ^ { 3 } \cdot z = 1 - 3 \mathrm { i }

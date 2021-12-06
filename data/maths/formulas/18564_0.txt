@@ -1,0 +1,1 @@
+f ( x ) = x - \frac { 1 } { 3 } \sin 2 x + \o p e r a t o r n a m e { a s i n } x

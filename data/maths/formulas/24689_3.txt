@@ -1,0 +1,1 @@
+2 \sqrt { \mathrm { e } } + \frac { 2 } { \sqrt { \mathrm { e } } }

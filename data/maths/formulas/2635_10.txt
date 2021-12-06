@@ -1,0 +1,1 @@
+d = \frac { \left| \frac { - a ^ { 2 } k } { \sqrt { b ^ { 2 } + a ^ { 2 } k ^ { 2 } } } + \frac { b ^ { 2 } k } { \sqrt { b ^ { 2 } + a ^ { 2 } k ^ { 2 } } } \right| } { \sqrt { 1 + k ^ { 2 } } }

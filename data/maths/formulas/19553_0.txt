@@ -1,0 +1,1 @@
+f ( \tan x ) = \sin ^ { 2 } x - \sin 2 x

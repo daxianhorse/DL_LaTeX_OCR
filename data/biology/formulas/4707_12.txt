@@ -1,0 +1,1 @@
+\mathrm { C } . \mathrm { b } _ { 1 } > \mathrm { b } _ { 3 } > \mathrm { b } _ { 2 } > \mathrm { b } _ { 4 }

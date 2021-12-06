@@ -1,0 +1,1 @@
+h ( t ) = \mathrm { e } ^ { t ^ { 2 } } + \frac { 2 \mathrm { e } } { t } , h ^ { \prime } ( t ) = \frac { 2 \left( t ^ { 3 } \mathrm { e } ^ { t ^ { 2 } } - \mathrm { e } \right) } { t ^ { 2 } }

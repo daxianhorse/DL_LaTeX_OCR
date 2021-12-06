@@ -1,0 +1,1 @@
+B = x \in \mathbf { N } / 2 ^ { x } < 6 5

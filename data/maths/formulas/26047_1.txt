@@ -1,0 +1,1 @@
+\boldsymbol { b } \cdot \boldsymbol { c } = ( \boldsymbol { b } + \boldsymbol { c } ) \cdot \boldsymbol { a }

@@ -1,0 +1,1 @@
+h ( x ) = \frac { f ^ { \prime } ( x ) } { e ^ { x } }

@@ -1,0 +1,1 @@
+( \mathrm { A t s t s } ) \rightarrow \mathrm { F } _ { 1 }

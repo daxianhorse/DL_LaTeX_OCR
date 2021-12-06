@@ -1,0 +1,1 @@
+\overrightarrow { A C } = \left( \frac { 8 \sqrt { 2 } } { 3 } , \frac { 4 } { 3 } \right)

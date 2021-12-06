@@ -1,0 +1,1 @@
+A \left( - \sqrt { y _ { 0 } } , y _ { 0 } \right) , B \left( \sqrt { y _ { 0 } } , y _ { 0 } \right)

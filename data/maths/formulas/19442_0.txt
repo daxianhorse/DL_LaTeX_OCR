@@ -1,0 +1,1 @@
+f ( x ) = \ln x + x ^ { 2 } - b x + a ( b > 0 , a \in \mathbf { R } )

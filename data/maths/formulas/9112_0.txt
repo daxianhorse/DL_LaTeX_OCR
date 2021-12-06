@@ -1,0 +1,1 @@
+\overrightarrow { B D } = \overrightarrow { D C } , \overrightarrow { E C } = 2 \overrightarrow { A E }

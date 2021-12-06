@@ -1,0 +1,1 @@
+f ( x ) = \sqrt { 2 5 - 4 x ^ { 2 } } + \ln \left( \mathrm { e } ^ { x } - 1 \right)

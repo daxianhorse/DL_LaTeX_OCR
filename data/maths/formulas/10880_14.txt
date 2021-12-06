@@ -1,0 +1,1 @@
+y + 2 p = \frac { x _ { 1 } } { p } \left( x - x _ { 0 } \right)

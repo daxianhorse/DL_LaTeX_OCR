@@ -1,0 +1,1 @@
+b \sin A = a \sin C , c = 1

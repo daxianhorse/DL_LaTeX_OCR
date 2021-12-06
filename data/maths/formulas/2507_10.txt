@@ -1,0 +1,1 @@
+\cos \gamma = \frac { | \overrightarrow { E F } \cdot \overrightarrow { P C } | } { | \overrightarrow { F F } | | \overrightarrow { P C } | } = \frac { 5 \sqrt { 1 9 } } { 3 8 }

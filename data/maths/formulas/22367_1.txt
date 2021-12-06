@@ -1,0 +1,1 @@
+[ - \sqrt { 2 } , - 1 ) \bigcup [ \sqrt { 2 } , + \infty )

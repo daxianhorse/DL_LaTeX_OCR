@@ -1,0 +1,1 @@
+a \sin A - c \sin C = \left( b - \frac { 2 } { 3 } c \right) \sin B

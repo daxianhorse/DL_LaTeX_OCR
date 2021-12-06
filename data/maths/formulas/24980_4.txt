@@ -1,0 +1,1 @@
+\forall x \in \mathbf { R } , x ^ { 2 } + 2 0 2 0 x + 2 0 2 1 < 0

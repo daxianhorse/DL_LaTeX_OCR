@@ -1,0 +1,1 @@
+P ( \xi \geqslant m ) = 1 - b

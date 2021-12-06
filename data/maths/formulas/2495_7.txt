@@ -1,0 +1,1 @@
+\frac { 8 } { 9 d } \left( \frac { 1 } { 2 } - \frac { 1 } { 4 ^ { n } + 1 } \right) , n \in \mathbf { N } ^ { * }

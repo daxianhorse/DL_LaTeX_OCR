@@ -1,0 +1,1 @@
+\lambda _ { 5 } \overrightarrow { A C } + \lambda _ { 6 } \overrightarrow { B D }

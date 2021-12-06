@@ -1,0 +1,1 @@
+a _ { n } = \log _ { 2 } \left( 1 \cdot x _ { 1 } \cdot x _ { 2 } \cdot \cdots \cdot x _ { t } \cdot 2 \right)

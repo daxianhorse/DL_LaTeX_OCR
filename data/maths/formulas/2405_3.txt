@@ -1,0 +1,1 @@
+a = \cos \theta , b = c \sin \theta , \theta \in \left( 0 , \frac { \pi } { 2 } \right)

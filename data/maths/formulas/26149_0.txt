@@ -1,0 +1,1 @@
+m ( t ) = \frac { r } { k } + \left( m _ { 0 } - \frac { r } { k } \right) \mathrm { e } ^ { - \frac { k } { t } t }

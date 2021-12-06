@@ -1,0 +1,1 @@
+\sin \frac { n \pi } { 2 } \left( n \in \mathbf { N } ^ { * } \right)

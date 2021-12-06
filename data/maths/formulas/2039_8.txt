@@ -1,0 +1,1 @@
+| A F | + | B F | = 4 \Rightarrow \left( 3 a ^ { 2 } + \frac { 3 } { 4 } \right) + \left( 3 b ^ { 2 } + \frac { 3 } { 4 } \right) = 4 \Rightarrow a ^ { 2 } + b ^ { 2 } = \frac { 5 } { 6 }

@@ -1,0 +1,1 @@
+f ( x ) = c \ln x + \frac { 1 } { 2 } x ^ { 2 } + b x ( b , c \in \mathbf { R } , c \neq 0 )

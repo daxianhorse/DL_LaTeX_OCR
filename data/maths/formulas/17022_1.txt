@@ -1,0 +1,1 @@
+g ( x ) = \log _ { 2 } \left( 2 ^ { x } - 1 \right) - f ( x )

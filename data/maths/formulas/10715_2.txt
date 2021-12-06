@@ -1,0 +1,1 @@
+a _ { k + 1 } = \left( 1 + \frac { 1 } { k ^ { 2 } } \right) a _ { k } + \frac { 1 } { 3 ^ { k - 1 } } \geqslant 3

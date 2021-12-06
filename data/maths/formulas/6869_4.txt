@@ -1,0 +1,1 @@
+\cos x f ^ { \prime } ( x ) + \sin x f ( x ) < 0

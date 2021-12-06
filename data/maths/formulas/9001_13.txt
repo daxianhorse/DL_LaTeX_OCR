@@ -1,0 +1,1 @@
+t = 2 f ( \theta ) + g ( 2 \theta )

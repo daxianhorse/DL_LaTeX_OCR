@@ -1,0 +1,1 @@
+f \left( \frac { 3 } { 8 } + x \right) = f \left( \frac { 3 } { 8 } - x \right)

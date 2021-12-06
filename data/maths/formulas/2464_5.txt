@@ -1,0 +1,1 @@
+x ^ { 2 } - \frac { 1 } { 2 } \left( a _ { n } + b _ { n } \right) x + \sqrt { a _ { n } b _ { n } }

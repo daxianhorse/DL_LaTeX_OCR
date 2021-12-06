@@ -1,0 +1,1 @@
+\alpha , \beta \in \left[ 0 , \frac { \pi } { 4 } \right] , \alpha + \beta = \frac { \pi } { 4 }

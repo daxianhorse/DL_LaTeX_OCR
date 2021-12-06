@@ -1,0 +1,1 @@
+| \boldsymbol { a } | \times | \boldsymbol { b } | \in [ 5 , 1 3 ]

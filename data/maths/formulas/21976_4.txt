@@ -1,0 +1,1 @@
+\sqrt { \sum _ { i = 1 } ^ { 6 } \left( x _ { i } - \bar { x } \right) ^ { 2 } \sum _ { i = 1 } ^ { 6 } \left( y _ { i } - \bar { y } \right) ^ { 2 } } \approx 8 2 . 1 3

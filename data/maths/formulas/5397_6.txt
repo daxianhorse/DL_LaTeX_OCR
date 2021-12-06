@@ -1,0 +1,1 @@
+\frac { 1 } { n + a _ { 1 } } + \frac { 1 } { n + a _ { 2 } } + \frac { 1 } { n + a _ { 3 } } + \cdots + \frac { 1 } { n + a _ { n } } - 2 \lambda \geqslant 0

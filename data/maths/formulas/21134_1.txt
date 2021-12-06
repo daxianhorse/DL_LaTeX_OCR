@@ -1,0 +1,1 @@
+F ( x ) = \min \left\{ 2 | x - 1 | , x ^ { 2 } - 2 a x + 4 a - 2 \right\}

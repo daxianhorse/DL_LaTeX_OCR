@@ -1,0 +1,1 @@
+\text { A . } \forall x \in \mathbf { R } , f ( x ) \leq s l a n t f \left( x _ { 0 } \right)

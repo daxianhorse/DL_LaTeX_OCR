@@ -1,0 +1,1 @@
+g ( x ) = \sin x - \mathrm { e } ^ { - 2 } f ( x )

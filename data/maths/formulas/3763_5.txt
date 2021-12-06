@@ -1,0 +1,1 @@
+\sin \left( B + \frac { \pi } { 2 } \right)

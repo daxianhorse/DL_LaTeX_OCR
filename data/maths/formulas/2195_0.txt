@@ -1,0 +1,1 @@
+f ( x ) = a x ^ { 2 } + | x - a | + b , a , b \in \mathbf { R }

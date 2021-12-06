@@ -1,0 +1,1 @@
+T _ { n } = \frac { 5 } { 2 4 } - \frac { 1 } { a _ { 5 } a _ { 6 } } - \frac { 1 } { a _ { 7 } a _ { 8 } } + \cdots + \frac { ( - 1 ) ^ { f ( n + 1 ) } } { a _ { 2 n - 1 } a _ { 2 n } } \leq s l a n t \frac { 5 } { 2 4 } - \frac { 1 } { a _ { 5 } a _ { 6 } } +

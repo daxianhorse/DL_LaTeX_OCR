@@ -1,0 +1,1 @@
+A = \{ x | | x - 3 \mid \leq s l a n t \sqrt { 1 0 } , x \in \mathbf { Z } \} , B = \left\{ x \mid x ^ { 2 } - \right.

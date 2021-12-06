@@ -1,0 +1,1 @@
+= - \overrightarrow { A B } ^ { 2 } + \overrightarrow { A B } \cdot \overrightarrow { A F } + \overrightarrow { B E } \cdot \overrightarrow { B A } + \overrightarrow { B E } \cdot \overrightarrow { A F }

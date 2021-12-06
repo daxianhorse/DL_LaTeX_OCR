@@ -1,0 +1,1 @@
+a _ { 2 k } \cdot a _ { 2 k + 1 } \cdot a _ { 2 k + 2 }

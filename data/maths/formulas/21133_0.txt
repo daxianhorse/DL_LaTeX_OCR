@@ -1,0 +1,1 @@
+f ( x ) = \frac { 1 } { 2 } ( m - 2 ) x ^ { 2 } + ( n - 8 ) x + 1 ( m \geqslant 0 , n \geqslant 0 )

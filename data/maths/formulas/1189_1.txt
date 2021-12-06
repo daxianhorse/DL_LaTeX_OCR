@@ -1,0 +1,1 @@
+y = f \left( 2 x ^ { 2 } + 1 \right) + f ( \lambda - x )

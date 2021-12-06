@@ -1,0 +1,1 @@
+f ( x ) = a \ln x , g ( x ) = \frac { 1 } { 2 } x ^ { 2 } + b x + b , a , b \in \mathbf { R }

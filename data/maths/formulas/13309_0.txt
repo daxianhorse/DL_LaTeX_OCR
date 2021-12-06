@@ -1,0 +1,1 @@
+\boldsymbol { a } = ( 1 , 0 ) , \boldsymbol { b } = ( 0 , 1 ) , \boldsymbol { c } = k \boldsymbol { a } +

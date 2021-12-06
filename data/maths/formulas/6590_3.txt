@@ -1,0 +1,1 @@
+x + 2 y \geqslant m ^ { 2 } + 2 m

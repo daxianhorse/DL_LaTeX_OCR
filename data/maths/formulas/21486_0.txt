@@ -1,0 +1,1 @@
+a = \left( \cos 7 5 ^ { \circ } , \sin 1 5 ^ { \circ } \right) , b = \left( \cos 1 5 ^ { \circ } , \sin 7 5 ^ { \circ } \right) ,

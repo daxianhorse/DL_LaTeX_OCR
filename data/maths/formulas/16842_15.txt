@@ -1,0 +1,1 @@
+t \in \left( 0 , \frac { 3 } { 4 } \right)

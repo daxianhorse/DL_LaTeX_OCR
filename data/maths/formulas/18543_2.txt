@@ -1,0 +1,1 @@
+f ( x ) = \frac { 1 } { 2 } \left( \left| x - a ^ { 2 } \right| + \mid x - \right.

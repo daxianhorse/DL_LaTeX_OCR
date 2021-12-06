@@ -1,0 +1,1 @@
+7 ^ { * } 1 + \lambda ^ { * } : \rightarrow ^ { \bullet } \cdot \lambda ^ { * } 1 1

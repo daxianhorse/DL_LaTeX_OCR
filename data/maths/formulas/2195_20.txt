@@ -1,0 +1,1 @@
+- a x ^ { 2 } - 2 \leq s l a n t | x - a | \leq s l a n t - a x ^ { 2 } + 1

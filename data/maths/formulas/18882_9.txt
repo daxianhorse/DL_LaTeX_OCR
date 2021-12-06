@@ -1,0 +1,1 @@
+\cos \left\langle \overrightarrow { A B _ { 1 } } \cdot \overrightarrow { B C _ { 1 } } \right\rangle = \frac { \sqrt { 6 } } { 6 }

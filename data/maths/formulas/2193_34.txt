@@ -1,0 +1,1 @@
+t = x _ { 2 } \in \left( - \frac { a } { 3 } , 0 \right) , g ( t ) = t ^ { 2 } - \frac { 2 } { t }

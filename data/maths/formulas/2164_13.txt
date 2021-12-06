@@ -1,0 +1,1 @@
+A = \{ x \mid f ( x ) = x \} , B = \{ x \mid f ( f ( x ) ) = x \}

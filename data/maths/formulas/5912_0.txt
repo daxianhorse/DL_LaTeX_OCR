@@ -1,0 +1,1 @@
+\left( 1 + x + x ^ { 2 } \right) ^ { n } = a _ { 0 } + a _ { 1 } x + a _ { 2 } x ^ { 2 } + \cdots + a _ { 2 n } x ^ { 2 n }

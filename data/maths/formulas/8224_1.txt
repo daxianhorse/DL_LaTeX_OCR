@@ -1,0 +1,1 @@
+x ^ { 2 } + p x + q = 0 ( p , q \in \mathbf { R } )

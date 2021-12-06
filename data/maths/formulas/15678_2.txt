@@ -1,0 +1,1 @@
+\left[ 0 , \frac { 1 } { 4 } \right] \cup \left\{ \frac { e } { 6 } \right\}

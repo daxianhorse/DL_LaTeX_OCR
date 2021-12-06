@@ -1,0 +1,1 @@
+A = \left\{ 4 , m , m ^ { 2 } + 3 m \right\}

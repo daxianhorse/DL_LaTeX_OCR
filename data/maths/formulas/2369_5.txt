@@ -1,0 +1,1 @@
+\overrightarrow { ( C } = \lambda \overrightarrow { ( ) A } + u \overrightarrow { O B } ( \lambda , \mu \in \mathbf { R } )

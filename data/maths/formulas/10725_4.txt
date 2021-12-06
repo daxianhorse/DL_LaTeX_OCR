@@ -1,0 +1,1 @@
+m _ { n } ( x ) \geqslant 2 ^ { n } - 2

@@ -1,0 +1,1 @@
+S _ { n } = \sum _ { k = 1 } ^ { n } \left( 2 k - \frac { k } { 2 ^ { k - 1 } } \right) = \sum _ { k = 1 } ^ { n } ( 2 k ) - \sum _ { k = 1 } ^ { n } \frac { k } { 2 ^ { k - 1 } }

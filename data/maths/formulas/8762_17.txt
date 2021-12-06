@@ -1,0 +1,1 @@
+\overrightarrow { O D } = \lambda \overrightarrow { O P } ( \lambda > 1 )

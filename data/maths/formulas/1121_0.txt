@@ -1,0 +1,1 @@
+f ( x ) = \frac { 2 t x ^ { 2 } + \sqrt { 2 } t \sin \left( x + \frac { \pi } { 4 } \right) + x } { 2 x ^ { 2 } + \cos x }

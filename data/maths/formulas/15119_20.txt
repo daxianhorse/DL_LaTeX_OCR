@@ -1,0 +1,1 @@
+e = \frac { 2 c } { 2 a } = \frac { \left| F _ { 1 } F _ { 2 } \right| } { \left| P F _ { 1 } \right| + \left| P F _ { 2 } \right| } = \frac { \sqrt { m ^ { 2 } + n ^ { 2 } } } { m + n } = \frac { \sqrt { ( \sqrt { 2 } n ) ^ { 2 } + n ^ { 2 } } } { \sqrt { 2 } n + n } = \sqrt { 6 } - \sqrt { 3 }

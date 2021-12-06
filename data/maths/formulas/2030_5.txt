@@ -1,0 +1,1 @@
+\text { ( 1 ) } p \wedge q \cdot \text { ( 2 ) } p \vee q \cdot \text { ( 3 ) } p \wedge

@@ -1,0 +1,1 @@
+4 x _ { n + 1 } \leq s l a n t \left( 2 + x _ { n + 1 } \right) \left[ x _ { n + 1 } + \ln \left( 1 + x _ { n + 1 } \right) \right]

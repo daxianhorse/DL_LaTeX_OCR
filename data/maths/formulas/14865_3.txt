@@ -1,0 +1,1 @@
+S = \frac { 1 } { 2 } a c \cdot \sin B = \frac { \sqrt { 3 } } { 2 } a c \cdot \cos B

@@ -1,0 +1,1 @@
+S _ { n + k } + S _ { n - k } = 2 \left( S _ { n } + S _ { k } \right)

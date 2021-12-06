@@ -1,0 +1,1 @@
+a = f \left( 2 ^ { - 1 . 2 } \right) , b = f \left( \log _ { 3 } 2 \right) , c = f \left( \log _ { 2 } \frac { 1 } { 3 } \right)

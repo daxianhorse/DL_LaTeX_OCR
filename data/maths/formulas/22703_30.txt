@@ -1,0 +1,1 @@
+g \left( \frac { 1 - 2 a } { a ^ { 2 } - a } \right) > g ( 0 ) = 0

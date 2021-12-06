@@ -1,0 +1,1 @@
+\boldsymbol { m } = ( A , B , C )

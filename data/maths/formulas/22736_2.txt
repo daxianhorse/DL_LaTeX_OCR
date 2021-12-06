@@ -1,0 +1,1 @@
+f ( x ) = x - \ln x , f ^ { \prime } ( x ) = 1 - \frac { 1 } { x } = \frac { x - 1 } { x } , f ^ { \prime } ( x ) = 0

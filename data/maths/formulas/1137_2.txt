@@ -1,0 +1,1 @@
+f ( - 1 ) \cdot f ( 1 ) \cdot f ( 2 ) \cdot f ( \bar { j } )

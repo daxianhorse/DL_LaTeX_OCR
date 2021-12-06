@@ -1,0 +1,1 @@
+\left( 4 \sqrt [ 3 ] { b } + \frac { 1 } { \sqrt { 5 b } } \right) ^ { 5 }

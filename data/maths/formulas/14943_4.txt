@@ -1,0 +1,1 @@
+\left( p m + p n , p m ^ { 2 } + p n ^ { 2 } \right)

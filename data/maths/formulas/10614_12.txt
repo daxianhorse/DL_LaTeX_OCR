@@ -1,0 +1,1 @@
+a _ { 2 } = \frac { p - 1 } { p } a _ { 1 } + \frac { c } { p } a _ { 1 } ^ { 1 - p } = a _ { 1 } \left( 1 + \frac { 1 } { p } \left( \frac { c } { a _ { 1 } ^ { p } } - 1 \right) \right) < a

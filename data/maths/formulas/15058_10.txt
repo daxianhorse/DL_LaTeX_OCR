@@ -1,0 +1,1 @@
+( 2 \cos \theta , \sqrt { 3 } \sin \theta )

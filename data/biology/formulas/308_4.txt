@@ -1,0 +1,1 @@
+\mathrm { A a } _ { 1 } \times \mathrm { a } _ { 1 } \mathrm { a } _ { 2 }

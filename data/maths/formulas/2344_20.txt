@@ -1,0 +1,1 @@
+\cos B = \frac { 4 b ^ { 2 } + \frac { 4 } { 9 } a ^ { 2 } - k ^ { 2 } b ^ { 2 } } { 2 \cdot 2 b \cdot \frac { 2 a } { 3 } } = \frac { 4 b ^ { 2 } + a ^ { 2 } - b ^ { 2 } } { 2 \cdot 2 b \cdot a } ,

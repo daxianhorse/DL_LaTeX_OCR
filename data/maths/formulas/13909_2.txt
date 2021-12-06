@@ -1,0 +1,1 @@
+A B C D , A B \perp A D , A C \perp C D , \ a n g l e A B C = 6 0 ^ { \circ }

@@ -1,0 +1,1 @@
+C A = C B = \sqrt { 7 } , A B = 2 \sqrt { 3 } , P C = \sqrt { 3 }

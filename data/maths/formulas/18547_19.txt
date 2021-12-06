@@ -1,0 +1,1 @@
+\lambda + \mu = 1 + \frac { 2 } { 5 } \sqrt { 5 } \sin \theta + 1 + \frac { \sqrt { 5 } } { 5 } \cos \theta = 2 + \sqrt { \left( \frac { 2 \sqrt { 5 } } { 5 } \right) ^ { 2 } + \left( \frac { \sqrt { 5 } } { 5 } \right) ^ { 2 } } \sin ( \theta + \varphi ) = 2 +

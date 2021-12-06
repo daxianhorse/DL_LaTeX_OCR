@@ -1,0 +1,1 @@
+A = \left\{ x \mid x ^ { 2 } = 9 \right\} , B = \{ x | | x \mid < 2 , x \in \mathbf { Z } \}

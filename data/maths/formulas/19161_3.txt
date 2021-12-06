@@ -1,0 +1,1 @@
+P ( B \mid A ) = \frac { P ( A \cap B ) } { P ( A ) } = \frac { P ( B ) } { P ( A ) } = \frac { 1 } { 4 }

@@ -1,0 +1,1 @@
+f ( x ) = 2 \sqrt { 3 } \sin ( \pi - x ) \sin x - ( \sin x -

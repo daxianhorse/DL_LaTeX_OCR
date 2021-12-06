@@ -1,0 +1,1 @@
+\hat { y } = \hat { b } \cdot x + \hat { a }

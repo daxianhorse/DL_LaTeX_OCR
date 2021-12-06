@@ -1,0 +1,1 @@
+m \cdot g ( 2 ) \leq s l a n t g \left( a _ { 1 } \right) + g \left( a _ { 2 } \right) + \cdots + g \left( a _ { m } \right) < g \left( a _ { m + 1 } \right)

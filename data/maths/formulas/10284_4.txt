@@ -1,0 +1,1 @@
+\left| M M ^ { \prime } \right| = \frac { \left| A A ^ { \prime } \right| + \left| B B ^ { \prime } \right| } { 2 } = \frac { \left| A F _ { 2 } \right| + \left| B F _ { 2 } \right| } { 2 e } = \frac { r } { e } > r

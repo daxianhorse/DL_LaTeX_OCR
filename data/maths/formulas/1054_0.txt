@@ -1,0 +1,1 @@
+\Lambda \quad | x | x = 3 n + 2 , n \in \mathbf { N } \}

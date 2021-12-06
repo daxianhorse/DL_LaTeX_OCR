@@ -1,0 +1,1 @@
+\left. \overrightarrow { B E } = \lambda \overrightarrow { B C } \cdot \vec { I } \vec { F } = \frac { 1 } { 9 \lambda } \vec { I } \right) (

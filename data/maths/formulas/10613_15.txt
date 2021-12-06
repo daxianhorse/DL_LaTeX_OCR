@@ -1,0 +1,1 @@
+f ( c ) = c , f \left( a _ { 2 k ^ { \perp } 2 } \right) = a _ { 2 k + 3 }

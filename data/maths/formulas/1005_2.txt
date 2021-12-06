@@ -1,0 +1,1 @@
+\frac { y ^ { \prime 2 } } { 4 } + \left( x ^ { \prime } - 1 \right) ^ { 2 } = 1

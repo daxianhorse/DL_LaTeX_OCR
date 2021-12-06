@@ -1,0 +1,1 @@
+\frac { \sin ( 2 \alpha + \beta ) } { \sin \alpha } - 2 \cos ( \alpha + \beta ) = \frac { \sin \beta } { \sin \alpha }

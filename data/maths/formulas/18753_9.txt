@@ -1,0 +1,1 @@
+\sqrt { a + 3 } - \sqrt { a + 1 } \leq s l a n t \sqrt { a + 2 } - \sqrt { a } \Rightarrow \frac { 2 } { \sqrt { a + 3 } + \sqrt { a + 1 } } \leq s l a n t \frac { 2 } { \sqrt { a + 2 } + \sqrt { a } }

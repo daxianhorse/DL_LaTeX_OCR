@@ -1,0 +1,1 @@
+b = F \left( \frac { 1 } { \l g 3 } \right)

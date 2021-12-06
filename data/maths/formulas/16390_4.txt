@@ -1,0 +1,1 @@
+f ( x ) = \frac { 1 } { x - 1 } ( x \neq 0 , \text { h } x \neq 1 )

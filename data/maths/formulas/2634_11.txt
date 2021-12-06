@@ -1,0 +1,1 @@
+= 4 a ^ { 2 } b ^ { 2 } \sqrt { \frac { 1 + \tan ^ { 2 } \alpha } { b ^ { 2 } + a ^ { 2 } \tan ^ { 2 } \alpha } \cdot \frac { 1 + \tan ^ { 2 } \beta } { b ^ { 2 } + a ^ { 2 } \tan ^ { 2 } \beta } }

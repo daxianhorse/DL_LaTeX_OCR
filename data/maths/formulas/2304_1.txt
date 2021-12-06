@@ -1,0 +1,1 @@
+\sin \alpha \cdot \sin \beta

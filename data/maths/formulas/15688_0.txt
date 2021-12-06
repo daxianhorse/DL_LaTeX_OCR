@@ -1,0 +1,1 @@
+\{ x \mid - 1 \leq s l a n t x < 4 \} , B = \{ x \mid - 5 < x < 2 \} , C = \{ x \mid 1 -

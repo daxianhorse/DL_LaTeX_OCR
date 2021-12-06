@@ -1,0 +1,1 @@
+C A = C ^ { \prime } C _ { 1 } = 2 C ^ { \prime } B

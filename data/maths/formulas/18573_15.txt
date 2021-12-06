@@ -1,0 +1,1 @@
+\frac { - c } { a } + \frac { 2 k ( a - c ) } { k a } = 1

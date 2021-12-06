@@ -1,0 +1,1 @@
+| m m n | / \left( m ^ { 2 } \cdot h \right) \mid

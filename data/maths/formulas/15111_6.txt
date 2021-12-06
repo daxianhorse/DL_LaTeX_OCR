@@ -1,0 +1,1 @@
+f ^ { \prime } ( x ) = \frac { x ^ { 2 } - k } { x } = \frac { x + \sqrt { k } } { x } \cdot ( x - \sqrt { k } )

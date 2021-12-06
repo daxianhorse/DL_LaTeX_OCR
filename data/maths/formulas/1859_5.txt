@@ -1,0 +1,1 @@
+a \cdot b , a \subset \alpha \cdot b \subset \beta \cdot a / / \beta \cdot b / / \alpha

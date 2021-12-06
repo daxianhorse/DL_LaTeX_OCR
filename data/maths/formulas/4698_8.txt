@@ -1,0 +1,1 @@
+x _ { 1 } \neq x _ { 2 } , g \left( \frac { x _ { 1 } + x _ { 2 } } { 2 } \right) <

@@ -1,0 +1,1 @@
+\overrightarrow { P S } \cdot ( \overrightarrow { P Q } + \overrightarrow { P R } ) = 0

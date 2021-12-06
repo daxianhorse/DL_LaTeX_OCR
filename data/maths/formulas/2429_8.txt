@@ -1,0 +1,1 @@
+\sum _ { i = 1 } ^ { 1 0 } \left| x _ { i } - 1 \right| = 4 , \sum _ { i = 1 } ^ { 1 0 } \left| x _ { i } - 2 \right| = 6 ,

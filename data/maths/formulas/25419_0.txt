@@ -1,0 +1,1 @@
+p : y = \sin x + \cos x

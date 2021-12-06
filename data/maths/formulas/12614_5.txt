@@ -1,0 +1,1 @@
+s = \frac { ( i - 1 ) \times s + a _ { 1 } } { i }

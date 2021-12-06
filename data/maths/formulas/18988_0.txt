@@ -1,0 +1,1 @@
+y = \sqrt { x ^ { 2 } + a } + \sqrt { ( c - x ) ^ { 2 } + b } ( x \geqslant c )

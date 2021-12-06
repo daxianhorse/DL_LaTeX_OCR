@@ -1,0 +1,1 @@
+\sum _ { i = 1 } ^ { 1 0 } \left( w _ { i } \right.

@@ -1,0 +1,1 @@
+A \left( r - r _ { 1 } \right) + B \left( v - v _ { 0 } \right) + C \left( z - z _ { 0 } \right) = 0

@@ -1,0 +1,1 @@
+\overrightarrow { A E } = \frac { 9 } { 1 0 } \overrightarrow { A C } - \frac { 2 } { 5 } \overrightarrow { B F }

@@ -1,0 +1,1 @@
+h ( x ) = \mathrm { e } ^ { g ( x ) } - \sin ( g ( x ) ) - 1

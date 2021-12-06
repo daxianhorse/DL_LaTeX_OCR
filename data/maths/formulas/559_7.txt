@@ -1,0 +1,1 @@
+\left( - 3 e ^ { - \frac { 3 } { 2 } } , - e ^ { - \frac { 1 } { 2 } } \right]

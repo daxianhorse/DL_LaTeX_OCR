@@ -1,0 +1,1 @@
+\theta = \arccos \frac { 2 } { 3 }

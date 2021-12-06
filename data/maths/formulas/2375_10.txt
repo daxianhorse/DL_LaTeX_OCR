@@ -1,0 +1,1 @@
+| \overrightarrow { C D } | | \overrightarrow { C B } | \geqslant \left( \frac { 1 } { 2 } | \overrightarrow { C B } | - \frac { 1 } { 2 } \right) | \overrightarrow { C B } | = \frac { 1 } { 2 } ( | \overrightarrow { C B } | -

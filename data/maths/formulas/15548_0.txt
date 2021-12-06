@@ -1,0 +1,1 @@
+2 \log _ { a } ( M - 2 N ) = \log _ { a } M + \log _ { a } N

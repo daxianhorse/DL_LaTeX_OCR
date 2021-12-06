@@ -1,0 +1,1 @@
+\cos \theta _ { 1 } \cos \theta _ { 2 } \cdots \cos \theta _ { n }

@@ -1,0 +1,1 @@
+\frac { \sin C } { \sin \left( \frac { 2 \pi } { 3 } - B \right) } = \frac { c } { b }

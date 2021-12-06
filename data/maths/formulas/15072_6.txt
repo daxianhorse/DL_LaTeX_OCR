@@ -1,0 +1,1 @@
+x ^ { 3 } + \frac { 1 } { 1 + x } \leq s l a n t x + \frac { 1 } { 1 + x }

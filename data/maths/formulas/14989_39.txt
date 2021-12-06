@@ -1,0 +1,1 @@
+g ( m ) = \frac { \mathrm { e } ^ { m } - \left( - \frac { m - 2 } { m + 2 } \mathrm { e } ^ { m } \right) \cdot ( m + 1 ) } { m ^ { 2 } } = \frac { \mathrm { e } ^ { m } } { m + 2 }

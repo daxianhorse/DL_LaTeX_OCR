@@ -1,0 +1,1 @@
+\overrightarrow { 1 B } = ( - \cos \theta , \ldots \sin \theta , 1 )

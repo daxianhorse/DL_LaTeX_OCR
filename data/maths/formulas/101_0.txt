@@ -1,0 +1,1 @@
+f ( x ) = \left( \mathrm { e } ^ { x - m } - a x \right) ( \ln x - a x )

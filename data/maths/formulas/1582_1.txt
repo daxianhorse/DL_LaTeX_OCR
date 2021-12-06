@@ -1,0 +1,1 @@
+\sin A \cdot ( i A \mid \sin B \cdot ( i B )

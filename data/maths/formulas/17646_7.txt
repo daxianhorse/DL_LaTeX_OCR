@@ -1,0 +1,1 @@
+B _ { 1 } C \stackrel { 1 } { - } \mathrm { j } A A _ { 1 }

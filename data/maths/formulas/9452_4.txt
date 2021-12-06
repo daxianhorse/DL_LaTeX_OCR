@@ -1,0 +1,1 @@
+a _ { n + 2 } = \left( 1 + \cos ^ { 2 } \frac { \pi \pi } { 2 } \right) a _ { n } + \sin ^ { 2 } \frac { n \pi } { 2 }

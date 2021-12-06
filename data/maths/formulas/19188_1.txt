@@ -1,0 +1,1 @@
+P \left( \frac { 1 } { 2 } < \xi < \frac { 5 } { 2 } \right)

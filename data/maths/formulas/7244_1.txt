@@ -1,0 +1,1 @@
+\cos \frac { A } { 2 } = \frac { 2 \sqrt { 5 } } { 5 } , \overrightarrow { A B } \cdot \overrightarrow { A C } = 3

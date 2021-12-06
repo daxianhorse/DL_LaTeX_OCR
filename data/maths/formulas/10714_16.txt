@@ -1,0 +1,1 @@
+\frac { a _ { n } } { 2 ^ { n - 2 } } \leq s l a n t \frac { 1 } { 2 ^ { n - 2 } } ( n \geqslant 3 )

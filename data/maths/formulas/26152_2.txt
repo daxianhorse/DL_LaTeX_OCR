@@ -1,0 +1,1 @@
+A \left( a , \mathrm { e } ^ { a } \right)

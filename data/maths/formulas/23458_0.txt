@@ -1,0 +1,1 @@
+f ( x ) = \frac { ( \sin x + \cos x ) ^ { 2 } } { 2 \left( 1 + \cos ^ { 2 } x \right) }

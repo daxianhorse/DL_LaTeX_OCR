@@ -1,0 +1,1 @@
+x = \frac { 3 - a } { 2 a } \in \left( \frac { 1 } { 4 } , 1 \right)

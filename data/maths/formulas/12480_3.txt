@@ -1,0 +1,1 @@
+S _ { 1 } \subseteq \left( \ c o m p l e m e n t _ { 1 } S _ { 2 } \cup \ll b r a c k e t _ { 1 } S _ { 3 } \right)

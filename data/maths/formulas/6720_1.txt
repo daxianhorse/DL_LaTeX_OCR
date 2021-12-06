@@ -1,0 +1,1 @@
+\left| \mathrm { e } ^ { x } - 1 \right| + k

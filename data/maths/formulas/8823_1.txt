@@ -1,0 +1,1 @@
+A B = 2 , A C = 1 , \ a n g l e B A C = 1 2 0 ^ { \circ } , \overrightarrow { A B } = a , \overrightarrow { A C } = b

@@ -1,0 +1,1 @@
+a = \left( \frac { x } { 2 } , 8 \right) , b = ( 1 , x )

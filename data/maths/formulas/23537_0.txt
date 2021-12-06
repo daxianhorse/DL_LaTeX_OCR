@@ -1,0 +1,1 @@
+f ( x ) = \frac { x ^ { 2 } + a \ln x } { \mathrm { e } ^ { x } } ( a \in \mathbf { R } )

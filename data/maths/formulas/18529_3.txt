@@ -1,0 +1,1 @@
+\overrightarrow { P A } \cdot ( \overrightarrow { P B } + \overrightarrow { P C } ) = 2 \vec { P } \vec { D } \cdot \overrightarrow { P A }

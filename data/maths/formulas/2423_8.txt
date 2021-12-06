@@ -1,0 +1,1 @@
+= \max \left\{ | 6 + a + b | , \left| - \frac { 1 } { 4 } + a + b \right| \right\}

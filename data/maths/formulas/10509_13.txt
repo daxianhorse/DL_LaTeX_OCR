@@ -1,0 +1,1 @@
+( q - 1 ) S _ { n } = n q ^ { n } - \left( 1 + q + q ^ { 2 } + \cdots + \right.

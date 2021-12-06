@@ -1,0 +1,1 @@
+\text { C . } \sin \left( 2 x + \frac { \pi } { 1 2 } \right)

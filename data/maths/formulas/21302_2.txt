@@ -1,0 +1,1 @@
+c = \int _ { 2 } ^ { 3 } \frac { 1 } { x } \mathrm { ~ d } x

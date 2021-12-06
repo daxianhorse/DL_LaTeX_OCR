@@ -1,0 +1,1 @@
+f \left( x _ { 1 } \right) + f \left( x _ { 2 } \right) = \ln \frac { 1 } { 2 } + a ^ { 2 } - 1 > 1 - \ln 2 = \ln \frac { \mathrm { e } } { 2 }

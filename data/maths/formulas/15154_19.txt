@@ -1,0 +1,1 @@
+\frac { | N A | } { | N B | } = \frac { | O N | } { | O B | } = \sqrt { 2 } - 1

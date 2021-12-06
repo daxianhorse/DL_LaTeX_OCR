@@ -1,0 +1,1 @@
+f ( x ) = \cos ( \omega x + \varphi ) + 3 ( \omega > 0 , | \varphi | <

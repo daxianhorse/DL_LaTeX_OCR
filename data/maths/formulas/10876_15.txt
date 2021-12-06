@@ -1,0 +1,1 @@
+\lambda = \frac { | \overrightarrow { A P } | } { | \overrightarrow { P B } | } = \frac { | \overrightarrow { A Q } | } { | \overrightarrow { Q B } | }

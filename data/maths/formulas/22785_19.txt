@@ -1,0 +1,1 @@
+\left( f \left( \frac { 1 } { 2 } \right) , f ( 1 ) \right]

@@ -1,0 +1,1 @@
+f ( x ) = x ^ { 2 } \cdot \mathrm { e } ^ { a x + 1 } - b \ln x - a x ( a , b \in \mathbf { R } )

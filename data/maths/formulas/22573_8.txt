@@ -1,0 +1,1 @@
+f \left( f \left( y _ { 0 } \right) \right) = y _ { 0 }

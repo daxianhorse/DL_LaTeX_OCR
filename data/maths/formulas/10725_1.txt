@@ -1,0 +1,1 @@
+m _ { n } ( x ) = C _ { n } ^ { n - 1 } x ^ { n - 2 } + C _ { n } ^ { n - 2 } x ^ { n - 4 } + \cdots + C _ { n } ^ { 2 } x ^ { 4 - n } + C _ { n } ^ { 1 } x ^ { 2 - n } ( n \geqslant 2 )

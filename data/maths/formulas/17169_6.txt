@@ -1,0 +1,1 @@
+\sin ^ { 2 } \beta f ( \sin \alpha ) > \sin ^ { 2 } \alpha f ( \sin \beta )

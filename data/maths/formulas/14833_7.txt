@@ -1,0 +1,1 @@
+f ^ { \prime } ( x ) = \frac { a - \left( x + \frac { 1 } { x } \right) } { x }

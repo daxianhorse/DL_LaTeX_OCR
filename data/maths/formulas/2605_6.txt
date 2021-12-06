@@ -1,0 +1,1 @@
+\overrightarrow { O B ^ { \prime } } = ( \cos \beta , 2 \sin \beta )

@@ -1,0 +1,1 @@
+\mathrm { y } ^ { 2 } = 2 \mathrm { p x } ( \mathrm { p } > 0 )

@@ -1,0 +1,1 @@
+1 0 \tan \alpha + 3 \tan \beta

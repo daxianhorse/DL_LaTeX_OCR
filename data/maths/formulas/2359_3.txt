@@ -1,0 +1,1 @@
+a + b = 4 , ( 2 - \cos A ) \tan \frac { C } { 2 } = \sin A

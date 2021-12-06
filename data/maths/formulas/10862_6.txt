@@ -1,0 +1,1 @@
+B ( n \sin \theta , n \cos \theta )

@@ -1,0 +1,1 @@
+\sin ^ { 2 } \frac { A + B } { 2 } + \sin ^ { 2 } \frac { C } { 2 }

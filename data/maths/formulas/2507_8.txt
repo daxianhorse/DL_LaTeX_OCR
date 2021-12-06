@@ -1,0 +1,1 @@
+\cos \alpha = \frac { | \overrightarrow { E F } \cdot \overrightarrow { P A } | } { | \overrightarrow { E F } | | \overrightarrow { P A } | } = 0

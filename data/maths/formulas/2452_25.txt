@@ -1,0 +1,1 @@
+a _ { n + 1 } = p \cdot a _ { n } + q ( n ) ( p \neq 0 , p \neq 1 )

@@ -1,0 +1,1 @@
+| \boldsymbol { b } - 1 \boldsymbol { a } | ( t \in \mathbf { R } )

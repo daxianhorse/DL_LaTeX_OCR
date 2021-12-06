@@ -1,0 +1,1 @@
+f ( x ) = \mathrm { e } ^ { \prime } - 2 x + 2 a , x \in \mathbf { R }

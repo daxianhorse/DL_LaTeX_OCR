@@ -1,0 +1,1 @@
+\tan 2 \alpha = \frac { \cos a } { 2 - \sin a }

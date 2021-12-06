@@ -1,0 +1,1 @@
+\left( 1 + \ln x _ { 0 } \right) \left( x - x _ { 0 } \right)

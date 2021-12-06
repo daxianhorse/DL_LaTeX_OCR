@@ -1,0 +1,1 @@
+f ( x ) _ { \min } \geqslant g ( x ) _ { \max }

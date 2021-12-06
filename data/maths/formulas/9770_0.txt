@@ -1,0 +1,1 @@
+( x - 3 - \cos \theta ) ^ { 2 } + ( y - \sin \theta ) ^ { 2 } = 1

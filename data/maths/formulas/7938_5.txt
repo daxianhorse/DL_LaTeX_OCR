@@ -1,0 +1,1 @@
+\overrightarrow { M F _ { 1 } } = \frac { 1 } { 2 } \overrightarrow { F _ { 1 } F _ { 2 } }

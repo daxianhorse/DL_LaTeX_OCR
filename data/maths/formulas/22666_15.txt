@@ -1,0 +1,1 @@
+- x ^ { n } \ll - x ^ { m } \ll \log _ { a } x < 0 , a \in ( 1 , + \infty ) , n < m < 0

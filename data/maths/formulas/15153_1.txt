@@ -1,0 +1,1 @@
+B = \{ ( x , y ) | | x | \leq s l a n t 2 , | y \mid \leq s l a n t 2 , x , y \in \mathbf { Z } \}

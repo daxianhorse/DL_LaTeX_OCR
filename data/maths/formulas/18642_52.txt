@@ -1,0 +1,1 @@
+\left( \mathrm { e } ^ { \frac { 1 } { 2 } } - 1 , + \infty \right)

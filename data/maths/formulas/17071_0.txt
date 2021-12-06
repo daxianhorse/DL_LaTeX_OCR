@@ -1,0 +1,1 @@
+f ( x ) = \left( p ^ { 2 } - 3 p + 3 \right) x ^ { p ^ { 2 } - \frac { 3 } { 2 } p - \frac { 1 } { 2 } }

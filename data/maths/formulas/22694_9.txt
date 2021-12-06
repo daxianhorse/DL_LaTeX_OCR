@@ -1,0 +1,1 @@
+g ( x ) = f ( 2 x ) - 4 b f ( x ) = \mathrm { e } ^ { 2 x } - \mathrm { e } ^ { - 2 x } - 4 b \left( \mathrm { e } ^ { x } - \mathrm { e } ^ { - x } \right) + ( 8 b - 4 ) x

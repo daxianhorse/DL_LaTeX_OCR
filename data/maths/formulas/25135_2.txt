@@ -1,0 +1,1 @@
+f ( x ) \geqslant x \ln x + t ^ { 2 }

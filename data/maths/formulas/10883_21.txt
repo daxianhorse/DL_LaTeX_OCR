@@ -1,0 +1,1 @@
+S = \frac { 1 } { 2 } | B D | | A C | = \frac { 2 4 \left( k ^ { 2 } + 1 \right) ^ { 2 } } { \left( 3 k ^ { 2 } + 2 \right) \left( 2 k ^ { 2 } + 3 \right) } \geqslant \frac { 2 4 \left( k ^ { 2 } + 1 \right) ^ { 2 } } { \left[ \frac { \left( 3 k ^ { 2 } + 2 \right) + \left( 2 k ^ { 2 } + 3 \right) } { 2 } \right] ^ { 2 } } = \frac { 9 6 } { 2 5 }

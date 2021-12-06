@@ -1,0 +1,1 @@
+a = \left( 1 + \frac { 1 } { \mathrm { e } } \right) ^ { \mathrm { e } } , b = \left( 1 + \frac { 1 } { \pi } \right) ^ { \pi } , c = 4 ^ { \frac { 1 } { 3 } }

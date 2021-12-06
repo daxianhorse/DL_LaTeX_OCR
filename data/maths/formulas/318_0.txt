@@ -1,0 +1,1 @@
+z = \left( \frac { 1 } { 2 } + i \right) ( 1 - i )

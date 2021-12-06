@@ -1,0 +1,1 @@
+( a + b ) \cdot ( \sin B - \sin A ) = ( \sqrt { 3 } a + c )

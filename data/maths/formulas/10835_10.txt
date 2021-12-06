@@ -1,0 +1,1 @@
+| D F | = \left| x _ { 4 } - \frac { p } { 2 } \right| = p \left( m ^ { 2 } + 1 \right)

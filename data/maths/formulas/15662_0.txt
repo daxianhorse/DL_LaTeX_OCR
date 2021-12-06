@@ -1,0 +1,1 @@
+A = \left\{ x \mid ( k + 2 ) x ^ { 2 } + 2 k x + 1 = 0 \right\}

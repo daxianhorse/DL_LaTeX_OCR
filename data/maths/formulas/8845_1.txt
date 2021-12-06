@@ -1,0 +1,1 @@
+\lambda ( \overrightarrow { A B } + \overrightarrow { A C } ) , \lambda \in [ 0 , + \infty )

@@ -1,0 +1,1 @@
+A \cap B = \left( 0 , \frac { 5 } { 3 } \right)

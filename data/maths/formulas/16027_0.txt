@@ -1,0 +1,1 @@
+\text { ( 1 ) } \forall x \in \mathbf { R } , x ^ { 2 } + 2 > 0 ; \text { ; 2 ) } \forall x \in \mathbf { N } \text { , }

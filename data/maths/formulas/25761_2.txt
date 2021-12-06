@@ -1,0 +1,1 @@
+c = \left( \frac { 1 } { 3 } \right) ^ { \log _ { 3 } \frac { 5 } { 2 } }

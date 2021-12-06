@@ -1,0 +1,1 @@
+\log _ { 2 } \sin 1 0 ^ { \circ } + \log _ { 2 } \sin 3 0 ^ { \circ } + \log _ { 2 } \sin 5 0 ^ { \circ } + \log _ { 2 } \sin 7 0 ^ { \circ } + \log _ { 2 } \sin 9 0 ^ { \circ } =

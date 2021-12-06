@@ -1,0 +1,1 @@
+a _ { n } ^ { 2 } \leq s l a n t a _ { n } - a _ { n + 1 } \left( n \in N ^ { * } \right)

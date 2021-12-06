@@ -1,0 +1,1 @@
+\text { A . } f ( x ) = \frac { 3 x } { \mathrm { e } ^ { | x | } }

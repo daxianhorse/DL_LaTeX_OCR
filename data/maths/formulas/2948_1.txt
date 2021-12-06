@@ -1,0 +1,1 @@
+\left. \left( y - \frac { 1 } { x } \right) \geqslant 0 \right\}

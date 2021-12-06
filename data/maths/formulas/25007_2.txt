@@ -1,0 +1,1 @@
+f ^ { \prime } ( x ) \cdot f ( x ) < 0 ( x \in \mathbf { R } ) , a > b

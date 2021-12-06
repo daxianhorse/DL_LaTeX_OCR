@@ -1,0 +1,1 @@
+\boldsymbol { v } = x \boldsymbol { v } _ { 1 } + y \boldsymbol { v } _ { 2 }

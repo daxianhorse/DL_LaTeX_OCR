@@ -1,0 +1,1 @@
+( \lambda a ) \otimes b = \lambda ( a \otimes b )

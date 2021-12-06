@@ -1,0 +1,1 @@
+x _ { n } - \alpha x _ { n - 1 } = \left( x _ { 2 } - \alpha x _ { 1 } \right) \alpha ^ { n - 2 } = \alpha ^ { n }

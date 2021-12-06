@@ -1,0 +1,1 @@
+\overrightarrow { ( ) P } \cdot \overrightarrow { A B } \geqslant \overrightarrow { P A } \cdot \overrightarrow { P B }

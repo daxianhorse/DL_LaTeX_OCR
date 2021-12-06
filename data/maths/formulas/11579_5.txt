@@ -1,0 +1,1 @@
+b _ { n } = \frac { 1 } { \left( \log _ { 2 } a _ { 2 n } \right) \left( \log _ { 2 } a _ { 2 n + 2 } \right) } , \left\{ b _ { n } \right\}

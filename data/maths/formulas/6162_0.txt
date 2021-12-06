@@ -1,0 +1,1 @@
+\otimes : S = m \otimes n

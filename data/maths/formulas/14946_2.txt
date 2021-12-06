@@ -1,0 +1,1 @@
+4 \l g \mathrm { e } + \frac { \l g \mathrm { e } } { 2 } + \frac { \l g \mathrm { e } } { 3 } + \cdots + \frac { \l g \mathrm { e } } { n } > \l g \left[ \mathrm { e } ^ { \frac { ( 1 + n ) ^ { n } } { n ^ { n } } } \left( n \right.

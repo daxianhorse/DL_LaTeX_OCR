@@ -1,0 +1,1 @@
+\overrightarrow { A N } = ( - 1 . 0 , - 2 ) , \overrightarrow { B M } = ( 1 , - 1 , - 2 ) , \cos \langle \overrightarrow { A N } , \overrightarrow { B M } \rangle = \frac { \sqrt { 3 0 } } { 1 0 }

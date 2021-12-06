@@ -1,0 +1,1 @@
+\left\{ \frac { a _ { n } - \sqrt { 3 } } { a _ { n } + \sqrt { 3 } } \right\}

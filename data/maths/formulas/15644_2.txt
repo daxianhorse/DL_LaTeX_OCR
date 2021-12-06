@@ -1,0 +1,1 @@
+\tan x \cdot f ( x ) > f ^ { \prime } ( x )

@@ -1,0 +1,1 @@
+\overrightarrow { A I } = \frac { b x } { a + b + c } \left( \frac { \overrightarrow { A B } } { | \overrightarrow { A B } | } + \frac { \overrightarrow { A C } } { | \overrightarrow { A C } | } \right)

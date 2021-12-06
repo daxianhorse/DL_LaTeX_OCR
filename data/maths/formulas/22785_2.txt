@@ -1,0 +1,1 @@
+g ( x ) = a \sin \left( \frac { \pi } { 6 } x \right) - 2 a + 2 , a >

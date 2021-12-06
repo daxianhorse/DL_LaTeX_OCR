@@ -1,0 +1,1 @@
+f ( x ) _ { \max } \leq s l a n t g ( x ) _ { \max } + 2 , \mathrm { H } \cdot f ( x ) _ { \min } \geqslant g ( x ) _ { \min } - 2

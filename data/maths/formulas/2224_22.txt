@@ -1,0 +1,1 @@
+h ^ { \prime } ( x ) = \frac { 1 } { x } + 2 x - 1 = \frac { 2 \left( x - \frac { 1 } { 4 } \right) ^ { 2 } + \frac { 7 } { 8 } } { x } >

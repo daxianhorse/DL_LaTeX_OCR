@@ -1,0 +1,1 @@
+x \cos B - b y + \cos A = 0

@@ -1,0 +1,1 @@
+\frac { - \cos C } { \cos B } = \frac { c - 2 a } { b }

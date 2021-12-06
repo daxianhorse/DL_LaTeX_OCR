@@ -1,0 +1,1 @@
+a = \sqrt { 3 } , \left( b ^ { 2 } + c ^ { 2 } - 3 \right) \tan A = \sqrt { 3 } b c , 2 \cos ^ { 2 } \frac { A + B } { 2 } = ( \sqrt { 2 } -

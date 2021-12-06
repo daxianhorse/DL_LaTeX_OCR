@@ -1,0 +1,1 @@
+\frac { \log _ { a } x } { 2 } > \frac { \log _ { a } y } { 3 }

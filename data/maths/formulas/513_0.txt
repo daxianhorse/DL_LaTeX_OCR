@@ -1,0 +1,1 @@
+\frac { \mathrm { e } ^ { x } } { x ^ { 3 } } - x - a \ln x \geqslant 1

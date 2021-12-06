@@ -1,0 +1,1 @@
+f ( x ) = x ^ { m ^ { \prime } - 1 } ( m \in \mathbf { Z } )

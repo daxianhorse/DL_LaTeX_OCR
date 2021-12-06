@@ -1,0 +1,1 @@
+y = \left( \frac { 1 } { 3 } \right) ^ { x } - \log _ { 2 } ( x + 2 )

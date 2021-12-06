@@ -1,0 +1,1 @@
+\frac { \ln 2 } { 4 } \left( q ^ { 2 } - p ^ { 2 } + 1 \right) ^ { 2 } + \ln \frac { 3 } { \sqrt { \mathrm { e } ^ { e } } }

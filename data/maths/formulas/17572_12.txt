@@ -1,0 +1,1 @@
+\left\{ \frac { 1 } { \left\langle a _ { n } \right\rangle \cdot \left\langle c _ { n } \right\rangle } \right\}

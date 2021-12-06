@@ -1,0 +1,1 @@
+f ( x ) = x + \ln x , g ( x ) = x + \frac { a ^ { 2 } } { x }

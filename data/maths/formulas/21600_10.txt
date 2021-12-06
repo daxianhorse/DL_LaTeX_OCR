@@ -1,0 +1,1 @@
+\left\{ a _ { 2 ^ { n } } \left( c _ { 2 ^ { n } } - 1 \right) \right\}

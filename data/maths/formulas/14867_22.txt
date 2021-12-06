@@ -1,0 +1,1 @@
+( a \cos 2 \alpha - x ) ( b \sin 2 \beta - y ) = ( b \sin 2 \alpha - y ) ( a \cos 2 \beta - x )

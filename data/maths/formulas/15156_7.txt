@@ -1,0 +1,1 @@
+\overrightarrow { \mathrm { V M } } = - \frac { 3 } { 2 } \overrightarrow { M D }

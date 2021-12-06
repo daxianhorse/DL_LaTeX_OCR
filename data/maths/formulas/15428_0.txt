@@ -1,0 +1,1 @@
+\text { ( 1 ) } a ^ { 2 } + 1 > 2 a ; \left( 2 a ^ { 2 } + 4 \geqslant 4 a ; ( 3 ) \left| \frac { b } { a } + \frac { a } { b } \right| \geqslant 2 ; ( 4 ) \frac { 2 a ^ { 2 } b ^ { 2 } } { a ^ { 2 } + b ^ { 2 } } \leq s l a n t a b \right.

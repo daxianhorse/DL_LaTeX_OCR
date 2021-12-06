@@ -1,0 +1,1 @@
+\left( \frac { \pi } { \omega } \right) ^ { 2 } + ( 2 \sqrt { 2 } ) ^ { 2 } = ( 2 \sqrt { 3 } ) ^ { 2 }

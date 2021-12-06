@@ -1,0 +1,1 @@
+| F P | = \frac { | F E | } { \cos \alpha } = \frac { 4 } { \sin ^ { 2 } \alpha }

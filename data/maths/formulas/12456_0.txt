@@ -1,0 +1,1 @@
+I \cdots \{ ( x , y ) \mid \cdot x , y \in \mathbf { R } \}

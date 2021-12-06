@@ -1,0 +1,1 @@
+C _ { k } : ( x - k + 1 ) ^ { 2 } + ( y - 3 k ) ^ { 2 } = 2 k ^ { \prime } \left( k \in \mathbf { N } ^ { \prime } \right)

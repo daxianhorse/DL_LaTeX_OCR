@@ -1,0 +1,1 @@
+z = \frac { m ^ { 2 } - m - 6 } { m + 3 } + \left( m ^ { 2 } - 2 m - 1 5 \right) \mathrm { i }

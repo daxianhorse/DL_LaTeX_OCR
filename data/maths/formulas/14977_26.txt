@@ -1,0 +1,1 @@
+| M N | = | M B | + | N B | = \frac { 1 2 } { 4 - \cos ^ { 2 } \theta }

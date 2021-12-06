@@ -1,0 +1,1 @@
+\left| a + b ^ { 2 } \right| \leq s l a n t 2 + a ^ { 2 } + b ^ { 2 } + | a | + | b |

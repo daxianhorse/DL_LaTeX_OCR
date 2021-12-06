@@ -1,0 +1,1 @@
+f ( x ) = a \sin 2 x - b \sin ^ { 2 } x ( a > 0 , b > 0 )

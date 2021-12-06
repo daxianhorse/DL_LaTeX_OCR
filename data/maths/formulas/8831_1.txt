@@ -1,0 +1,1 @@
+p _ { 2 } : | \boldsymbol { a } + \boldsymbol { b } | > 1 \Leftrightarrow \theta \in \left( \frac { 2 } { 3 } \pi , \pi \right]

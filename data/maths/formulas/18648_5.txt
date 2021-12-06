@@ -1,0 +1,1 @@
+\frac { R - x } { R + x } = \frac { R - \frac { 1 } { 2 } R } { R + \frac { 1 } { 2 } R } = \frac { 1 } { 3 }

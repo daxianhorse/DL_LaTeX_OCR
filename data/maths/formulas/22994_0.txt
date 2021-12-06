@@ -1,0 +1,1 @@
+A = \left\{ r \mid v = \log _ { 2 } \left( 4 - x ^ { 4 } \right) \right\} , B = \{ x \mid x > 1 \}

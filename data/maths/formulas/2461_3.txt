@@ -1,0 +1,1 @@
+\left\{ n S _ { n } + ( n + 2 ) a _ { n } \right\}

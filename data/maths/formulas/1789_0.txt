@@ -1,0 +1,1 @@
+\left( x _ { 1 } : y = \frac { 1 } { 2 p } x ^ { 2 } ( p > 0 ) \right.

@@ -1,0 +1,1 @@
+\o p e r a t o r n a m e { b b t t } \left( P _ { 3 } \right)

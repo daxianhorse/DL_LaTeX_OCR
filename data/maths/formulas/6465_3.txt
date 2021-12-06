@@ -1,0 +1,1 @@
+\forall a \in \mathbf { R } , \ e x i s t s b \in \mathbf { Q } , a ^ { 2 } + b ^ { 2 } = 1

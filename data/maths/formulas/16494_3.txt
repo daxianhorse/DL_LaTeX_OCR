@@ -1,0 +1,1 @@
+\left| \overrightarrow { M F _ { 1 } } + \overrightarrow { M F _ { 2 } } - 2 \overrightarrow { M N } \right|

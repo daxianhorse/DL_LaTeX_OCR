@@ -1,0 +1,1 @@
+f ( x ) = a x ^ { 2 } + \sin x - 1 ( a \in \mathbf { R } )

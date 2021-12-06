@@ -1,0 +1,1 @@
+g ( x ) = 2 \sin \left( 2 x + \frac { 5 \pi } { 6 } \right)

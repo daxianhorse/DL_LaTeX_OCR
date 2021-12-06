@@ -1,0 +1,1 @@
+\frac { 4 } { \sqrt { 3 } } \sin 4 0 ^ { \circ } + \frac { 1 } { \cos 4 0 ^ { \circ } \left( 1 + 2 \cos 4 0 ^ { \circ } \right) }

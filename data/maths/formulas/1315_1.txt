@@ -1,0 +1,1 @@
+\frac { \cos ( 2 \pi - \alpha ) \sin ( \pi + \alpha ) \cos ( \pi - \alpha ) } { \sin \left( \frac { \pi } { 2 } - \alpha \right) \tan ( 4 \pi - \alpha ) }

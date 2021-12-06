@@ -1,0 +1,1 @@
+\boldsymbol { c } = x \boldsymbol { a } + y \boldsymbol { b }

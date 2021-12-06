@@ -1,0 +1,1 @@
+e ^ { 3 } \cdot 3 ^ { x } , e ^ { \pi } , \pi ^ { \prime } \cdot 3 ^ { \pi } , \pi ^ { 3 }

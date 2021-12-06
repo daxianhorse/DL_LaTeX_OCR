@@ -1,0 +1,1 @@
+1 = \left( \lambda - \frac { 1 } { 2 } \right) ^ { 2 } a ^ { 2 } + \left( \mu - \frac { 1 } { 2 } \right) ^ { 2 } b ^ { 2 }

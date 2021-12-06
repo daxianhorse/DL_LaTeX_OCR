@@ -1,0 +1,1 @@
+\left( \frac { \mathrm { e } ^ { \prime } } { x + 2 } \right) ^ { \prime } = \frac { ( x + 1 ) \mathrm { e } ^ { \prime } } { ( x + 2 ) ^ { 2 } } > 0

@@ -1,0 +1,1 @@
+\left( \sin \frac { \pi } { 9 } \right) ^ { - 2 } + \left( \sin \frac { 2 \pi } { 9 } \right) ^ { - 2 } + \left( \sin \frac { 3 \pi } { 9 } \right) ^ { - 2 } + \cdots + \left( \sin \frac { 8 \pi } { 9 } \right) ^ { - 2 } = \frac { 4 } { 3 } \times

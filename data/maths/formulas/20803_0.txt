@@ -1,0 +1,1 @@
+X \sim N \left( 0 . 4 3 , 0 . 1 8 ^ { 2 } \right)

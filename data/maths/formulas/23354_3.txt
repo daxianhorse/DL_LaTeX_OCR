@@ -1,0 +1,1 @@
+\sin ^ { 2 } B \leq s l a n t \sin ^ { 2 } A + \sin ^ { 2 } C - \sin A \cdot \sin C

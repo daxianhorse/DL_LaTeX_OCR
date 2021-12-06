@@ -1,0 +1,1 @@
+\forall x > 2 , x ^ { 3 } - 8 \leq s l a n t 0

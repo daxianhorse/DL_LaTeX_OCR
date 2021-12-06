@@ -1,0 +1,1 @@
+y = \left( 2 \mathrm { e } - \frac { 1 } { \mathrm { e } } \right) x - 2 \mathrm { e } + \frac { 1 } { \mathrm { e } }

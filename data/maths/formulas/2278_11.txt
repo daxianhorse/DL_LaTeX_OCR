@@ -1,0 +1,1 @@
+0 < \alpha < \frac { 1 } { \mathrm { e } }

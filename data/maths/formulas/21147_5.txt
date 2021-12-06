@@ -1,0 +1,1 @@
+t \cdot f ( x ) \geqslant 2 ^ { x } - 2

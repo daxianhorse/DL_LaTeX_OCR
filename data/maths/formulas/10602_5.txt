@@ -1,0 +1,1 @@
+f ( n ) = \frac { 1 } { 2 } \left( \frac { | \sin n | } { \sin n } + 3 \right) , T _ { n } = \frac { ( - 1 ) ^ { f ( 2 ) } } { a _ { 1 } a _ { 2 } } + \frac { ( - 1 ) ^ { f ( 3 ) } } { a _ { 3 } a _ { 1 } } + \cdots + \frac { ( - 1 ) ^ { f ( n + 1 ) } } { a _ { 2 n - 1 } a _ { 2 n } }

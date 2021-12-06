@@ -1,0 +1,1 @@
+f ^ { \prime } \left( x _ { 1 1 } \right) = g ^ { \prime } \left( x _ { 0 } \right)

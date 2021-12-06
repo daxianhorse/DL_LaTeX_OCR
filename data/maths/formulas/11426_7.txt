@@ -1,0 +1,1 @@
+\overrightarrow { O P } = m \overrightarrow { A B } + n \overrightarrow { A C } ( m , n \in \mathbf { R } )

@@ -1,0 +1,1 @@
+\text { C . } \left( - \infty , \frac { \sqrt { \mathrm { e } } } { \mathrm { e } } \right)

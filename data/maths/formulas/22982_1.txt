@@ -1,0 +1,1 @@
+S _ { n } , a _ { n } \in \mathbf { N } , a _ { 1 } = 0 , a _ { 2 } = 3 , a _ { 3 } = 2 , \frac { u _ { n } } { a _ { n - 2 } + 2 } \cdot \frac { u _ { n + 1 } } { a _ { n - 1 } + 2 } = 1

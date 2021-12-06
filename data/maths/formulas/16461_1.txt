@@ -1,0 +1,1 @@
+i \in \left[ \frac { 1 } { 4 } , \frac { 2 } { 3 } \right]

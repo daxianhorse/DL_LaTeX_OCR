@@ -1,0 +1,1 @@
+\left| \sum _ { k = 1 } ^ { n } \left( \frac { 1 } { \left( \frac { 1 } { a } \right) ^ { k } - 1 } \right) \right| < 2

@@ -1,0 +1,1 @@
+f ( x ) = \log _ { a } x + \frac { 3 } { 4 } x - b

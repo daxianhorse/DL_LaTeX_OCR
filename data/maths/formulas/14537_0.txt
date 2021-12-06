@@ -1,0 +1,1 @@
+\left( \sqrt [ 3 ] { x } - \frac { 2 } { x } \right) ^ { \prime \prime }

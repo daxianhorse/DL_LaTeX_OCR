@@ -1,0 +1,1 @@
+f ^ { \prime } ( x ) = \left( 1 - 2 x - x ^ { \prime \prime } \right) \mathrm { e } ^ { \prime }

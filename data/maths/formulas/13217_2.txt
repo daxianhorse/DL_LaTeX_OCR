@@ -1,0 +1,1 @@
+a + c = 6 \cdot b = 2 \cdot \cos B = \frac { 7 } { 9 }

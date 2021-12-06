@@ -1,0 +1,1 @@
+a = f ( \l g 5 ) , b = f \left( \frac { 1 } { 2 } \right) , c =

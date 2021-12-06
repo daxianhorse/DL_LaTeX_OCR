@@ -1,0 +1,1 @@
+\boldsymbol { b } = ( 2 , 0 , 3 ) , \boldsymbol { c } = ( 0 , 2 , 2 )

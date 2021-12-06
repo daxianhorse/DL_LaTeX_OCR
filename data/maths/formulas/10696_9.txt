@@ -1,0 +1,1 @@
+f ( x ) \geqslant f ( 1 ) = 0 \Rightarrow \frac { 1 } { x } \geqslant 1 - \ln x ,

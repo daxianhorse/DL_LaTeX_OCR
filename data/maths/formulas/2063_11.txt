@@ -1,0 +1,1 @@
+2 ^ { \prime - 1 } \uparrow ( s = 1 , 2 , \cdots )

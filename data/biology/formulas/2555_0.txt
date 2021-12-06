@@ -1,0 +1,1 @@
+\mathrm { a } \rightarrow \mathrm { c } \rightarrow \mathrm { d } \rightarrow \mathrm { e } \longrightarrow \mathrm { b }

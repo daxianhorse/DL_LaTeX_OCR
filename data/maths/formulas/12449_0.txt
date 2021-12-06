@@ -1,0 +1,1 @@
+\Lambda = \{ x \in \mathbf { R } | | x + 2 \mid \cdots 3 \}

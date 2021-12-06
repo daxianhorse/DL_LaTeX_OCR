@@ -1,0 +1,1 @@
+y = \left| a ^ { x } - 1 \right| + 1

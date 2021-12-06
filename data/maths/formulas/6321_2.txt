@@ -1,0 +1,1 @@
+y = \sqrt { \left( \frac { 1 } { 2 } \right) ^ { x } - 1 }

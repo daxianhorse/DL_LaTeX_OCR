@@ -1,0 +1,1 @@
+\alpha \in \left( \frac { 3 \pi } { 2 } , 2 \pi \right)

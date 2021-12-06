@@ -1,0 +1,1 @@
+\frac { 1 } { \sqrt { u _ { n } } + \sqrt { a _ { n + k } } } = \frac { 1 } { k d } \left( \sqrt { a _ { n + k } } - \sqrt { a _ { n } } \right)

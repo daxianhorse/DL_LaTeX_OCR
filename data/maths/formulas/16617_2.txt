@@ -1,0 +1,1 @@
+C _ { n } ^ { k } = \frac { A _ { n } ^ { k } } { k ^ { 1 } } ( 0 \leq s l a n t k \leq s l a n t n )

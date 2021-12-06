@@ -1,0 +1,1 @@
+f \left( 3 - 2 x _ { 0 } \right) = \left( 2 - 2 x _ { 0 } \right) ^ { 3 } - 3 \left( x _ { 1 0 } - 1 \right) ^ { 2 } \left( 3 - 2 x _ { 1 1 } \right) - b

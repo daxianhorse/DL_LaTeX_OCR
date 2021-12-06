@@ -1,0 +1,1 @@
+\overrightarrow { O C } = \overrightarrow { O A } + t ( \overrightarrow { O B } - \overrightarrow { O A } )

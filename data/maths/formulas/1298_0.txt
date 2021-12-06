@@ -1,0 +1,1 @@
+\frac { 1 + \cos \alpha } { \sin \alpha } = 3

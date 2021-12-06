@@ -1,0 +1,1 @@
+\frac { 3 } { 1 6 } \overrightarrow { A B } ^ { 2 } - \frac { 1 } { 2 } \overrightarrow { A B } \cdot \overrightarrow { A D } = 2 \Leftrightarrow 3 5 - \frac { 3 } { 1 6 } \cdot 6 4 - \frac { 1 } { 2 } \overrightarrow { A B } \cdot \overrightarrow { A D } = 2 \Rightarrow

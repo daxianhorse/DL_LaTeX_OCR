@@ -1,0 +1,1 @@
+\sqrt { 3 } \sin \frac { \pi } { 1 2 } t

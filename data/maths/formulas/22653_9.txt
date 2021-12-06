@@ -1,0 +1,1 @@
+f ^ { \prime } ( x ) = 1 2 a x ^ { 2 } - 2 b = 1 2 a \left( x ^ { 2 } - \frac { b } { 6 a } \right)

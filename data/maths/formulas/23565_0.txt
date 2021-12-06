@@ -1,0 +1,1 @@
+z = \frac { 2 + a i } { 1 + i } ( a \in \mathbf { R } )

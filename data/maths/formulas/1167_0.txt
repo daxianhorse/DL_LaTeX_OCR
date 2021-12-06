@@ -1,0 +1,1 @@
+f ( x ) = \log _ { a } \left( x ^ { 3 } - a x + \frac { 1 } { 2 } \right)

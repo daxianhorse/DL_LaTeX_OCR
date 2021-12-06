@@ -1,0 +1,1 @@
+h ( t ) = x _ { 1 } + x _ { 2 } = \frac { \ln t } { t - 1 } + \frac { t \ln t } { t - 1 } =

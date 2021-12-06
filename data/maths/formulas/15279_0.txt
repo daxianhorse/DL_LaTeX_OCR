@@ -1,0 +1,1 @@
+f ( . x ) = \frac { x ^ { 2 } + a } { b x - c } ( b , c \in \mathbf { N } )

@@ -1,0 +1,1 @@
+\sqrt { a t + 1 2 } + \sqrt { b t }

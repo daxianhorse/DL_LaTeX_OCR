@@ -1,0 +1,1 @@
+\boldsymbol { n } = ( a , b , 1 )

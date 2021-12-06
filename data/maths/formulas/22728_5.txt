@@ -1,0 +1,1 @@
+f ^ { \prime } ( x ) = \frac { x \mathrm { e } ^ { x } } { ( x + 1 ) ^ { 2 } } , g ^ { \prime } ( x ) = - 2 - \ln x

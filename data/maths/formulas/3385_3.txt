@@ -1,0 +1,1 @@
+q : \left( a _ { 1 } ^ { 2 } + a _ { 2 } ^ { 2 } + \cdots + a _ { n - 1 } ^ { 2 } \right) \left( a _ { 2 } ^ { 2 } + \right.

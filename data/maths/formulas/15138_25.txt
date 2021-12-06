@@ -1,0 +1,1 @@
+= \sum _ { k - 1 } ^ { n } \left[ \left( 1 + \frac { 1 } { 2 } + \cdots + \frac { 1 } { k } \right) \cdot \left( T _ { k } - T _ { k - 1 } \right) + \frac { T _ { k - 1 } } { k } \right]

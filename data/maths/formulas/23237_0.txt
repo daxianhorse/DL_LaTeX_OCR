@@ -1,0 +1,1 @@
+P = t \mathrm { e } ^ { \mathrm { k d } }

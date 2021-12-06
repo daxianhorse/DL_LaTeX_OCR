@@ -1,0 +1,1 @@
+| A B | = \sqrt { m ^ { 2 } + 1 } \left| y _ { 1 } - y _ { 2 } \right| = \sqrt { m ^ { 2 } + 1 } \frac { \sqrt { 4 b ^ { 4 } c ^ { 2 } m ^ { 2 } + 4 b ^ { 4 } \left( a ^ { 2 } + b ^ { 2 } m ^ { 2 } \right) } } { a ^ { 2 } + b ^ { 2 } m ^ { 2 } } = \frac { 2 a b ^ { 2 } \left( m ^ { 2 } + 1 \right) } { a ^ { 2 } + b ^ { 2 } m ^ { 2 } }

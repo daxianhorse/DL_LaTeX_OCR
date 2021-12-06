@@ -1,0 +1,1 @@
+[ r ( \cos \theta + \o p e r a t o r n a m e { i s i n } \theta ) ] ^ { n } = r ^ { n } ( \cos n \theta + i \sin n \theta ) \left( n \in \mathbf { N } _ { - } \right)

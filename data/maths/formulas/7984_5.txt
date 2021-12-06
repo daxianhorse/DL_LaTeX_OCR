@@ -1,0 +1,1 @@
+a _ { n + 1 } = f \left( a _ { n } \right) , 0 < a _ { 1 } < 1 , n \in \ m a t h b b { N } ^ { * }

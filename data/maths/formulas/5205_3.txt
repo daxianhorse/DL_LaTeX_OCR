@@ -1,0 +1,1 @@
+\text { C . } - \frac { 1 } { 2 } \overrightarrow { A B } + \frac { 1 } { 2 } \overrightarrow { A D }

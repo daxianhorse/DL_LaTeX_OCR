@@ -1,0 +1,1 @@
+( k \boldsymbol { m } - \boldsymbol { n } ) / / ( \boldsymbol { m } + \boldsymbol { n } )

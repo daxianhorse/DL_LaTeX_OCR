@@ -1,0 +1,1 @@
+2 \overrightarrow { B D } \cdot \overrightarrow { C A } = 3 \overrightarrow { C E }

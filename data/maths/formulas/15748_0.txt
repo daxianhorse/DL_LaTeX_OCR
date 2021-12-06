@@ -1,0 +1,1 @@
+f ( x ) = 4 \sin \left( 3 x - \frac { \pi } { 6 } \right)

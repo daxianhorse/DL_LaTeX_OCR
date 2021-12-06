@@ -1,0 +1,1 @@
+a = \sin \frac { 4 } { 5 } , b = \frac { 4 } { 3 } \sin \frac { 3 } { 4 }

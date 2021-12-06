@@ -1,0 +1,1 @@
+\left( \frac { k + p } { 2 } \right) ^ { 2 } - k p = \frac { ( k - p ) ^ { 2 } } { 4 } \neq 0

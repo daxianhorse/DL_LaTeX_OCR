@@ -1,0 +1,1 @@
+f ( x ) \left( x \in \left[ - \frac { \pi } { 6 } , - \frac { \pi } { 6 } + T \right] \right)

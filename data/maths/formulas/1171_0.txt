@@ -1,0 +1,1 @@
+y = 3 \left( \frac { 1 } { 3 } \right)

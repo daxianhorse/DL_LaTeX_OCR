@@ -1,0 +1,1 @@
+( a x + 1 ) \left( \frac { 2 } { x } - x ^ { 2 } \right) ^ { 4 }

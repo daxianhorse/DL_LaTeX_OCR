@@ -1,0 +1,1 @@
+b _ { n } = a _ { n } \cdot \sin \frac { n \pi } { 2 }

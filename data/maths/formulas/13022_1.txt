@@ -1,0 +1,1 @@
+\frac { 6 \sin \alpha + \cos \alpha } { 3 \sin \alpha - 2 \cos \alpha }

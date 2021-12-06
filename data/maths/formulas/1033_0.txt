@@ -1,0 +1,1 @@
+U = \{ x \in \mathbf { N } \mid - 1 < x < 5 \}

@@ -1,0 +1,1 @@
+f \left( \ln \frac { 1 } { a } \right) = \ln \ln \frac { 1 } { a } - \ln \frac { 1 } { a } + 1 < 0

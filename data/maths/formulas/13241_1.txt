@@ -1,0 +1,1 @@
+b = 2 , B = \frac { \pi } { 6 } \cdot C = \frac { \pi } { 4 }

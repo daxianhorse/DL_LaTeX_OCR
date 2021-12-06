@@ -1,0 +1,1 @@
+b _ { n } = 3 ^ { \prime \prime } \cdot \sqrt { a _ { n } }

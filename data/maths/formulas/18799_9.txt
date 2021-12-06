@@ -1,0 +1,1 @@
+S ^ { \prime } = \frac { 1 } { 2 } A B \cdot B C = 2 , \cos \theta = \frac { S ^ { \prime } } { S } = \frac { 2 } { 3 }

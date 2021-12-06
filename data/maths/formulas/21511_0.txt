@@ -1,0 +1,1 @@
+a = ( \cos x - \sin x , \cos x + \sin x ) , b = ( \cos x , - \sin x ) , c = ( 2 , 1 ) ,

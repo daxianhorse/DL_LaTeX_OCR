@@ -1,0 +1,1 @@
+\left( \frac { a + c + b } { 2 } \right) ^ { 2 }

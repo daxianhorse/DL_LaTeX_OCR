@@ -1,0 +1,1 @@
+A = \{ x \in \mathbf { N } | | x \mid \leq s l a n t 2 \} , B = \left\{ y \mid y = 1 - x ^ { 2 } \right\}

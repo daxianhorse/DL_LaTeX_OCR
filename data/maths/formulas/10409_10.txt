@@ -1,0 +1,1 @@
+\frac { a _ { n } } { b _ { n } } = \frac { b _ { n + 1 } } { b _ { n } } \cdot \frac { a _ { n } } { a _ { n + 1 } } = \frac { q _ { 2 } } { q _ { 1 } } \neq 0

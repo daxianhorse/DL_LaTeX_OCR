@@ -1,0 +1,1 @@
+f \left( y _ { 1 } \right) = f \left( y _ { 2 } \right)

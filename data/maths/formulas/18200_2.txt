@@ -1,0 +1,1 @@
+S _ { m \cdot 1 } = - 2 , S _ { m } = 0 , S _ { m + 1 } = 3 ( m \geqslant 2 )

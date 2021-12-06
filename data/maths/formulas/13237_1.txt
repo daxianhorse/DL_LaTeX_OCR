@@ -1,0 +1,1 @@
+b = 3 \cdot c = 1 \cdot \triangle A B C

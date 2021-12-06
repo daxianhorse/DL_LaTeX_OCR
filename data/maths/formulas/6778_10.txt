@@ -1,0 +1,1 @@
+\frac { E _ { a } \left( T _ { 2 } - T _ { 1 } \right) } { R T _ { 1 } T _ { 2 } }

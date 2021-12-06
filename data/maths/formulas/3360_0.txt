@@ -1,0 +1,1 @@
+A = \left\{ ( x , y ) \mid \frac { m } { 2 } \leq s l a n t ( x - 2 ) ^ { 2 } + \right.

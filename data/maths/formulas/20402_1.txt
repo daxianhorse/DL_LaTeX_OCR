@@ -1,0 +1,1 @@
+N \left( \mu _ { 1 } , \sigma _ { 1 } ^ { 2 } \right)

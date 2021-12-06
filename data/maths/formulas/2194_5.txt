@@ -1,0 +1,1 @@
+g \left( \frac { 3 } { 2 } \right) = - 1 + \frac { g ( 1 ) + g ( 2 ) } { 2 } \geqslant - \frac { 1 } { 2 }

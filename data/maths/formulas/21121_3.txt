@@ -1,0 +1,1 @@
+F ( x ) = a \sqrt { f ( x ) } - \frac { b } { x f ( x ) }

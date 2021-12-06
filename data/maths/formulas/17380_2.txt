@@ -1,0 +1,1 @@
+\overrightarrow { D F } = - \frac { 3 } { 4 } \overrightarrow { A B } + \frac { 1 } { 2 } \overrightarrow { A C }

@@ -1,0 +1,1 @@
+f ( x ) = 2 ^ { \prime } - \log _ { \frac { 1 } { 2 } } \cdot x

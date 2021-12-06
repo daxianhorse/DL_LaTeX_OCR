@@ -1,0 +1,1 @@
+\l g \left( 3 x ^ { 2 } - x - 2 \right) = 0

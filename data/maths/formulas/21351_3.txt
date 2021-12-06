@@ -1,0 +1,1 @@
+\frac { \sin \left( \frac { \pi } { 2 } - \beta \right) } { \cos ( - \beta ) - 4 \tan \alpha \sin \beta }

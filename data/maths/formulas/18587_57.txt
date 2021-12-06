@@ -1,0 +1,1 @@
+\ln a + a \geqslant a \geqslant 1

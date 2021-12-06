@@ -1,0 +1,1 @@
+y ^ { \prime } ( x ) = \mathrm { e } ^ { r } - ( a + 1 )

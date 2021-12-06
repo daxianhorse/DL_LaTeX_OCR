@@ -1,0 +1,1 @@
+c ( \sin C + \sin B )

@@ -1,0 +1,1 @@
+( 2 x + a ) \left( x + \frac { b } { x } \right) ^ { 7 }

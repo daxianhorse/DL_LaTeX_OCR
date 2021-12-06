@@ -1,0 +1,1 @@
+y = \frac { x } { x ^ { 2 } + 2 x + 4 } , x \in [ 1 , + \infty )

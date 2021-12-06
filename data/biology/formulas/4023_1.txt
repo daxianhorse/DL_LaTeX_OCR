@@ -1,0 +1,1 @@
+\mathbf { M } = \mathbf { M } _ { \mathrm { B } } - \mathbf { M } _ { \mathrm { A } }

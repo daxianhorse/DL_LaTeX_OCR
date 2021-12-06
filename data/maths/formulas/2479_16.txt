@@ -1,0 +1,1 @@
+a _ { n + 1 } - \alpha = p \left( a _ { n } - \alpha \right)

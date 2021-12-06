@@ -1,0 +1,1 @@
+I = C _ { 1 } \wedge \cup B

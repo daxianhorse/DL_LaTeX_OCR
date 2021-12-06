@@ -1,0 +1,1 @@
+( \boldsymbol { m } - \boldsymbol { p } ) \cdot ( \boldsymbol { n } - \boldsymbol { p } ) = \frac { 1 } { 2 } | \boldsymbol { m } - \boldsymbol { p } | \cdot | \boldsymbol { n } - \boldsymbol { p } |

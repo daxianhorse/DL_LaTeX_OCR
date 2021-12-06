@@ -1,0 +1,1 @@
+\frac { \left( a ^ { 2 } + 1 \right) + \left( b ^ { 2 } + 1 \right) } { a + b } \geqslant 2 ,

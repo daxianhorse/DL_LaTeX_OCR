@@ -1,0 +1,1 @@
+{ } ^ { 3 } \mathrm { H } , { } ^ { 1 5 } \mathrm { ~ N } , { } ^ { 3 5 } \mathrm { ~ S }

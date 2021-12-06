@@ -1,0 +1,1 @@
+a _ { n } = a _ { 1 } + \left( a _ { 2 } - a _ { 1 } \right) + \left( a _ { 3 } - a _ { 2 } \right) + \cdots + \left( a _ { n } - a _ { n - 1 } \right)

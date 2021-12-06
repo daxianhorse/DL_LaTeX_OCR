@@ -1,0 +1,1 @@
+\sum _ { i = 1 } ^ { 1 2 } \left( y _ { 1 } - \hat { y } _ { i } \right) ^ { 2 }

@@ -1,0 +1,1 @@
+\boldsymbol { z } _ { 1 } * \boldsymbol { z } _ { 2 } = \boldsymbol { z } _ { 2 } * \boldsymbol { z } _ { 1 } \circ

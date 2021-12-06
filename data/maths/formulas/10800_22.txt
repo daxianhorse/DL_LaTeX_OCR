@@ -1,0 +1,1 @@
+\rho _ { 1 } = \frac { 3 } { 2 - \cos \theta } , \rho _ { 2 } = \frac { 3 } { 2 + \cos \theta }

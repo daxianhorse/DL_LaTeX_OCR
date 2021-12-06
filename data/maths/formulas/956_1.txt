@@ -1,0 +1,1 @@
+\hat { y } = \hat { c } x ^ { 2 } + \hat { d }

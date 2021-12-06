@@ -1,0 +1,1 @@
+f ( x ) \leq s l a n t - \frac { a x ^ { 2 } } { \mathrm { e } ^ { 2 } } + \frac { ( 1 + 2 a - \mathrm { e } a ) x } { \mathrm { e } }

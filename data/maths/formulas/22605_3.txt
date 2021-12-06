@@ -1,0 +1,1 @@
+g ( x ) = 1 2 x ^ { \prime } \ln x - 3 x ^ { \prime } - c + 2 c ^ { 2 } ,

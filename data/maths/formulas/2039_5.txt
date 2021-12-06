@@ -1,0 +1,1 @@
+A \left( 3 a ^ { 2 } , 3 a \right) , B \left( 3 b ^ { 2 } , 3 b \right)

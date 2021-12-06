@@ -1,0 +1,1 @@
+\boldsymbol { b } _ { 1 } \cdot \boldsymbol { b } _ { 2 } =

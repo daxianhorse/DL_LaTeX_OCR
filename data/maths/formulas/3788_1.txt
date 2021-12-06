@@ -1,0 +1,1 @@
+\text { A . } \boldsymbol { a } + 2 \boldsymbol { b }

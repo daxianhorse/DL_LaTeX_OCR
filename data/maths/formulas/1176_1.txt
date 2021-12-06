@@ -1,0 +1,1 @@
+y = \frac { 2 ^ { \prime } \sin x } { 1 ^ { \prime } + 1 }

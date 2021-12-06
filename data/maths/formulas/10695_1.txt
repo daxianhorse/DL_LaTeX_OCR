@@ -1,0 +1,1 @@
+a _ { n } = S _ { n } - S _ { n - 1 } = \ln \left( 1 + \frac { 1 } { n } \right) ( n \geqslant 2 )

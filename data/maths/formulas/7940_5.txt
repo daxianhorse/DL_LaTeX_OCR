@@ -1,0 +1,1 @@
+F ( x ) = f ( x ) - h ( x ) , x \in \mathbf { R }

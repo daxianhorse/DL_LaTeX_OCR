@@ -1,0 +1,1 @@
+\frac { a _ { 1 } } { 1 } + \frac { a _ { 2 } } { 2 } + \frac { a _ { 3 } } { 3 } + \cdots + \frac { a _ { n } } { n } < n + 2 \left( n \in \mathbf { N } ^ { * } \right)

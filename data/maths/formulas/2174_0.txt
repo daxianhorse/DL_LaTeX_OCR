@@ -1,0 +1,1 @@
+f ( x ) - x ^ { 2 } + m x + 3 ( m \in \mathbf { R } )

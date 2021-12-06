@@ -1,0 +1,1 @@
+a _ { n + 1 } = \frac { p - 1 } { p } a _ { n } + \frac { c } { p } a _ { n } ^ { 1 - p }

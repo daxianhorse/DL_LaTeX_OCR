@@ -1,0 +1,1 @@
+\left( n , \frac { S _ { n } } { n } \right) \left( n \in \mathbf { N } ^ { * } \right)

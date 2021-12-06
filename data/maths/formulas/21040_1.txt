@@ -1,0 +1,1 @@
+f \left( f \left( \frac { 4 } { 5 } \right) \right) = 8

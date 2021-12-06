@@ -1,0 +1,1 @@
+x _ { E } = \frac { x _ { A } + x _ { B } } { 2 } = \frac { 2 \left( k ^ { 2 } + 2 \right) } { k ^ { 2 } } , y _ { E } = k \left( x _ { E } - 2 \right) = \frac { 4 } { k }

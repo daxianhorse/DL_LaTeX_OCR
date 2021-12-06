@@ -1,0 +1,1 @@
+A = \left\{ x \mid \frac { x - 3 } { x + 1 } \geqslant 0 \right\} , B = \{ x \mid a x + 1 \leq s l a n t 0 \}

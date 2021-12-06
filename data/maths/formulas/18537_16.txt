@@ -1,0 +1,1 @@
+\frac { \sqrt { m } } { \sqrt { 3 } } \geqslant \sqrt { 3 }

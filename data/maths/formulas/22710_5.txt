@@ -1,0 +1,1 @@
+x \in \left( x _ { 0 } , + \infty \right)

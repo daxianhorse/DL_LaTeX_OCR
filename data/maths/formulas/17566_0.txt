@@ -1,0 +1,1 @@
+F ( x ) = \frac { 3 x - 2 } { 2 x - 1 } \left( x \neq \frac { 1 } { 2 } \right)

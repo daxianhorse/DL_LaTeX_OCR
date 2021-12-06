@@ -1,0 +1,1 @@
+( - \infty , 0 ) \cup ( 2 , + \infty ) \cup \{ 2 \sqrt { 5 } - 4 \}

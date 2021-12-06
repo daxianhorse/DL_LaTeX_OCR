@@ -1,0 +1,1 @@
+A = \left\{ ( x , y ) \mid x + a ^ { 2 } y + 6 = 0 \right\} , B = \{ ( x , y ) \mid

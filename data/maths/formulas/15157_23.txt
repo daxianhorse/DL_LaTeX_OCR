@@ -1,0 +1,1 @@
+\mathrm { e } ^ { x } + \mathrm { e } ^ { - x } \geqslant 2 \sqrt { \mathrm { e } ^ { t } \cdot \mathrm { e } ^ { - x } } = 2

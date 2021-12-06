@@ -1,0 +1,1 @@
+( \mathrm { C } + \mathrm { G } ) / ( \mathrm { A } + \mathrm { T } )

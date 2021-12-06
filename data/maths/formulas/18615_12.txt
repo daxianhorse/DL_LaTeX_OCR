@@ -1,0 +1,1 @@
+\mathrm { e } ^ { i } \ln x + \frac { 2 \mathrm { e } ^ { t - 1 } } { x } > 1

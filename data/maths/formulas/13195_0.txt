@@ -1,0 +1,1 @@
+x _ { 1 } = \frac { \pi } { 4 } \cdot x _ { 3 } = \frac { 3 \pi } { 4 }

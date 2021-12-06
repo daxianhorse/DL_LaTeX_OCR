@@ -1,0 +1,1 @@
+b = \sqrt { a c } = \sqrt { ( 5 + 2 \sqrt { 6 } ) \cdot ( 5 - 2 \sqrt { 6 } ) } = 1

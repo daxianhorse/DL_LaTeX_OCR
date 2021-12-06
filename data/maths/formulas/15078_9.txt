@@ -1,0 +1,1 @@
+( \overrightarrow { A M } - \overrightarrow { A ( ) } ) \cdot ( \overrightarrow { A N } - \overrightarrow { A ( ) } ) = 1 2

@@ -1,0 +1,1 @@
+\left| b _ { n + 2 } - b _ { n + 1 } \right| + \cdots + \left| b _ { 2 n } - b _ { 2 n - 1 } \right| < \frac { 1 } { 4 } \left[ \left( \frac { 1 } { 1 7 } \right) ^ { n - 1 } + \left( \frac { 1 } { 1 7 } \right) ^ { n } + \cdots + \left( \frac { 1 } { 1 7 } \right) ^ { 2 n - 2 } \right] =

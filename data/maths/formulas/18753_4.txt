@@ -1,0 +1,1 @@
+| a - b | = | a - b + c - c | = | ( a - c ) - ( b - c ) | \leq s l a n t | a - c | + | b - c |

@@ -1,0 +1,1 @@
+\overrightarrow { O A } + \overrightarrow { O B } + \overrightarrow { O C } = \mathbf { 0 } , \overrightarrow { A E } = 2 \overrightarrow { E B } , | \overrightarrow { A B } | =

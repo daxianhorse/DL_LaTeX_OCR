@@ -1,0 +1,1 @@
+| P F | = 2 c + \frac { 1 } { 2 } m = \frac { 3 c ^ { 2 } } { 2 c - c \cdot \frac { 4 } { 5 } } \Rightarrow m = c

@@ -1,0 +1,1 @@
+\frac { \mid D F } { | A B | } = \frac { 1 } { 2 }

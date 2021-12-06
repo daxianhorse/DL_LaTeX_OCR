@@ -1,0 +1,1 @@
+a _ { 1 } \cdot a _ { - } \cdot a _ { i } \cdot a _ { 1 }

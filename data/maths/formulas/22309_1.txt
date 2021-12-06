@@ -1,0 +1,1 @@
+g ( x ) = f ( x ) - c = a \sin x + b x

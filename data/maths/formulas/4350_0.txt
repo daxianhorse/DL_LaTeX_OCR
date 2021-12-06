@@ -1,0 +1,1 @@
+\left( \frac { 1 } { 2 } x - 2 y \right) ^ { 5 }

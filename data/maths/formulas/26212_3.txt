@@ -1,0 +1,1 @@
+\ne g p : \forall a _ { 1 } \in \left( 0 , \frac { \pi } { 2 } \right) , a _ { n + 1 } \geq a _ { n }

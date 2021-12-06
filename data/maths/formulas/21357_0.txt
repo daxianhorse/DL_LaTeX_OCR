@@ -1,0 +1,1 @@
+y = \tan \omega x \left( \omega \in \mathbf { N } ^ { \bullet } \right)

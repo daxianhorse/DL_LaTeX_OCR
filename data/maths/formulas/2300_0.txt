@@ -1,0 +1,1 @@
+\frac { \sqrt { 2 } \cos 2 \theta } { \cos \left( \frac { \pi } { 1 } + \theta \right) } = \sqrt { 3 } \sin 2 \theta

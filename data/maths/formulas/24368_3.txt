@@ -1,0 +1,1 @@
+\text { D . } \ln \left( x ^ { 2 } + 1 \right) < \ln \left( y ^ { 2 } + 1 \right)

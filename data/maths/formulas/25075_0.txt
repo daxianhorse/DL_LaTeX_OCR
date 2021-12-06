@@ -1,0 +1,1 @@
+\alpha \cap \beta = b , a \subset \alpha , a \perp b

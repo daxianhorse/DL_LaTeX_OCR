@@ -1,0 +1,1 @@
+S _ { A B C D } \in \left[ \frac { 9 6 } { 2 5 } , 4 \right]

@@ -1,0 +1,1 @@
+g ( x ) = g \left( \frac { \pi } { 2 } - x \right)

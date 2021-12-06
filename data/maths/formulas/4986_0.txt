@@ -1,0 +1,1 @@
+f ( x ) = \mathrm { e } ^ { x } \left( x ^ { 3 } + \frac { 3 } { 2 } x ^ { 2 } - 6 x + 2 \right) - 2 a \mathrm { e } ^ { x } - x

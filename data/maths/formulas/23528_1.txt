@@ -1,0 +1,1 @@
+\ln ( x - 1 ) - 2 a x + 3 b \leq s l a n t 0 ( a , b \in \mathbf { R } , a \neq 0 )

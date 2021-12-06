@@ -1,0 +1,1 @@
+f ( x ) = a \cdot 2 ^ { x } - \frac { b } { x } + 1 ( 0 < a \leq s l a n t 1 , b > 0 )

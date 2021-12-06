@@ -1,0 +1,1 @@
+\frac { \sqrt { 2 } } { 2 } x + x + \frac { \sqrt { 2 } } { 2 } x = 1 \Rightarrow x = \sqrt { 2 } - 1

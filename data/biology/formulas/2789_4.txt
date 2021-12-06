@@ -1,0 +1,1 @@
+\mathrm { A } ^ { - } \mathrm { a } ( q ) \times \mathrm { A a } \left( \sigma ^ { x } \right)

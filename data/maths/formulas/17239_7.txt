@@ -1,0 +1,1 @@
+\text { ( i i ) } \frac { a \ln x _ { 1 } } { 1 - x _ { 1 } } > ( m - 2 ) \left( 4 + 3 x _ { 1 } - x _ { 1 } ^ { 2 } \right)

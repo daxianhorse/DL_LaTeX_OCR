@@ -1,0 +1,1 @@
+b \sin A + \o p e r a t o r n a m e { a c o s } B = 0

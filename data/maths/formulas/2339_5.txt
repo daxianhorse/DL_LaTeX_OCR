@@ -1,0 +1,1 @@
+B D = \sqrt { 3 + A C ^ { 2 } - 2 \sqrt { 3 } A C \cos \left( \beta + \frac { \pi } { 2 } \right) }

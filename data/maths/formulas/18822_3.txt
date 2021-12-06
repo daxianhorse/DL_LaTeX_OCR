@@ -1,0 +1,1 @@
+\overrightarrow { P B } = ( 0 , 2 \sqrt { 2 } , - 1 ) , \overrightarrow { A Q } = ( - 2 \sqrt { 2 } , 0 , - 2 ) , \cos \langle \overrightarrow { A Q } , \overrightarrow { P B } \rangle =

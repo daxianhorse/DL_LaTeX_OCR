@@ -1,0 +1,1 @@
+\overrightarrow { F C } = \frac { 3 } { 5 } \overrightarrow { A B } + \frac { 4 } { 5 } \overrightarrow { A D }

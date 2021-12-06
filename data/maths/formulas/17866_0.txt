@@ -1,0 +1,1 @@
+A _ { 1 0 } ^ { n } = 1 0 \times 9 \times 8 \times 7 \times 6

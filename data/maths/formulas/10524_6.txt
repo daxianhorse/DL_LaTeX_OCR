@@ -1,0 +1,1 @@
+2 ^ { n } = A \left( 2 ^ { n + 1 } - 1 \right) - B \left( 2 ^ { n } - 1 \right)

@@ -1,0 +1,1 @@
+S _ { k + 2 } + S _ { k + 1 } - 2 S _ { k } = \left( S _ { k + 2 } - S _ { k } \right) + \left( S _ { k + 1 } - S _ { k } \right) = a _ { k + 1 } + a _ { k + 2 } + a _ { k + 1 }

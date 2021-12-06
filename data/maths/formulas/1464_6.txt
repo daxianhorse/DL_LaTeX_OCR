@@ -1,0 +1,1 @@
+S _ { n } + \frac { 1 } { S _ { 2 } } \leq s l a n t \frac { 1 3 } { 6 } ( n \in \mathbf { N } )

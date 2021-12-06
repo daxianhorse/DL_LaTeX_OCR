@@ -1,0 +1,1 @@
+f ( x ) = 2 \sin \left( x + \frac { \pi } { 6 } \right) \cos \left( x - \frac { \pi } { 6 } \right)

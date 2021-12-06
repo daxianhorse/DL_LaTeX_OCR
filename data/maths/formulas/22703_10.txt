@@ -1,0 +1,1 @@
+g ^ { \prime } ( x ) = \frac { \mathrm { e } ^ { x } \left[ \left( a ^ { 2 } - a \right) x ^ { 2 } + ( 2 a - 1 ) x \right] } { ( a x + 1 ) ^ { 2 } }

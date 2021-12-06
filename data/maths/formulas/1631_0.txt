@@ -1,0 +1,1 @@
+\overrightarrow { ( ) \vec { A } } = ( 3 \sin \alpha \cdot \cos \alpha )

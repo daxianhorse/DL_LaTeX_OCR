@@ -1,0 +1,1 @@
+\overrightarrow { A B } \perp ( \overrightarrow { A B } - 2 \overrightarrow { A C } ) , \overrightarrow { A C } \perp ( \overrightarrow { A C } - 2 \overrightarrow { A B } )

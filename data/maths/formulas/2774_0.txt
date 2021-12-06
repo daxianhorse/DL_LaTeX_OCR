@@ -1,0 +1,1 @@
+f ( x ) = x e ^ { - 1 } ( x \in \mathbf { R } )

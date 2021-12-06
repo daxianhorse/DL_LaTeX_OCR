@@ -1,0 +1,1 @@
+f ( r ) = \frac { a r } { ( 2 r ) ^ { 2 } } = \frac { 1 } { 4 } \cdot \frac { a } { r } = 1 0 0

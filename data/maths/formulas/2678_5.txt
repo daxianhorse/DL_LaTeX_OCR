@@ -1,0 +1,1 @@
+c = f \left( \tan \frac { 5 \pi } { 7 } \right)

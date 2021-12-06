@@ -1,0 +1,1 @@
+\mathbf { X } ^ { \mathbf { b } } \mathbf { X } ^ { - \mathbf { b } } , \mathbf { X } ^ { \mathbf { b } } \mathbf { Y }

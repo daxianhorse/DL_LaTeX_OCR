@@ -1,0 +1,1 @@
+\frac { | \boldsymbol { a } - \boldsymbol { e } | } { | \boldsymbol { a } - 2 \boldsymbol { e } | } = \frac { | \boldsymbol { b } - \boldsymbol { e } | } { | \boldsymbol { b } - 2 \boldsymbol { e } | } = \frac { \sqrt { 2 } } { 2 }

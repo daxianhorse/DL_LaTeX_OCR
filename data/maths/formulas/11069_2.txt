@@ -1,0 +1,1 @@
+| f ( t + 2 ) - f ( t ) | \leq s l a n t \frac { 2 } { 3 }

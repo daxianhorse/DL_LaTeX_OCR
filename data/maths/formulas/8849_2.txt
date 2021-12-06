@@ -1,0 +1,1 @@
+\left( \frac { \overrightarrow { B A } } { | \overrightarrow { B A } | } + \frac { \overrightarrow { C B } } { | \overrightarrow { C B } | } \right) = \overrightarrow { O C } \cdot \left( \frac { \overrightarrow { B C } } { | \overrightarrow { B C } | } + \frac { \overrightarrow { C A } } { | \overrightarrow { C A } | } \right) = 0

@@ -1,0 +1,1 @@
+P ( \xi = i ) = a \cdot \left( \frac { 1 } { 3 } \right) ^ { \prime }

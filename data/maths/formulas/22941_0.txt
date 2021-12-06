@@ -1,0 +1,1 @@
+a , b , c , \boldsymbol { m } = ( - \cos B , b + 2 c ) , \boldsymbol { n } =

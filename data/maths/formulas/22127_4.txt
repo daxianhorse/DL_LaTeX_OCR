@@ -1,0 +1,1 @@
+f ( n ) = \frac { 1 } { a \left( - \frac { 3 } { 2 } \right) ^ { n } - b } + 1

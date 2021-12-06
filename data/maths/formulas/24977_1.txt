@@ -1,0 +1,1 @@
+B = \{ x \mid \sqrt { x - 1 } < 2 , x \in \mathbf { Z } \}

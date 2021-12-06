@@ -1,0 +1,1 @@
+( n + 1 ) ( n + 2 ) \cdot \cdots \cdot ( n + n ) = 2 ^ { n } \cdot 1 \cdot 3 \cdot \cdots \cdot ( 2 n - 1 )

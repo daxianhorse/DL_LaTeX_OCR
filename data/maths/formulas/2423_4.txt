@@ -1,0 +1,1 @@
+\max \left\{ \left| x ^ { 2 } + x + a + b \right| , \left| x ^ { 2 } - x + a - b \right| \right\}

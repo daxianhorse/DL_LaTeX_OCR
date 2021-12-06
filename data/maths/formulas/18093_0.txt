@@ -1,0 +1,1 @@
+\l g \frac { 1 + 2 ^ { x } + ( 1 - a ) 4 ^ { x } } { 4 } \geqslant ( x - 1 ) \l g 4

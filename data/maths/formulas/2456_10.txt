@@ -1,0 +1,1 @@
+a _ { n } = \sqrt { 3 } \cdot \frac { ( 1 + \sqrt { 3 } ) ^ { n } + ( 1 - \sqrt { 3 } ) ^ { n } } { ( 1 + \sqrt { 3 } ) ^ { n } - ( 1 - \sqrt { 3 } ) ^ { n } }

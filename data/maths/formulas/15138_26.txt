@@ -1,0 +1,1 @@
+= \left( 1 + \frac { 1 } { 2 } + \cdots + \frac { 1 } { n } \right) \cdot T _ { n }

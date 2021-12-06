@@ -1,0 +1,1 @@
+\overrightarrow { A F _ { 2 } } = 3 \overrightarrow { F _ { 2 } B } , \left| \overrightarrow { A F _ { 1 } } \right| = | \overrightarrow { A B } |

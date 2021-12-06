@@ -1,0 +1,1 @@
+( \cos \theta \cdot \sin \theta , 0 )

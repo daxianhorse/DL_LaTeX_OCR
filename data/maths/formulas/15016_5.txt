@@ -1,0 +1,1 @@
+\vec { C } \vec { Q } = \lambda \vec { C } \vec { F } ( \lambda \neq 0 )

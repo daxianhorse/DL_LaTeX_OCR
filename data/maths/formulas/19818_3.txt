@@ -1,0 +1,1 @@
+\left\{ \frac { 3 6 } { \left( a _ { n } + 2 \right) \left( a _ { n + 1 } + 2 \right) } \right\}

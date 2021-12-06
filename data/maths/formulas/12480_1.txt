@@ -1,0 +1,1 @@
+S _ { 1 } \subseteq \left( \mathcal { L } , S _ { 2 } \cap \ c o m p l e m e n t _ { 1 } S _ { B } \right)

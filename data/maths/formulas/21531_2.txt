@@ -1,0 +1,1 @@
+f ( x ) = \overrightarrow { B P } \cdot \overrightarrow { C A }

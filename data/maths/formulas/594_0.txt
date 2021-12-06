@@ -1,0 +1,1 @@
+A = \{ x | | x \mid \geqslant 2 \} , B = \left\{ x \mid x ^ { 2 } - 3 x > 0 \right\}

@@ -1,0 +1,1 @@
+\frac { | F M | } { | E | } = \frac { a } { a + c } \cdot \frac { a - c } { a }

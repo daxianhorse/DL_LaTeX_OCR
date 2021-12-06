@@ -1,0 +1,1 @@
+\left( x + \frac { 3 } { \sqrt { x } } \right) ^ { n }

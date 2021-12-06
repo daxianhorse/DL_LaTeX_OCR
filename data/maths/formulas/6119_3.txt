@@ -1,0 +1,1 @@
+S _ { \triangle O B C } \cdot \overrightarrow { O A } + S _ { \triangle O C A } \cdot \overrightarrow { O B } + S _ { \triangle O B A } \cdot

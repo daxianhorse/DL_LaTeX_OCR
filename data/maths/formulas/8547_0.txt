@@ -1,0 +1,1 @@
+A = \{ 0 , 1 , 2 , 3 , 4 , 5 \} , B = \left\{ x \mid x ^ { 2 } \leq s l a n t 2 \right\}

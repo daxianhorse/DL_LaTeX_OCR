@@ -1,0 +1,1 @@
+y ( a ) = f ( 2 ) = 7 + a \geqslant 0

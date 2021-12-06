@@ -1,0 +1,1 @@
+\frac { a _ { 3 } a _ { 1 } } { a _ { 1 } a _ { 2 } } = q ^ { 4 } = 1 6 \Rightarrow q = 2

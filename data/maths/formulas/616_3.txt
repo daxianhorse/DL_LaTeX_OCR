@@ -1,0 +1,1 @@
+a ^ { 3 } + b ^ { 3 } + c ^ { 3 } \geqslant a b + b c + a c

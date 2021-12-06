@@ -1,0 +1,1 @@
+\left\{ \left( a _ { n } + b _ { n } \right) c _ { n } \right\}

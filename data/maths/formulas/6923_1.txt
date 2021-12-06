@@ -1,0 +1,1 @@
+\ln x , g ( x ) = a ( x - 1 ) , a \in \mathbf { R }

@@ -1,0 +1,1 @@
+g ( a ) = f ( - 2 ) = 7 - 3 a \geqslant 0

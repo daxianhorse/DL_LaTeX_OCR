@@ -1,0 +1,1 @@
+\frac { b \cos C } { c \cos B } = \frac { 1 + \cos 2 C } { 1 + \cos 2 B }

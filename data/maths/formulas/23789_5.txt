@@ -1,0 +1,1 @@
+\frac { f \left( x _ { 1 } \right) - f \left( x _ { 2 } \right) } { r _ { 0 } - r _ { 0 } } > - a

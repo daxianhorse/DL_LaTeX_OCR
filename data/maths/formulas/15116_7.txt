@@ -1,0 +1,1 @@
+\sin \ a n g l e A D B = \frac { A B } { A D } \cdot \sin B = \frac { \sqrt { 2 } } { 2 }

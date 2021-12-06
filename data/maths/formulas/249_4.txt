@@ -1,0 +1,1 @@
+\frac { | P M | } { | P N | } + \frac { | P N | } { | P M | }

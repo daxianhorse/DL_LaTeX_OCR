@@ -1,0 +1,1 @@
+m \geqslant - ( \cos \theta + \sin \theta + 1 )

@@ -1,0 +1,1 @@
+\left\{ x \mid x \neq \frac { k \pi } { 2 } + \frac { \pi } { 3 } , k \in \mathbf { Z } \right\}

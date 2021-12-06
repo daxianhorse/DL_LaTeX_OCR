@@ -1,0 +1,1 @@
+f \left( x _ { 0 } \right) > x _ { 0 } \cdot \mathrm { e } ^ { x _ { 0 } } + a

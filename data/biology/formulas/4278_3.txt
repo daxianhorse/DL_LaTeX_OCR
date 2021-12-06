@@ -1,0 +1,1 @@
+A - P _ { \alpha } \sim P _ { \beta } \sim P _ { \gamma }

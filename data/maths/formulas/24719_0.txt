@@ -1,0 +1,1 @@
+f ( x ) = 2 \sin \left( x - \frac { \pi } { 3 } \right) \cos x + \frac { \sqrt { 3 } } { 2 }

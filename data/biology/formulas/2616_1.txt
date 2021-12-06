@@ -1,0 +1,1 @@
+\left[ \o p e r a t o r n a m e { m n o V } / \left( m ^ { 2 } \cdot s \right) \right]

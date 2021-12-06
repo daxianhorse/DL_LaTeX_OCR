@@ -1,0 +1,1 @@
+f ( x ) = 3 \cos ^ { 2 } x + 4 \sin x , x \in \left( \frac { \pi } { 6 } , \frac { 2 \pi } { 3 } \right)

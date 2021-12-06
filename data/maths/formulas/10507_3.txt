@@ -1,0 +1,1 @@
+b _ { n } = \left| a _ { n } \right| \left( n \in \mathbf { N } ^ { * } \right)

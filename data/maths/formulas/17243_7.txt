@@ -1,0 +1,1 @@
+h ( x ) = \max \left\{ f ^ { \prime } ( x ) , g ( x ) \right\}

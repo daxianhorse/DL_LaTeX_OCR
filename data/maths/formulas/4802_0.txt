@@ -1,0 +1,1 @@
+f ( x ) = \log _ { 0 . 9 } \left( 5 + 4 x - x ^ { 2 } \right)

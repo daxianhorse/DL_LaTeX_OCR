@@ -1,0 +1,1 @@
+\left( t - x _ { 1 } \right) \left( t - x _ { 2 } \right) + y _ { 1 } y _ { 2 } = 0

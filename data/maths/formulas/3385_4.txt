@@ -1,0 +1,1 @@
+\left. a _ { 3 } ^ { 2 } + \cdots + a _ { n } ^ { 2 } \right) = \left( a _ { 1 } a _ { 2 } + a _ { 2 } a _ { 3 } + \cdots + a _ { n - 1 } a _ { n } \right) ^ { 2 }

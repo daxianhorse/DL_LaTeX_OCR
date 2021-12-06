@@ -1,0 +1,1 @@
+f ( x ) = x - \ln x - \frac { \mathrm { e } ^ { x } } { x }

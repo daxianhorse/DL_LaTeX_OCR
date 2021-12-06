@@ -1,0 +1,1 @@
+\Lambda = \{ ( x , y ) \mid x + y = 1 \}

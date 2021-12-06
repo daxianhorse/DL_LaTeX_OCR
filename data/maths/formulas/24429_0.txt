@@ -1,0 +1,1 @@
+x ^ { 3 } \left( \sqrt { x } - \frac { 1 } { \sqrt { x } } \right) ^ { 1 0 }

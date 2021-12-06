@@ -1,0 +1,1 @@
+T _ { n } = \left( b _ { 2 } + b _ { 3 } \right) + \left( b _ { 1 } + b _ { 5 } \right) + \cdots + \left( b _ { 2 m - 2 } + b _ { 2 m - 1 } \right) + b _ { 2 m } = 4 ( m - 1 ) +

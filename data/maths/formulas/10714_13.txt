@@ -1,0 +1,1 @@
+a _ { n } ^ { 2 } + a _ { n } = a _ { n - 1 } ^ { 2 } + 1 \geqslant 2 a _ { n - 1 } \Rightarrow a _ { n } \left( a _ { n } + 1 \right) \geqslant 2 a _ { n - 1 } \Rightarrow \frac { 1 } { a _ { n } + 1 } \leq s l a n t \frac { 1 } { 2 } \frac { a _ { n } } { a _ { n - 1 } }

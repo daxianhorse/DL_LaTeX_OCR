@@ -1,0 +1,1 @@
+\left. q ^ { n - 1 } \right) = n q ^ { n } - \frac { 1 - q ^ { n } } { 1 - q }

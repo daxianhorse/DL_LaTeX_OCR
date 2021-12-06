@@ -1,0 +1,1 @@
+f ( x ) = \ln ( x + 1 ) - x , g ( x ) = a \left( \mathrm { e } ^ { x } - x \right)

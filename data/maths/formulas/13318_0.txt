@@ -1,0 +1,1 @@
+\overrightarrow { A B } = ( 2 , 3 ) , \overrightarrow { A C } = ( 3 , t ) , | \overrightarrow { B C } | = 1

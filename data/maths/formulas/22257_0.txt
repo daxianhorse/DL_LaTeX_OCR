@@ -1,0 +1,1 @@
+f ( x ) = \frac { \sin x - 1 } { \sqrt { 3 - 2 \cos x - 2 \sin x } } ( 0 \leq s l a n t x \leq s l a n t 2 \pi )

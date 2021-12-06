@@ -1,0 +1,1 @@
+A ( \sin x , 1 ) , B ( \cos x , 0 ) , C ( - \sin x , 2 )

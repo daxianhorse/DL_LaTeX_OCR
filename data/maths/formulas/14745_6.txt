@@ -1,0 +1,1 @@
+f ( x ) + | a + 3 b + 1 | + \frac { 1 } { 2 } \geqslant 0

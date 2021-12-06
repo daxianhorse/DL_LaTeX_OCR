@@ -1,0 +1,1 @@
+y = \tan ^ { 2 } x - \o p e r a t o r n a m e { a t a n } x

@@ -1,0 +1,1 @@
+| M N | = \left| y _ { 1 } - y _ { 2 } \right| = \sqrt { y _ { 0 } ^ { 2 } + 4 \left( t - x _ { 0 } \right) ( 2 - t ) }

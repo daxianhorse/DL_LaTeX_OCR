@@ -1,0 +1,1 @@
+| ( \boldsymbol { a } + \boldsymbol { b } ) \cdot \boldsymbol { e } | \leq s l a n t \sqrt { 6 }

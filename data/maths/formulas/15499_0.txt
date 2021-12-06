@@ -1,0 +1,1 @@
+f ( x ) = \mathrm { e } ^ { \mathrm { x } } + \mathrm { e } ^ { - x } - \frac { 1 } { \l g \left( x ^ { 2 } + 1 \right) }

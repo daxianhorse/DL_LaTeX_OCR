@@ -1,0 +1,1 @@
+\overrightarrow { O A } \cdot \overrightarrow { O B } + \lambda \overrightarrow { P A } \cdot \overrightarrow { P B }

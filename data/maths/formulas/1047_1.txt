@@ -1,0 +1,1 @@
+\Lambda = \left\{ x \mid \log _ { 2 } x \leq s l a n t 1 \right\}

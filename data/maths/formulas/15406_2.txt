@@ -1,0 +1,1 @@
+a x ^ { 2 } - b x + c \leq s l a n t 0

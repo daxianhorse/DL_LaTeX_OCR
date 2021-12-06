@@ -1,0 +1,1 @@
+\text { A . } \sin \left( 2 x + \frac { 7 \pi } { 1 2 } \right)

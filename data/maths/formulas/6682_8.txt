@@ -1,0 +1,1 @@
+g ( x ) = \log _ { a } \left( a ^ { 2 x } + t \right) ( a > 0

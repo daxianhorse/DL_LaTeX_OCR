@@ -1,0 +1,1 @@
+1 0 ^ { \prime \prime } = \left( \frac { n k - 1 } { n } \right) ^ { n }

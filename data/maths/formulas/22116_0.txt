@@ -1,0 +1,1 @@
+\sqrt { \frac { a } { b c } } + \sqrt { \frac { b } { a c } } + \sqrt { \frac { c } { a b } } \geqslant \sqrt { 3 } ( \sqrt { a } + \sqrt { b } + \sqrt { c } )

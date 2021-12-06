@@ -1,0 +1,1 @@
+f ^ { \prime } ( x ) = \mathrm { e } ^ { k r } ( k x + 1 ) > 0

@@ -1,0 +1,1 @@
+\boldsymbol { g } ( x ) = f ( x ) - m x ( m \in \mathbf { R } )

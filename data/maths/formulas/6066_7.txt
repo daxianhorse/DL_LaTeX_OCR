@@ -1,0 +1,1 @@
+= \frac { \sum _ { i = 1 } ^ { n } t _ { i } y _ { i } - \bar { t } \sum _ { i = 1 } ^ { n } y _ { i } } { \sqrt { \sum _ { i = 1 } ^ { n } \left( t _ { i } - \bar { t } \right) ^ { 2 } \sum _ { i = 1 } ^ { n } \left( y _ { i } - \bar { y } \right) ^ { 2 } } }

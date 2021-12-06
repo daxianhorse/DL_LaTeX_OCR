@@ -1,0 +1,1 @@
+a _ { n } = S _ { n } - S _ { n - 1 } = \frac { n ( n + 1 ) } { 2 } ( n \geqslant 2 )

@@ -1,0 +1,1 @@
+\overrightarrow { Q A } = \lambda \overrightarrow { P A } , \overrightarrow { Q B } = \overrightarrow { \mu P B }

@@ -1,0 +1,1 @@
+W : \frac { x ^ { \prime \prime } } { 2 } + v ^ { 2 } = 1

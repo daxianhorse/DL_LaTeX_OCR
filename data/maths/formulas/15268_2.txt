@@ -1,0 +1,1 @@
+T _ { k } ( P ) = b _ { k } + \max \left\{ T _ { k - 1 } ( P ) , a _ { 1 } + a _ { 2 } + \cdots + a _ { k } \right\} ( 2 \leq s l a n t k \leq s l a n t n )

@@ -1,0 +1,1 @@
+\frac { \o p e r a t o r n a m e { e l n } x } { x } + \frac { x } { \o p e r a t o r n a m e { e l n } x + x } + m =

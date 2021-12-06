@@ -1,0 +1,1 @@
+\frac { \overrightarrow { M A } \cdot \overrightarrow { M B } } { | A B | ^ { 2 } }

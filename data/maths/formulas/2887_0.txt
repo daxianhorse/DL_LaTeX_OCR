@@ -1,0 +1,1 @@
+2 \overrightarrow { A B } \cdot \overrightarrow { A C } = \sqrt { 3 } | \overrightarrow { A B } |

@@ -1,0 +1,1 @@
+\left( \frac { a } { x } - \sqrt { x } \right) ^ { 5 }

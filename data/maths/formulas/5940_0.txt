@@ -1,0 +1,1 @@
+\mathrm { C } _ { n } ^ { 0 } + 3 \mathrm { C } _ { n } ^ { 1 } + 3 ^ { 2 } \mathrm { C } _ { n } ^ { 2 } + 3 ^ { 3 } \mathrm { C } _ { n } ^ { 3 } + \cdots + 3 ^ { n } \mathrm { C } _ { n } ^ { n }

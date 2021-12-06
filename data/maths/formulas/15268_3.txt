@@ -1,0 +1,1 @@
+\max \left\{ T _ { k } , ( P ) , a _ { 1 } + a _ { 2 } + \cdots + a _ { k } \right\}

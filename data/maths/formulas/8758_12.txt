@@ -1,0 +1,1 @@
+\frac { \lambda } { n } = \frac { 1 } { 2 } , ( 1 - \lambda ) \frac { 1 } { m } = \frac { 1 } { 2 }

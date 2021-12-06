@@ -1,0 +1,1 @@
+f ^ { \prime } ( x ) = 2 x - \frac { 1 } { r ^ { 2 } } + a \geqslant 0

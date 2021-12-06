@@ -1,0 +1,1 @@
+\sin 1 5 ^ { \circ } \cos 7 5 ^ { \circ } + \cos 1 5 ^ { \circ } \sin 1 0 5 ^ { \circ }

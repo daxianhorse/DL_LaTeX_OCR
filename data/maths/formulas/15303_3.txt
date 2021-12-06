@@ -1,0 +1,1 @@
+\mathrm { e } ^ { 3 } \cdot 3 ^ { c } , \mathrm { e } ^ { \pi } \cdot \pi ^ { c } , 3 ^ { \pi } \cdot \pi ^ { 3 }

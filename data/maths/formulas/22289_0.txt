@@ -1,0 +1,1 @@
+f ( x ) = \frac { \l g \left( 1 - x ^ { 2 } \right) } { | x - 2 | - 2 }

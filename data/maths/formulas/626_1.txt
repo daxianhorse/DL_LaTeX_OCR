@@ -1,0 +1,1 @@
+\overrightarrow { \mathrm { A F } } = 2 \overrightarrow { \mathrm { F B } }

@@ -1,0 +1,1 @@
+f ( x ) = \frac { \mathrm { e } ^ { i x i } } { \cos x }

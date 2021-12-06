@@ -1,0 +1,1 @@
+a = 1 , 2 b - \sqrt { 3 } c = 2 a \cos C , \sin C = \frac { \sqrt { 3 } } { 2 }

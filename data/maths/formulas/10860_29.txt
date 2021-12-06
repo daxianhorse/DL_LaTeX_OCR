@@ -1,0 +1,1 @@
+k _ { A B } = \frac { y _ { 3 } - y _ { 4 } } { x _ { 3 } - x _ { 4 } } = \frac { y _ { 3 } - y _ { 4 } } { \frac { y _ { 3 } ^ { 2 } } { 2 } - \frac { y _ { 4 } ^ { 2 } } { 2 } } = \frac { 2 \left( y _ { 3 } - y _ { 4 } \right) } { \left( y _ { 3 } - y _ { 4 } \right) \left( y _ { 3 } + y _ { 4 } \right) } = \frac { 2 } { y _ { 3 } + y _ { 4 } }

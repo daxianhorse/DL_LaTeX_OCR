@@ -1,0 +1,1 @@
+f ( - k - \sin \theta - 1 ) \geqslant f \left( k ^ { 2 } - \sin ^ { 2 } \theta \right)

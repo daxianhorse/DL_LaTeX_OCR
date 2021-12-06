@@ -1,0 +1,1 @@
+\overrightarrow { A P } = \left( - \frac { 1 } { a } , a \right) , \overrightarrow { A Q } = \left( a , \frac { 1 } { a } \right)

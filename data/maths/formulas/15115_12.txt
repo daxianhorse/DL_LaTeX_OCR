@@ -1,0 +1,1 @@
+S _ { C . W Q } = S _ { \dot P B A } - S _ { \ t h e r e f o r e Q B A } = \frac { 1 } { 2 } \cdot \left( x _ { A } - x _ { B } \right) \cdot \left( y _ { P } - y _ { Q } \right)

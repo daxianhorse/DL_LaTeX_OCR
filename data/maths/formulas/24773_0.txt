@@ -1,0 +1,1 @@
+f ( x ) = 2 \sin \varphi \cos ( x + \varphi ) + \sin x , x \in \mathbf { R } , \varphi \in [ 0 , \pi )

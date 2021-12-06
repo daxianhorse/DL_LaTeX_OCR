@@ -1,0 +1,1 @@
+\overrightarrow { A C } = x \overrightarrow { A P } + y \overrightarrow { B Q }

@@ -1,0 +1,1 @@
+f ( x ) = x \mathrm { e } ^ { \prime } - \mathrm { e } ^ { \prime } , g ( x ) = m x - m ( m > 0 )

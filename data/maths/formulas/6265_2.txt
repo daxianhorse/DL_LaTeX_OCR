@@ -1,0 +1,1 @@
+\overrightarrow { A Q } = x _ { 2 } \overrightarrow { A B } + y _ { 2 } \overrightarrow { A C }

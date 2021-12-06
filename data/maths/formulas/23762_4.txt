@@ -1,0 +1,1 @@
+\overrightarrow { C P } = \frac { 1 } { 4 } \overrightarrow { C A } + \frac { 1 } { 2 } \overrightarrow { C B }

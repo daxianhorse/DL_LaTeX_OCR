@@ -1,0 +1,1 @@
+\boldsymbol { c } = \lambda \boldsymbol { a } + ( 1 - \lambda ) \boldsymbol { b }

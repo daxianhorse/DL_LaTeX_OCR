@@ -1,0 +1,1 @@
+\frac { \lambda a } { a } = \frac { \mu b } { b } > 0

@@ -1,0 +1,1 @@
+Q \left( x _ { 1 } , y _ { 1 } \right) \left( y _ { 1 } \neq 0 \right)

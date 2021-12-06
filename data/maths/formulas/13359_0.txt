@@ -1,0 +1,1 @@
+| \boldsymbol { a } | = 1 \cdot | \boldsymbol { b } | = 2 \cdot \boldsymbol { c } = \boldsymbol { a } + \boldsymbol { b }

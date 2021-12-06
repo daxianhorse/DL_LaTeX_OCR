@@ -1,0 +1,1 @@
+A = \left\{ x \in \mathbf { R } \mid \log _ { 2 } x < 2 \right.

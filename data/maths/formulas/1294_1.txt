@@ -1,0 +1,1 @@
+\frac { \sin \theta + \cos \theta } { \sin \theta } + \sin ^ { 2 } \theta

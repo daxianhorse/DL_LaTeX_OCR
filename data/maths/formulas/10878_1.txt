@@ -1,0 +1,1 @@
+M \left( x _ { 0 } , y _ { 0 } \right) , P \left( 0 , y _ { 0 } \right) , N \left( -- x _ { 0 } , y _ { 0 } \right)

@@ -1,0 +1,1 @@
+\overrightarrow { B E } = \overrightarrow { E F } = \overrightarrow { F G } = \overrightarrow { G C }

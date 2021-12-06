@@ -1,0 +1,1 @@
+h ( x ) \geqslant \frac { 5 } { 2 }

@@ -1,0 +1,1 @@
+f ( x ) = a \left( x - \frac { 1 } { x } \right) - 2 \ln x ( a \in \mathbf { R } ) , g ( x ) = - \frac { a } { x }

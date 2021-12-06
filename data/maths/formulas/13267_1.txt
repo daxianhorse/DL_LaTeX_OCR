@@ -1,0 +1,1 @@
+3 a \cos A = \cos B + b \cos \theta

@@ -1,0 +1,1 @@
+\frac { 2 \left| D F _ { 1 } \right| } { | A B | } = \frac { 2 b ^ { 2 } c } { 2 a b ^ { 2 } } = e

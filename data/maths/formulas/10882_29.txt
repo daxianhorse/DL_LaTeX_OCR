@@ -1,0 +1,1 @@
+y - \frac { 4 } { k } = - \frac { 1 } { k } \left( x - \frac { 2 k ^ { 2 } + 4 } { k ^ { 2 } } \right)

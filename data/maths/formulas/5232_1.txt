@@ -1,0 +1,1 @@
+( \boldsymbol { a } + k \boldsymbol { b } ) / / \boldsymbol { c }

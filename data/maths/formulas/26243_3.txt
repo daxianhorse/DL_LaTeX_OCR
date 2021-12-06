@@ -1,0 +1,1 @@
+\bar { a } \cdot \vec { b } = 1

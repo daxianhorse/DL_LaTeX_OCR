@@ -1,0 +1,1 @@
+f ( a ) > f ( - a ) \Rightarrow \log _ { 2 } a > \log _ { \frac { 1 } { 2 } } a \Rightarrow a > 1

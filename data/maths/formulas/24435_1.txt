@@ -1,0 +1,1 @@
+\frac { 1 } { 1 0 \sqrt { 2 \pi } } \mathrm { e } ^ { - \frac { ( x - 1 0 0 ) ^ { 2 } } { 2 0 0 } } , x \in ( - \infty , + \infty )

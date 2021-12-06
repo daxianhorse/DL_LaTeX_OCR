@@ -1,0 +1,1 @@
+\text { ( 3 ) } 2 a - \frac { b \cos C } { \cos A } = \frac { c \cos B } { \cos A }

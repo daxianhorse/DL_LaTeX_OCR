@@ -1,0 +1,1 @@
+f ( x ) = \mathrm { e } ^ { \prime } + 4 x - 3

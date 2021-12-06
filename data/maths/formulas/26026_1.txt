@@ -1,0 +1,1 @@
+a \cdot b - ( a + b ) \cdot e + 1 = 0

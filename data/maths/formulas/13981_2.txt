@@ -1,0 +1,1 @@
+B \left( 2 , a ^ { 2 } \right) , C \left( 3 , a ^ { 3 } \right)

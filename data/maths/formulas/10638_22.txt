@@ -1,0 +1,1 @@
+\left( \frac { 1 } { a _ { 7 } a _ { 5 } } + \cdots + \frac { 1 } { a _ { 2 n - 1 } a _ { 2 n } } \right) \leq s l a n t \frac { 5 } { 2 4 } - \frac { 1 } { 9 \times 2 ^ { 3 } } + \frac { 1 } { 9 } \left( \frac { 1 } { 2 ^ { 1 } } + \cdots + \frac { 1 } { 2 ^ { n } } \right) = \frac { 5 } { 2 4 } - \frac { 1 } { 9 \cdot 2 ^ { n } } < \frac { 5 } { 2 4 }

@@ -1,0 +1,1 @@
+f ( x ) = \ln x - \frac { 2 } { x } , g ( x ) = f ( x ) + 2 x - 6 \ln x , a \in \mathbf { R }

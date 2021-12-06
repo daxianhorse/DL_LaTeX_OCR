@@ -1,0 +1,1 @@
+\left( \frac { 1 } { a } \right) ^ { 3 } > \left( \frac { 1 } { b } \right) ^ { 3 }

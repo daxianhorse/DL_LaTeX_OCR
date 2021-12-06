@@ -1,0 +1,1 @@
+f ( x ) = x \mathrm { e } ^ { x } , g ( x ) = a \mathrm { e } ^ { x } - a - 1

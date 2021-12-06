@@ -1,0 +1,1 @@
+\frac { f ( x ) } { 2 } > x \mathrm { e } ^ { x }

@@ -1,0 +1,1 @@
+\sin ( \theta - 5 \pi )

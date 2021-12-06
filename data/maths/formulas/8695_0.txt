@@ -1,0 +1,1 @@
+\text { ( 1 ) } S _ { n } = 2 b _ { n } - 1 , \text { ( 2 ) } - 4 b _ { n } = b _ { n - 1 } ( n \geqslant 2 ) , \text { ( 3 ) } b _ { n } =

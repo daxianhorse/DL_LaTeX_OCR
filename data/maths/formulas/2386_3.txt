@@ -1,0 +1,1 @@
+\overrightarrow { P A } \cdot \left( \overrightarrow { P B } + \overrightarrow { P \left( ^ { 2 } \right) } \right.

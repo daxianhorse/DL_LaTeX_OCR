@@ -1,0 +1,1 @@
+2 ^ { \prime \left( \frac { m } { n } \right) }

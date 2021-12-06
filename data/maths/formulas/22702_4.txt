@@ -1,0 +1,1 @@
+\frac { 1 + x } { 1 - x } \mathrm { e } ^ { - u x } - 1 > 0

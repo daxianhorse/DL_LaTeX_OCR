@@ -1,0 +1,1 @@
+f \left( \ln \frac { a } { b } \right) +

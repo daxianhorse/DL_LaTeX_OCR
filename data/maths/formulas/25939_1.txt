@@ -1,0 +1,1 @@
+\alpha = \frac { \pi } { 6 } ( \rho \in \mathbf { R } )

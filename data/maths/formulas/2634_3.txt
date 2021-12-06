@@ -1,0 +1,1 @@
+\frac { x \cos \alpha } { a } + \frac { y \sin \alpha } { b } = 1

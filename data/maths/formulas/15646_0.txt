@@ -1,0 +1,1 @@
+\boldsymbol { a } = \left( x ^ { 2 } , x + 1 \right) , \boldsymbol { b } = ( 1 - x , t )

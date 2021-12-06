@@ -1,0 +1,1 @@
+\ t h e r e f o r e , t \in A , s = a _ { 1 } + a _ { 2 } q + \cdots + a _ { n } q ^ { n } \quad b = b _ { 1 } + b _ { 2 } q + \cdots + b _ { n } q ^ { n } \quad

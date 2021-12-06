@@ -1,0 +1,1 @@
+f ( x ) = 4 \tan \left( x + \frac { \pi } { 6 } \right) \cos ^ { 2 } \left( x + \frac { \pi } { 6 } \right) - 1

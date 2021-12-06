@@ -1,0 +1,1 @@
+\overrightarrow { \Lambda I } = 2 \overrightarrow { \Lambda B } + 2 \overrightarrow { A F }

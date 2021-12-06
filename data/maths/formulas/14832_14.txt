@@ -1,0 +1,1 @@
+\left( \frac { m ^ { 3 } } { 2 } + 1 \right) y ^ { 2 } + m y - \frac { 1 } { 2 } = 0

@@ -1,0 +1,1 @@
+f ( x ) = g \left( x + \frac { 1 } { 2 } \right) + m \ln x + \frac { 9 } { 8 } ( m \in \mathbf { R } , x > 0 )

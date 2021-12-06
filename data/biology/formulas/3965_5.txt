@@ -1,0 +1,1 @@
+\mathrm { h } _ { 1 } < \mathrm { h } _ { 2 } , \mathrm { M } _ { 1 } > \mathrm { M } _ { 2 }

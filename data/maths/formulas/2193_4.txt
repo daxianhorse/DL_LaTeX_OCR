@@ -1,0 +1,1 @@
+f ^ { \prime } ( x ) = 3 x ^ { 2 } + 2 a x + b \cdot \Delta = 4 a ^ { 2 } - 1 2 b

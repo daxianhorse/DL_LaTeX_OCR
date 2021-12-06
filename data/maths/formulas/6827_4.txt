@@ -1,0 +1,1 @@
+\frac { f ( b ) - f ( a ) } { b - a } , f ^ { \prime } \left( x _ { 2 } \right) = \frac { f ( b ) - f ( a ) } { b - a }

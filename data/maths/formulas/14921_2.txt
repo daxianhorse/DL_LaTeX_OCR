@@ -1,0 +1,1 @@
+f \left( - \frac { 1 } { 2 a } \right) = \ln \left( - \frac { 1 } { 2 a } \right) - 1 - \frac { 1 } { 4 a }

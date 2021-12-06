@@ -1,0 +1,1 @@
+c \cdot 2 ^ { 2 - 1 } + b \cdot 2 ^ { \prime } + 1 \leq s l a n t 0

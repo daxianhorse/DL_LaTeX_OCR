@@ -1,0 +1,1 @@
+A = \left\{ x \left| x ^ { 2 } \right\rangle \right.

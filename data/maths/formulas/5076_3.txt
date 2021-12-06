@@ -1,0 +1,1 @@
+\frac { \sin 2 \alpha - 2 \sin ( \pi - \alpha ) \cos \left( \alpha - \frac { 3 \pi } { 2 } \right) } { 2 \cos ^ { 2 } \left( \alpha + \frac { \pi } { 2 } \right) + \sin ( 2 \alpha + 3 \pi ) }

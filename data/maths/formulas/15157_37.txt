@@ -1,0 +1,1 @@
+f ^ { \prime } ( x ) = g ( x ) , g ^ { \prime } ( x ) = f ( x )

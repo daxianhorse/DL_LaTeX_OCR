@@ -1,0 +1,1 @@
+f ( x ) = \l g \left( \sqrt { 1 + 2 x ^ { 2 } } - a x \right)

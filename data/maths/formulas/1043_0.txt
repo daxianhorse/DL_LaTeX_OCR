@@ -1,0 +1,1 @@
+M = \{ x | 5 - | 2 x - 3 \mid \in \mathbf { N }

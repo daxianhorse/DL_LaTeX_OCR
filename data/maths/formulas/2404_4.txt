@@ -1,0 +1,1 @@
+\left( a - \frac { 1 } { 2 } b \right) ^ { 2 } + \frac { 3 } { 4 } b ^ { 2 } = 1

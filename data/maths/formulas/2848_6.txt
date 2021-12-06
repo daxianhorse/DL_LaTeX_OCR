@@ -1,0 +1,1 @@
+C ( c , 0 ) , D ( d , 0 ) ( c , d \in \mathbf { R } )

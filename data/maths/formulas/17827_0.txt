@@ -1,0 +1,1 @@
+B ( 2 , 0 ) , | \overrightarrow { A D } | = 2 , \overrightarrow { A E } = \frac { 1 } { 2 } ( \overrightarrow { A B } + \overrightarrow { A D } )

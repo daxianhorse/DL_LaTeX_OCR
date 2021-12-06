@@ -1,0 +1,1 @@
+\overrightarrow { C G } = \lambda \overrightarrow { C D } + \mu \overrightarrow { C B } ( \lambda , \mu \in \mathbf { R } )

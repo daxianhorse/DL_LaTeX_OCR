@@ -1,0 +1,1 @@
+p : \forall x \in \mathbf { R } , | x - a | < 3

@@ -1,0 +1,1 @@
+h ( x ) = x + \frac { 2 \mathrm { e } } { \sqrt { \ln x } } , t = \sqrt { \ln x } \in ( 0 , \sqrt { \ln 3 \mathrm { e } } )

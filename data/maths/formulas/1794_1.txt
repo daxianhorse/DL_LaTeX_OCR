@@ -1,0 +1,1 @@
+M : y ^ { \prime \prime } = 4 x

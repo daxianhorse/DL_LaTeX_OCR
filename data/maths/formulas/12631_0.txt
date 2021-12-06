@@ -1,0 +1,1 @@
+\left( \log _ { 2 } 9 \right) \cdot \left( \log _ { 4 } 4 \right)

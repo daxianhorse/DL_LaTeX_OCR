@@ -1,0 +1,1 @@
+\boldsymbol { b } ( m \in \mathbf { R } )

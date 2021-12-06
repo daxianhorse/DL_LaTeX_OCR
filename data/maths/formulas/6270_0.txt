@@ -1,0 +1,1 @@
+f ( x ) = k ( x - \ln x ) + \frac { \mathbf { e } ^ { x } } { x } ( k \in \mathbf { R } )

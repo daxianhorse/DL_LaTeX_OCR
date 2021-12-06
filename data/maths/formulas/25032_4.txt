@@ -1,0 +1,1 @@
+\left( \frac { e ^ { 2 } } { 2 } , + \infty \right)

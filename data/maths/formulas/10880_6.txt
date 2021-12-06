@@ -1,0 +1,1 @@
+A \left( x _ { 1 } , \frac { x _ { 1 } ^ { 2 } } { 2 p } \right) , B \left( x _ { 2 } , \frac { x _ { 2 } ^ { 2 } } { 2 p } \right)

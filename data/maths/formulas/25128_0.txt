@@ -1,0 +1,1 @@
+c ( t ) = 2 0 \left( \mathrm { e } ^ { - 0 . 1 5 t } - \mathrm { e } ^ { - 1 . 5 t } \right)

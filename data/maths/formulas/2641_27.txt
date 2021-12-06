@@ -1,0 +1,1 @@
+\sqrt { \frac { 1 } { 6 } \left[ \left( n + \frac { 6 4 } { n } \right) ^ { 2 } + \left( n + \frac { 6 4 } { n } \right) \right] } \geqslant \sqrt { 4 5 \frac { 1 } { 3 } }

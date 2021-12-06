@@ -1,0 +1,1 @@
+x \ln x \geqslant 1

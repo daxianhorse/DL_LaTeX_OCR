@@ -1,0 +1,1 @@
+M ( \alpha , \beta ) = x _ { 1 } y _ { 1 } + x _ { 2 } y _ { 2 } + \cdots + x _ { n } y _ { n }

@@ -1,0 +1,1 @@
+| \overrightarrow { A B } | = 1 , | \overrightarrow { A D } | = 2 , \left| \overrightarrow { A A _ { 1 } } \right| = 3

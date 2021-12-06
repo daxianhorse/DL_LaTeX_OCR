@@ -1,0 +1,1 @@
+1 + x + x ^ { 2 } + \cdots + x ^ { n } + \cdots = \frac { 1 } { 1 - x }

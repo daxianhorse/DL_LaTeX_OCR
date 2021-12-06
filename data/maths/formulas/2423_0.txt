@@ -1,0 +1,1 @@
+m \geqslant \left| x ^ { 2 } + a \right| + | x + b | , x \in [ - 2 , 2 ]

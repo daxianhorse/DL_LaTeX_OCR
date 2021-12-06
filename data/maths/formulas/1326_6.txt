@@ -1,0 +1,1 @@
+\cos \alpha = - \alpha \sin \alpha

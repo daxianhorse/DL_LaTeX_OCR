@@ -1,0 +1,1 @@
+k , m , p \in \mathbf { N } ^ { * }

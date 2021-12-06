@@ -1,0 +1,1 @@
+\left( - \infty , - \frac { \sqrt { 5 } } { 5 } \right) \cup \left( \frac { \sqrt { 5 } } { 5 } , + \infty \right)

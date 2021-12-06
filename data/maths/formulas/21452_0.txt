@@ -1,0 +1,1 @@
+\overrightarrow { A C } - \overrightarrow { B D } + \overrightarrow { C D } - \overrightarrow { A B } + \overrightarrow { D E } + \overrightarrow { E F } + \overrightarrow { F D }

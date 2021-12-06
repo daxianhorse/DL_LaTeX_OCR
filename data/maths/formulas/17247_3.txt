@@ -1,0 +1,1 @@
+\left\{ \theta \mid \theta = k \pi - \frac { \pi } { 2 } , k \in Z \right\}

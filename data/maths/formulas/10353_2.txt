@@ -1,0 +1,1 @@
+| \overrightarrow { F A } | + | \overrightarrow { F B } | + \mid \overrightarrow { F C }

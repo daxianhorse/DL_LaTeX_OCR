@@ -1,0 +1,1 @@
+M = \int _ { 0 } ^ { 1 } \sqrt { 1 - x ^ { 2 } } \mathrm { ~ d } x

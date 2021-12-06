@@ -1,0 +1,1 @@
+\left\{ x \mid x = \frac { 2 n + 1 } { 3 } , n \in \mathbf { Z } \right\} , B = \left\{ x \mid x = \frac { 2 n } { 3 } + 1 , n \in \mathbf { Z } \right\}

@@ -1,0 +1,1 @@
+f ( x ) + f ( - x ) = x ^ { 3 } + \l g \left( x + \sqrt { x ^ { 2 } + 1 } \right) + ( - x ) ^ { 3 } + \l g \left( - x + \sqrt { ( - x ) ^ { 2 } + 1 } \right) = 0

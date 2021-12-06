@@ -1,0 +1,1 @@
+A \cap B = \left\{ x \mid 0 < x < \frac { 4 } { 3 } \right\}

@@ -1,0 +1,1 @@
+\cos \left( \frac { 3 \pi } { 2 } - \varphi \right) = \frac { \sqrt { 3 } } { 2 }

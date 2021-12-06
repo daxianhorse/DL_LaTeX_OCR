@@ -1,0 +1,1 @@
+N \left( \frac { t ^ { 3 } } { p } , t \right)

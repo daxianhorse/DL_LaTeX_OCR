@@ -1,0 +1,1 @@
+\cos \alpha = \cos \ a n g l e A B M = \cos \ a n g l e C B A \cdot \cos \ a n g l e C B M = \frac { \sqrt { 2 } } { 2 } \cdot \cos \theta

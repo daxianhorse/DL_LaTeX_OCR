@@ -1,0 +1,1 @@
+\forall \alpha , \beta \in \mathbf { R } , \sin ( \alpha + \beta ) \neq \sin \alpha + \sin \beta

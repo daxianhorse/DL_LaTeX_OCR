@@ -1,0 +1,1 @@
+f ( x ) = \mathrm { e } ^ { 4 \mathrm { x } } \sin x ( x \in [ 0 ,

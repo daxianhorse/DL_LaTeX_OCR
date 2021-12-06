@@ -1,0 +1,1 @@
+S _ { \Delta I P F _ { 1 } } = S _ { \Delta I P F _ { 2 } } + \lambda S _ { \triangle I F , F _ { 2 } }

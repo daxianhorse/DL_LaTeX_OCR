@@ -1,0 +1,1 @@
+B = \{ y \in \mathbf { N } \mid y \leq s l a n t 2 \}

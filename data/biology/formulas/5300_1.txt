@@ -1,0 +1,1 @@
+\left( X ^ { N s } X ^ { \sqrt { 3 } } , X ^ { \sqrt { 3 } } Y \right)

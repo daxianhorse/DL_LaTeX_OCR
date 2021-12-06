@@ -1,0 +1,1 @@
+x , y \in \mathbf { R } \} \subseteq \left\{ ( x , y ) \mid x ^ { 2 } + y ^ { 2 } \leq s l a n t 2 5 \right\}

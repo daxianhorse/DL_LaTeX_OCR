@@ -1,0 +1,1 @@
+\mathrm { A X } ^ { \mathrm { B } } : \mathrm { a X } ^ { \mathrm { B } } : \mathrm { A Y } : \mathrm { a Y } = 1 : 1 : 1 : 1

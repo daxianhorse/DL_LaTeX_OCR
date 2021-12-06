@@ -1,0 +1,1 @@
+n = \left( \cos \frac { x } { 2 } , \cos ^ { 2 } \frac { x } { 2 } \right)

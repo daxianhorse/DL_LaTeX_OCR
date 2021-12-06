@@ -1,0 +1,1 @@
+= 4 ( 1 + \tan \beta ) ^ { 2 } + \left( \frac { 4 } { 1 + \tan \beta } - 3 \right) ^ { 2 }

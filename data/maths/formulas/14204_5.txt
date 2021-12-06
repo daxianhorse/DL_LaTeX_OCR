@@ -1,0 +1,1 @@
+f _ { n } ( x ) = f ^ { \prime } \left( f _ { n } , ( x ) \right)

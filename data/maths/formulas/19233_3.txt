@@ -1,0 +1,1 @@
+\ e x i s t s x _ { 0 } \not i n \mathbf { R } , 2 ^ { x , x } - x _ { 0 } ^ { 2 } < 1

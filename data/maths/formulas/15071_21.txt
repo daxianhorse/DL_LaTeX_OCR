@@ -1,0 +1,1 @@
+\frac { 4 t \cdot \frac { 4 t ^ { 2 } + 3 } { 4 t ^ { 2 } - 1 } - 4 t ^ { 2 } \cdot \left( - \frac { 1 } { t } \right) } { 4 t - \left( - \frac { 1 } { t } \right) } = \frac { 8 t ^ { 2 } } { 4 t ^ { 2 } - 1 }

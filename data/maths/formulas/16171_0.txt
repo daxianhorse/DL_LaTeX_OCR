@@ -1,0 +1,1 @@
+\boldsymbol { a } = ( 0 , - 1 , 1 ) , \boldsymbol { b } = ( 4 , 1 , 0 ) , | \lambda \boldsymbol { a } + \boldsymbol { b } | = \sqrt { 2 9 }

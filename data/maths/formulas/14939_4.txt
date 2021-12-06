@@ -1,0 +1,1 @@
+\left( \mathrm { e } ^ { 2 } f ( x ) \right) ^ { \prime } = \mathrm { e } ^ { x } \left( x ^ { 3 } + 3 x ^ { 2 } \right) = \mathrm { e } ^ { x } \cdot x ^ { 2 } ( x + 3 )

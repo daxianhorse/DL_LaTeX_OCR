@@ -1,0 +1,1 @@
+f ( x ) = \sqrt { \tan x - 1 } + \sqrt { 2 \cos x - 1 }

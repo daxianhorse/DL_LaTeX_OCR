@@ -1,0 +1,1 @@
+f ( x ) = \frac { a - 2 ^ { \prime } } { 1 + a ^ { \bullet } 2 ^ { \prime } }

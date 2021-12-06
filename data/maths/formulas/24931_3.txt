@@ -1,0 +1,1 @@
+\ln \left( q ^ { 2 } - p ^ { 2 } + 1 \right)

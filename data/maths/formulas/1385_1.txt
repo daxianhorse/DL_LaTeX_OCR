@@ -1,0 +1,1 @@
+\sqrt { \frac { 1 + \cos \theta } { 2 } } + \sqrt { \frac { 1 - \cos \theta } { 2 } } = \frac { \sqrt { 6 } } { 2 }

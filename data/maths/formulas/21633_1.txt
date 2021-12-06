@@ -1,0 +1,1 @@
+f ( a - 1 ) \geqslant f \left( - a ^ { 2 } + 1 \right)

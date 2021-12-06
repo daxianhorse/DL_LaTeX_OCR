@@ -1,0 +1,1 @@
+7 \overrightarrow { A E } = 5 \overrightarrow { A B } , \overrightarrow { A D } = 4 \overrightarrow { A F }

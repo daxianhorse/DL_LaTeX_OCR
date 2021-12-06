@@ -1,0 +1,1 @@
+c - a \cos B = ( 2 a - b ) \cos \Lambda

@@ -1,0 +1,1 @@
+a _ { n } = f ( 0 ) + f \left( \frac { 1 } { n } \right) +

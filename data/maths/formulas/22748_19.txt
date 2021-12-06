@@ -1,0 +1,1 @@
+f ( x ) _ { \min } = f \left( \frac { 2 a } { 3 } \right) = 1 0 - \frac { 4 } { 2 7 } a ^ { 3 } < 0

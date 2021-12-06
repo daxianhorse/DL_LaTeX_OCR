@@ -1,0 +1,1 @@
+f ( x ) = \frac { 1 } { x } + a x + b , a , b \in \mathbf { R }

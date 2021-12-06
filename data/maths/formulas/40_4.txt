@@ -1,0 +1,1 @@
+b _ { 1 } = 4 , b _ { n + 1 } - b _ { n } = a _ { n } \left( n \in \mathbf { N } ^ { * } \right)

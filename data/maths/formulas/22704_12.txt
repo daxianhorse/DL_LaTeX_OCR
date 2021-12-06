@@ -1,0 +1,1 @@
+F ( x ) = \mathrm { e } ^ { - \cdot } \left[ a x ^ { 2 } + ( \mathrm { e } - a - \right.

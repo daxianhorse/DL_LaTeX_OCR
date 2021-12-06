@@ -1,0 +1,1 @@
+A = \left\{ y \mid y = \log _ { 2 } x , x > 2 \right\}

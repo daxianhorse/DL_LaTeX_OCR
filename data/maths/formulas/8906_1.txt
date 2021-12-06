@@ -1,0 +1,1 @@
+\frac { \sin \left( \alpha - \frac { 3 \pi } { 1 0 } \right) } { \cos \left( \alpha - \frac { \pi } { 5 } \right) } =

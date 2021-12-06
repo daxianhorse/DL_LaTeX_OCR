@@ -1,0 +1,1 @@
+f ( t ) = 2 \cos t , t \in \left[ - \frac { \pi } { 2 } , \pi \right]

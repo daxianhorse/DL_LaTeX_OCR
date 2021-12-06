@@ -1,0 +1,1 @@
+x _ { 1 } \oplus x _ { 3 } \oplus x _ { 5 } \oplus x _ { 7 } = 0

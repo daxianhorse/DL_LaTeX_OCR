@@ -1,0 +1,1 @@
+A = \left\{ x \mid \frac { 1 - x } { x } \geqslant 0 \right\}

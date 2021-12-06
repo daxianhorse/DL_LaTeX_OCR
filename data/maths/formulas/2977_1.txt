@@ -1,0 +1,1 @@
+\sin \frac { \pi x } { 2 } \geqslant k x

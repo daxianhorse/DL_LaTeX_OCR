@@ -1,0 +1,1 @@
+f ( m ) + 3 \leq s l a n t f ( 1 - m ) + 6 m

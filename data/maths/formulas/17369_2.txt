@@ -1,0 +1,1 @@
+\overrightarrow { A C } = c , \vec { B } \vec { E } = \frac { 1 } { 2 } \overrightarrow { E C }

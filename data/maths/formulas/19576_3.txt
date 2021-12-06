@@ -1,0 +1,1 @@
+S = \sqrt { \frac { 1 } { 4 } \left( c ^ { 2 } a ^ { 2 } - \Delta ^ { 2 } \right) }

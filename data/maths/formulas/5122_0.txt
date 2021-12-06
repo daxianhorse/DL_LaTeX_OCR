@@ -1,0 +1,1 @@
+f ( x ) = \sqrt { 3 } \times \sin ( 2 x + \varphi ) - \cos ( 2 x + \varphi )

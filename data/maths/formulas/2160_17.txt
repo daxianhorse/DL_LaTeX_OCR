@@ -1,0 +1,1 @@
+D = \left[ \frac { 2 } { 5 } , \frac { 5 } { 2 } \right]

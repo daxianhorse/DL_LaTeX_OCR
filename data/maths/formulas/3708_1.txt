@@ -1,0 +1,1 @@
+2 ( \tan A + \tan B ) = \frac { \tan A } { \cos B } + \frac { \tan B } { \cos A }

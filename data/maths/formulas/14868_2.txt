@@ -1,0 +1,1 @@
+[ a , b ] \subseteq \left[ \frac { 1 } { 2 } , + \infty \right)

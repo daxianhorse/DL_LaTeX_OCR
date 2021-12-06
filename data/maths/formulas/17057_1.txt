@@ -1,0 +1,1 @@
+g ( x ) = \frac { 1 - q \cdot 2 ^ { \prime } } { 1 + q \cdot 2 ^ { 2 } }

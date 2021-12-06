@@ -1,0 +1,1 @@
+f ^ { \prime } \left( x _ { n } \right) \left( x - x _ { n } \right)

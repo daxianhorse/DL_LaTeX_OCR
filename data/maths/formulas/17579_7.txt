@@ -1,0 +1,1 @@
+a _ { n } ^ { 2 } + \frac { 7 } { 4 } > 2 \left( a _ { 1 } + \frac { a _ { 2 } } { 2 } + \frac { a _ { 3 } } { 3 } + \cdots + \frac { a _ { n } } { n } \right) \left( n \in \mathbf { N } ^ { * } \right)

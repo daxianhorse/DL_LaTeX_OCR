@@ -1,0 +1,1 @@
+f \left( a _ { i , 1 } \right) = f \left( a _ { - 1 } \right)

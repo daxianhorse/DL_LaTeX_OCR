@@ -1,0 +1,1 @@
+\frac { x _ { 1 } - y _ { 1 } } { x _ { 2 } - y _ { 2 } } + \frac { x _ { 2 } - y _ { 2 } } { x _ { 3 } - y _ { 3 } } + \cdots + \frac { x _ { n } - y _ { n } } { x _ { n } , 1 - y _ { n - 1 } } < \frac { \lambda } { \lambda - 1 } \left( n \in \mathbf { N } ^ { * } \right) .

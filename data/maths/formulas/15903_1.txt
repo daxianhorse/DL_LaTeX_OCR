@@ -1,0 +1,1 @@
+\overrightarrow { H A } \cdot \overrightarrow { H B } = \overrightarrow { H B } \cdot \overrightarrow { H C } = \overrightarrow { H C } \cdot \overrightarrow { H A } , | \overrightarrow { W A } | = | \overrightarrow { W B } | = | \overrightarrow { W C } |

@@ -1,0 +1,1 @@
+\frac { | A F | \cdot | B F | } { | A B | }

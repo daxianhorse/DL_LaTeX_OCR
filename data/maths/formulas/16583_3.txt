@@ -1,0 +1,1 @@
+c = f \left( t + \frac { 1 } { 1 } \right)

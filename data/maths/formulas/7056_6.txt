@@ -1,0 +1,1 @@
+\sum _ { i } ^ { m } \left( x _ { i } + y _ { i } \right) =

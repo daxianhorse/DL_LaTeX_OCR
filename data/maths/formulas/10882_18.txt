@@ -1,0 +1,1 @@
+= \frac { 1 } { 2 } \left( \frac { 4 } { 1 - \cos \alpha } - \frac { 4 } { 1 + \cos \alpha } \right) = \frac { 4 \cos \alpha } { \sin ^ { 2 } \alpha }

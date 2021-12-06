@@ -1,0 +1,1 @@
+\overrightarrow { C B } = \boldsymbol { a } , \overrightarrow { C A } = \boldsymbol { b } , | \boldsymbol { a } | = 1 , | \boldsymbol { b } | = 2

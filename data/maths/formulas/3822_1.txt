@@ -1,0 +1,1 @@
+( \boldsymbol { a } - \boldsymbol { b } ) \perp ( 3 \boldsymbol { a } + 2 \boldsymbol { b } )

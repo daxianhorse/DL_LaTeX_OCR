@@ -1,0 +1,1 @@
+\sum _ { i = 1 } ^ { n } \frac { 1 } { a _ { i } ^ { 3 } } = \frac { 1 } { 2 \sqrt { 2 } } + \frac { 1 } { 2 \sqrt { 2 } } \sum _ { k = 2 } ^ { n } \frac { 1 } { \sqrt { k ^ { 3 } } } <

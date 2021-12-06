@@ -1,0 +1,1 @@
+( a - c ) ( b - c ) = \frac { 1 } { 2 } | a - c | \cdot | b - c | \leq s l a n t

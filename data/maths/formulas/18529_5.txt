@@ -1,0 +1,1 @@
+2 ( \overrightarrow { P D } \cdot \overrightarrow { P A } ) _ { \o p e r a t o r n a m e { r i n } } = - 2 | \overrightarrow { P A } | \cdot | \overrightarrow { P I } |

@@ -1,0 +1,1 @@
+\left. 2 a ) \left( x - a ^ { 2 } - 1 \right) < 0 \right\}

@@ -1,0 +1,1 @@
+x * y = \l g \left( 1 0 ^ { x } + \right.

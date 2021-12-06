@@ -1,0 +1,1 @@
+y _ { 0 } ^ { 2 } = \lambda ^ { 2 } \left( x ^ { 2 } + y ^ { 2 } \right) - x _ { 1 0 } ^ { 2 } = \lambda ^ { 2 } \left( x ^ { 2 } + y ^ { 2 } \right) - x ^ { 2 }

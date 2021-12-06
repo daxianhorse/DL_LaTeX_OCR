@@ -1,0 +1,1 @@
+\left( a x ^ { m } + b x ^ { n } \right) ^ { 1 2 }

@@ -1,0 +1,1 @@
+P _ { 1 } \left( x _ { 1 } , 1 \right) , P _ { 2 } \left( x _ { 2 } , 2 \right) , \cdots , P _ { n + 1 } \left( x _ { n + 1 } , n + 1 \right)

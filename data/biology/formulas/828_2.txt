@@ -1,0 +1,1 @@
+\left( \mathbf { r } _ { 1 } \mathbf { r } _ { 1 } \mathbf { r } _ { 2 } \mathbf { r } _ { 2 } R _ { 3 } R _ { 3 } \right)

@@ -1,0 +1,1 @@
+f ^ { \prime } ( x ) = \frac { a \left( \frac { x + 1 } { x } - \ln x \right) } { ( x + 1 ) ^ { 2 } } - \frac { b } { x ^ { 2 } }

@@ -1,0 +1,1 @@
+\text { ( 2 ) } \frac { \sin \left( \frac { 3 \pi } { 2 } + \alpha \right) \cos \left( \frac { 3 \pi } { 2 } - \alpha \right) } { \cos ^ { 2 } \alpha - \sin ^ { 2 } \alpha + \tan ( \pi - \alpha ) }

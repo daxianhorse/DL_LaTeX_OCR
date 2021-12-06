@@ -1,0 +1,1 @@
+\forall x > 0 , x ^ { 2 } - 2 x + 2 \geqslant 0

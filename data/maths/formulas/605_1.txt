@@ -1,0 +1,1 @@
+f \left( x _ { 1 } \right) + f \left( x _ { 2 } \right) + \cdots + f \left( x _ { n - 1 } \right) =

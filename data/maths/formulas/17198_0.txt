@@ -1,0 +1,1 @@
+p = \frac { 3 x } { 4 x + 3 2 } \left( x \in \mathbf { N } ^ { * } \right)

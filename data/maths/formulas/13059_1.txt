@@ -1,0 +1,1 @@
+2 \sin ^ { 2 } \left( x - \frac { \pi } { 1 2 } \right) \quad ( x \in \mathbf { R } )

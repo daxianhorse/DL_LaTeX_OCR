@@ -1,0 +1,1 @@
+y = x ^ { m - 2 } ( m \in \mathbf { N } )

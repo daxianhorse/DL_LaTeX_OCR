@@ -1,0 +1,1 @@
+P \left( | \xi | \leq s l a n t \frac { 1 } { 3 } \right) \leq s l a n t P \left( \xi ^ { 2 } \leq s l a n t \frac { 1 } { 3 } \right)

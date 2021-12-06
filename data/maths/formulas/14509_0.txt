@@ -1,0 +1,1 @@
+\left( x ^ { 3 } - \frac { 2 } { x } \right) ^ { 1 } + \left( x + \frac { 1 } { x } \right) ^ { 8 }

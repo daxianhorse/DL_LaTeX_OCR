@@ -1,0 +1,1 @@
+\left( b _ { n } , c _ { n } \right)

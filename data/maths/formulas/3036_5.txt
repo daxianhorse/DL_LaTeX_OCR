@@ -1,0 +1,1 @@
+| \overrightarrow { Q B } | = | \overrightarrow { A Q } | \cdot | \overrightarrow { P B } |

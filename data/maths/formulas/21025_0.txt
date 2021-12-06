@@ -1,0 +1,1 @@
+A = B = \{ ( x , y ) \mid x \in \mathbf { R } , y \in \mathbf { R } \}

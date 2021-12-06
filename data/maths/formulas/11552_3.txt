@@ -1,0 +1,1 @@
+\dot { S } _ { n } = n ^ { 2 } - n + 2 ^ { n } - 1 \left( n \in \mathbf { N } ^ { * } \right)

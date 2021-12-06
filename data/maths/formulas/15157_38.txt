@@ -1,0 +1,1 @@
+( f ( x ) - x ) ^ { \prime } = f ^ { \prime } ( x ) - 1 = g ( x ) - 1 \geqslant 0

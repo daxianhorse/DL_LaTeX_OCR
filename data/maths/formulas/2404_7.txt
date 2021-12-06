@@ -1,0 +1,1 @@
+| u | = | 2 \cos \theta ( \cos \theta + \sqrt { 3 } \sin \theta ) | = \left| 1 + 2 \sin \left( 2 \theta + \frac { \pi } { 6 } \right) \right|

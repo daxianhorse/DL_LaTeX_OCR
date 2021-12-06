@@ -1,0 +1,1 @@
+\overrightarrow { D E } = \lambda \overrightarrow { D B _ { 1 } } ( 0 < \lambda \leq s l a n t 1 ) , \overrightarrow { A M } = \mu _ { 1 } \overrightarrow { A N } = \mu _ { 2 } \overrightarrow { A C } \left( 0 < \mu _ { 2 } < \mu _ { 1 } < 1 \right) , M N = 1 , A C =

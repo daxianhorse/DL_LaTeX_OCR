@@ -1,0 +1,1 @@
+a \sin B = \sqrt { 3 } b \cos A

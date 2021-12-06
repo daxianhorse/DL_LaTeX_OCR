@@ -1,0 +1,1 @@
+\frac { E B } { E H - D ^ { \prime } H } = \frac { 1 } { \sqrt { 5 } }

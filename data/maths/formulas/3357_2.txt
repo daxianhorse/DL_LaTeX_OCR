@@ -1,0 +1,1 @@
+\left\{ ( x , y ) \mid y = 3 ^ { 1 } \right\}

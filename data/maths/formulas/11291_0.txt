@@ -1,0 +1,1 @@
+\int _ { 0 } ^ { 1 } \left( a - x ^ { 2 } \right) \mathrm { d } x = \frac { 5 } { 3 }

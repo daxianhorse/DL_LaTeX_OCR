@@ -1,0 +1,1 @@
+\sqrt { x } ( x > 0 ) , g ( x ) = x + \mathrm { e } ^ { x } , h ( x ) = x + \ln x ( x > 0 )

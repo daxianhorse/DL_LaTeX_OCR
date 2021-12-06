@@ -1,0 +1,1 @@
+A \cdots ( x \cdot y ) \mid y \quad x + 1 , x \in \mathbf { R }

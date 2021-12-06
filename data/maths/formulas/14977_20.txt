@@ -1,0 +1,1 @@
+\ a n g l e M B A = \theta ( \theta \in ( 0 , \pi ) )

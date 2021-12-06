@@ -1,0 +1,1 @@
+( \sin \alpha - 1 ) ^ { 2 } + ( \cos \beta +

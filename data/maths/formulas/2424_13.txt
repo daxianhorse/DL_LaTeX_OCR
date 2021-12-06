@@ -1,0 +1,1 @@
+\geqslant \frac { | f ( - 1 ) | + | f ( 1 ) | } { 2 } \geqslant \frac { | f ( - 1 ) - f ( 1 ) | } { 2 }

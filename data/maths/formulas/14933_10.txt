@@ -1,0 +1,1 @@
+\Delta = ( 2 a ) ^ { 2 } - 4 \cdot 3 \cdot b = 4 a ^ { 2 } - 1 2 b > 0

@@ -1,0 +1,1 @@
+\{ ( x , y ) \mid x + y - 4 \leq s l a n t 0 , x \geqslant 0 , y \geqslant 0 \}

@@ -1,0 +1,1 @@
+f ( - \sqrt { 2 } ) < f ( \sqrt { 5 } ) < f ( \mathbf { e } )

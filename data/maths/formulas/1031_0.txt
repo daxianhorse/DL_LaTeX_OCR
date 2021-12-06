@@ -1,0 +1,1 @@
+v \in \mathbf { N } \mid y = -- x ^ { 2 } + 6 , x \in \mathbf { N }

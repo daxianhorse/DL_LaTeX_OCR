@@ -1,0 +1,1 @@
+g ( x ) = x \cdot \cos x - \sin x

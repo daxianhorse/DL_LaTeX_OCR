@@ -1,0 +1,1 @@
+\mathrm { i } , z _ { 2 } = \cos \alpha + i \sin \alpha

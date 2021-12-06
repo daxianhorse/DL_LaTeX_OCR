@@ -1,0 +1,1 @@
+S _ { k } = a _ { 1 } + a _ { 3 } + \cdots + a _ { 2 k \cdots 1 } = 0 + 4 + \cdots + 4 ( k - 1 ) = 2 k ( k - 1 ) , T _ { k } = a _ { 2 } + a _ { 1 } + \cdots +

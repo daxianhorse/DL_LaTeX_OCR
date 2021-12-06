@@ -1,0 +1,1 @@
+a _ { n + 1 } + x ( n + 1 ) + y = 2 \left( a _ { n } + x n + y \right)

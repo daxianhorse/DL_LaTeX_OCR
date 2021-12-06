@@ -1,0 +1,1 @@
+a = \frac { x ^ { 2 } } { \mathrm { e } ^ { x } }

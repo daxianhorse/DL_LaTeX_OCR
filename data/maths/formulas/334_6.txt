@@ -1,0 +1,1 @@
+\frac { c _ { 1 } } { a _ { 1 } } + \frac { c _ { 2 } } { a _ { 2 } } + \cdots + \frac { c _ { n } } { a _ { n } } = b _ { n + 1 }

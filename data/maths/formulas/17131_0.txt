@@ -1,0 +1,1 @@
+\lim _ { \Delta x \rightarrow 0 } \frac { f \left( x _ { 0 } + 3 \Delta x \right) - f \left( x _ { 0 } \right) } { 2 \Delta x }

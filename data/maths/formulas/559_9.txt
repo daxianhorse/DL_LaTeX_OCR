@@ -1,0 +1,1 @@
+\left( - \mathrm { e } ^ { - \frac { 1 } { 2 } } , - 4 \mathrm { e } ^ { - 2 } \right]

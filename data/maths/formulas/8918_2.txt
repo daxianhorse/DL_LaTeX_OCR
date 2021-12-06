@@ -1,0 +1,1 @@
+\sin \alpha - \cos \alpha = \frac { \sqrt { 5 } } { 5 } , \sin \left( \beta + \frac { \pi } { 4 } \right) = \frac { 4 } { 5 }

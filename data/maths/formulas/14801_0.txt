@@ -1,0 +1,1 @@
+C _ { 1 } : \frac { x } { a ^ { 2 } } + \frac { y } { b ^ { 2 } } = 1 ( a > b > 0 , x \geqslant 0 )

@@ -1,0 +1,1 @@
++ \o p e r a t o r n a m e { i s i n } 2 \theta \left( - \frac { \pi } { 2 } < \theta < \frac { \pi } { 2 } \right)

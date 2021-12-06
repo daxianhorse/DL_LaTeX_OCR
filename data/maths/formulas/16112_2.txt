@@ -1,0 +1,1 @@
+\text { ( 2 ) } \left( a + \frac { 1 } { a } \right) \left( b + \frac { 1 } { b } \right) \geqslant 4 ; \text { ( 3 ) } ( a + b ) \left( \frac { 1 } { a } + \frac { 1 } { b } \right) \geqslant 4 ;

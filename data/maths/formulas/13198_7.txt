@@ -1,0 +1,1 @@
+\left[ k \pi + \frac { \pi } { 6 } \cdot k \pi + \frac { 2 \pi } { 3 } \right] , k \in \ m a t h b b { Z }

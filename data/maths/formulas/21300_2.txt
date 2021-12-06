@@ -1,0 +1,1 @@
+c = \int _ { 1 } ^ { 2 } \log _ { 2 } x \mathrm { ~ d } x

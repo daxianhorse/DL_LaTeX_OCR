@@ -1,0 +1,1 @@
+a = ( 2 \sin x , - 1 ) , b = ( \sin x + \sqrt { 3 } \cos x , 1 )

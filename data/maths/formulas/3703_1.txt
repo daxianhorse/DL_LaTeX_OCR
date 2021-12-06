@@ -1,0 +1,1 @@
+b + c = 2 \o p e r a t o r n a m e { a c o s } B

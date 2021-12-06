@@ -1,0 +1,1 @@
+S _ { \triangle C A B } = \frac { 1 } { 2 } \left| x _ { 1 } y _ { 2 } - x _ { 2 } y _ { 1 } \right| = \frac { \sqrt { 3 } } { 2 } | \cos \alpha \sin \beta - \cos \beta \sin \alpha |

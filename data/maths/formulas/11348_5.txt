@@ -1,0 +1,1 @@
+\left[ \frac { 2 k \pi } { 3 } - \frac { 2 \pi } { 9 } , \frac { 2 k \pi } { 3 } + \frac { \pi } { 9 } \right] ( k \in \mathbf { Z } )

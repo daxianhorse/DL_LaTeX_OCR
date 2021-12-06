@@ -1,0 +1,1 @@
+\text { ( 2 ) } \frac { \sin ^ { 2 } A - \sin ^ { 2 } B } { \sin C } = \frac { \sqrt { 2 } a - c } { 2 }

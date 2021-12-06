@@ -1,0 +1,1 @@
+f ( x ) = x \mathrm { e } ^ { 2 x } + \ln t - a

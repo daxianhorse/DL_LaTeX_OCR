@@ -1,0 +1,1 @@
+\left\{ x \mid x \neq \frac { k \pi } { 2 } + \frac { \pi } { 6 } , k \in \ m a t h b b { Z } \right]

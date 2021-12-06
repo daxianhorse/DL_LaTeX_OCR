@@ -1,0 +1,1 @@
+f \left( 2 ^ { k + 1 } \right) = f \left( 2 ^ { k } \right) +

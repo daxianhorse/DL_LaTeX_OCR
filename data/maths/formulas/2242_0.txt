@@ -1,0 +1,1 @@
+f ( x ) = \left| x \mathrm { e } ^ { 2 } \right| , g ( x ) = x ^ { 2 } + m x

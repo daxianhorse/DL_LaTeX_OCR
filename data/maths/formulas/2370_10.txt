@@ -1,0 +1,1 @@
+\overrightarrow { O A } = \boldsymbol { a } \cdot \vec { O } \vec { B } = \boldsymbol { b } \cdot \overrightarrow { ( ) ( } = \boldsymbol { c } \cdot \overrightarrow { ( ) \vec { M } } = \frac { 1 } { 2 } ( \boldsymbol { a } + \boldsymbol { b } )

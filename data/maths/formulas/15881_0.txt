@@ -1,0 +1,1 @@
+\boldsymbol { a } = ( \sqrt { 3 } \cos x , 2 \sin x ) , \boldsymbol { b } = ( 2 \cos x , - \cos x )

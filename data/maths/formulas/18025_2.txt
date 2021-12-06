@@ -1,0 +1,1 @@
+| \overrightarrow { O A } + \overrightarrow { O B } | \geqslant \frac { \sqrt { 3 } } { 3 } | \overrightarrow { A B } |

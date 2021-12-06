@@ -1,0 +1,1 @@
+f ( x ) = \frac { a } { \mathrm { e } ^ { \mathrm { x } } } + \sin x

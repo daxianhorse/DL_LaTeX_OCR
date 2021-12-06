@@ -1,0 +1,1 @@
+\left\{ \frac { n } { 2 } \mid n \in \mathbf { Z } \right\}

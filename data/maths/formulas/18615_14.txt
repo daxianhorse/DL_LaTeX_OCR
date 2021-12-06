@@ -1,0 +1,1 @@
+\mathrm { e } ^ { \prime } \left( \ln x + \frac { 1 } { \mathrm { e } x } \right) + \frac { 1 } { x } \left( \mathrm { e } ^ { \prime \cdot 1 } - x \right) > 0

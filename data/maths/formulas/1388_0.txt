@@ -1,0 +1,1 @@
+\sin \alpha = \frac { 3 } { 5 } , \cos \beta = \frac { 3 } { 5 }

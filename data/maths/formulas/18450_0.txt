@@ -1,0 +1,1 @@
+\frac { A E } { E B } = \frac { A C } { B C } .

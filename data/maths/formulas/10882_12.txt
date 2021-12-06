@@ -1,0 +1,1 @@
+| F A | = | A C | = x _ { A } + \frac { p } { 2 } = | F A | \cos \alpha + \frac { p } { 2 } + \frac { p } { 2 }

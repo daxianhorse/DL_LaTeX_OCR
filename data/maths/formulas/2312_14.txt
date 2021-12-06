@@ -1,0 +1,1 @@
+u ^ { \prime } = 8 t - \frac { 3 2 } { t ^ { 3 } } + \frac { 2 4 } { t ^ { 2 } } = \frac { 8 ( t - 1 ) \left[ ( t + 1 ) \left( t ^ { 2 } + 1 \right) + 3 \right] } { t ^ { 3 } }

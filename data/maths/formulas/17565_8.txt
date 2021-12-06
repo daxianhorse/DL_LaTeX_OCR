@@ -1,0 +1,1 @@
+a _ { n } = f \left( \frac { n } { m } \right) \left( m \in \mathbf { N } ^ { * } \right.

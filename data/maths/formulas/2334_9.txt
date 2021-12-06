@@ -1,0 +1,1 @@
+O M = \frac { ( ) P \sin \frac { \pi } { 4 } } { \sin \left( \theta + \frac { \pi } { 4 } \right) } = \frac { 2 } { \sin \left( \theta + \frac { \pi } { 4 } \right) }

@@ -1,0 +1,1 @@
+S = \frac { 1 } { 2 } \cdot | M N | \cdot | P Q | = \frac { 2 4 } { \sqrt { 4 - \cos ^ { 2 } \theta } }

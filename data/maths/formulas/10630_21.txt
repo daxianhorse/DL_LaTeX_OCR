@@ -1,0 +1,1 @@
+\left| a _ { 2 n } - a _ { 2 n - 1 } \right| = \frac { 1 } { 2 ^ { 2 n - 1 } } , \left| a _ { 2 n - 1 } - a _ { 2 n - 2 } \right| = \frac { 1 } { 2 ^ { 2 n - 2 } } ,

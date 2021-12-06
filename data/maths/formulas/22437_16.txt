@@ -1,0 +1,1 @@
+f ^ { \prime } ( x ) = 0 , \Delta \leq s l a n t 0

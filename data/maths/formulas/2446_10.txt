@@ -1,0 +1,1 @@
+a _ { n } = S _ { n } - S _ { n - 1 } = \frac { \left( a _ { n } + 1 \right) ^ { 2 } } { 4 } - \frac { \left( a _ { n - 1 } + 1 \right) ^ { 2 } } { 4 }

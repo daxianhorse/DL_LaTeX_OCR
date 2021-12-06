@@ -1,0 +1,1 @@
+\lim _ { n \rightarrow \cdots } a _ { n } = x _ { 0 }

@@ -1,0 +1,1 @@
+N ( \cos \theta , \sin \theta )

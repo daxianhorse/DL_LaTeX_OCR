@@ -1,0 +1,1 @@
+f ( x ) \geqslant h ( x ) \geqslant g ( x )

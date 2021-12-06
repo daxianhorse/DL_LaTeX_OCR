@@ -1,0 +1,1 @@
+\left\{ x \mid x < - 2 \text { i n } x > - \frac { 1 } { 2 } \right\}

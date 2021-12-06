@@ -1,0 +1,1 @@
+f ( b ) \leq s l a n t M \left( c ^ { 2 } - b ^ { 2 } \right)

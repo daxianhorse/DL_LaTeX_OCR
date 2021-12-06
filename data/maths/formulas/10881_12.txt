@@ -1,0 +1,1 @@
+y - \frac { k ^ { 2 } } { 8 } = m \left( x - \frac { k } { 4 } \right)

@@ -1,0 +1,1 @@
+\overrightarrow { ( ) B } \cdot \overrightarrow { ( x ) } = \overrightarrow { ( x } \cdot \overrightarrow { ( ) A }

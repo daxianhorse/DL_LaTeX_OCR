@@ -1,0 +1,1 @@
+\overrightarrow { A H } = \frac { 1 } { 2 } \overrightarrow { A C }

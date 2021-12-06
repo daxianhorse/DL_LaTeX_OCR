@@ -1,0 +1,1 @@
+g ( x ) _ { \max } + g ( x ) _ { \min } = 0 , f ( x ) _ { \max } + f ( x ) _ { \min } = 2

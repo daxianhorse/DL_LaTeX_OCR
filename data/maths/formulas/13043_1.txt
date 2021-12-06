@@ -1,0 +1,1 @@
+\l g \left( \cos x \tan x + 1 - 2 \sin ^ { 2 } \frac { x } { 2 } \right) +

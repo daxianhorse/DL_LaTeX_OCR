@@ -1,0 +1,1 @@
+1 \boldsymbol { a } \otimes \boldsymbol { b } = \boldsymbol { b } \otimes \boldsymbol { a }

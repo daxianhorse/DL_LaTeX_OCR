@@ -1,0 +1,1 @@
+E ( X ) = \sum _ { k = n } ^ { m + n } \left( \frac { 1 } { k } \cdot \frac { C _ { k - 1 } ^ { n - 1 } } { C _ { m + n } ^ { n } } \right)

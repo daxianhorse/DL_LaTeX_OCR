@@ -1,0 +1,1 @@
+B = \left\{ x \in \mathbf { R } \mid ( x - 2 a ) \cdot \left( x - a ^ { 2 } - 1 \right) < 0 \right\}

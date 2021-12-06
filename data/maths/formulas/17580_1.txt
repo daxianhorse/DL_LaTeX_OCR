@@ -1,0 +1,1 @@
+a \ln x \leq s l a n t b ( x - 1 )

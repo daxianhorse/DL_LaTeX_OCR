@@ -1,0 +1,1 @@
+\frac { 1 } { m _ { n } ( x ) } \leq s l a n t \frac { 1 } { 2 ^ { n } - 2 } ( n \geqslant 2 )

@@ -1,0 +1,1 @@
+\overrightarrow { A P } = \alpha \overrightarrow { \Lambda B } + \beta \overrightarrow { \Lambda C ^ { \prime } } ( \alpha , \beta \in \mathbf { R } )

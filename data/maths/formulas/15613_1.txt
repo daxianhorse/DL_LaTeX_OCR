@@ -1,0 +1,1 @@
+E _ { \mathrm { k } } = \frac { 1 } { 2 } m v ^ { 2 }

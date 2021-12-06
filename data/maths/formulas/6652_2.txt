@@ -1,0 +1,1 @@
+f \left( a \sqrt { x ^ { 2 } + 4 } \right) +

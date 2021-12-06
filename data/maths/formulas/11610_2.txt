@@ -1,0 +1,1 @@
+f ( \sqrt { a b } ) , q = f \left( \frac { a + b } { 2 } \right) , r = \frac { 1 } { 2 } ( f ( a ) + f ( b ) )

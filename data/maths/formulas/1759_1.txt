@@ -1,0 +1,1 @@
+F _ { 1 } ( \cdots ( - , ) ) \cdot F _ { \ddots } ( c , 0 )

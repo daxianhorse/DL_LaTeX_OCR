@@ -1,0 +1,1 @@
+| P A | + | P B | = \left| P A ^ { \prime } \right| + | P B | \geqslant \left| A ^ { \prime } B \right| = \sqrt { 2 6 }

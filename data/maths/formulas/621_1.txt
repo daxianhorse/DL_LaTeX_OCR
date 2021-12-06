@@ -1,0 +1,1 @@
+\mathrm { A } \left( 6 , \mathrm { y } _ { 0 } \right)

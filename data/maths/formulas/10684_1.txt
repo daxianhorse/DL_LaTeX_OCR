@@ -1,0 +1,1 @@
+\left| \sum _ { k = 1 } ^ { n } f ( k ) - n \right|

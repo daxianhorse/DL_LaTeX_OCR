@@ -1,0 +1,1 @@
+\left[ - 2 e ^ { \frac { 3 } { 4 } } , 0 \right)

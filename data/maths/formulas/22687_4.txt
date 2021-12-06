@@ -1,0 +1,1 @@
+x + \sin x - a x \cos x \geqslant 0

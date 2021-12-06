@@ -1,0 +1,1 @@
+T = \int _ { 0 } ^ { n } \sin 2 x \mathrm { ~ d } x

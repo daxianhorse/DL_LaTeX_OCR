@@ -1,0 +1,1 @@
+S _ { N } = 1 + ( 1 + 2 ) + \cdots + \left( 1 + 2 + \cdots + 2 ^ { n - 1 } \right) + \left( 1 + 2 + \cdots + 2 ^ { k - 1 } \right)

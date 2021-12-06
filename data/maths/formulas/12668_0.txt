@@ -1,0 +1,1 @@
+a = \log _ { 3 } \pi , b = \log _ { 2 } \sqrt { 3 } , c = \log _ { 3 } \sqrt { 2 }

@@ -1,0 +1,1 @@
+\frac { \ln m } { \ln n } = - 2 \ln 2

@@ -1,0 +1,1 @@
+x _ { 1 } , x _ { 2 } \in \left( 0 , \frac { \sqrt { 3 } } { 3 } \right)

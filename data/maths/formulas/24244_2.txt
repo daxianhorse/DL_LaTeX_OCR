@@ -1,0 +1,1 @@
+4 S _ { \mathrm { n } } = a _ { \mathrm { n } } ^ { 2 } + 2 a _ { \mathrm { n } }

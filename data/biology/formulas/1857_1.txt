@@ -1,0 +1,1 @@
+D = 1 - \sum _ { i = 1 } ^ { \dot { \sum } } \left( n _ { i } / N \right) ^ { 2 }

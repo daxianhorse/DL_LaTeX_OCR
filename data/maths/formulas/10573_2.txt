@@ -1,0 +1,1 @@
+a _ { n } = - 2 \left( n - \frac { 1 } { 2 } \right) + \frac { 1 } { 2 } , n \in \mathbf { N } ^ { * }

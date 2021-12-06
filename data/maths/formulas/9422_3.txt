@@ -1,0 +1,1 @@
+a _ { n } = \log _ { b } c _ { n } ( n \geqslant 2 )

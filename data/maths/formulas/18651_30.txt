@@ -1,0 +1,1 @@
+f ( x ) - \left( \frac { \ln x } { x - 1 } + \frac { k } { x } \right) > 0

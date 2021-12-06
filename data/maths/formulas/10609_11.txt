@@ -1,0 +1,1 @@
+\frac { c + \sqrt { c ^ { 2 } - 4 } } { 2 } \leq s l a n t 3 \Rightarrow c \in \left( 2 , \frac { 1 0 } { 3 } \right]

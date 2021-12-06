@@ -1,0 +1,1 @@
+\text { D . } \overrightarrow { A I } = \frac { 4 } { 3 } \overrightarrow { A B } - \frac { 1 } { 3 } \overrightarrow { A C }

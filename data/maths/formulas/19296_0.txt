@@ -1,0 +1,1 @@
+f ( x ) = \frac { 3 \mathrm { e } ^ { | x - 1 | } - \sin ( x - 1 ) } { \mathrm { e } ^ { | x - 1 | } }

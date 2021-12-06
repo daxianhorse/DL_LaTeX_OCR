@@ -1,0 +1,1 @@
+\left| f ^ { \prime } ( x ) \right| \leq s l a n t 1 + \alpha \leq s l a n t 2 - 4 \alpha < 2 ( 2 - 3 \alpha ) = 2 A

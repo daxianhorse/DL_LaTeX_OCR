@@ -1,0 +1,1 @@
+\text { ( 1 ) } \{ x \mid a - 1 \leq s l a n t x \leq s l a n t a \} \text { , ( 2 ) } \{ x \mid a \leq s l a n t x \leq s l a n t a + 2 \} \text { , ( 3 ) } \{ x \mid

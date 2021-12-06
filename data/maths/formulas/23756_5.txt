@@ -1,0 +1,1 @@
+f ( x ) = 2 \sqrt { 3 } \sin \omega x \cos \omega x + 2 \sin ^ { 2 } \omega x + \cos 2 \omega x - 1 \quad ( \omega > 0 )

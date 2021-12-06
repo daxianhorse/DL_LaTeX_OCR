@@ -1,0 +1,1 @@
+\sqrt { A M ^ { 2 } + A N ^ { 2 } - 2 A M \cdot A N \cos 1 2 0 ^ { \circ } } = \sqrt { 1 ^ { 2 } + ( \sqrt { 3 } ) ^ { 2 } + 2 \times 1 \times \sqrt { 3 } \times \frac { 1 } { 2 } } = \sqrt { 4 + \sqrt { 3 } }

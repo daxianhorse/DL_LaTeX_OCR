@@ -1,0 +1,1 @@
+A \left( 2 t , \frac { 4 } { t } \right) , B ( 0 , 3 )

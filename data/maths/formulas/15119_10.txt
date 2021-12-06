@@ -1,0 +1,1 @@
+2 c = \left| F _ { 1 } F _ { 2 } \right| = \sqrt { \left| P F _ { 1 } \right| ^ { 2 } + \left| P F _ { 2 } \right| ^ { 2 } } = \sqrt { ( 2 + \sqrt { 2 } ) ^ { 2 } + ( 2 - \sqrt { 2 } ) ^ { 2 } } = 2 \sqrt { 3 }

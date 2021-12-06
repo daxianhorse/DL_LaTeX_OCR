@@ -1,0 +1,1 @@
+3 ^ { a _ { 2 } } \ldots . . 3 ^ { a _ { 0 } } = \left( \frac { 1 } { 3 } \right) ^ { \frac { n _ { n } , \mathrm { x } _ { n } } { 2 } } \left( n \in \mathbf { N } ^ { * } \right)

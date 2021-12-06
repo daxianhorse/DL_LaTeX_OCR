@@ -1,0 +1,1 @@
+y - y _ { 1 } = k \left( x - x _ { 1 } \right)

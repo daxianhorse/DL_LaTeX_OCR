@@ -1,0 +1,1 @@
+2 S _ { \triangle A B M } = 3 S _ { \triangle A M C }

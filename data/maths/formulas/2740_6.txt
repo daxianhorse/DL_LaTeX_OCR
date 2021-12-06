@@ -1,0 +1,1 @@
+g _ { 8 } \left( x _ { 0 } \right) \geqslant g _ { t } \left( x _ { 0 } \right)

@@ -1,0 +1,1 @@
+f ( x ) = \sin ^ { \prime } x + \cos ^ { \prime } x

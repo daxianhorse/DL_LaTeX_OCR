@@ -1,0 +1,1 @@
+\sqrt { \frac { 1 - \cos 2 x } { 2 } } = \sin x

@@ -1,0 +1,1 @@
+\text { C . } \boldsymbol { e } _ { 1 } = ( 3 , 5 ) , \boldsymbol { e } _ { 2 } = ( 6 , 1 0 )

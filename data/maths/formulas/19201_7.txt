@@ -1,0 +1,1 @@
+( m \geqslant 3 , n \geqslant 3 )

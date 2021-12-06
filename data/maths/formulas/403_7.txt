@@ -1,0 +1,1 @@
+b _ { n } = \frac { 1 } { \left( 7 - a _ { n } \right) \left( 9 - a _ { n } \right) }

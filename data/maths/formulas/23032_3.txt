@@ -1,0 +1,1 @@
+\sqrt { 3 } b \cos C = \sqrt { 3 } a + c \sin B

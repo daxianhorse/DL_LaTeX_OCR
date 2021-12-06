@@ -1,0 +1,1 @@
+\text { ( 1 ) } \left\{ \frac { n + 1 } { b _ { n } } \right\} \text { , ( 2 ) } \left\{ n + b _ { n } \right\} \text { , ( 3 ) } \left\{ \frac { 4 } { \log _ { 2 } b _ { n } \cdot \log _ { 2 } b _ { n + 1 } } \right\}

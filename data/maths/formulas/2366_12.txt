@@ -1,0 +1,1 @@
+\overrightarrow { \Lambda I } = \frac { r } { \sin A } \left( \frac { \overrightarrow { \Lambda B } } { c } + \frac { \overrightarrow { \Lambda C } } { b } \right) = \frac { b c } { a + b + c } \left( \frac { \overrightarrow { A B } } { c } + \frac { \overrightarrow { A C } } { b } \right)

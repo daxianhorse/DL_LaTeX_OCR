@@ -1,0 +1,1 @@
+\frac { \left( x e ^ { x } + 1 \right) f ( x ) } { e + 1 } \geqslant 0 ^ { \prime } 1

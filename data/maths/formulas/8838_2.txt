@@ -1,0 +1,1 @@
+| \overrightarrow { B A } - t \overrightarrow { B C } | \geqslant | \overrightarrow { A C } |

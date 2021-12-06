@@ -1,0 +1,1 @@
+y = \frac { c } { a + b } + \frac { b + c } { c } - 1 \geqslant \frac { c } { a + b } + \frac { b + c + a } { 2 c } - 1 =

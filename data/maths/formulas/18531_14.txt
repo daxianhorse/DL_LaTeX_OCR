@@ -1,0 +1,1 @@
+M F | = | M M _ { 1 } \mid = \frac { \left| N N _ { 1 } \right| + \left| F F _ { 1 } \right| } { 2 } = \frac { 2 + 4 } { 2 } = 3

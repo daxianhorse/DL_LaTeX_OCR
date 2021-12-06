@@ -1,0 +1,1 @@
+y = x ^ { m ^ { 2 } - 2 m - 3 } \left( m \in \mathbf { N } ^ { * } \right)

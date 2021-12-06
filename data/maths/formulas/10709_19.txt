@@ -1,0 +1,1 @@
+\frac { 1 } { a _ { k } ^ { 3 } } = \frac { 1 } { 2 \sqrt { 2 } \cdot \sqrt { k ^ { 3 } } }

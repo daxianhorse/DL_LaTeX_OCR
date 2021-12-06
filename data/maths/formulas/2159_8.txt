@@ -1,0 +1,1 @@
+x \in \{ x \mid x \in A

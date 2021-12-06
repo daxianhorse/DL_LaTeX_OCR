@@ -1,0 +1,1 @@
+P \left( x _ { 1 } < 3 \right) = P \left( x _ { 2 } \geqslant a \right)

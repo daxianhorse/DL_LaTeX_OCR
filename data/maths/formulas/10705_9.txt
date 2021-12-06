@@ -1,0 +1,1 @@
+S _ { n } = c _ { 1 } + c _ { 2 } + \cdots + c _ { n } \geqslant 1 7 n

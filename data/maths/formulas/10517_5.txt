@@ -1,0 +1,1 @@
+b _ { n } = \frac { 1 } { \log _ { \frac { 1 } { 2 } } a _ { n } } = \frac { 1 } { n } , c _ { n } = \frac { \sqrt { b _ { n } b _ { n + 1 } } } { \sqrt { n + 1 } + \sqrt { n } } = \frac { \sqrt { n + 1 } - \sqrt { n } } { \sqrt { n + 1 } \cdot \sqrt { n } } = \frac { 1 } { \sqrt { n } } - \frac { 1 } { \sqrt { n + 1 } }

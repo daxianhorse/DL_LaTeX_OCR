@@ -1,0 +1,1 @@
+y = \sin 3 x + \cos 3 x

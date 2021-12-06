@@ -1,0 +1,1 @@
+\left| f ( \sin x ) - f _ { 0 } ( \sin x ) \right| = \left| \left( a _ { 1 0 } - a \right) t + b - b _ { 1 1 } \right|

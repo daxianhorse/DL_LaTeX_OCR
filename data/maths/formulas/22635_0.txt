@@ -1,0 +1,1 @@
+f ( x ) = \left( x ^ { 2 } + b x + b \right) \sqrt { 1 - 2 x } ( b \in \mathbf { R } )

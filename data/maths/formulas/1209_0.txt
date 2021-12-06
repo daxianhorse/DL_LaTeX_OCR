@@ -1,0 +1,1 @@
+f ( x ) = x ^ { n \cdot 1 } \left( n \in \mathbf { N } ^ { \prime } \right)

@@ -1,0 +1,1 @@
+S _ { n } = \ln \frac { \mathrm { e } ^ { n } } { n ! }

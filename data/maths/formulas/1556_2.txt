@@ -1,0 +1,1 @@
+z = a \cdot x + b y

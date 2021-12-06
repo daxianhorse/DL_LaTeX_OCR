@@ -1,0 +1,1 @@
+| A C | = \frac { 2 a b ^ { 2 } } { a ^ { 2 } - c ^ { 2 } \cos ^ { 2 } \theta } = \frac { 4 \sqrt { 3 } } { 3 - \cos ^ { 2 } \theta }

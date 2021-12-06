@@ -1,0 +1,1 @@
+\overrightarrow { A B } , \overrightarrow { F _ { 1 } B } \cdot \overrightarrow { F _ { 2 } B } = 0

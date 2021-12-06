@@ -1,0 +1,1 @@
+\frac { S } { S _ { \ldots , M } } = \frac { P \Lambda ^ { \prime } \cdot I B ^ { \prime } } { P \Lambda \cdot I ^ { \prime } B }

@@ -1,0 +1,1 @@
+S _ { \triangle A B C } = \frac { 1 } { 2 } \sqrt { - 9 \left( x ^ { 2 } - \frac { 5 } { 9 } l ^ { 2 } \right) ^ { 2 } + \frac { 1 6 } { 9 } l ^ { 1 } } \leq s l a n t \frac { 2 } { 3 } l ^ { 2 }

@@ -1,0 +1,1 @@
+\vec { y } = \hat { b } \vec { x } + \hat { a }

@@ -1,0 +1,1 @@
+a _ { 1 } + a _ { 2 } + a _ { 3 } = 2 7 \Rightarrow 3 a _ { 2 } = 2 7 \Rightarrow a _ { 2 } = 9

@@ -1,0 +1,1 @@
+\mathrm { e } ^ { x _ { 1 } } = a \left( x _ { 1 } - 1 \right) > 0

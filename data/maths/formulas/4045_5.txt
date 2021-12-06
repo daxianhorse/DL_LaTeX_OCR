@@ -1,0 +1,1 @@
+P A = P D = A B = D C

@@ -1,0 +1,1 @@
+\frac { b - \cos A } { \sin C } = \frac { \sqrt { 3 } } { 3 } a

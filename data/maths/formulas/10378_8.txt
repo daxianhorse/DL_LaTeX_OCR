@@ -1,0 +1,1 @@
+| F P | = \frac { 4 } { 1 - \cos ^ { 2 } \alpha }

@@ -1,0 +1,1 @@
+B = \left\{ \left( x _ { 1 } + x _ { 2 } , y _ { 1 } + y _ { 2 } \right) \mid \left( x _ { 1 } , y _ { 1 } \right) \in A , \left( x _ { 2 } , y _ { 2 } \right) \in B \right\}

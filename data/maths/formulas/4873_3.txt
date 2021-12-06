@@ -1,0 +1,1 @@
+\left( a \mathrm { e } ^ { x } + b \right) \cdot ( x - 2 )

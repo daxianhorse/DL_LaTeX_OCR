@@ -1,0 +1,1 @@
+x _ { n } = \frac { x _ { n } } { x _ { n - 1 } } \cdot \frac { x _ { n - 1 } } { x _ { n - 2 } } \cdot \cdots \cdot \frac { x _ { 2 } } { x _ { 1 } } \geqslant \left( \frac { 1 } { 2 } \right) ^ { n - 1 }

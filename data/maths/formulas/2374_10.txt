@@ -1,0 +1,1 @@
+2 \boldsymbol { a } ^ { 2 } - 4 m \boldsymbol { a } \cdot \boldsymbol { b } + m ^ { 2 } \boldsymbol { b } ^ { 2 } = 0 ,

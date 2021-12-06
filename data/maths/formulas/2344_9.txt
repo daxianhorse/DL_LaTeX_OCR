@@ -1,0 +1,1 @@
+\frac { B D } { C D } = \frac { A B } { A C } = 2

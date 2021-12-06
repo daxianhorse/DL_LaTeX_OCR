@@ -1,0 +1,1 @@
+\text { D . } ( \boldsymbol { a } + \boldsymbol { b } ) ( \boldsymbol { a } - \boldsymbol { b } ) = \boldsymbol { a } ^ { 2 } - \boldsymbol { b } ^ { 2 }

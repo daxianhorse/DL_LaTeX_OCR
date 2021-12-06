@@ -1,0 +1,1 @@
+\left\{ \theta \mid \theta = 2 k \pi \pm \frac { \pi } { 2 } , k \in \ m a t h b b { Z } \right\}

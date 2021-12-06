@@ -1,0 +1,1 @@
+\mathrm { M } _ { \mathrm { a } } = \mathrm { M } _ { \mathrm { b } } > \mathrm { M } _ { \mathrm { A } } > \mathrm { M } _ { \mathrm { B } }

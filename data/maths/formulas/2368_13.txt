@@ -1,0 +1,1 @@
+( x + y - 1 ) ^ { 2 } = \frac { x ^ { 2 } } { 1 6 } + \frac { y ^ { 2 } } { a } \geqslant

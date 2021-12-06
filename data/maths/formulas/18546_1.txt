@@ -1,0 +1,1 @@
+2 x + a \left( \mathrm { e } ^ { r \cdot 1 } + \mathrm { e } ^ { - x \cdot 1 } \right)

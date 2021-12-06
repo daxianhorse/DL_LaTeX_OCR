@@ -1,0 +1,1 @@
+f \left( \ln \left( 2 e ^ { 4 } \right) \right) =

@@ -1,0 +1,1 @@
+\left( x _ { i } - 1 \right) \left( x _ { i } - 2 \right) \leq s l a n t 0

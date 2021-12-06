@@ -1,0 +1,1 @@
+y = \tan \left( 2 x - \frac { \pi } { 1 } \right)

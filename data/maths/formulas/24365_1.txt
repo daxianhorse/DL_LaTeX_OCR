@@ -1,0 +1,1 @@
+b \cos C - \frac { 1 } { 4 } c \cdot \overrightarrow { B A } \cdot \overrightarrow { B C } = - 2

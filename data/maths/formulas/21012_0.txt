@@ -1,0 +1,1 @@
+p : \forall x \in \mathbf { R } _ { + } , \l g x \geqslant 0 ; q : \ e x i s t s x _ { 0 } \in \mathbf { R } , \sin x _ { 0 } = \cos x _ { 0 }

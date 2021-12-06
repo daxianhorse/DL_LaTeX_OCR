@@ -1,0 +1,1 @@
+f ^ { \prime } ( x ) = 4 ( x - 1 ) \left( 3 a x ^ { 2 } + 3 a x - 1 \right)

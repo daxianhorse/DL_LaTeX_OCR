@@ -1,0 +1,1 @@
+\sum _ { i = 1 } ^ { 6 } \left( w _ { 1 } - \bar { w } \right) ^ { 2 }

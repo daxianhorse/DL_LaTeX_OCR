@@ -1,0 +1,1 @@
+\frac { S _ { 2 n - 1 } } { T _ { 2 n - 1 } } = \frac { 2 n - 1 } { 4 n - 1 } = \frac { \ln a _ { n } } { \ln b _ { n } }

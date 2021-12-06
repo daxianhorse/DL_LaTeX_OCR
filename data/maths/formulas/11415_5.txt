@@ -1,0 +1,1 @@
+\overrightarrow { B E } = - \overrightarrow { A C } + \frac { 3 } { 2 } \overrightarrow { A B }

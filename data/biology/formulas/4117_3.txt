@@ -1,0 +1,1 @@
+\mathbf { X } ^ { \mathbf { B } }

@@ -1,0 +1,1 @@
+\mathrm { S } = 3 \mathrm { i } + \mathrm { S }

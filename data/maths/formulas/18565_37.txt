@@ -1,0 +1,1 @@
+\frac { \pi } { 4 } - \left( - \frac { \pi } { 4 } \right) = \left( \frac { k } { 2 } + \frac { 1 } { 4 } \right) T = \left( \frac { k } { 2 } + \frac { 1 } { 4 } \right) \cdot \frac { 2 \pi } { \omega } ( k \in \boldsymbol { Z } )

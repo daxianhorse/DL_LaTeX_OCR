@@ -1,0 +1,1 @@
+\Delta y = y - \hat { y }

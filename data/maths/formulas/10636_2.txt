@@ -1,0 +1,1 @@
+\cos \frac { ( 4 k - 2 ) \pi } { 2 } + 1 + ( 4 k - 1 ) \cos \frac { ( 4 k - 1 ) \pi } { 2 } + 4 k \cdot \cos \frac { 4 k \pi } { 2 } + 1 = 6

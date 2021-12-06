@@ -1,0 +1,1 @@
+\frac { ( n - m ) \mathrm { A } _ { m } ^ { 2 } } { \mathrm { ~ A } _ { n } ^ { 3 } }

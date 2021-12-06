@@ -1,0 +1,1 @@
+f ( x ) = \frac { e ^ { \prime } } { x } - 2 l \left( \ln x + x + \frac { 2 } { x } \right)

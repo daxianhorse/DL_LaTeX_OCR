@@ -1,0 +1,1 @@
+c = \sqrt { 6 } + \sqrt { 2 } , C = 3 0 ^ { \circ }

@@ -1,0 +1,1 @@
+\Delta = \left( 2 k _ { n } ^ { 2 } - 2 n \right) ^ { 2 } - 4 \left( 1 + k _ { n } ^ { 2 } \right) k _ { n } ^ { 2 } = 0 \Rightarrow k _ { n } = \frac { n } { \sqrt { 2 n + 1 } }

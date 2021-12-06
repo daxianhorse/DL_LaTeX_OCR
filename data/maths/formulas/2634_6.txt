@@ -1,0 +1,1 @@
+d _ { 2 } = a b \sqrt { \frac { 1 + \tan ^ { 2 } \beta } { b ^ { 2 } + a ^ { 2 } \tan ^ { 2 } \beta } }

@@ -1,0 +1,1 @@
+\frac { \overrightarrow { A Q } \cdot \overrightarrow { P B } } { | \overrightarrow { A Q } | | \overrightarrow { P B } | } = \frac { \sqrt { 3 } } { 9 }

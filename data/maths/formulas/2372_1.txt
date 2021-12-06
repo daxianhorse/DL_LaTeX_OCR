@@ -1,0 +1,1 @@
+2 \overrightarrow { C B } , \frac { \overrightarrow { M A } \cdot \overrightarrow { M C } } { | \overrightarrow { M A } | } = \frac { \overrightarrow { M B } \cdot \overrightarrow { M C } } { | \overrightarrow { M B } | }

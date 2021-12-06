@@ -1,0 +1,1 @@
+\log _ { m } \left( m \cdot x ^ { 3 } - x + \frac { 1 } { 2 } \right) > 0

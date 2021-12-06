@@ -1,0 +1,1 @@
+a _ { n } \left( m \in \mathbf { N } ^ { * } , n \in \mathbf { N } ^ { * } , m < n \right)

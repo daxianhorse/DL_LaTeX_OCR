@@ -1,0 +1,1 @@
+\text { A . } \overrightarrow { A I } = - \frac { 1 } { 3 } \overline { A B } + \cdots \frac { 4 } { 3 } \overrightarrow { A C }

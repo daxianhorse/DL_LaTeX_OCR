@@ -1,0 +1,1 @@
+\frac { 2 \left( x _ { 2 } - x _ { 1 } \right) } { x _ { 1 } + x _ { 2 } } = \frac { a } { 2 } \left( x _ { 2 } ^ { 2 } - x _ { 1 } ^ { 2 } \right) + b \left( x _ { 2 } - x _ { 1 } \right) = \left( \frac { a } { 2 } x _ { 2 } ^ { 2 } + b x _ { 2 } \right) - \left( \frac { a } { 2 } x _ { 1 } ^ { 2 } + b x _ { 1 } \right) = \ln x _ { 2 } - \ln x _ { 1 }

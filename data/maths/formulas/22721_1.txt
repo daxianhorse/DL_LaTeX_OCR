@@ -1,0 +1,1 @@
+f ( x ) = ( x + 1 ) \ln ( x + 1 ) + m \left( x ^ { 2 } + 2 x \right) \leq s l a n t 0

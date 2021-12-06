@@ -1,0 +1,1 @@
+2 \leq s l a n t \int _ { - 1 } ^ { 1 } \sqrt { 1 + x ^ { 4 } } \mathrm { ~ d } x \leq s l a n t \frac { 8 } { 3 }

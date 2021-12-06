@@ -1,0 +1,1 @@
+\left. D = \langle x | x = \frac { n - 1 } { n } , n \in \mathbf { N } ^ { * } \right\}

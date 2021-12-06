@@ -1,0 +1,1 @@
+f ( x ) _ { \min } = f ( 1 ) = 1 , g ( x ) = \frac { \ln x } { x } , g ^ { \prime } ( x ) = \frac { 1 - \ln x } { x ^ { 2 } } \geqslant 0

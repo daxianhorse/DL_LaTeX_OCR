@@ -1,0 +1,1 @@
+l _ { 2 } : \theta = \alpha + \frac { \pi } { 6 }

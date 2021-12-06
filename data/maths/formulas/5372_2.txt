@@ -1,0 +1,1 @@
+a _ { n } = \log _ { 2 } \frac { n + 1 } { n + 2 } \left( n \in N ^ { * } \right)

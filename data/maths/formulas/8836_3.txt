@@ -1,0 +1,1 @@
+( \overrightarrow { C A } \cdot \overrightarrow { A B } ) : ( \overrightarrow { A B } \cdot \overrightarrow { B C } ) = 1 : 2 : 3

@@ -1,0 +1,1 @@
+u = \frac { b ^ { 2 } + 2 } { a + b } + \frac { a ^ { 2 } } { a b + 1 } \geqslant 2

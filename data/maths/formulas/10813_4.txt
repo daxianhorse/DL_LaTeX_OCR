@@ -1,0 +1,1 @@
+4 ^ { 2 } = 2 p \times 4 \Rightarrow p = 2

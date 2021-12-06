@@ -1,0 +1,1 @@
+a _ { n } ^ { 2 } \cdot a _ { n + 1 } ^ { 2 } = \left( \frac { 1 } { \sqrt { 4 n - 3 } } \right) ^ { 2 } \left( \frac { 1 } { \sqrt { 4 n + 1 } } \right) ^ { 2 } = \frac { 1 } { 4 } \left( \frac { 1 } { 4 n - 3 } - \frac { 1 } { 4 n + 1 } \right)

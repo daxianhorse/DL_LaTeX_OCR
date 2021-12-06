@@ -1,0 +1,1 @@
+y = k x + b ( k , b \in \mathbf { R } )

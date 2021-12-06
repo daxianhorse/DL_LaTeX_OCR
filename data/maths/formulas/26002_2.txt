@@ -1,0 +1,1 @@
+a _ { n + 1 } \geqslant t a _ { n } - 1

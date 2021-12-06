@@ -1,0 +1,1 @@
+\overrightarrow { P F } _ { 1 } \cdot \overrightarrow { P F _ { 2 } } = 0 , \left| P F _ { 1 } \right| \left| P F _ { 2 } \right| = a ^ { 2 }

@@ -1,0 +1,1 @@
+\frac { 1 } { 2 } \left( \mathrm { e } ^ { \prime } - \mathrm { e } ^ { \prime } \right)

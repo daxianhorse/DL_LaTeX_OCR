@@ -1,0 +1,1 @@
+a \cdot b = b \cdot c = c \cdot a = \frac { 1 } { 2 }

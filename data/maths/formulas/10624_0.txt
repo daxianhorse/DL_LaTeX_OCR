@@ -1,0 +1,1 @@
+a _ { n } = b _ { n } \cdot b _ { n ; 2 } = \frac { 3 } { n + 2 } \cdot \frac { 3 } { n + 4 } = \frac { 9 } { 2 } \left( \frac { 1 } { n + 2 } - \frac { 1 } { n + 4 } \right)

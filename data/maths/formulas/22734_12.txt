@@ -1,0 +1,1 @@
+g ( x ) = x - \frac { 2 \mathrm { e } } { \sqrt { \ln x } }

@@ -1,0 +1,1 @@
+f ( x ) = \l g \frac { 8 ^ { x } + 4 ^ { x } + a \cdot 2 ^ { x } } { 2 ^ { x } } = \l g \left( 4 ^ { x } + 2 ^ { x } + a \right)

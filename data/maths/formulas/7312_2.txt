@@ -1,0 +1,1 @@
+\overrightarrow { A B } \cdot \overrightarrow { B D } = \overrightarrow { B D } \cdot \overrightarrow { D C } = 0

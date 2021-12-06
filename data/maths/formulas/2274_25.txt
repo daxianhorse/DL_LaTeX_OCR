@@ -1,0 +1,1 @@
+\varphi \left( \frac { 1 } { 2 } \right) = 8 ( \sqrt { \mathrm { e } } - 1 ) < 6

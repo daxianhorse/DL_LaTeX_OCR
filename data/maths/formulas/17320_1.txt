@@ -1,0 +1,1 @@
+\cos \left( \beta - \frac { \pi } { 4 } \right) = \frac { 3 } { 5 } , \beta \in \left( \frac { \pi } { 2 } , \pi \right)

@@ -1,0 +1,1 @@
+x _ { 1 } = \min \left\{ 1 + \sqrt { \frac { 1 } { a } } \cdot \frac { 3 } { 2 } \right\}

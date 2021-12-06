@@ -1,0 +1,1 @@
+\frac { 1 } { a ^ { 2 } } + \frac { 4 } { b ^ { 2 } } \geqslant | 2 x - 1 | - | x - 1 |

@@ -1,0 +1,1 @@
+q : \ e x i s t s x _ { 0 } \in \mathbf { R } , x _ { 0 } ^ { 2 } > 2 ^ { r _ { 0 } }

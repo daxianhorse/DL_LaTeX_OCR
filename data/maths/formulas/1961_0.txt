@@ -1,0 +1,1 @@
+\left( 3 x \cdots \frac { 1 } { \sqrt [ 3 ] { x ^ { 2 } } } \right) ^ { n }

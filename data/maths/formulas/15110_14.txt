@@ -1,0 +1,1 @@
+g ^ { \prime } ( x ) = \frac { 2 } { 1 - x ^ { 2 } } - 2 \left( 1 + x ^ { 2 } \right) = \frac { 2 x ^ { \prime } } { 1 - x ^ { 2 } }

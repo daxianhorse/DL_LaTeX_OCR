@@ -1,0 +1,1 @@
+f ( x ) = \log _ { 2 } \left( a x ^ { 2 } + 2 x + a \right)

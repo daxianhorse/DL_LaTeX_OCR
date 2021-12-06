@@ -1,0 +1,1 @@
+\mathrm { H h X } ^ { \mathrm { T } } \mathrm { X } ^ { \mathrm { t } }

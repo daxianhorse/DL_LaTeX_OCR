@@ -1,0 +1,1 @@
+\sin ( \beta - \alpha ) \cos \beta - \cos ( \alpha - \beta ) \sin \beta = \frac { 3 } { 5 }

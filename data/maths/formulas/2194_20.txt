@@ -1,0 +1,1 @@
+y _ { 1 } ^ { \prime } \left( t _ { 0 } \right) = 8 t _ { 0 } =

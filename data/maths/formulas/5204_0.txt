@@ -1,0 +1,1 @@
+\overrightarrow { A B } = a + 2 b , \overrightarrow { B C } = - 4 a - b , \overrightarrow { C D } =

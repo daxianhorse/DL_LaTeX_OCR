@@ -1,0 +1,1 @@
+\cos \left\langle \boldsymbol { n } _ { 1 } , \boldsymbol { n } _ { 2 } \right\rangle = \frac { \boldsymbol { n } _ { 1 } \cdot \boldsymbol { n } _ { 2 } } { \left| \boldsymbol { n } _ { 1 } \right| \cdot \left| \boldsymbol { n } _ { 2 } \right| } = \frac { \sqrt { 6 } } { 3 }

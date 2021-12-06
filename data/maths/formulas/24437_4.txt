@@ -1,0 +1,1 @@
+\text { B . } \forall x , y \in \mathbf { R } , [ x ] + [ y ] \leq s l a n t [ x + y ]

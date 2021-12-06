@@ -1,0 +1,1 @@
+b _ { n } = 2 ^ { \prime \prime } a _ { n }

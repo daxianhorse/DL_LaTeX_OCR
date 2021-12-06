@@ -1,0 +1,1 @@
+A B = C D = 6 , A C = A D = B D = B C = 5

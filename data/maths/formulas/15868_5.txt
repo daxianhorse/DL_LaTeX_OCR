@@ -1,0 +1,1 @@
+\overrightarrow { A C } = \left( a _ { n } - \frac { 4 } { 3 } a _ { n - 1 } \right) \overrightarrow { A B } + \left( a _ { n + 1 } - 2 a _ { n } \right) \overrightarrow { A D }

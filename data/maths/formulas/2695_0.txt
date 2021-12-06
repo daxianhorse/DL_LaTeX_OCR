@@ -1,0 +1,1 @@
+f ( x ) = \log _ { 2 } \sqrt { x } \cdot \log _ { \sqrt { 2 } } ( 2 x )

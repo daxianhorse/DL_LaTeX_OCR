@@ -1,0 +1,1 @@
+f ( x ) = \mathrm { e } ^ { \sin x } + \mathrm { e } ^ { - \sin x } ( x \in \mathbf { R } )

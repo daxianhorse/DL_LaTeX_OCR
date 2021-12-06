@@ -1,0 +1,1 @@
+A C = B C = \frac { 1 } { 2 } A A _ { 1 } \cdot D

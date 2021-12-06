@@ -1,0 +1,1 @@
+b = \frac { \sum _ { i = 1 } ^ { n } x _ { 1 } y _ { i } - n \bar { x } \bar { y } } { \sum _ { i = 1 } ^ { n } x _ { i } ^ { 2 } - n \bar { x } ^ { 2 } } , \hat { a } = \bar { y } - b \bar { x }

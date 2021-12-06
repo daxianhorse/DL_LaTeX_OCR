@@ -1,0 +1,1 @@
+P \left( X = x _ { i } \right) = P \left( Y = y _ { i } \right)

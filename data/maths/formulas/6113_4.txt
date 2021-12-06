@@ -1,0 +1,1 @@
+x + \frac { a } { r ^ { n } } \geqslant n + 1 \left( n \in \ m a t h b b { N } ^ { * } \right)

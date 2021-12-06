@@ -1,0 +1,1 @@
+h ( x ) _ { \text { m a x } } = h \left( x _ { 0 } \right) =

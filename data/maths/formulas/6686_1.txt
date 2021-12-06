@@ -1,0 +1,1 @@
+y ^ { \l g x } , c = x ^ { \l g x } , d = y ^ { \l g x }

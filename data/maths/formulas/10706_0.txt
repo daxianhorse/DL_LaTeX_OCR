@@ -1,0 +1,1 @@
+c _ { n } = \frac { 2 } { 2 n ^ { 2 } + n } = \frac { 2 } { n ( 2 n + 1 ) } = \frac { 4 } { 2 n ( 2 n + 1 ) } < \frac { 4 } { ( 2 n - 1 ) ( 2 n + 1 ) } = 2 \left( \frac { 1 } { 2 n - 1 } - \frac { 1 } { 2 n + 1 } \right) , c _ { 1 } + c _ { 2 } + \cdots

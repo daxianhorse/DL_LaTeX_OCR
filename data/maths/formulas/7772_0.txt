@@ -1,0 +1,1 @@
+\left( \sin \frac { \pi } { 3 } \right) ^ { - 2 } + \left( \sin \frac { 2 \pi } { 3 } \right) ^ { - 2 } = \frac { 4 } { 3 } \times 1 \times 2

@@ -1,0 +1,1 @@
+f ( x ) = \left| \frac { x - a } { x + 2 a } \right|

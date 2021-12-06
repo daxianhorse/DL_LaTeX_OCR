@@ -1,0 +1,1 @@
+= 4 \sqrt { 3 } \times \frac { \sqrt { m ^ { 2 } + 1 } } { m ^ { 2 } + 4 } = 4 \sqrt { 3 } \times \frac { 1 } { \sqrt { m ^ { 2 } + 1 } + \frac { 3 } { \sqrt { m ^ { 2 } + 1 } } } \leq s l a n t 2

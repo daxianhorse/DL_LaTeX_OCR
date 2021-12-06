@@ -1,0 +1,1 @@
+T ( x ) = f ( x ) \cdot \left( \frac { n } { 2 } x + 1 - \frac { n } { 2 } \right) ( n \in \mathbf { R } )

@@ -1,0 +1,1 @@
+F \left( \frac { 1 } { 2 0 1 0 } \right) + F \left( \frac { 2 } { 2 0 1 0 } \right) + \cdots + F \left( \frac { 2 0 0 9 } { 2 0 1 0 } \right)

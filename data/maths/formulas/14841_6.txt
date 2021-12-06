@@ -1,0 +1,1 @@
+f ^ { \prime } ( x ) = \mathrm { e } ^ { \prime } - 2 x \geqslant ( \mathrm { e } - 2 ) \cdot x \geqslant 0

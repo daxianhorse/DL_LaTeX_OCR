@@ -1,0 +1,1 @@
+a = \int _ { 0 } ^ { 2 } x ^ { 2 } \mathrm { ~ d } x , b = \int _ { 0 } ^ { 2 } x ^ { 3 } \mathrm { ~ d } x , c = \int _ { 0 } ^ { 2 } \sin x \mathrm { ~ d } x

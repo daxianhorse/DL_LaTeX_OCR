@@ -1,0 +1,1 @@
+\left( \ c o m p l e m e n t _ { 1 } A \right) \cup \left( \ c o m p l e m e n t _ { 1 } B \right) = I

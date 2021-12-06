@@ -1,0 +1,1 @@
+A = \left\{ \alpha \mid \alpha = \left( t _ { 1 } , t _ { 2 } , \cdots , t _ { n } \right) , t _ { k } \in \{ 0 , 1 \} , k = 1 , 2 , \cdots , n \right\}

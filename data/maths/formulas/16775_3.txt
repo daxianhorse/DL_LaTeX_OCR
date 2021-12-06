@@ -1,0 +1,1 @@
+\left( \frac { 2 } { 3 } \right) ^ { 2 } + C _ { 2 } ^ { 1 } \left( \frac { 2 } { 3 } \right) ^ { 1 } \left( \frac { 1 } { 3 } \right) ^ { 2 }

@@ -1,0 +1,1 @@
+\mathrm { C } _ { n } ^ { m } = \frac { m + 1 } { n - m } \mathrm { C } _ { n } ^ { m + 1 }

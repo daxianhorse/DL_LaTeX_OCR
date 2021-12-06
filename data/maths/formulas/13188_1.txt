@@ -1,0 +1,1 @@
+a ( \omega > 0 , a \in \mathbf { R } )

@@ -1,0 +1,1 @@
+\mathrm { A } _ { m } ^ { n } + n \mathrm { ~ A } _ { m } ^ { n - 1 } = \mathrm { A } _ { m + 1 } ^ { n }

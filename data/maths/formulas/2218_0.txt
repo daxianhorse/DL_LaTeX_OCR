@@ -1,0 +1,1 @@
+f ( x ) = a x ^ { 3 } + b x ^ { 2 } - 3 x ( a , b \in \mathbf { R } )

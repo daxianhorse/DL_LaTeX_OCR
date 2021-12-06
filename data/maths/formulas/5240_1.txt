@@ -1,0 +1,1 @@
+\overrightarrow { A B } \cdot ( \overrightarrow { F B } + \overrightarrow { F C } )

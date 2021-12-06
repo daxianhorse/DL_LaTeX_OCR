@@ -1,0 +1,1 @@
+b _ { n } = \frac { 2 ^ { a \cdot } } { \left( 2 ^ { a _ { n } } - 1 \right) \left( 2 ^ { a _ { n 1 } } - 1 \right) }

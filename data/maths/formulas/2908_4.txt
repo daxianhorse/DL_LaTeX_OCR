@@ -1,0 +1,1 @@
+x > 0 , a _ { n } \geqslant \frac { 1 } { 1 + x } - \frac { 1 } { ( 1 + x ) ^ { 2 } } \left( \frac { 2 } { 3 ^ { n } } - x \right)

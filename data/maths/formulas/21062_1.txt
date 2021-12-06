@@ -1,0 +1,1 @@
+y = f ^ { 2 } ( x ) + f \left( x ^ { 2 } \right)

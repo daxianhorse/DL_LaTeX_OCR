@@ -1,0 +1,1 @@
+P ^ { \prime } T ^ { \prime } = Q ^ { \prime } T ^ { \prime }

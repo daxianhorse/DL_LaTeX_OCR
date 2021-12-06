@@ -1,0 +1,1 @@
+2 \sqrt { 5 } , \frac { \overrightarrow { P A } \cdot \overrightarrow { P C } } { | \overrightarrow { P A } | } = \frac { \overrightarrow { P B } \cdot \overrightarrow { P C } } { | \overrightarrow { P B } | }

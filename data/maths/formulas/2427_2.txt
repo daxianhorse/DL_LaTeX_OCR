@@ -1,0 +1,1 @@
+1 = \left[ \sin ^ { 2 } x - f ( x ) \right] + \left[ f ( x ) + \cos ^ { 2 } x \right]

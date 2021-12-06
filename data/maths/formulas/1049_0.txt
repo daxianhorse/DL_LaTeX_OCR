@@ -1,0 +1,1 @@
+\Lambda = | x | y \quad \l g ( 1 - x ) \}

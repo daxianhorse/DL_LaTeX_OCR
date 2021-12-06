@@ -1,0 +1,1 @@
+\frac { \sin 4 \alpha } { \sin \left( \frac { \pi } { 2 } + 2 \alpha \right) } =

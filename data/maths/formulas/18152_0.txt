@@ -1,0 +1,1 @@
+y = 2 \cos x ( \sin x + \cos x ) - 1

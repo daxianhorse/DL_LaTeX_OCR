@@ -1,0 +1,1 @@
+\frac { \left| I F _ { : \prime } \right| } { \left| I F _ { 1 } \right| }

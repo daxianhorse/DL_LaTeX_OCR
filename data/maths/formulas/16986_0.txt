@@ -1,0 +1,1 @@
+4 ^ { x } - a \cdot 2 ^ { x } + 1 \leq s l a n t 0

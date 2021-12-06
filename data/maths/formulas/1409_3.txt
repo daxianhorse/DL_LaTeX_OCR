@@ -1,0 +1,1 @@
+\frac { \tan C } { \tan \Lambda } + \frac { \tan C } { \tan B } = 1

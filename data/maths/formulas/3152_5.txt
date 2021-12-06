@@ -1,0 +1,1 @@
+\frac { | N A | } { | N B | } = \frac { | M A | } { | M B | }

@@ -1,0 +1,1 @@
+f \left( t ^ { 2 } - 2 t \right) + f \left( 2 t ^ { 2 } - \right.

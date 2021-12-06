@@ -1,0 +1,1 @@
+B = \left\{ x \mid y = \l g \left( - x ^ { 2 } + 3 x - 2 \right) \right\}

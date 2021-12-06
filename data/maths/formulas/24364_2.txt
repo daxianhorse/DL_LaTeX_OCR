@@ -1,0 +1,1 @@
+\text { B . } \forall x \in \mathbf { R } ^ { + } , \ln x < 0

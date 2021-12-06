@@ -1,0 +1,1 @@
+\boldsymbol { c } \cdot \boldsymbol { a } = \sqrt { 3 } , \boldsymbol { c } \cdot \boldsymbol { b } = 1

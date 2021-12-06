@@ -1,0 +1,1 @@
+\{ 0 , 2 \} \subseteq A \ v a r s u b s e t n e q q \{ - 1 , 0 , 1 , 2 \}

@@ -1,0 +1,1 @@
+x \ln x \cdot f ^ { \prime } ( x ) < - f ( x )

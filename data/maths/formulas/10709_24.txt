@@ -1,0 +1,1 @@
+1 + \sum _ { k = 2 } ^ { n } 2 \left( \frac { 1 } { \sqrt { k - 1 } } - \frac { 1 } { \sqrt { k } } \right) = 1 + 2 \left( \frac { 1 } { \sqrt { 2 } } - \frac { 1 } { \sqrt { n } } \right) < 1 + \frac { 2 } { \sqrt { 2 } }

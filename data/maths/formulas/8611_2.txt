@@ -1,0 +1,1 @@
+t \left( t \in \mathbf { N } ^ { * } , t < 1 1 0 0 \right)

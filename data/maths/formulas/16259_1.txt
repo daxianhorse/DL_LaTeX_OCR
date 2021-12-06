@@ -1,0 +1,1 @@
+\text { ( 2 ) } x \rightarrow y = 6 - x , x \in \{ x \mid 1 < x \leq s l a n t 6 \} , y \in \{ y \mid 0 < y \leq s l a n t 5 \} \text { ; }

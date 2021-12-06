@@ -1,0 +1,1 @@
+\overrightarrow { C M } = \frac { 1 } { 6 } \overrightarrow { C B } + \frac { 2 } { 3 } \overrightarrow { C A }

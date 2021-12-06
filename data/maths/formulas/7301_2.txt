@@ -1,0 +1,1 @@
+\overrightarrow { B E } = \lambda \overrightarrow { B C } \cdot \overrightarrow { D F } = \frac { 1 } { 9 \lambda } \overrightarrow { D C }

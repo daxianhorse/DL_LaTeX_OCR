@@ -1,0 +1,1 @@
+\left( i _ { 1 } < i _ { 2 } < \cdots < i _ { m } \right)

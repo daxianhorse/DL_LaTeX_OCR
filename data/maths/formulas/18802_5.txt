@@ -1,0 +1,1 @@
+\cos \theta = \frac { \| \left. A B \right| ^ { 2 } + | C D | ^ { 2 } - | A D | ^ { 2 } - | B C | ^ { 2 } \mid } { 2 | A C | \cdot | B D | }

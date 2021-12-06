@@ -1,0 +1,1 @@
+( - \infty , 0 ) \cup \left( 0 , \frac { 1 } { 1 5 } \right)

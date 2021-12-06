@@ -1,0 +1,1 @@
+t \neq 0 , m t = x t \Rightarrow m = x ^ { 2 }

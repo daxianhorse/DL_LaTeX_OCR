@@ -1,0 +1,1 @@
+\frac { b x + 1 } { a x + 1 } - \frac { m x } { d x + c } < 0

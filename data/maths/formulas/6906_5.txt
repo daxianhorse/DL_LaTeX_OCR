@@ -1,0 +1,1 @@
+F ( x ) \leq s l a n t m x - 1

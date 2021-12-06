@@ -1,0 +1,1 @@
+\left. \frac { k } { 4 } + \frac { 1 } { 2 } , k \in \mathbf { Z } \right\}

@@ -1,0 +1,1 @@
+\cos \frac { \pi } { 3 } = \cos \frac { \pi } { 4 } \cos \frac { \pi } { 4 } + \sin \frac { \pi } { 4 } \sin \frac { \pi } { 4 } \cos \alpha \Rightarrow \cos \alpha = 0

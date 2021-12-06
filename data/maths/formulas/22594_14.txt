@@ -1,0 +1,1 @@
+\left( \frac { 2 } { 3 } \right) ^ { 2 } > \left( \frac { 2 } { 3 } \right) ^ { \frac { 1 0 } { 3 } } > \left( \frac { 1 } { 1 0 } \right) ^ { \frac { 1 1 } { 3 } }

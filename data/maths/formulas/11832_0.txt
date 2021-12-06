@@ -1,0 +1,1 @@
+A ( a , 1 ) , B \left( - 2 , \frac { a } { 2 } \right) , C ( a +

@@ -1,0 +1,1 @@
+b = f \left( \log _ { 2 } 5 \right) , c = f \left( 2 ^ { m } \right)

@@ -1,0 +1,1 @@
+f ( x ) = \left[ 2 \sin \left( x + \frac { \pi } { 3 } \right) + \sin x \right] \cos x - \sqrt { 3 } \sin ^ { 2 } x , x \in \mathbf { R }

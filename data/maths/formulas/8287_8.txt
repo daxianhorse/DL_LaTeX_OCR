@@ -1,0 +1,1 @@
+\varphi _ { k } \left( k = e _ { 1 } , e _ { 2 } , \cdots , e _ { l } \right)

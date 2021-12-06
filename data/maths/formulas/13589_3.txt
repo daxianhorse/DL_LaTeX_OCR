@@ -1,0 +1,1 @@
+\left\{ a _ { n } - n \cdot 2 ^ { \prime \prime } { } ^ { 1 } \right\}

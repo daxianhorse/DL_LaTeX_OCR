@@ -1,0 +1,1 @@
+f ( x ) = 2 x + \sin x ( \cos x - a ) ( a \in \mathbf { R } )

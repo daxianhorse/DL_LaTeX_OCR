@@ -1,0 +1,1 @@
+( \sqrt { 5 } \cos \theta , 2 \sin \theta ) \cdot \left( \frac { \sqrt { 5 } \cos \theta } { 1 - \sin \theta } , 1 \right) = 0

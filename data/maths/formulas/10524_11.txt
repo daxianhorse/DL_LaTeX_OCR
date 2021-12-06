@@ -1,0 +1,1 @@
+\frac { m \left( a _ { n + k } - a _ { n } \right) } { a _ { n } a _ { n + k } } = m \left( \frac { 1 } { a _ { n } } - \frac { 1 } { a _ { n + k } } \right)

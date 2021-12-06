@@ -1,0 +1,1 @@
+a _ { n } \geqslant 2 ( n \geqslant 2 )

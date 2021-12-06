@@ -1,0 +1,1 @@
+\overrightarrow { A B } = \lambda a - 2 b , \overrightarrow { A C } = 2 a + \mu b , \lambda , \mu \in \mathbf { R }

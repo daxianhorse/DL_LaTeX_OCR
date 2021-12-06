@@ -1,0 +1,1 @@
+| P Q | _ { \text { m i n } } = ( \mathrm { e } - 1 ) \sqrt { \mathrm { e } ^ { 2 } + 1 }

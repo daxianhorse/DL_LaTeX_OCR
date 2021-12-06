@@ -1,0 +1,1 @@
+f ( x ) + f ^ { \prime } ( x ) = 2 x \mathrm { e } ^ { - x } + \frac { 1 } { x } ( x \neq 0 )

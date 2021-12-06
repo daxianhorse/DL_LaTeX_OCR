@@ -1,0 +1,1 @@
+\frac { b + c } { a } + \frac { a + c } { b } = \frac { a + b } { c } + 1

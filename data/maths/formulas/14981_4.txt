@@ -1,0 +1,1 @@
+f ^ { \prime } ( x ) = ( x - 1 ) \left( \mathrm { e } ^ { x } + 2 a \right)

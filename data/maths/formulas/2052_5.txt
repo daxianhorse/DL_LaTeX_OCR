@@ -1,0 +1,1 @@
+\frac { 2 \pi - \left( - \frac { \pi } { 5 \omega } \right) } { \frac { 2 \pi } { \omega } } = \frac { 5 } { 2 } \Rightarrow \omega = \frac { 1 2 } { 5 }

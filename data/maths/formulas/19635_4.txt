@@ -1,0 +1,1 @@
+\overrightarrow { O P } = \lambda e _ { 1 } + \mu e _ { 2 }

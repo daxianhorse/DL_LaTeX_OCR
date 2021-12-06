@@ -1,0 +1,1 @@
+b \sin B + c \sin C = a \sin A -

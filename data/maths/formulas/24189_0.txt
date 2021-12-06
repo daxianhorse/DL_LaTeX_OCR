@@ -1,0 +1,1 @@
+f ( x ) = \frac { \sqrt { 3 } } { 2 } \sin 2 x + 2 \sin ^ { 4 } \frac { x } { 2 } + 2 \cos ^ { 4 } \frac { x } { 2 } - \frac { 3 } { 2 }

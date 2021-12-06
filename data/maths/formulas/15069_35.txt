@@ -1,0 +1,1 @@
+\sqrt { B G ^ { 2 } + G H ^ { 2 } + H D ^ { \prime 2 } - 2 B G \cdot H D ^ { \prime } }

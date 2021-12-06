@@ -1,0 +1,1 @@
+\mathrm { a a B b } \times \mathrm { A A b b }

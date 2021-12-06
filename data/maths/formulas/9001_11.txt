@@ -1,0 +1,1 @@
+f ( \theta ) + g ( \theta ) \geqslant 1

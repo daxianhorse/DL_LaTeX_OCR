@@ -1,0 +1,1 @@
+\mathrm { B D } = 2 \mathrm { A D } , \mathrm { C E } = 2 \mathrm { E D }

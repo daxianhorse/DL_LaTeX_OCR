@@ -1,0 +1,1 @@
+x , y \in \mathbf { R } , \left| \boldsymbol { b } - \left( x \boldsymbol { e } _ { 1 } + y \boldsymbol { e } _ { 2 } \right) \right| \geqslant \left| \boldsymbol { b } - \left( x _ { 0 } \boldsymbol { e } _ { 1 } + y _ { 1 } \boldsymbol { e } _ { 2 } \right) \right| = 1 \left( x _ { 1 1 } , y _ { 1 1 } \in \mathbf { R } \right)

@@ -1,0 +1,1 @@
+f ( x ) = \left( x ^ { 2 } + a x + b \right) \mathrm { e } ^ { 3 - x } ( x \in \mathbf { R } )

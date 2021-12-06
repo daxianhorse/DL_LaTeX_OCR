@@ -1,0 +1,1 @@
+f ( x ) = \frac { 1 } { 2 } a x - ( 2 a + 1 ) x + 2 \ln x ( a \in \mathbf { R } ) , g ( x ) = x ^ { 2 } - 2 x ,

@@ -1,0 +1,1 @@
+h ( x + \lambda ) \leq s l a n t [ h ( x ) ] ^ { 2 }

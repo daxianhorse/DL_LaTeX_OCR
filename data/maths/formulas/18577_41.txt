@@ -1,0 +1,1 @@
+g ^ { \prime } ( . x ) = c - 1 - c ^ { x } \ln c

@@ -1,0 +1,1 @@
+a g ( x ) + ( 1 - a ) = [ g ( x ) - 1 ] \cdot a + 1 \leq s l a n t 1

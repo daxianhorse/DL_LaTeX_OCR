@@ -1,0 +1,1 @@
+\log _ { \iota } a > b ^ { a } > a ^ { b } > \log _ { \frac { 1 } { 4 } } b

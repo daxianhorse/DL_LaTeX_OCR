@@ -1,0 +1,1 @@
+\sqrt { 6 } \geqslant | a \cdot e | + | b \cdot e | \geqslant | a \cdot e + b \cdot e | = | ( a + b ) \cdot e |

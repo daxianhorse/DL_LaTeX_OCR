@@ -1,0 +1,1 @@
+f ( x ) = \sin ( 3 x + \varphi ) \left( - \frac { \pi } { 2 } < \varphi < \frac { \pi } { 2 } \right)

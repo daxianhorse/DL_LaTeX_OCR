@@ -1,0 +1,1 @@
+f ( x ) - \left( \frac { \ln x } { x - 1 } + \frac { k } { x } \right) = \frac { 1 } { 1 - x ^ { 2 } } \left[ 2 \ln x + \frac { ( k - 1 ) \left( x ^ { 2 } - 1 \right) } { x } \right]

@@ -1,0 +1,1 @@
+l : y = k x + t ( t \neq \pm 1 )

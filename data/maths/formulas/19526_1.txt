@@ -1,0 +1,1 @@
+f ( x ) = A \sin ( x + \varphi ) ( A > 0 )

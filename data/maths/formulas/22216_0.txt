@@ -1,0 +1,1 @@
+a = \left( \frac { 1 } { 2 } \right) ^ { + } , b = \log _ { 2 } 3 , c = \log _ { 4 } 6

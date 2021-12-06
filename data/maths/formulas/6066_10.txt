@@ -1,0 +1,1 @@
+\hat { a } = \bar { x } - \hat { b } \bar { t }

@@ -1,0 +1,1 @@
+\text { B . } \forall x \not i n ( 0 , + \infty ) , \ln x = x - 1

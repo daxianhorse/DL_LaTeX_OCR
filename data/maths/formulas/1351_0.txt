@@ -1,0 +1,1 @@
+f ( x ) = \cos \left( x + \frac { 2 \pi } { 5 } \right) + 2 \sin \frac { \pi } { 5 } \sin \left( x + \frac { \pi } { 5 } \right)

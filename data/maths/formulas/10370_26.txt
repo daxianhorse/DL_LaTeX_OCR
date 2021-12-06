@@ -1,0 +1,1 @@
+\frac { 1 } { | A B | } + \frac { 1 } { | C D | } = \frac { 2 - \cos ^ { 2 } \theta } { 4 \sqrt { 2 } } + \frac { 2 - \sin ^ { 2 } \theta } { 4 \sqrt { 2 } } = \frac { 3 } { 8 } \sqrt { 2 } ,

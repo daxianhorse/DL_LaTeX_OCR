@@ -1,0 +1,1 @@
+v = t ^ { 2 } - 4 t + 3 ( \mathrm { ~ m } / \mathrm { s } )

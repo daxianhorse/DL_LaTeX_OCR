@@ -1,0 +1,1 @@
+f ( x ) = a ^ { \prime } + b ^ { \prime } ( a > 0 , b > 0 , a \neq 1 , b \neq 1 )

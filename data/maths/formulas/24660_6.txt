@@ -1,0 +1,1 @@
+F _ { 1 } Q = 2 \overline { Q F } _ { 2 }

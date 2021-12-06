@@ -1,0 +1,1 @@
+\forall n \in \mathbf { N } ^ { \times } , \left( \frac { 2 n - 1 } { 2 n } \right) ^ { 2 } \geqslant \frac { 4 ( n - 1 ) } { 4 n }

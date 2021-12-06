@@ -1,0 +1,1 @@
+\log _ { 2 } \left( 3 ^ { a } + 5 \right)

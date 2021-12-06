@@ -1,0 +1,1 @@
+f ^ { \prime \prime } ( 0 ) = 1 > 0 , f ^ { \prime \prime } \left( \frac { \pi } { 2 } \right) = - \frac { \pi ^ { 2 } + 4 \pi } { ( \pi + 2 ) ^ { 2 } } < 0

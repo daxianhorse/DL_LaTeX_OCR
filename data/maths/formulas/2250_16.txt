@@ -1,0 +1,1 @@
+g \left( x _ { 0 } \right) = \frac { x _ { 0 } \mathrm { e } ^ { x _ { 0 } } + 1 } { \mathrm { e } ^ { x _ { 0 } } - 1 } = \frac { x _ { 0 } \left( x _ { 0 } + 2 \right) + 1 } { \left( x _ { 0 } + 2 \right) - 1 } = x _ { 0 } + 1 \in

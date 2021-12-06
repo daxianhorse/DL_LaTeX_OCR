@@ -1,0 +1,1 @@
+A = \{ 0 , 1 , 2 , 3 \} , B = \left\{ x \mid x = n ^ { 2 } - 1 , n \in A \right\} , P = A \cap B

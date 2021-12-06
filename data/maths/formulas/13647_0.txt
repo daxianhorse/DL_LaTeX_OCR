@@ -1,0 +1,1 @@
+f ( x ) = \left| x + \frac { 1 } { a } \right| + | x - a | ( a > 0 )

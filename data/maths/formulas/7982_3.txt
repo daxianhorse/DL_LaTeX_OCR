@@ -1,0 +1,1 @@
+\frac { \sin \frac { \pi } { k } } { 4 k }

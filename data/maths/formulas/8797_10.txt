@@ -1,0 +1,1 @@
+\frac { x + y } { 2 } = \cos \alpha + \cos \left( \frac { 2 } { 3 } \pi - \alpha \right) = \sin \left( \alpha + \frac { \pi } { 6 } \right)

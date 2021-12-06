@@ -1,0 +1,1 @@
+\frac { \left( S _ { n } + \frac { 9 } { 4 } \right) ^ { 2 } } { 2 a _ { n } }

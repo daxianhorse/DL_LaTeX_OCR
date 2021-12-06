@@ -1,0 +1,1 @@
+f ( x ) + g ( x ) = a ^ { \prime } - a ^ { \prime } + 2

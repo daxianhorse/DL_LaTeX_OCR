@@ -1,0 +1,1 @@
+m / / \alpha , m \subset \beta , \alpha \cap \beta = n

@@ -1,0 +1,1 @@
+f \left( a ^ { 2 } \right) + f ( 2 a - 3 ) \leq s l a n t 0

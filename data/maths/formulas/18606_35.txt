@@ -1,0 +1,1 @@
+\ln \left( b - 1 + \sqrt { b ^ { 2 } - 2 b } \right) = \ln \sqrt { 2 } , g ( \ln \sqrt { 2 } ) = - \frac { 3 } { 2 } - 2 \sqrt { 2 } + ( 3 \sqrt { 2 } +

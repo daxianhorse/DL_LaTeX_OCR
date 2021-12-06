@@ -1,0 +1,1 @@
+\sum _ { k = 1 } ^ { n } b _ { k } \leq s l a n t 3 \left[ 1 - \left( \frac { 3 } { 4 } \right) ^ { n } \right]

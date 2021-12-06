@@ -1,0 +1,1 @@
+f ( x ) = \min \left\{ | x - 2 | \cdot x ^ { 2 } , | x + 2 | \right\}

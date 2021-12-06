@@ -1,0 +1,1 @@
+\alpha \cap \beta = a , \beta \cap \gamma = b , \alpha \cap \gamma = c

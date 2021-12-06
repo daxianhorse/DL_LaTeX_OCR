@@ -1,0 +1,1 @@
+| A B | = r _ { 2 } + r _ { 2 } ^ { \prime } = \frac { 2 e p } { 1 - e ^ { 2 } \cos ^ { 2 } \theta }

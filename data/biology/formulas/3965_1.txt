@@ -1,0 +1,1 @@
+\mathbf { M } _ { \mathrm { A } } = \mathbf { M } _ { \mathrm { B } }

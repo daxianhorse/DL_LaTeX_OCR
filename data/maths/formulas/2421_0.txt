@@ -1,0 +1,1 @@
+f ( x ) = \left| x + \frac { 1 } { x } - a \right| + \left| x - \frac { 1 } { x } - a \right| + 2 x -

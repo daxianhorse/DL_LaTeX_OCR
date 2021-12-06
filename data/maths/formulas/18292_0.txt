@@ -1,0 +1,1 @@
+x + y \sin \alpha - 1 = 0 ( \alpha \in \mathbf { R } )

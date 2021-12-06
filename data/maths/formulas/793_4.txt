@@ -1,0 +1,1 @@
+\frac { a b \sin C } { a \sin A + b \sin B - c \sin C } = \sqrt { 3 }

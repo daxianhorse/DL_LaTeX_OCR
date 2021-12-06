@@ -1,0 +1,1 @@
+B = \{ ( x , y ) \mid 2 m \leq s l a n t x + y \leq s l a n t 2 m + 1

@@ -1,0 +1,1 @@
+f ( x ) = 2 \cos x \cdot ( \sin x + \sqrt { 3 } \cos x ) - \sqrt { 3 }

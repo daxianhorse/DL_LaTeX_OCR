@@ -1,0 +1,1 @@
+| \overrightarrow { C I } | ^ { 2 } = \frac { ( \overrightarrow { A C } \cdot \overrightarrow { A B } ) \cdot ( \overrightarrow { B A } \cdot \overrightarrow { B C } ) } { | \overrightarrow { A B } | ^ { 2 } }

@@ -1,0 +1,1 @@
+S = \{ x \mid x ( 3 - x ) \leq s l a n t 0 \}

@@ -1,0 +1,1 @@
+x _ { 1 } \geqslant 0 , x _ { 2 } \geqslant 0

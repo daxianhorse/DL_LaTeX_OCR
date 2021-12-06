@@ -1,0 +1,1 @@
+\boldsymbol { a } \cdot \boldsymbol { b } = \frac { | \boldsymbol { a } + \boldsymbol { b } | ^ { 2 } - | \boldsymbol { a } - \boldsymbol { b } | ^ { 2 } } { 4 } = \frac { 5 - | \boldsymbol { a } - \boldsymbol { b } | ^ { 2 } } { 2 } \geqslant - \frac { 1 } { 2 }

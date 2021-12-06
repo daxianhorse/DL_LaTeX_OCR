@@ -1,0 +1,1 @@
+\frac { a _ { 1 } + a _ { 3 } + \cdots + a _ { 2 n + 1 } } { n + 1 } \geqslant \frac { a _ { 2 } + a _ { 4 } + \cdots + a _ { 2 n } } { n }

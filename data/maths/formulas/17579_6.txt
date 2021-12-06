@@ -1,0 +1,1 @@
+\left[ \log _ { ( a + 1 ) } x - \log _ { a } x + 1 \right]

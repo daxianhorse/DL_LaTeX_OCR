@@ -1,0 +1,1 @@
+a = \int _ { 0 } ^ { 1 } x ^ { - \frac { 1 } { + } } \mathrm { d } x

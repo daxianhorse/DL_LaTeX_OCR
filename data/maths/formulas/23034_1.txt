@@ -1,0 +1,1 @@
+: \hat { b } = \frac { \sum _ { i = 1 } ^ { n } \left( x _ { i } - \bar { x } \right) \left( y _ { i } - \bar { j } , \right. } { \sum _ { i = 1 } ^ { n } \left( x _ { i } ( \bar { x } ) ^ { 2 } \right. } , \hat { a } = \bar { y } - \hat { b } \bar { x } , \sum _ { i = 1 } ^ { 6 } \left( x _ { i } - \bar { x } \right) \left( y _ { i } - \bar { y } \right) = - 1 4

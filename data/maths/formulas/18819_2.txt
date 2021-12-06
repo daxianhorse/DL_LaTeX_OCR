@@ -1,0 +1,1 @@
+3 A A ^ { \prime } = \frac { 3 } { 2 } B B ^ { \prime } = C C ^ { \prime } = A B

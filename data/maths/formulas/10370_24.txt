@@ -1,0 +1,1 @@
+| A B | = \frac { b ^ { 2 } \cdot 2 a } { a ^ { 2 } - c ^ { 2 } \cos ^ { 2 } \theta } =

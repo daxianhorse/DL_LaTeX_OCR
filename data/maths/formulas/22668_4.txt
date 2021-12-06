@@ -1,0 +1,1 @@
+2 k \mathrm { e } ^ { r } ( x + 1 ) - x ^ { 2 } - 4 x - 2 \geqslant 0

@@ -1,0 +1,1 @@
+f ( x ) = \sin ( 2 x + \varphi ) \left( 0 < \varphi < \frac { \pi } { 2 } \right)

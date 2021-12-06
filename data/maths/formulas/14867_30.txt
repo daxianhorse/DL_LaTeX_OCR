@@ -1,0 +1,1 @@
+\tan \alpha \tan \gamma = \tan \beta \tan \delta = ( 2 + \sqrt { 3 } ) ^ { 2 }

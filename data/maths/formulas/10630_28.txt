@@ -1,0 +1,1 @@
+a _ { n } = \frac { 4 } { 3 } + \frac { 1 } { 3 } \cdot \frac { ( - 1 ) ^ { n } } { 2 ^ { n - 1 } } \left( n \in \mathbf { N } ^ { * } \right)

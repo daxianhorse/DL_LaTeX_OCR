@@ -1,0 +1,1 @@
+f ( x + l ) - 2 | + | f ( x ) - f ( x + l ) \mid \geqslant 2 ( l > 0 )

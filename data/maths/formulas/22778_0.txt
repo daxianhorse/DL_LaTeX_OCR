@@ -1,0 +1,1 @@
+g ( x ) = \frac { x } { \ln x } , f ( x ) = g ( x ) - a x

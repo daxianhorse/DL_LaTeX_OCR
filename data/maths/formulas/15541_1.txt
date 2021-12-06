@@ -1,0 +1,1 @@
+a = f \left( - \frac { 7 } { 2 } \right) , b = f \left( \frac { 3 } { 2 } \right) , c = f ( 4 )

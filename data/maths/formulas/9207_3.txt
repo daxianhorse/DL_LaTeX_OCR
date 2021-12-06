@@ -1,0 +1,1 @@
+\text { ( 2 ) } \cos A = 2 b \cos A - a \cos C

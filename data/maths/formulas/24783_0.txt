@@ -1,0 +1,1 @@
+f ( x ) = \sin \left( 2 0 2 0 x + \frac { \pi } { 6 } \right) + \cos ( 2 \cos x - \pi x

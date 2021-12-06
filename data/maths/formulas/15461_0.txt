@@ -1,0 +1,1 @@
+f ( \cos x ) = \cos 2 x

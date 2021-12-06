@@ -1,0 +1,1 @@
+f ( x ) = \log _ { u } x + x - b ( a > 0 \cap a \neq 1 )

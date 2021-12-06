@@ -1,0 +1,1 @@
+\left( \sin \frac { \pi } { 7 } \right) ^ { - 2 } + \left( \sin \frac { 2 \pi } { 7 } \right) ^ { - 2 } + \left( \sin \frac { 3 \pi } { 7 } \right) ^ { - 2 } + \cdots + \left( \sin \frac { 6 \pi } { 7 } \right) ^ { - 2 } = \frac { 4 } { 3 } x

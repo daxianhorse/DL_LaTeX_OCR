@@ -1,0 +1,1 @@
+\left( | M P | + \left| M F _ { 2 } \right| \right) _ { \min } = 8

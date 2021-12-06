@@ -1,0 +1,1 @@
+B = \left\{ x \mid x = n ^ { 2 } - 1 , n \in A \right\}

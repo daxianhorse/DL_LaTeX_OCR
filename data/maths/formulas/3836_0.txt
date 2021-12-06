@@ -1,0 +1,1 @@
+\left\{ \frac { n ( n + 1 ) } { 2 } \right\} ( n \in

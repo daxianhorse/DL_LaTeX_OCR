@@ -1,0 +1,1 @@
+b _ { n + 1 } = ( n - 2 \lambda ) \cdot \left( \frac { 1 } { a _ { n } } + 1 \right) \left( n \in \mathbf { N } ^ { * } \right)

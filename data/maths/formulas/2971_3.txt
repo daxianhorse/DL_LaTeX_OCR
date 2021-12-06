@@ -1,0 +1,1 @@
+\text { 1 ] } \left( x ^ { 2 } - a x - 1 \right) \geqslant 0

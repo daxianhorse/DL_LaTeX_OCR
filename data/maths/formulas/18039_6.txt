@@ -1,0 +1,1 @@
+\min \{ \boldsymbol { c } \cdot \boldsymbol { a } , \boldsymbol { c } \cdot \boldsymbol { b }

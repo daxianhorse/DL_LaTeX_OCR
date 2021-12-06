@@ -1,0 +1,1 @@
+a x = \mathrm { e } ^ { x } ( x \neq 0 )

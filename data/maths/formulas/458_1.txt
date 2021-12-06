@@ -1,0 +1,1 @@
+\left( \boldsymbol { e } _ { 1 } - 2 \boldsymbol { e } _ { 2 } \right) \perp \boldsymbol { e } _ { 1 }

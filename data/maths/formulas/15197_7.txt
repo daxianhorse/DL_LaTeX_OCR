@@ -1,0 +1,1 @@
+a _ { n _ { n } } \geqslant a _ { n } \left( n \in \mathbf { N } ^ { * } \right)

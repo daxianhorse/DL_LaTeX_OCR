@@ -1,0 +1,1 @@
+\overrightarrow { A B } = c \cdot \overrightarrow { B C } = a , \overrightarrow { A C } = b

@@ -1,0 +1,1 @@
+x _ { 1 } , x _ { 2 } \in ( - \infty , + \infty ) , x _ { 1 } \neq x _ { 2 }

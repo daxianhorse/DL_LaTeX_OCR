@@ -1,0 +1,1 @@
+g ( x ) = f \left( x + \frac { \pi } { 4 } \right) + \sqrt { 3 } f ( x )

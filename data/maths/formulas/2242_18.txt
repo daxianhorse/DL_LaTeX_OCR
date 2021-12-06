@@ -1,0 +1,1 @@
+f ( x ) = \left| x \mathrm { e } ^ { x } \right|

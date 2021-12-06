@@ -1,0 +1,1 @@
+\alpha \in \left( 0 , \frac { \pi } { 2 } \right) , \sin \left( \alpha - \frac { \pi } { 4 } \right) = \frac { \sqrt { 5 } } { 5 }

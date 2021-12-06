@@ -1,0 +1,1 @@
+\left[ \frac { 2 k \pi } { 5 } - \frac { 2 \pi } { 1 5 } , \frac { 2 k \pi } { 5 } + \frac { \pi } { 1 5 } \right] ( k \in \mathbf { Z } )

@@ -1,0 +1,1 @@
+\overrightarrow { E F } = \frac { 2 } { 3 } \overrightarrow { P B } + \frac { 1 } { 3 } \overrightarrow { P C } - \frac { 1 } { 2 } \overrightarrow { P A }

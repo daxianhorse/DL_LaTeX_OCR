@@ -1,0 +1,1 @@
+m \in \left[ 1 , x _ { 0 } \right) \bigcup \left( x _ { 0 } , 2 \right]

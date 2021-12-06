@@ -1,0 +1,1 @@
+\text { 4 ) } \leq s l a n t f ( x ) + 4 , f ( x + 2 ) \geqslant f ( x ) + 2

@@ -1,0 +1,1 @@
+f ( x ) = ( x - \sqrt { 2 x - 1 } ) e ^ { - 1 } \left( x \geqslant \frac { 1 } { 2 } \right)

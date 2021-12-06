@@ -1,0 +1,1 @@
+| \boldsymbol { c } | + | \boldsymbol { c } - \boldsymbol { a } |

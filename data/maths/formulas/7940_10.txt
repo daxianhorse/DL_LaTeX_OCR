@@ -1,0 +1,1 @@
+x _ { 2 } - x _ { 1 } \leq s l a n t \frac { 1 + 2 m } { 2 } - \frac { m \mathrm { e } } { 1 - \mathrm { e } }

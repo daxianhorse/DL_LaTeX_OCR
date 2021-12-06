@@ -1,0 +1,1 @@
+\text { B . } f ( x ) = \frac { x } { \mathrm { e } ^ { x } - \mathrm { e } ^ { - x } }

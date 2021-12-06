@@ -1,0 +1,1 @@
+k _ { a n } \cdot k _ { C B } = - \frac { b ^ { 2 } } { a ^ { 2 } }

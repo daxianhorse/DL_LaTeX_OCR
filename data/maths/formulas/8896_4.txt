@@ -1,0 +1,1 @@
+\cos ( \alpha - \pi ) = - \frac { 1 } { 2 }

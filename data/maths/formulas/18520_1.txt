@@ -1,0 +1,1 @@
+B = \left\{ x \mid a x + b \cdot 2 ^ { x } - 1 < 0 , 0 \leq s l a n t a \leq s l a n t 2 , 1 \leq s l a n t b \leq s l a n t 3 \right\}

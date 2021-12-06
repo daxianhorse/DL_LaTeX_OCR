@@ -1,0 +1,1 @@
+\mathrm { X } ^ { A } \mathrm { Y } ^ { 4 }

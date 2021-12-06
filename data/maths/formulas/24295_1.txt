@@ -1,0 +1,1 @@
+B = \left\{ x ^ { 2 } \mid x \in A \right\}

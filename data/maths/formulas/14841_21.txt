@@ -1,0 +1,1 @@
+\frac { \mathrm { e } ^ { \prime } } { x ^ { 2 } } > \frac { 1 } { x ^ { 2 } } > a

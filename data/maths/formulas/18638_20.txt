@@ -1,0 +1,1 @@
+d = \frac { | \ln 2 - 1 | } { \sqrt { 2 } } = \frac { \sqrt { 2 } } { 2 } ( 1 - \ln 2 )

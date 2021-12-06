@@ -1,0 +1,1 @@
+\left\{ b _ { n } \mid \left( n \in \mathbf { N } ^ { * } \right) \right.

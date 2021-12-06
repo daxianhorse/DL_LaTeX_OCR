@@ -1,0 +1,1 @@
+\mathrm { e } ^ { x } \ln x + m x ^ { 2 } + \left( 1 - \mathrm { e } ^ { x } \right) x + m \leq s l a n t 0

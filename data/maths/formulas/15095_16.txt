@@ -1,0 +1,1 @@
+\sin \left( - 4 + \frac { \pi } { 6 } \right) \approx \sin ( - 3 . 4 8 ) \approx \sin 0 . 3 4

@@ -1,0 +1,1 @@
+4 S _ { n } \cdot f \left( \frac { 1 } { a _ { n } } \right) = 1

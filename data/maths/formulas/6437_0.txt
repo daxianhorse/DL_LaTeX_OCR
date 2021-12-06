@@ -1,0 +1,1 @@
+A = \left\{ x \in \mathbf { N } \mid - x ^ { 2 } + x + 2 \geqslant 0 \right\}

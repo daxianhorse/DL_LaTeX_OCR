@@ -1,0 +1,1 @@
+0 < \left( 2 e - x _ { 3 } \right) \left( 2 e - x _ { 4 } \right) < 1

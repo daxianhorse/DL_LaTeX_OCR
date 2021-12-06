@@ -1,0 +1,1 @@
+\sum _ { i = 1 } ^ { 2 0 } \left( x _ { t } - \bar { x } \right) \left( y _ { 1 } - \bar { y } \right) = 8 0 0

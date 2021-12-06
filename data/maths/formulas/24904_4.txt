@@ -1,0 +1,1 @@
+\text { ( 1 ) } \frac { b } { a } = \frac { \sin \left( \frac { 2 \pi } { 3 } - B \right) } { \sin A } , ( 2 ) ( 2 a - c ) \cos B - b \cos C = 0 , ( 3 \sin B = \sqrt { 3 } ( 1 - \cos B )

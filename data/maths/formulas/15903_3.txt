@@ -1,0 +1,1 @@
+\overrightarrow { A W } \cdot ( \overrightarrow { A B } + \overrightarrow { A C } ) + ( \overrightarrow { A H } + \overrightarrow { W D } ) \cdot \overrightarrow { B C } =

@@ -1,0 +1,1 @@
+a \geqslant \frac { 4 t ^ { 2 } - 5 } { 3 t } = \frac { 4 } { 3 } t - \frac { 5 } { 3 t }

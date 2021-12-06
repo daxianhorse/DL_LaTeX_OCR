@@ -1,0 +1,1 @@
+f ( x ) = \ln ( 1 + x ) , g ( x ) = x f ^ { \prime } ( x ) , x \geqslant 0 ,

@@ -1,0 +1,1 @@
+a * b = \frac { a * b } { b * b }

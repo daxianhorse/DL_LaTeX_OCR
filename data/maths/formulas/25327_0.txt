@@ -1,0 +1,1 @@
+a \left( \mathrm { e } ^ { 2 a x } - 1 \right) \geqslant \left( x - \frac { 1 } { x } \right) \ln x

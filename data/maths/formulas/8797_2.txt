@@ -1,0 +1,1 @@
+\overrightarrow { O C } = x \overrightarrow { O A } + y \overrightarrow { O B } , x , y \in \mathbf { R }

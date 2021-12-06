@@ -1,0 +1,1 @@
+f ( x ) _ { \min x } = f \left( \frac { 1 } { 2 } \right) = - \frac { 1 } { 2 } , a \geqslant f ( x ) \Leftrightarrow a \geqslant f ( x ) _ { \max }

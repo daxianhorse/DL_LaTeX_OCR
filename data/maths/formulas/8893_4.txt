@@ -1,0 +1,1 @@
+\sin \frac { \alpha } { 2 } \left( \sqrt { 3 } \cos \frac { \alpha } { 2 } - \sin \frac { \alpha } { 2 } \right) + \frac { 1 } { 2 }

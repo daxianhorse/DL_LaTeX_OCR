@@ -1,0 +1,1 @@
+\sqrt { 3 } \sin A \cdot \overrightarrow { P A } + \sqrt { 3 } \sin B \cdot \overrightarrow { P B } + \sin C \cdot \overrightarrow { P C } = 0

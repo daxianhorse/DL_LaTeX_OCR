@@ -1,0 +1,1 @@
+( 2 n = 3 8 , \mathrm { A A C C } )

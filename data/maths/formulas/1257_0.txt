@@ -1,0 +1,1 @@
+f ( x ) = \frac { \mathrm { e } ^ { \prime } } { r } - a x \cdot x \in ( 0 . + \infty )

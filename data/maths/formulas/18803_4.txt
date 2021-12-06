@@ -1,0 +1,1 @@
+A D \rangle = \frac { \left. | | A B \right| ^ { 2 } + | C D | ^ { 2 } - | A C | ^ { 2 } - | B D | ^ { 2 } \mid } { 2 | A D | \cdot | B C | } = \frac { \left| 2 ^ { 2 } + 2 ^ { 2 } - ( 2 \sqrt { 3 } ) ^ { 2 } - ( 2 \sqrt { 2 } ) ^ { 2 } \right| } { 2 \times 2 \times 4 } = \frac { 3 } { 4 }

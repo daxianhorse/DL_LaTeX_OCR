@@ -1,0 +1,1 @@
+3 ( \cos \alpha + \sin \alpha ) ^ { 2 } + ( \sin \alpha - \cos \alpha ) ^ { 2 } = 3

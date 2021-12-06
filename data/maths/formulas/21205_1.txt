@@ -1,0 +1,1 @@
+f ( x ) = \frac { a _ { 1 } } { x - \lambda _ { 1 } } + \frac { a _ { 2 } } { x - \lambda _ { 2 } } + \frac { a _ { 3 } } { x - \lambda _ { 3 } }

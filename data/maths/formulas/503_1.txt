@@ -1,0 +1,1 @@
+N = \{ x \mid x ( x + 3 ) \leq s l a n t 0 \}

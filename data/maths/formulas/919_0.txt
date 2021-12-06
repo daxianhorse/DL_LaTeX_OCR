@@ -1,0 +1,1 @@
+f ( x ) = \frac { x ( | x | - 1 ) } { e ^ { x } + e ^ { - x } } \cdot 2 ^ { \cos x }

@@ -1,0 +1,1 @@
+r _ { 1 } = \frac { e p } { 1 - e \cos \theta } \quad r _ { 1 } ^ { \prime } = \frac { e p } { 1 + e \cos \theta }

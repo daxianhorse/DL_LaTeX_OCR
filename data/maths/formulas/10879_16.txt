@@ -1,0 +1,1 @@
+\frac { 9 \left( x - \frac { 1 } { 3 m } \right) ^ { 2 } } { 2 } - \frac { 9 y ^ { 2 } } { 2 } = 1

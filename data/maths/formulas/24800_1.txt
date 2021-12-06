@@ -1,0 +1,1 @@
+\left\{ x \mid y = \frac { 1 } { \sqrt { x - 2 } } \right\}

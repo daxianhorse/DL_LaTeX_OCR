@@ -1,0 +1,1 @@
+g ( t ) = - \frac { 4 } { 3 } t ^ { 2 } + a t + \frac { 5 } { 3 } \geqslant 0

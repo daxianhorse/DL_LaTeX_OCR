@@ -1,0 +1,1 @@
+\left( \frac { 1 } { 2 } k + \frac { 1 } { 4 } \right) T = \frac { \pi } { 4 } - \left( - \frac { \pi } { 4 } \right) , k \in \mathbf { Z }

@@ -1,0 +1,1 @@
+f ( x ) = \sqrt { \pi - x } \cdot \ln ( \sin x - \cos x ) + \sqrt { x + 2 \pi }

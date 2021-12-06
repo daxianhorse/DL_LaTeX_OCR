@@ -1,0 +1,1 @@
+a \ln x + \frac { 1 - a } { 2 } x ^ { 2 } - x < \frac { a } { a - 1 }

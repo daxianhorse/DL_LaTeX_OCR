@@ -1,0 +1,1 @@
+c _ { n } = \left( a _ { 2 n + 1 } - a _ { 2 n } , \right) q ^ { n } { } ^ { 1 } \left( q \neq 0 , n \in \mathbf { N } ^ { * } \right)

@@ -1,0 +1,1 @@
+y \in \left( 0 , \frac { 1 } { \mathrm { e } } \right]

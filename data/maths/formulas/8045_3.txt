@@ -1,0 +1,1 @@
+\left. \left\{ c _ { n } \right\} , \left\{ d _ { n } \right\} , \left\{ x _ { n } \right\} , \mid y _ { n } \right\}

@@ -1,0 +1,1 @@
+A \left( x _ { 1 } , f \left( x _ { 1 } \right) \right) , B \left( x _ { 2 } , f \left( x _ { 2 } \right) \right) , C \left( x _ { 3 } , f \left( x _ { 3 } \right) \right)

@@ -1,0 +1,1 @@
++ \frac { b } { \left( b - \frac { 1 } { 2 } \right) ^ { 2 } + \frac { 3 } { 4 } } \leq s l a n t \frac { 4 } { 3 } ( a + b ) = \frac { 4 } { 3 }

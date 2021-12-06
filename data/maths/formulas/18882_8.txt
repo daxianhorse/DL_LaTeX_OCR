@@ -1,0 +1,1 @@
+\overrightarrow { A B _ { 1 } } \cdot \overrightarrow { B C _ { 1 } } = ( a + b ) ( a + c - b ) = 1

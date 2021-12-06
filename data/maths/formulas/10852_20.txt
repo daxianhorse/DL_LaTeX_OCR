@@ -1,0 +1,1 @@
+\frac { k _ { P A } - k _ { P F _ { 2 } } } { 1 + k _ { P A } k _ { P F _ { 2 } } } = \frac { k _ { P F _ { 1 } } - k _ { P B } } { 1 + k _ { P F _ { 1 } } k _ { P B } }

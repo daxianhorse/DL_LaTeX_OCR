@@ -1,0 +1,1 @@
+f ( x ) = 4 \cos \left( 2 \omega x + \frac { \pi } { 6 } \right) - 2 ( \omega > 0 )

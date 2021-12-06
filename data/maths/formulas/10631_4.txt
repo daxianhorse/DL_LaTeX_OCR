@@ -1,0 +1,1 @@
+n = 2 k \left( k \in \mathbf { N } ^ { * } \right)

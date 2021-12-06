@@ -1,0 +1,1 @@
+\sin C + \sin ( B - A ) = 2 \sin 2 A

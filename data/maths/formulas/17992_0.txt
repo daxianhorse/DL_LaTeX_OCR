@@ -1,0 +1,1 @@
+\varphi _ { i } ( x ) = \frac { 1 } { \sqrt { 2 \pi } \sigma _ { i } } e ^ { - \frac { \left( x - u _ { i } \right) ^ { 2 } } { 2 \sigma _ { i } ^ { 2 } } }

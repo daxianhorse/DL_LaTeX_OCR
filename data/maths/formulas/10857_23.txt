@@ -1,0 +1,1 @@
+= c + \frac { a ^ { 2 } } { 2 c } - \frac { c } { 2 } - \frac { a ^ { 2 } } { 2 c } + c - \frac { c ^ { 3 } } { 2 a ^ { 2 } } = \frac { 3 c } { 2 } - \frac { c ^ { 3 } } { 2 a ^ { 2 } } = \frac { 3 c } { 2 } - \frac { e ^ { 2 } c } { 2 } = \frac { c \left( 3 - e ^ { 2 } \right) } { 2 }

@@ -1,0 +1,1 @@
+\forall ( x , y ) \in D , 2 x + y \leq s l a n t 1 2

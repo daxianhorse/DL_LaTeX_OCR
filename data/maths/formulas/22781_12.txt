@@ -1,0 +1,1 @@
+g ( x ) _ { \min } = a ^ { 2 } + \frac { 2 5 } { 4 } , g ( x ) _ { \max } = \left( a ^ { 2 } + \frac { 2 5 } { 4 } \right) \cdot \mathrm { e } ^ { 4 } \cdot f ^ { \prime } ( x ) = \left[ - x ^ { 2 } + \right.

@@ -1,0 +1,1 @@
+\left( \frac { 1 } { 4 } + \frac { 1 } { 4 ^ { 2 } } + \cdots + \frac { 1 } { 4 ^ { n } } \right) = 1 - \frac { \frac { 1 } { 4 } \left( 1 - \frac { 1 } { 4 ^ { n } } \right) } { 1 - \frac { 1 } { 4 } } = 1 - \frac { 1 } { 3 } \left( 1 - \frac { 1 } { 4 ^ { n } } \right) = \frac { 2 } { 3 } + \frac { 1 } { 3 \cdot 4 ^ { n } } > \frac { 2 } { 3 }

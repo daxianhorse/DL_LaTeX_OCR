@@ -1,0 +1,1 @@
+g ( x ) = \frac { 1 } { x ^ { 2 } } - 2 x \left( x \geqslant \frac { 1 } { 2 } \right)

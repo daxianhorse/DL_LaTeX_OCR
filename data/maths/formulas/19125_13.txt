@@ -1,0 +1,1 @@
+a = \frac { n } { m + n } , 1 - a = \frac { m } { m + n }

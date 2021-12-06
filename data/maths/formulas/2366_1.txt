@@ -1,0 +1,1 @@
+a \overrightarrow { A I } + b B \vec { I } + c \vec { C } \vec { I } = \mathbf { 0 }

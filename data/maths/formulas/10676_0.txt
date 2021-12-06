@@ -1,0 +1,1 @@
+m _ { n } ( x ) = \left( x + \frac { 1 } { x } \right) ^ { n } - \left( x ^ { n } + \frac { 1 } { x ^ { n } } \right)

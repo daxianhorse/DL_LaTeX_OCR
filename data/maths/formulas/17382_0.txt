@@ -1,0 +1,1 @@
+\overrightarrow { A B } = \boldsymbol { a } , \overrightarrow { A C } = \boldsymbol { b } , \overrightarrow { A P } = \boldsymbol { c } , \overrightarrow { A F } = \frac { 2 } { 3 } \boldsymbol { a }

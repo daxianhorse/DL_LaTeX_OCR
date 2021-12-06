@@ -1,0 +1,1 @@
+\overrightarrow { S B } = \lambda \overrightarrow { B E }

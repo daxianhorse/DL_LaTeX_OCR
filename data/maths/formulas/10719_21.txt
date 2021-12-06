@@ -1,0 +1,1 @@
+\log _ { 2 } 2 \cdot \frac { 5 } { 2 } \cdot \frac { 8 } { 5 } \cdot \cdots \cdot \frac { 3 n + 2 } { 3 n - 1 } = \log _ { 2 } ( 3 n + 2 ) = \log _ { 2 } \left( a _ { n } + 3 \right)

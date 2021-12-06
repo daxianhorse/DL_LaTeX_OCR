@@ -1,0 +1,1 @@
+\left( \frac { a } { b } \right) ^ { 2 } = \frac { 9 } { 2 } \left( 2 - k ^ { 2 } \right)

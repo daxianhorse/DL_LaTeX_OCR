@@ -1,0 +1,1 @@
+\text { ( 1 ) } \{ \sqrt { 2 } x \mid x \in X \} \text { ; ( 2 ) } \left\{ \frac { 2 } { x } \mid x \in X \right\} ; \text { ( 3 ) } \left\{ x _ { 1 } + x _ { 2 } \mid x _ { 1 } , x _ { 2 } \in \right.

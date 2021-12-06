@@ -1,0 +1,1 @@
+( 2 a - b ) \sin A + ( 2 b - a ) \sin B =

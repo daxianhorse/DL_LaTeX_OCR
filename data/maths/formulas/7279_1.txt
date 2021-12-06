@@ -1,0 +1,1 @@
+\tan C = \frac { \sin A + \sin B } { \cos A + \cos B } , \sin ( B - A ) = \cos C

@@ -1,0 +1,1 @@
+T _ { n } - 8 = a _ { n } , b _ { n \cdot 1 } ( n \in \mathbf { N } , n \geqslant 2 )

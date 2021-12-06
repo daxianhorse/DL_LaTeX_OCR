@@ -1,0 +1,1 @@
+S = \int _ { 0 } ^ { 1 } \left( x - x ^ { 2 } \right) \mathrm { d } x

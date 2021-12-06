@@ -1,0 +1,1 @@
+\lambda \overrightarrow { ( ) A } + \mu \overrightarrow { ( ) B } ( \lambda , \mu \in \mathbf { R } )

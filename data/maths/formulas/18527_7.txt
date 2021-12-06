@@ -1,0 +1,1 @@
+\left( m n ^ { n } \right) ^ { m } > \left( n m ^ { m } \right) ^ { n }

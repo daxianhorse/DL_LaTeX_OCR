@@ -1,0 +1,1 @@
+A B \cdot \sin C = 4 A C \cdot \sin B

@@ -1,0 +1,1 @@
+( \vec { I } ) = 3 \boldsymbol { e } _ { 1 } - 2 k \boldsymbol { e }

@@ -1,0 +1,1 @@
+x _ { n } - \alpha x _ { n - 1 } = \beta \left( x _ { n } 1 - \alpha x _ { n - 2 } \right)

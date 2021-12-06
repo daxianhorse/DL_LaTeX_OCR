@@ -1,0 +1,1 @@
+2 a _ { m } = \frac { 1 } { 2 } \left( a _ { 2 m } + a _ { 0 } \right) \Rightarrow a _ { m } = \frac { 1 } { 4 } \left( a _ { 2 m } + a _ { 0 } \right) = m ^ { 2 }

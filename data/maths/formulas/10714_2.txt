@@ -1,0 +1,1 @@
+f ( x ) = \sqrt { x ^ { 2 } + \frac { 5 } { 4 } } - \frac { 1 } { 2 } \Rightarrow f ^ { \prime } ( x ) > 0

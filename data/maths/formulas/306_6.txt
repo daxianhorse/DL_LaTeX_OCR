@@ -1,0 +1,1 @@
+\sin 2 \pi x \cdot | \sin 2 \pi x | > \cos 2 \pi x

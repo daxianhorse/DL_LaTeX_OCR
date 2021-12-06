@@ -1,0 +1,1 @@
+f ( x ) - f \left( \frac { 1 } { 5 - x } \right) \geqslant 2

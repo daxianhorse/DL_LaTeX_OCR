@@ -1,0 +1,1 @@
+m _ { \mathrm { c } } < m _ { 0 } < \bar { x }

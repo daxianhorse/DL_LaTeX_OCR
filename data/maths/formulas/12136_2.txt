@@ -1,0 +1,1 @@
+\sum _ { i = 1 } ^ { 2 0 } y _ { i } = 1 2 0 0 , \sum _ { i = 1 } ^ { 2 0 } \left( x _ { i } - \bar { x } \right) ^ { 2 } = 8 0 , \sum _ { i = 1 } ^ { 2 0 } \left( y _ { i } - \bar { y } \right) ^ { 2 } = 9 0 0 0

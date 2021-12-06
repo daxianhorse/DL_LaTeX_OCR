@@ -1,0 +1,1 @@
+\cdots + a _ { 2 n } c _ { 2 n } \left( n \in \mathbf { N } ^ { * } \right)

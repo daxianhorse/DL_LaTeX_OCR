@@ -1,0 +1,1 @@
+f ( x ) = \ln ( | x | - 1 ) - \log _ { + } \left( x ^ { 2 } + 1 \right)

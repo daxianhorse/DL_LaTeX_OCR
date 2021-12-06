@@ -1,0 +1,1 @@
+\cos A + \cos B \sin A + \sin C \cos A + \cos C \sin A = 2 \sin A

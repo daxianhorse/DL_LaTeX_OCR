@@ -1,0 +1,1 @@
+\frac { \sin A } { a } = \frac { \cos B } { 2 b }

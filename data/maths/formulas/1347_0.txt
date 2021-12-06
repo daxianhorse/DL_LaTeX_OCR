@@ -1,0 +1,1 @@
+a \quad \left( \cos ^ { 3 } \omega x - \sin ^ { \prime \prime } \omega x , \sin \omega x \right)

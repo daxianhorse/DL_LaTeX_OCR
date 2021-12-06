@@ -1,0 +1,1 @@
+a = \sqrt { 4 a - b } + 2 \sqrt { b }

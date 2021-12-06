@@ -1,0 +1,1 @@
+( ( f \circ g ) \cdot h ) ( x ) = ( ( f \cdot h ) \circ ( g \cdot h ) ) ( x )

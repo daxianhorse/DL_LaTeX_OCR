@@ -1,0 +1,1 @@
+4 ^ { b _ { 1 } } \quad ^ { 1 } \quad A ^ { b _ { 2 } } \quad 1 \ldots 4 ^ { b _ { n } } \quad ^ { 1 } = \left( a _ { n } + \right.

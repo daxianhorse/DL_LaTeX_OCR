@@ -1,0 +1,1 @@
+f ( x ) = \sqrt { 3 } \sin ( \omega x + \varphi ) + 2 \cos ^ { 2 } \left( \frac { \omega x } { 2 } + \frac { \varphi } { 2 } \right)

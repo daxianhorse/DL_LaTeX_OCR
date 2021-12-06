@@ -1,0 +1,1 @@
+\overrightarrow { A B } \cdot \overrightarrow { A E } + \overrightarrow { A C } \cdot \overrightarrow { A F } = 2

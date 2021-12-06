@@ -1,0 +1,1 @@
+y _ { 0 } = \frac { 1 6 } { t } + t + 2 \in ( - \infty , - 6 ] \cup [ 1 0 , + \infty )

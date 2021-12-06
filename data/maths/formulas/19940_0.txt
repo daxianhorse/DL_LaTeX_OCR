@@ -1,0 +1,1 @@
+f ( x ) = 2 \ln \left( x + \sqrt { x ^ { 2 } + 1 } \right) +

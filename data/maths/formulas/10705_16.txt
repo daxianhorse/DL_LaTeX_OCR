@@ -1,0 +1,1 @@
+\left| \frac { b _ { n } - b _ { n - 1 } } { b _ { n } b _ { n - 1 } } \right| \leq s l a n t \frac { 1 } { 1 7 } \left| b _ { n } - b _ { n - 1 } \right| \Rightarrow \left| b _ { n + 1 } - b _ { n } \right| < \frac { 1 } { 4 } \cdot \frac { 1 } { 1 7 ^ { n - 1 } }

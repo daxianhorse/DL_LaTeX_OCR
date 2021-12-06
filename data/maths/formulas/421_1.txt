@@ -1,0 +1,1 @@
+g ( x ) = \frac { \mathrm { e } ^ { x - 2 } } { x } + \ln x - x

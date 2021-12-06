@@ -1,0 +1,1 @@
+\left[ 8 + \frac { 1 } { 7 } \left( 8 ^ { 7 } - 8 \right) \right]

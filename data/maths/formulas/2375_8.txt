@@ -1,0 +1,1 @@
+\frac { 1 } { 2 } | \overrightarrow { C B } | - \frac { 1 } { 2 } \leq s l a n t | \overrightarrow { C D } | \leq s l a n t \frac { 1 } { 2 } | \overrightarrow { C B } | + \frac { 1 } { 2 }

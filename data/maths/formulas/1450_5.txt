@@ -1,0 +1,1 @@
+4 \cdot \left( \frac { 3 } { 2 } \right) ^ { n }

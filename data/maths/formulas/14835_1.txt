@@ -1,0 +1,1 @@
+\o p e r a t o r n a m e { l o s i n } ( + \o p e r a t o r n a m e { c s i n } 1 3

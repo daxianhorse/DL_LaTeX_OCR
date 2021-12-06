@@ -1,0 +1,1 @@
+a _ { 1 } = 2 \cdot a _ { n } - 1 = a _ { n } \left( a _ { n + 1 } - 1 \right) , b _ { n } = a _ { n } - 1

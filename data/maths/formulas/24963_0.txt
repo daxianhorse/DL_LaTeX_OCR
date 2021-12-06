@@ -1,0 +1,1 @@
+A B \perp B C , A B = 2 , B C = 1 , C D = 1

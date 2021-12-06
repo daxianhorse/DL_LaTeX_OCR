@@ -1,0 +1,1 @@
+\mathbf { I A A } \left( \o p e r a t o r n a m e { m o l } \cdot \mathbf { L } ^ { - 1 } \right)

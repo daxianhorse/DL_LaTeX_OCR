@@ -1,0 +1,1 @@
+g ( x ) = 2 \sin \left( x + \frac { \pi } { 1 2 } \right)

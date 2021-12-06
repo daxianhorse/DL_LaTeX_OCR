@@ -1,0 +1,1 @@
+g ( x ) = \frac { \mathrm { e } ^ { x } } { x ^ { 2 } } - a \cdot \frac { x + 1 } { x ^ { 2 } }

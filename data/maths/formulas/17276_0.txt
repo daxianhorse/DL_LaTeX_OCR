@@ -1,0 +1,1 @@
+y = 2 \tan \left( 2 x - \frac { \pi } { 6 } \right)

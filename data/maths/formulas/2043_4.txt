@@ -1,0 +1,1 @@
+| C Q | = \sqrt { 2 } \left| Q Q _ { 1 } \right| \Rightarrow \sqrt { 4 - d ^ { 2 } } = \sqrt { 2 } \cdot \sqrt { 3 - d ^ { 2 } } \Rightarrow d = \sqrt { 2 } ,

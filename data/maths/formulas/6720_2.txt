@@ -1,0 +1,1 @@
+\forall k \in \mathbf { R }

@@ -1,0 +1,1 @@
+\overrightarrow { B D } = x \overrightarrow { B A } , \overrightarrow { C E } = y \overrightarrow { C A } , x > 0 , y > 0

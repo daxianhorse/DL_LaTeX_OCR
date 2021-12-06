@@ -1,0 +1,1 @@
+y = 5 \sin \left( \frac { \pi } { 5 } x + \frac { \pi } { 5 } \right) ( - 1 5 \leq s l a n t x \leq s l a n t 1 0 )

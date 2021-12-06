@@ -1,0 +1,1 @@
+2 S _ { n } = a _ { n } - a _ { n } ^ { 2 } ( 1 \leq s l a n t n \leq s l a n t 5 )

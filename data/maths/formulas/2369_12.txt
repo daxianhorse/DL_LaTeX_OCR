@@ -1,0 +1,1 @@
+\lambda ^ { 2 } a ^ { 2 } + \mu ^ { 2 } b ^ { 2 } = \lambda a ^ { 2 } + \mu b ^ { 2 } = ( \lambda a ) a + ( \mu b ) b \leq s l a n t

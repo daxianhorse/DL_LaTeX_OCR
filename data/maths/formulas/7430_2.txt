@@ -1,0 +1,1 @@
+\{ ( x , y ) | y \leq s l a n t - | x \mid + b \}

@@ -1,0 +1,1 @@
+\overrightarrow { C A } \cdot \overrightarrow { C B } = \left( m y _ { 1 } + c - t \right) \left( m y _ { 2 } + c - t \right) + y _ { 1 } y _ { 2 }

@@ -1,0 +1,1 @@
+A = \{ 1 , 2 , 4 \} , B = \left\{ x \mid x ^ { 2 } - \right.

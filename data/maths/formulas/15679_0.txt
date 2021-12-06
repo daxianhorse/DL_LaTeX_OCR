@@ -1,0 +1,1 @@
+f ( x ) = \ln x + \frac { 1 } { 2 } x ^ { 2 } - \left( m + \frac { 1 } { m } \right) x

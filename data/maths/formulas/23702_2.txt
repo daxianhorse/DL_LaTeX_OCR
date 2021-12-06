@@ -1,0 +1,1 @@
+C _ { \mathbf { R } } ( A \cup B )

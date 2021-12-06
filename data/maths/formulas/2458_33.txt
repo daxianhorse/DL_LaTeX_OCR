@@ -1,0 +1,1 @@
+x _ { n - 1 } = \frac { \beta ^ { n } - \alpha ^ { n } } { \beta - \alpha }

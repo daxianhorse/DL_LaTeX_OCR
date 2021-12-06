@@ -1,0 +1,1 @@
+p _ { 2 } : | a + b | > 1 \Leftrightarrow \theta \in \left( \frac { 2 \pi } { 3 } , \pi \right]

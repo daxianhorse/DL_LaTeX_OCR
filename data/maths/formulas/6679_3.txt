@@ -1,0 +1,1 @@
+f ( \sqrt { 2 } x - a ) \geqslant [ f ( x ) ] ^ { 2 }

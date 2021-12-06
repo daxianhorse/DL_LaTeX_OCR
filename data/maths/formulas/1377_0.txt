@@ -1,0 +1,1 @@
+\sin \theta + \cos \theta = 2 \sin \alpha , \sin \theta \cos \theta = \sin ^ { 2 } \beta

@@ -1,0 +1,1 @@
+f ( x ) = \left( m ^ { 2 } - m - 1 \right) \cdot x ^ { m ^ { 2 } - 2 m - 3 }

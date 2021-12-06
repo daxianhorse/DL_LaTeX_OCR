@@ -1,0 +1,1 @@
+\text { A . } f \left( \frac { \pi } { 6 } \right) > \sqrt { 2 } f \left( \frac { \pi } { 4 } \right)

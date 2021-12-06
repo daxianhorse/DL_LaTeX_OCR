@@ -1,0 +1,1 @@
+\pi - \arccos \frac { \sqrt { 6 } } { 3 }

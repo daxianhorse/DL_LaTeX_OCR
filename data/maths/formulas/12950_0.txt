@@ -1,0 +1,1 @@
+f ( x ) = a \ln x + \frac { 1 } { 2 x } + \frac { 3 } { 2 } x + 1

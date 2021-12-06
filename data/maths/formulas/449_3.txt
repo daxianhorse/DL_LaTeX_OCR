@@ -1,0 +1,1 @@
+a = 2 , a \cos C + c \cos A + \sqrt { 2 } b \cos B = 0

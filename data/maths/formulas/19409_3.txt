@@ -1,0 +1,1 @@
+g ( x ) = f ( x ) - m x ^ { 2 } ( m \in \mathbf { R } )

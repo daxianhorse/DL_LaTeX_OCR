@@ -1,0 +1,1 @@
+\mathrm { C } _ { n } ^ { r } ( n > r \geqslant 1 , n , r \in \mathbf { Z } )

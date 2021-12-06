@@ -1,0 +1,1 @@
+[ ( n - 1 ) \pi , n \pi ] \left( n \in \mathbf { N } ^ { * } \right)

@@ -1,0 +1,1 @@
+A = \{ x | | x \mid < 2 \} , B = \left\{ x \mid x ^ { 2 } - 2 x - m \geqslant 0 \right.

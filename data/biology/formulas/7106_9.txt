@@ -1,0 +1,1 @@
+X ^ { \mathrm { R } } X ^ { t }

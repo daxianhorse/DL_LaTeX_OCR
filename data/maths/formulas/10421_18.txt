@@ -1,0 +1,1 @@
+\left. k \in \mathbf { N } ^ { * } , S _ { k + 2 } , S _ { k } , S _ { k + 1 } \right)

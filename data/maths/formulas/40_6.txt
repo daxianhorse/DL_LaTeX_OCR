@@ -1,0 +1,1 @@
+\frac { 1 } { b _ { 1 } } + \frac { 1 } { b _ { 2 } } + \frac { 1 } { b _ { 3 } } + \cdots + \frac { 1 } { b _ { n } } > \frac { 8 } { 1 7 }
