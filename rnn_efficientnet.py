@@ -54,7 +54,7 @@ def make_dataset(pairs):
     return dataset.prefetch(16)
 
 
-train_ds, val_ds = load_data('data/maths/images', 'data/maths/formulas')
+train_ds, val_ds = load_data('data/biology/images', 'data/biology/formulas')
 
 train_ds = make_dataset(train_ds)
 val_ds = make_dataset(val_ds)
@@ -86,6 +86,7 @@ latent_dim = 512
 
 encoder_inputs = keras.Input(shape=(None, None, 3), name="img")
 x = CNNBlock()(encoder_inputs)
+x = layers.Dropout(0.3)(x)
 x = layers.Dense(embed_dim, activation='relu')(x)
 encoded_source = layers.Bidirectional(layers.GRU(latent_dim),
                                       merge_mode="sum")(x)
@@ -128,7 +129,7 @@ class LRSchedule(keras.optimizers.schedules.LearningRateSchedule):
         return config
 
 
-epochs = 15
+epochs = 20
 
 num_train_steps = len(train_ds) * epochs
 num_warmup_steps = num_train_steps // 15
@@ -141,8 +142,8 @@ seq2seq_rnn.compile(optimizer=keras.optimizers.Adam(lr_schedule),
 
 seq2seq_rnn.summary()
 
-# seq2seq_rnn.fit(train_ds, epochs=epochs, validation_data=val_ds)
-# seq2seq_rnn.save_weights('rnn_test.h5')
+seq2seq_rnn.fit(train_ds, epochs=epochs, validation_data=val_ds)
+seq2seq_rnn.save_weights('rnn_test.h5')
 
 seq2seq_rnn.load_weights('rnn_test.h5')
 

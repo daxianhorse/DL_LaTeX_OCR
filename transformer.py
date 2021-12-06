@@ -285,8 +285,8 @@ transformer.compile(optimizer=keras.optimizers.Adam(lr_schedule),
 
 transformer.summary()
 
-# transformer.fit(train_ds, epochs=epochs, validation_data=val_ds)
-# transformer.save_weights('tran_test.h5')
+transformer.fit(train_ds, epochs=epochs, validation_data=val_ds)
+transformer.save_weights('tran_test.h5')
 
 transformer.load_weights('tran_test.h5')
 
