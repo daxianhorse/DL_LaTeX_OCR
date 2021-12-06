@@ -2,7 +2,6 @@
 import tensorflow as tf
 from tensorflow import keras
 from tensorflow.keras import layers
-from tensorflow.python.keras.layers import embeddings
 from tensorflow.keras.layers import TextVectorization
 import matplotlib.pyplot as plt
 
