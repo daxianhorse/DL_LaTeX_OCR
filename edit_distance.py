@@ -1,6 +1,6 @@
 def edit_distance(label, dest):
     """
-    计算字符串 str1 和 str2 的编辑距离
+    计算字符串 label 和 dest 的编辑距离
     :param label
     :param dest
     :return:
@@ -17,4 +17,17 @@ def edit_distance(label, dest):
             matrix[i][j] = min(matrix[i - 1][j] + 1, matrix[i][j - 1] + 1, matrix[i - 1][j - 1] + d)
 
     # return matrix[len(label)][len(dest)]
-    return 1. - matrix[len(label)][len(dest)]/len(label)
+    return 1. - matrix[len(label)][len(dest)] / len(label)
+
+
+def exact_match(label, dest):
+    """
+    计算字符串 label 和 dest 的exact match
+    :param label
+    :param dest
+    :return:
+    """
+    label = ''.join(label.split())
+    dest = ''.join(dest.split())
+    return float(label == dest)
+
