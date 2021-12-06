@@ -9,7 +9,7 @@ def image_process(img_path):
     img = tf.io.read_file(img_path)
     img = tf.io.decode_png(img, channels=3)
     img = 255 - img
-    img = tf.image.resize_with_crop_or_pad(img, 150, 350)
+    img = tf.image.resize_with_crop_or_pad(img, 150, 550)
     return img
 
 
@@ -24,7 +24,7 @@ def load_data(images_folder, formulas_folder):
 
         width, height = img.size
 
-        if width <= 330 and height <= 130:
+        if width <= 530 and height <= 130:
             img_list.append(x)
 
     img_to_formula = {

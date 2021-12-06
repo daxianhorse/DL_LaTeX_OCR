@@ -54,7 +54,7 @@ def make_dataset(pairs):
     return dataset.prefetch(16)
 
 
-train_ds, val_ds = load_data('data/biology/images', 'data/biology/formulas')
+train_ds, val_ds = load_data('data/maths/images', 'data/maths/formulas')
 
 train_ds = make_dataset(train_ds)
 val_ds = make_dataset(val_ds)
@@ -285,8 +285,8 @@ transformer.compile(optimizer=keras.optimizers.Adam(lr_schedule),
 
 transformer.summary()
 
-transformer.fit(train_ds, epochs=epochs, validation_data=val_ds)
-transformer.save_weights('tran_test.h5')
+# transformer.fit(train_ds, epochs=epochs, validation_data=val_ds)
+# transformer.save_weights('tran_test.h5')
 
 transformer.load_weights('tran_test.h5')
 
@@ -322,5 +322,11 @@ def decode_sequence(img_path):
 # # %%
 # print(decode_sequence('test_2.png'))
 # %%
-print(decode_sequence('data/biology/images/2_0.png'))
+print(decode_sequence('data/biology/images/997_2.png'))
+# %%
+print(decode_sequence('data/biology/images/997_3.png'))
+# %%
+print(decode_sequence('data/biology/images/997_4.png'))
+# %%
+print(decode_sequence('data/biology/images/996_3.png'))
 # %%
