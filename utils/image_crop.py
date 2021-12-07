@@ -11,7 +11,7 @@ img = None
 def recurse(l, id):
     r = l + interval
     index = path.find(".")
-    save_path = "./data/cropped_image/" + path[:index] + f"_{id}" + path[index:]
+    save_path = "./.cache/" + path[:index] + f"_{id}" + path[index:]
     w, h = img.size
 
     if r > w > l:

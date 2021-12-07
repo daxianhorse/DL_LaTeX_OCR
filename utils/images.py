@@ -1,44 +1,13 @@
-# %%
 import math
-import pathlib
 import tensorflow as tf
-from PIL import Image
 
 
-def image_process(img_path):
+def image_process(img_path, width = 530, height = 130):
     img = tf.io.read_file(img_path)
     img = tf.io.decode_png(img, channels=3)
     img = 255 - img
-    img = tf.image.resize_with_crop_or_pad(img, 150, 550)
+    img = tf.image.resize_with_crop_or_pad(img, height+20, width+20)
     return img
-
-
-def load_data(images_folder, formulas_folder):
-    img_path = pathlib.Path(images_folder)
-    formula_path = pathlib.Path(formulas_folder)
-
-    img_list = []
-
-    for x in img_path.iterdir():
-        img = Image.open(x)
-
-        width, height = img.size
-
-        if width <= 530 and height <= 130:
-            img_list.append(x)
-
-    img_to_formula = {
-        x.as_posix(): (formula_path / (x.stem + '.txt')).as_posix()
-        for x in img_list
-    }
-
-    valid_num = int(0.2 * len(img_to_formula))
-    valid_ds = (list(img_to_formula.keys())[:valid_num],
-                list(img_to_formula.values())[:valid_num])
-    train_ds = (list(img_to_formula.keys())[valid_num:],
-                list(img_to_formula.values())[valid_num:])
-
-    return train_ds, valid_ds
 
 
 def add_timing_signal_nd(x, min_timescale=1.0, max_timescale=1.0e4):
