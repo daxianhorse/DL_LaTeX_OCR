@@ -2,7 +2,7 @@
 import tensorflow as tf
 from tensorflow import keras
 from tensorflow.keras import layers
-
+from keras.applications import efficientnet
 
 from utils.images import add_timing_signal_nd
 
@@ -11,8 +11,6 @@ image_augmentation = keras.Sequential([
     layers.RandomRotation(0.2),
     layers.RandomContrast(0.3),
 ])
-
-from keras.applications import efficientnet
 
 
 class CNNBlock(layers.Layer):
@@ -192,4 +190,4 @@ def get_transformer_model(embed_dim=256,
     transformer = keras.Model([encoder_inputs, decoder_inputs],
                               decoder_outputs)
 
-    return transformer                          
+    return transformer
