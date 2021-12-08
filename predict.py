@@ -4,6 +4,7 @@ import os
 os.environ["CUDA_VISIBLE_DEVICES"] = "-1"
 
 import tensorflow as tf
+from model.cnn_block import CnnEfficient
 from model.transformer import get_transformer_model
 from utils.match_dict import get_match_dict
 from utils.vectorization import formula_vertorization
@@ -22,9 +23,10 @@ train_ds, val_ds = get_train_valid_ds(match_dict,
                                       valid_rate=0.2)
 
 # 载入模型和权重(可选)
-model = get_transformer_model(vocab_size=vocab_size,
+model = get_transformer_model(CnnEfficient,
+                              vocab_size=vocab_size,
                               sequence_length=sequence_length)
-model.load_weights('weights/transformer_math.h5')                              
+model.load_weights('weights/transformer_math.h5')
 
 # 以下为预测部分
 

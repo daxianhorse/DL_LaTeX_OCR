@@ -2,33 +2,12 @@
 import tensorflow as tf
 from tensorflow import keras
 from tensorflow.keras import layers
-from keras.applications import efficientnet
-
-from utils.images import add_timing_signal_nd
 
 image_augmentation = keras.Sequential([
     layers.RandomFlip("horizontal"),
     layers.RandomRotation(0.2),
     layers.RandomContrast(0.3),
 ])
-
-
-class CNNBlock(layers.Layer):
-    def __init__(self, **kwargs):
-        super().__init__(**kwargs)
-        self.base_model = efficientnet.EfficientNetB0(
-            include_top=False,
-            weights='imagenet',
-        )
-        self.base_model.trainable = True
-        self.reshape = layers.Reshape((-1, self.base_model.output.shape[-1]))
-
-    def call(self, inputs):
-        x = efficientnet.preprocess_input(inputs)
-        x = self.base_model(inputs)
-        x = add_timing_signal_nd(x)
-        x = self.reshape(x)
-        return x
 
 
 class TransformerEncoder(layers.Layer):
@@ -171,7 +150,8 @@ class PositionalEmbedding(layers.Layer):
         return config
 
 
-def get_transformer_model(embed_dim=256,
+def get_transformer_model(CNNBlock,
+                          embed_dim=256,
                           dense_dim=2048,
                           num_heads=8,
                           vocab_size=417,

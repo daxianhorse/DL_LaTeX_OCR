@@ -1,10 +1,12 @@
 import tensorflow as tf
-from model.transformer import get_transformer_model
+from model.transformer import *
 from model.rnn import *
+from model.cnn_block import *
 from utils.match_dict import get_match_dict
 from utils.vectorization import formula_vertorization
 from model.build_dataset import get_train_valid_ds
 from model.lrschedule import LRSchedule
+from model.rnn_attention import get_rnn_attention_model
 
 # 词向量
 vectorization = formula_vertorization('data/vocab.txt')
@@ -12,22 +14,23 @@ vocab_size = len(vectorization.get_vocabulary())
 sequence_length = 50
 
 # 载入数据集
-match_dict = get_match_dict('data/biology/images', 'data/biology/formulas')
+match_dict = get_match_dict('data/maths/images', 'data/maths/formulas')
 train_ds, val_ds = get_train_valid_ds(match_dict,
                                       vectorization,
                                       batch_size=16,
                                       valid_rate=0.2)
 
-# 载入模型和权重(可选)
-model = get_transformer_model(vocab_size=vocab_size,
+# # 载入模型和权重(可选)
+model = get_transformer_model(CNNBlock=CnnResNet, vocab_size=vocab_size,
                               sequence_length=sequence_length)
 # model.load_weights('weights/transformer_math.h5')
 # model = get_rnn_model(CNNBlock=CnnEfficient)
 # model = get_rnn_model(CNNBlock=CnnMobileNet)
+# model = get_rnn_attention_model()
 # model.load_weights('weights/rnn_math.h5')                              
 
 # 设置epochs大小
-epochs = 20
+epochs = 15
 
 # 生成学习率调节器
 num_train_steps = len(train_ds) * epochs
