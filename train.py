@@ -9,11 +9,11 @@ from model.lrschedule import LRSchedule
 
 
 # 载入模型和权重(可选)
-# model = get_transformer_model()
+model = get_transformer_model()
 # model.load_weights('weights/transformer_math.h5')
-model = get_rnn_model(CNNBlock=CnnEfficient)
+# model = get_rnn_model(CNNBlock=CnnEfficient)
 # model = get_rnn_model(CNNBlock=CnnMobileNet)
-model.load_weights('weights/rnn_math.h5')
+# model.load_weights('weights/rnn_math.h5')
 
 # 词向量
 vectorization = formula_vertorization('data/vocab.txt')
@@ -25,7 +25,7 @@ match_dict = get_match_dict('data/biology/images', 'data/biology/formulas')
 train_ds, val_ds = get_train_valid_ds(match_dict, vectorization)
 
 # 设置epochs大小
-epochs = 15
+epochs = 20
 
 # 生成学习率调节器
 num_train_steps = len(train_ds) * epochs
