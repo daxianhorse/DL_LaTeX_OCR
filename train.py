@@ -6,13 +6,6 @@ from utils.vectorization import formula_vertorization
 from model.build_dataset import get_train_valid_ds
 from model.lrschedule import LRSchedule
 
-# 载入模型和权重(可选)
-model = get_transformer_model()
-# model.load_weights('weights/transformer_math.h5')
-# model = get_rnn_model(CNNBlock=CnnEfficient)
-# model = get_rnn_model(CNNBlock=CnnMobileNet)
-# model.load_weights('weights/rnn_math.h5')
-
 # 词向量
 vectorization = formula_vertorization('data/vocab.txt')
 vocab_size = len(vectorization.get_vocabulary())
@@ -20,7 +13,18 @@ sequence_length = 50
 
 # 载入数据集
 match_dict = get_match_dict('data/biology/images', 'data/biology/formulas')
-train_ds, val_ds = get_train_valid_ds(match_dict, vectorization)
+train_ds, val_ds = get_train_valid_ds(match_dict,
+                                      vectorization,
+                                      batch_size=16,
+                                      valid_rate=0.2)
+
+# 载入模型和权重(可选)
+model = get_transformer_model(vocab_size=vocab_size,
+                              sequence_length=sequence_length)
+# model.load_weights('weights/transformer_math.h5')
+# model = get_rnn_model(CNNBlock=CnnEfficient)
+# model = get_rnn_model(CNNBlock=CnnMobileNet)
+# model.load_weights('weights/rnn_math.h5')                              
 
 # 设置epochs大小
 epochs = 20
