@@ -6,8 +6,6 @@ from utils.vectorization import formula_vertorization
 from model.build_dataset import get_train_valid_ds
 from model.lrschedule import LRSchedule
 
-
-
 # 载入模型和权重(可选)
 model = get_transformer_model()
 # model.load_weights('weights/transformer_math.h5')
@@ -38,7 +36,7 @@ model.compile(optimizer=tf.keras.optimizers.Adam(lr_schedule),
               loss="sparse_categorical_crossentropy",
               metrics=["accuracy"])
 
-model.summary()              
+model.summary()
 
 # 训练模型
 model.fit(train_ds, epochs=epochs, validation_data=val_ds)
