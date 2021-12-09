@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+
+{% block header %}
+    <title>image to Latex</title>
+    <style>
+        .box {
+            width: 100%;
+            height: 250px;
+        {# 居中显示 #} display: flex;
+            align-items: center;
+            justify-content: center;
+        {# 边框 #} border: 2px dashed #ddd;
+            border-radius: 5px;
+
+        }
+    </style>
+{% endblock header %}
+
+
+{% block content %}
+    <div class="container"><br>
+        <div class="alert alert-secondary text" role="alert">
+            <h5>此处上传图片</h5>
+        </div>
+
+        <hr>
+{#<img src="/.">#}
+        <div class="box"><p><img src="/file/{{ path }}" alt="sssssssssss"></p></div>
+        <p>{{ path }}</p>
+        <br>
+
+        <form action="" name="upload_form" method="post" enctype="multipart/form-data" novalidate>
+            {% import 'bootstrap/wtf.html' as wtf %}
+            {{ wtf.quick_form(form) }}
+            {#            <button type="submit" class="btn btn-light">上传</button>#}
+        </form>
+        <hr>
+        <div class="box" style="height: 125px;">
+            <p>{{ latex }}</p>
+        </div>
+
+    </div>
+
+{% endblock content %}

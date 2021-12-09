@@ -1,5 +1,5 @@
+import os
 from os.path import split
-
 from PIL import Image
 
 List = []
@@ -11,7 +11,10 @@ img = None
 def recurse(l, id):
     r = l + interval
     index = path.find(".")
-    save_path = "./.cache/" + path[:index] + f"_{id}" + path[index:]
+    if not os.path.exists(".cache"):
+        os.mkdir(".cache")
+    # save_path = "./.cache/" + path[:index] + f"_{id}" + path[index:]
+    save_path = os.path.join(".cache", path)
     w, h = img.size
 
     if r > w > l:

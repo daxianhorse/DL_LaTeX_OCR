@@ -56,4 +56,14 @@ def decode_sequence(img_path):
     return decoded_sentence[8:-6]
 
 
+from utils.image_crop import *
+def get_latex(path):
+    image_list = crop(path, crop_interval=330)
+    latex = ""
+    for i in image_list:
+        print(i)
+        latex += decode_sequence(i)
+    return latex
+
+
 print(decode_sequence('data/maths/images/9996_3.png'))
