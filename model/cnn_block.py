@@ -3,7 +3,9 @@ from tensorflow import keras
 from tensorflow.keras import layers
 from keras.applications import efficientnet
 from keras.applications import resnet_v2
+from keras.applications import mobilenet_v2
 from utils.images import add_timing_signal_nd
+
 
 class CnnMobileNet(layers.Layer):
     def __init__(self, **kwargs):
@@ -21,6 +23,7 @@ class CnnMobileNet(layers.Layer):
         x = add_timing_signal_nd(x)
         x = self.reshape(x)
         return x
+
 
 class CnnEfficient(layers.Layer):
     def __init__(self, **kwargs):

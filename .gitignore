@@ -140,4 +140,5 @@ cython_debug/
 /*.h5
 /*.png
 test.py
-
+/weights/transformer_resnet_biology.h5
+weights/transfomer_resnet_biology.h5

@@ -2,11 +2,6 @@
 import tensorflow as tf
 from tensorflow import keras
 from tensorflow.keras import layers
-from utils.images import add_timing_signal_nd
-
-
-
-
 
 
 def get_rnn_model(CNNBlock, embed_dim=256, latent_dim=512, vocab_size=417):
