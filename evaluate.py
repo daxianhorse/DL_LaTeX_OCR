@@ -99,16 +99,16 @@ train_ds, val_ds = get_train_valid_ds(match_dict,
                                       valid_rate=0.3)
 
 # 载入模型和权重
-# model = get_transformer_model(CnnEfficient,
-#                               vocab_size=vocab_size,
-#                               sequence_length=sequence_length)
-# model.load_weights('weights/transformer_math.h5')
-model = get_rnn_attention_model(CnnEfficient)
-model.load_weights('weights/rnn_attention_math.h5')
+model = get_transformer_model(CnnEfficient,
+                              vocab_size=vocab_size,
+                              sequence_length=sequence_length)
+model.load_weights('weights/transformer_math.h5')
+# model = get_rnn_attention_model(CnnEfficient)
+# model.load_weights('weights/rnn_attention_math.h5')
 
 model.compile(optimizer=tf.keras.optimizers.Adam(),
               loss="sparse_categorical_crossentropy",
-              metrics=[edit_distance],
+              metrics=[edit_distance, exact_match_score],
               run_eagerly=True)
 
 model.evaluate(val_ds)
