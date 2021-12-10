@@ -13,8 +13,8 @@ def recurse(l, id):
     index = path.find(".")
     if not os.path.exists(".cache"):
         os.mkdir(".cache")
-    # save_path = "./.cache/" + path[:index] + f"_{id}" + path[index:]
-    save_path = os.path.join(".cache", path)
+    save_path = "./.cache/" + path[:index] + f"_{id}" + path[index:]
+    # save_path = os.path.join(".cache", path)
     w, h = img.size
 
     if r > w > l:
