@@ -1,0 +1,54 @@
+{% extends 'bootstrap/base.html' %}
+
+{% block body %}
+<nav class="navbar navbar-expand-lg navbar-light bg-light" width="100%">
+    <a class="navbar-brand" href="#">image to Latex</a>
+    {#        缩小后隐藏的按钮 #}
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarScroll"
+            aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    {#        根据窗口大小隐藏的按钮 #}
+    <div class="collapse navbar-collapse" id="navbarScroll">
+
+        <div class="navbar-nav mr-auto my-2 my-lg-0 navbar-nav-scroll" style="max-height: 100px;">
+            <form class="d-flex ">
+            </form>
+        </div>
+        {#            导航条右侧 #}
+        <ul class="nav navbar-nav navbar-right">
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button"
+                   aria-expanded="false">使用说明</a>
+                <div class="dropdown-menu">
+                    <p></p>
+                    <p> &nbsp &nbsp 上传图片</p>
+                    <p> &nbsp &nbsp 点击识别</p>
+                    <p> &nbsp &nbsp 得到结果</p>
+                    <div class="dropdown-divider"></div>
+                    <p> &nbsp &nbsp 注意事项：</p>
+                    <p> &nbsp &nbsp &nbsp &nbsp 注意一</p>
+                    <p> &nbsp &nbsp &nbsp &nbsp 注意二</p>
+                </div>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">关于我们</a>
+            </li>
+        </ul>
+
+    </div>
+</nav>
+
+<div class="container">
+    <div class="page-header">
+        {% block header %}{% endblock header %}
+    </div>
+    <div>
+        {% block content %}{% endblock content %} </div>
+</div> <!-- /container -->
+
+<footer>
+
+</footer>
+{% endblock%}
