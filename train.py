@@ -21,16 +21,16 @@ train_ds, val_ds = get_train_valid_ds(match_dict,
                                       valid_rate=0.2)
 
 # # 载入模型(可选)
-model = get_transformer_model(CNNBlock=CnnResNet,
-                              vocab_size=vocab_size,
-                              sequence_length=sequence_length)
+# model = get_transformer_model(CNNBlock=CnnResNet,
+#                               vocab_size=vocab_size,
+#                               sequence_length=sequence_length)
 # model = get_transformer_model(CNNBlock=CnnEfficient, vocab_size=vocab_size,
 #                               sequence_length=sequence_length)
 # model.load_weights('weights/transformer_math.h5')
 # model = get_rnn_model(CNNBlock=CnnEfficient)
 # model = get_rnn_model(CNNBlock=CnnMobileNet)
-# model = get_rnn_attention_model()
-# model.load_weights('weights/rnn_math.h5')
+model = get_rnn_attention_model(CnnEfficient)
+model.load_weights('weights/rnn_attention_math.h5')
 
 # 设置epochs大小
 epochs = 15
