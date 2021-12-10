@@ -16,7 +16,7 @@ vocab_size = len(vectorization.get_vocabulary())
 sequence_length = 50
 
 # 载入数据集
-match_dict = get_match_dict('data/biology/tm', 'data/biology/tf')
+match_dict = get_match_dict('data/biology/images', 'data/biology/formulas')
 train_ds, val_ds = get_train_valid_ds(match_dict,
                                       vectorization,
                                       batch_size=16,
@@ -64,6 +64,3 @@ def get_latex(path):
         print(i)
         latex += decode_sequence(i)
     return latex
-
-
-print(decode_sequence('test_1.png'))
