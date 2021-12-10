@@ -59,3 +59,21 @@ class CnnResNet(layers.Layer):
         x = add_timing_signal_nd(x)
         x = self.reshape(x)
         return x
+
+
+class CnnEfficientB3(layers.Layer):
+    def __init__(self, **kwargs):
+        super().__init__(**kwargs)
+        self.base_model = efficientnet.EfficientNetB3(
+            include_top=False,
+            weights='imagenet',
+        )
+        self.base_model.trainable = True
+        self.reshape = layers.Reshape((-1, self.base_model.output.shape[-1]))
+
+    def call(self, inputs):
+        x = efficientnet.preprocess_input(inputs)
+        x = self.base_model(inputs)
+        x = add_timing_signal_nd(x)
+        x = self.reshape(x)
+        return x    
