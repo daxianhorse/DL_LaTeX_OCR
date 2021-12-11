@@ -30,8 +30,10 @@
         <br>
 
         <form action="" name="upload_form" method="post" enctype="multipart/form-data" novalidate>
-            {% import 'bootstrap/wtf.html' as wtf %}
-            {{ wtf.quick_form(form) }}
+            {{ form.file_upload }}
+            {{ form.submit }}
+            {{ form.pattern }}
+            {{ form.pattern.label }}
             {#            <button type="submit" class="btn btn-light">上传</button>#}
         </form>
         <hr>

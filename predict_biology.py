@@ -26,7 +26,7 @@ train_ds, val_ds = get_train_valid_ds(match_dict,
 model = get_transformer_model(CnnEfficient,
                               vocab_size=vocab_size,
                               sequence_length=sequence_length)
-model.load_weights('weights/transformer_math.h5')
+model.load_weights('weights/transformer_efficient_biology.h5')
 
 # 以下为预测部分
 
@@ -39,7 +39,7 @@ import numpy as np
 from utils.images import image_process
 
 
-def decode_sequence(img_path):
+def decode_sequence_biology(img_path):
     img = image_process(img_path)
 
     img = tf.expand_dims(img, 0)
@@ -59,10 +59,11 @@ def decode_sequence(img_path):
 from utils.image_crop import *
 
 
-def get_latex(path):
+def get_latex_biology(path):
     image_list = crop(path, crop_interval=330)
     latex = ""
     for i in image_list:
         print(i)
-        latex += decode_sequence(i)
+        latex += decode_sequence_biology(i)
     return latex
+
