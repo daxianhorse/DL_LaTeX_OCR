@@ -1,5 +1,5 @@
 # DL_LaTeX_OCR
-*神经网络与深度学习大实验*
+*神经网络与深度学习大作业*
 
 ## 环境说明
 Anaconda latest\
