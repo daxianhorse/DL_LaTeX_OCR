@@ -41,3 +41,5 @@ UI界面设计（Web）
 ### train_history
 训练历史记录 .txt
 
+### 交流群
+https://t.me/+3qrq-R_sKRc5MTc1
